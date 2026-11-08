@@ -532,3 +532,14 @@
 - [x] Отделить Final Run 3 rows от Mainline Collector # namespace; сохранить отдельные Series # values.
 - [ ] Проверить, является ли Final Run listing отдельной product program/line и как она связана с Mainline castings/releases.
 - [ ] Выполнить межгодовое сравнение Mainline 2002 с 2001/2003 после извлечения 2001.
+
+
+## Mainline 2001 annual extraction
+
+- [x] Извлечь 15 Mainline tables, Final Run and Store Exclusives separately.
+- [x] Проверить Mainline Collector # sequence 001–240 без пропусков.
+- [x] Отделить Final Run Collector # 001–012 от Mainline namespace.
+- [x] Зафиксировать Store Exclusives four rows with blank Toy #/Collector #/Series #; no inferred identifiers.
+- [ ] Проверить Final Run product program relationship to Mainline castings/releases.
+- [ ] Проверить Store Exclusives packaging/catalogue evidence for identifiers and release scope.
+- [ ] Выполнить межгодовое сравнение Mainline 2001 с 2000/2002 после извлечения 2000.
