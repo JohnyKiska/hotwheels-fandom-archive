@@ -600,3 +600,13 @@
 - [ ] Determine how Toy #15789 links between 1997 Hot Wheels and Street Racers Series.
 - [ ] Verify Breakaway Bucket (Unreleased) status independently.
 - [ ] Выполнить межгодовое сравнение Mainline 1997 с 1996/1998 после извлечения 1996.
+
+
+## Mainline 2002 annual extraction
+
+- [x] Извлечь 16 product tables и сохранить table/section provenance, source headers.
+- [x] Создать row-level CSV and QA report.
+- [ ] Проверить повторяющиеся Toy # и Collector # и определить их семантику по соседним годам/первичным источникам.
+- [ ] Сверить годовую последовательность Collector # и специальные/промо номера.
+- [ ] Проверить Treasure Hunt labels and Series # raw values.
+- [ ] Выполнить межгодовое сравнение Mainline 2002 с 2001/2003.
