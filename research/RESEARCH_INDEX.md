@@ -45,3 +45,5 @@
 
 
 - 2026-11-08: добавлены наблюдения по 14 страницам Early Special Series; зафиксированы поколения механизмов, наборы/компоненты, regional aliases, tooling lineage и нерешённые вопросы.
+
+- 2026-11-08: завершён первичный структурный проход по пяти страницам Other Early Series (Action Cycles, Action Racers, Attack Pack, Hot Wheels Railroad, Key Force); добавлены требования по multi-type families, трансформации и железнодорожным системам.
