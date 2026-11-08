@@ -546,3 +546,24 @@
 - **Packaging error.** Для John Morton's BRE Datsun Bluebird 510, Series #15/30, Toy # T8455, Notes сообщает: “Cards were produced with #22 in error”. Это напечатанная ошибка номера на карточке, а не изменение фактической Series Position.
 - **Lineage.** Прямая формулировка “replacing the Dragstrip Demons” даёт более сильное свидетельство преемственности/замены, чем простое сходство названия. Однако это не доказывает, что обе линии должны быть одной Series Identity в БД: нужно сохранить relation типа successor/replaced_by.
 - **Evidence status.** Наблюдения извлечены из сохранённой страницы Hot Wheels Wiki (Fandom revision 797035); не подтверждены независимыми каталогами/упаковками.
+
+
+### Dragstrip Demons (Car Culture, 2018)
+
+- **Observation (Fandom).** Dragstrip Demons is one of six 2018 Car Culture segments listed on the 2018 page. The segment contains five vehicles, positions 1/5–5/5, with Toy # FVN69, FVN73, FVN72, FVN71 and FVN70.
+- **Vehicles.** '55 Chevy Bel Air Gasser (green); '63 Chevy Nova (red); '65 Dodge Coronet (yellow); '65 Mercury Comet Cyclone (white); '66 Super Nova (blue).
+- **Wheel detail.** The table records detailed wheel names/types per release: Hoosier RRDragD & RRPrf; Goodyear Eagle RRMag; White Hoosier DDRR & Gold RRPrf; Hoosier RRDragD & RRWSP; Goodyear RRDragS & RRPrf. These should remain release-level wheel configuration data, preserving the raw strings and multiple wheel types where shown.
+- **Base codes.** Notes contain L35/L36/L39, sometimes multiple codes per release. Preserve as raw multi-valued codes, not Toy # or Series Position.
+- **Relation to 2009–2010.** Reuse of the Dragstrip Demons name and original logo was noted on the 2009–2010 page, while the 2018 page places this five-car segment inside Car Culture. This is a later themed segment/name revival; it should not be merged with the earlier 55-release series without stronger identity evidence.
+- **Potential model overlap.** 2018 includes a '63 Chevy Nova, while 2010 Dragstrip Demons includes a '63 Nova AWB “Snake Eyes”. Similar year/model wording is not enough to establish identical casting or tooling. Verify casting identity separately.
+- **Evidence status.** Extracted from Hot Wheels Wiki (Fandom revision 760101), not independently checked against packaging or Mattel catalogues.
+
+### Vintage Racing Club (2024)
+
+- **Observation (Fandom).** The page describes Vintage Racing Club as a themed series featuring “pre-1974” vehicles from various manufacturers with racing-style decos, and classifies it as part of Hot Wheels “silver label” semi-Premium series.
+- **Assortment structure.** Two mixes: Mix 1 has six positions (1/6–6/6), Mix 2 has five (1/5–5/5), total 11 listed releases. Mix is assortment grouping, not a single continuous Series Position sequence.
+- **Mix 1.** Toy # HRV00–HRV05: 1954 Mercedes-Benz 300 SL; 1955 Corvette; BMW 2002; 1971 Lamborghini Miura SV; 1971 Porsche 911; 1967 Camaro. Wheel types S5, C5, C5, MM5, C5, MM5. The 1967 Camaro row explicitly notes an opening hood and has the unusual raw note “Base code(s); S43”; the other rows use “Base code(s):”. Only the 300 SL and Corvette rows explicitly state “Metal base”. Do not generalize this to all 11 releases from the table alone.
+- **Mix 2.** Toy # HRV06–HRV10: 1962 Corvette; Toyota 2000GT; 1969 Ford Mustang Boss 302; Custom Ford Maverick; Custom Datsun 240Z. Wheel types S5, C5, MM5, P4, P4.
+- **Data characteristics.** Table fields: Series #, Toy #, Casting Name, Color, Tampos, Wheel Type, Notes. Multiple base codes per release, detailed tampo descriptions and wheel types should be retained at release level. The 1971 models satisfy the stated “pre-1974” theme boundary.
+- **Identity distinction.** This is not the 2011 Vintage Racing line merely because of the shared words “Vintage Racing”. Different year, naming, assortment structure and Toy # namespace; keep as a separate series/assortment identity unless external evidence establishes a formal relation.
+- **Evidence status.** Extracted from Hot Wheels Wiki (Fandom revision 703020), not independently verified against packaging/catalogues.
