@@ -76,3 +76,6 @@
 
 
 - 2026-11-08: исследованы все девять страниц Car Culture: Team Transport за 2018–2026 годы (Fandom revisions 740997, 780158, 764386, 789564, 816153, 753242, 804894, 768859, 815941). Прослежена непрерывная нумерация #1–#97, ежегодные Mix, отдельные N/A exclusives, развитие парных комплектов до наборов с несколькими компонентами (hauler/trailer/car), расширение castings и компонентные wheel/base-code/novelty notes. Сопоставлено с Pro Racing Team Transporter 1998–2006: общая логика bundle, но нет основания сливать Series identity. Обновлены FINDINGS, UNRESOLVED и DATA_MODEL_REQUIREMENTS.
+
+
+- 2026-11-08: проведён структурный и выборочный построчный проход по Car Culture 2016–2026, а также отдельным страницам Car Culture 2-Packs (revision 816371) и Car Culture Factory Set (revision 766209). Годовые страницы содержат 4–8 тематических сегментов; Series # 1/5–5/5 локален сегменту; с 2022 в обычных сегментах видны Chase 0/5, тогда как RLC 6th Car Set 2017 имеет 0/5 без Chase label. Изучены 2-Packs как двухкомпонентные bundle-продукты и Factory Sets 2022–2026 как агрегаты тематических сегментов и Team Transport Mixes. Зафиксированы Container Sets как отдельная/неразрешённая категория, переменные вложенные наборы и требования к scoped identifiers, component relations и provenance. Обновлены FINDINGS, UNRESOLVED и DATA_MODEL_REQUIREMENTS.
