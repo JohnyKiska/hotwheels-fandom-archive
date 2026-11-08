@@ -421,3 +421,51 @@
 - **Design requirement.** Лицензия/IP и тематическая группировка не должны становиться частью casting identity. "Similar to", "Identical to", "New Casting" и "New Die-Cast Chassis" — разные отношения/события. Chase allocation и case assortment — данные уровня distribution/case pack; bundle composition отдельно от individual releases.
 
 **Ограничение:** это постраничные observations по архивным Fandom HTML; цифры и исторические утверждения требуют независимой сверки с упаковками, каталогами Mattel и другими источниками.
+
+
+## Modern Special Series: Pro Racing, Garage, Delivery, id и смежные линии (2026-11-08)
+
+### Pro Racing: Premium и Basic
+Источники: `Modern Special Series/Pro Racing/1997 Pro Racing _ Hot Wheels Wiki _ Fandom.html`, `.../2005 Pro Racing ...`, `.../Basic Pro Racing Series ...`.
+
+- **Observation.** Pro Racing 1997 Premium разделён на Collector 1st Edition, Short Track 1st Edition, Superspeedway 1st Edition, Season Summary и Racing Trucks. Таблицы используют Casting, Team/Number, Primary Sponsor, Base Color/Material, Interior, Wheel Type, Toy #, Country и Notes/Variations. Повторяющиеся Chevrolet Monte Carlo могут иметь разные гриль/направление/вариант оформления при тех же базовых идентификаторах.
+- **Observation.** Basic Pro Racing дебютировал параллельно с premium в 1997. Статья прямо противопоставляет пластиковые колёса/базы и меньшее количество деталей Basic, рассчитанного на игру/трек, более дорогим display-oriented premium castings. Basic использовался для commemorative blisters, baggie promos и MLB team promotions. Таблицы включают разные годы 1997–2002, kart releases и промо-наборы.
+- **Observation.** Basic и Premium могут использовать одну гоночную машину/ливрею, но с разными материалами и колёсами; Toy #22500 применяется к non-promotional cars только на international cards. В 2005 Pro Racing страницы сгруппированы по кастингам '67 Plymouth, Dodge Charger Stock Car и Taurus Stocker; таблицы отражают команду/спонсора/колёса/серию, включая альтернативные схемы окраски.
+- **Design requirement.** Pro Racing нельзя хранить как один список машин: нужны competition/team identity, sponsor, race number, season, casting, livery, Basic/Premium construction, promo status, regional packaging и отдельные race-series groupings.
+
+### Hot Wheels Delivery (2009–2010)
+Источник: `Modern Special Series/Hot Wheels Delivery _ Hot Wheels Wiki _ Fandom.html`.
+
+- **Observation.** 2009 Sweet Rides содержит 15 castings с candy-themed deco, die-cast body и chassis. В 2010 Slick Rides содержит 34 castings с логотипами automotive parts retailers; большинство выпускалось в двух цветах, все с die-cast body/chassis и Real Riders. Отдельный Toy R Us set включал все castings плюс пять set exclusives с Real Riders. В части упаковок ошибочно напечатано #/25 вместо #/34.
+- **Observation.** Таблицы содержат 20 строк (2009) и 63 строки (2010), включая повторы Super Van с разными цветами и одинаковым Toy # R3727, помеченные Re-Tooled.
+- **Design requirement.** Retailer/candy theme, livery, material construction, Real Riders, retool status и set-only exclusivity должны быть отдельными полями/отношениями; печатную ошибку упаковки хранить как source/packaging note.
+
+### Hot Wheels Garage и Larry's Garage
+Источники: `Modern Special Series/Hot Wheels Garage (2010) _ Hot Wheels Wiki _ Fandom.html`, `.../Hot Wheels Garage Series (2016) ...`.
+
+- **Observation.** Hot Wheels Garage 2010 следует за Larry's Garage 2009; в 2010 участвовали дизайнеры Larry Wood, Phil Riehlman и graphics guru Wayne Scott. Статья указывает восемь новых castings, девять mass-market exclusive castings (по три для Toys R Us, Walmart и Target) и 30-Car Set. Основная таблица содержит 119 строк и смешивает дизайнерские гаражи, цветовые варианты и эксклюзивы.
+- **Observation.** Hot Wheels Garage Series 2016 — отдельный Walmart exclusive выпуск из 10 моделей, таблица содержит 10 строк с Col #, Toy #, Casting, Body Color, Wheel Type и Notes.
+- **Design requirement.** Designer attribution, retailer exclusivity, factory set, yearly series identity и casting variant — разные измерения; не объединять Garage 2010 и Garage 2016 по одному имени.
+
+### Hot Wheels id (2019–2022)
+Источник: `Modern Special Series/Hot Wheels id _ Hot Wheels Wiki _ Fandom.html`.
+
+- **Observation.** Hot Wheels id использовал NFC microchip в каждой машине, приложение, Race Portal и Smart Track для записи прогресса/игровых функций; Race Portal был совместим и с обычным Hot Wheels track. Машины имели Spectraflame paint и эксклюзивные id wheels; часть castings была retooled для трека. Статья сообщает о прекращении серии в 2022 из-за слабых продаж, overproduction и завершения chip license, публичное объявление — в 2023.
+- **Observation.** Структура статьи включает yearly series/mixes, race portal exclusives и отдельные промо/эксклюзивы. Примеры явно помечены Modified Casting, New Casting, Amazon Exclusive. Встречаются позиции, изначально предназначенные для промо, отменённого из-за COVID-19.
+- **Design requirement.** NFC chip identity, app/service compatibility, track compatibility, digital progress, casting modification, release status и exclusivity — самостоятельные связи. Система id не просто декоративная серия, а physical-digital product ecosystem.
+
+### Nostalgic Brands
+Источник: `Modern Special Series/Nostalgic Brands _ Hot Wheels Wiki _ Fandom.html`.
+
+- **Observation.** Страница объединяет релизы 2011–2012 с лицензированными брендами и ретро-темами: Masters of the Universe, DC Comics, General Mills, Hershey's, Hanna-Barbera, Carvel Ice Cream, The Saturday Evening Post, AC/DC, Atari и др. Таблицы имеют Toy #, Casting Name, Theme, Body Color, Wheel Type и Notes.
+- **Observation.** Одна casting может быть использована для разных брендов/тем; часть строк обозначена New tool. Тема может быть конкретным персонажем, продуктом/брендом, художественной работой или музыкальным исполнителем.
+- **Design requirement.** Не моделировать Nostalgic Brands как единый лицензированный universe: нужны generic brand/IP/theme records с типом правообладателя и отношением к конкретной ливрее/релизу.
+
+### Flying Customs (2020–2022)
+Источник: `Modern Special Series/Flying Customs/Flying Customs Series (2020) _ Hot Wheels Wiki _ Fandom.html`.
+
+- **Observation.** 2020 Target-exclusive Flying Customs описана как продолжение Throwback Series 2019. Страница содержит mix 2020 (две таблицы по 8 строк), 2021 (две таблицы по 8 строк и 10-pack) и 2022 (отдельный раздел/таблица). Таблицы фиксируют Toy #, Casting Name, Body Color, Tampos, Notes.
+- **Design requirement.** Target exclusivity, yearly mix, multi-pack composition и throwback/retro styling theme должны быть отдельными сущностями/атрибутами. Нельзя наследовать статус эксклюзивности с одной эры на другую без проверки.
+
+### Ограничение источника
+Страница `Modern Special Series/Hot Wheels Classics _ Hot Wheels Wiki _ Fandom.html` в архиве не содержит извлекаемых заголовков, параграфов или таблиц в сохранённом HTML; её нельзя считать исследованной по содержимому. Все остальные выводы выше — observations из архивных Fandom HTML, не независимая историческая верификация.
