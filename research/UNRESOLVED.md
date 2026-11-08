@@ -173,3 +173,19 @@
 - [ ] Расшифровать Base code(s) C42–D36: выяснить, что кодирует каждый токен и почему одна модель может иметь несколько кодов.
 - [ ] Проверить ошибочную маркировку #22 на карточках позиции 15/30 (T8455): определить охват ошибки, существовали ли исправленные карточки и какие варианты упаковки известны.
 - [ ] Установить точную связь Vintage Racing (2011) с Dragstrip Demons (2009–2010): замена ассортимента, формальный successor, ребрендинг или новая серия в рамках общей тематической линии.
+
+
+### Dragstrip Demons (Car Culture, 2018)
+- [ ] Verify all five Toy # FVN69–FVN73, casting names, colors, positions and wheel configurations against cards/official catalogues.
+- [ ] Decode wheel abbreviations and establish whether compound wheel descriptions (e.g. RRDragD & RRPrf) describe front/rear axle configurations or alternate wheel options.
+- [ ] Confirm base-code ranges L35/L36/L39 and their meaning.
+- [ ] Determine whether the 2018 segment is explicitly a revival/tribute to the 2009–2010 Dragstrip Demons, beyond name/logo reuse.
+- [ ] Compare the 2018 '63 Chevy Nova with 2010 '63 Nova AWB “Snake Eyes”; confirm whether the underlying casting/tooling is identical or merely related by vehicle subject.
+
+### Vintage Racing Club (2024)
+- [ ] Verify the “pre-1974” definition, silver-label/semi-Premium classification, and whether all 11 models are part of the same release wave/series identity.
+- [ ] Verify mix boundaries and Toy # HRV00–HRV10 against packaging and official listings.
+- [ ] Confirm the metal base claims for the first two Mix 1 rows and inspect all remaining releases; do not extrapolate from partial notes.
+- [ ] Decode wheel types S5, C5, MM5 and P4, and base codes S41–T10.
+- [ ] Investigate the 1967 Camaro opening hood note and raw punctuation “Base code(s); S43”.
+- [ ] Determine whether Vintage Racing Club (2024) has any documented lineage to Vintage Racing (2011), or is only a thematic/name resemblance.
