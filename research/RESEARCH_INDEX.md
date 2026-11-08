@@ -216,3 +216,6 @@
 
 
 - 2026-11-08: извлечена Mainline 1987: 23 строки в New Castings (12), Reissues (10), Real Riders (1). 20 уникальных Toy #; повторяются #1897 (три Ferrari Testarossa entries, включая Turbo Trax Turbo Glo Set) и #7527 (Pontiac Fiero 2M4 с двумя Wheel Type). Collector # отсутствует. CSV/QA: research/extractions/MAINLINE-1987.csv и MAINLINE-1987-EXTRACTION-QA.md. Fandom revision 754002.
+
+
+- 2026-11-08: извлечена Mainline 1986: 26 строк в New Castings (8), Reissues (13), Real Riders (5); 20 уникальных Toy #. Сохранены Country (Malaysia/Hong Kong), Only in set, original-name notes. Повторяются Toy #2057/2058 (set/color variants), #2520 Race Ace, #2537 Rescue Ranger, #2539 Jeep CJ-7 и #2534 (Path Beater/Power Plower collision). CSV/QA: research/extractions/MAINLINE-1986.csv и MAINLINE-1986-EXTRACTION-QA.md. Fandom revision 755450.
