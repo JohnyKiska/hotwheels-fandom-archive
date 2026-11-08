@@ -40,7 +40,7 @@ Status labels:
 | 2011–2023 (13 annual pages) | Present | No complete year-by-year extraction/QA documented | Not yet audited as annual Mainline datasets |
 | 2024 | Present | Full table re-extracted and QA checked: 441 rows, 441 unique Toy #, 250 Collector #, 132 rows marked (2nd Color), 15 TH + 15 STH; 49 prior Car Culture name-match candidates remain unadjudicated | Extracted + QA |
 | 2025 | Present | Full extraction and QA documented: 440 rows, 440 unique Toy #, 250 Collector #, 146 rows marked (2nd Color); Premium comparisons completed | Extracted + QA |
-| 2026 | Present | No complete annual extraction/QA documented in current research index | Not yet audited |
+| 2026 | Present | Full table extracted and QA checked: 440 rows, 440 unique Toy #, 250 Collector #, 137 rows marked (2nd Color), 15 TH + 15 STH | Extracted + QA |
 
 **Important qualification:** “Not yet audited” means the current research documentation does not demonstrate a complete annual extraction and QA. It does not mean nobody has ever opened or inspected the page. Research of individual castings/series elsewhere in the archive does not count as extraction of the corresponding annual Mainline list.
 
@@ -70,7 +70,7 @@ Priority order:
 2. Adjudicate the 2010 USA/International comparison: investigate 21 shared-Toy# model-name discrepancies, 13 International-only and 39 USA-only Toy # values, and 18 USA tire-exclusive section rows.
 3. Extract and QA 1968–2009 annual pages, preserving original table boundaries, row order, raw identifiers, color/series notes, and any non-table sections.
 4. Extract and QA 2011–2023 annual pages with the same method.
-5. Extract and QA 2026, keeping announced/planned entries distinct from confirmed releases where the source indicates uncertainty.
+5. Adjudicate 2026 source notes and compare against adjacent annual lists; the 2026 annual table extraction and structural QA are complete.
 6. Build year-scoped cross-program comparisons only after each annual Mainline source has a verified extraction. Do not infer a match in another year from the 2024/2025 samples.
 
 For every annual page, record source path, branch, Git blob SHA, manifest SHA-256, Fandom revision/date if available, extraction method/version, table boundaries, row counts, unique identifier counts, duplicate groups, and unresolved anomalies.
