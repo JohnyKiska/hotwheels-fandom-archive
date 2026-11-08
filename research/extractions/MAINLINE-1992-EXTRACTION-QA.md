@@ -40,7 +40,7 @@ Extracted all 3 product tables and 24 source rows. Field mapping is by header na
 ## Interpretation notes
 
 - New Castings and Reissues use a 12-column release-detail schema; Gleam Team uses a 9-column schema and has no Series/Tampo/Notes columns.
-- Gleam Team Col #189 and #190 have blank Toy # values in the source. Preserve blanks; do not infer Toy # from adjacent entries.
+- Gleam Team Col #189 (Gleamer Patrol) and #190 ('57 T-Bird) have blank Toy # values in the source. Preserve blanks; do not infer Toy # from adjacent entries.
 - Toy # values such as `0773` and `0444` contain leading zeroes. Store identifiers as text, not integers.
 - Collector # and Toy # are distinct identifiers.
 - The archived Fandom page does not independently establish release status or casting/tooling identity. Verify missing Toy # values against packaging/catalogues before normalization.
