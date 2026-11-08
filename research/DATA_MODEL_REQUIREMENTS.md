@@ -98,3 +98,14 @@
 - **Packaging/source errors.** Сохранять ошибочные напечатанные series counts, исправленные надписи и notes как source evidence, не перезаписывая фактическое значение без provenance.
 - **Theme polymorphism.** Theme может ссылаться на media franchise, fictional character, consumer brand, musician, sports team, historical artwork или product brand; нужна типизированная Theme/IP taxonomy.
 - **Retailer exclusivity by era.** Exclusivity scope должен относиться к конкретному release/package/market/year, а не глобально к series identity.
+
+
+## Дополнения по Hot Wheels Classics (2005–2009)
+
+- **Series position vs Toy Number.** Series # (например 6/30) и Toy # (например J2762) являются разными идентификаторами. Один Series # может иметь несколько релизов/вариантов, а один Toy # повторяется для разных цветов/колёс; ни одно из этих полей не является универсальным PK.
+- **Release variants.** Поддержать вариации body color/finish (включая Spectraflame), wheel type и wheel-size, interior color, tampo/logo orientation, grille/base details и дополнительные аксессуары (button) как независимые признаки варианта.
+- **Packaging and distribution.** Foil seal, card artwork, Button card, Walgreens 3-pack, Comic-Con exclusive, RLC Rewards и set-exclusive должны быть связаны с конкретной упаковкой/релизом и каналом распространения, а не задаваться одним флагом всей серии.
+- **Chase designation.** Chase — статус конкретного релиза/варианта и/или distribution case, а не характеристика casting. Не переносить его на все варианты модели.
+- **Set composition.** Track sets и 3-packs являются самостоятельными assortment/set records с компонентами и количествами; track pieces/joiners и cars должны быть разными Product Types и Product Components.
+- **Source schema variability.** Импортёр должен поддерживать разные наборы колонок по таблицам и хранить raw source rows/cells. Пустая/отсутствующая колонка не означает, что характеристика отсутствует у продукта.
+- **Source notes and confidence.** Notes вроде "rear bigger wheels", "same size wheels", "from Ice Blue to dark" и logo orientation должны сохраняться как provenance evidence даже после структурирования в отдельные поля.
