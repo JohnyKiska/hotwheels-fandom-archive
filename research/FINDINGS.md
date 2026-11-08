@@ -226,3 +226,95 @@
 - **Design requirement.** Сохранять без потерь порядок ячеек и заголовки секций для таблиц без th; не принимать название секции автоматически за имя casting.
 
 **Ограничение:** наблюдения основаны на содержимом архивных Fandom HTML. Исторические даты и атрибуции пока не сверены с независимыми каталогами.
+
+
+## Early Special Series: ассортиментные системы, технологии и разные поколения (2026-11-08)
+
+### Action Packs (1997–1999)
+Источник: `Early Special Series/Action Packs _ Hot Wheels Wiki _ Fandom.html`.
+
+- **Observation.** Статья описывает Action Pack как ассортимент блистеров с 1–4 моделями и трековыми аксессуарами; период указан как 1997–конец 1999. Часть tooling кастингов и аксессуаров приписана Corgi Toys.
+- **Observation.** Таблицы по годам содержат 8 строк (1997), 7 (1998) и 17 (1999). В примечаниях к JPL Sojourner Mars Rover описана вариация карточки: до посадки марсохода на Марс указывалась планируемая дата посадки 4 июля 1997, после неё надпись убрали.
+- **Design requirement.** Упаковочная вариация может быть отдельным Packaging Variant без нового casting/release; комплекты должны иметь компонентный состав и аксессуары.
+
+### California Custom Series (1990–1991)
+Источник: `Early Special Series/California Custom Series _ Hot Wheels Wiki _ Fandom.html`.
+
+- **Observation.** Текст описывает отдельную серию в специальной упаковке с пластиковым медальоном и листом наклеек; медальоны соответствовали темам Street, Beach и Muscle.
+- **Observation.** Таблицы 1990 и 1991 годов содержат соответственно 37 и 20 строк данных; поля включают цвет, тампо, материал/цвет базы, окна, интерьер, колёса и Toy #. Одна модель может иметь несколько строк/вариантов.
+- **Design requirement.** Тип/тема медальона и упаковочный комплект хранить отдельно от варианта автомобиля.
+
+### Color Changers и Color FX
+Источники: `Early Special Series/Color Changers _ Hot Wheels Wiki _ Fandom.html`, `Early Special Series/Color FX _ Hot Wheels Wiki _ Fandom.html`.
+
+- **Observation.** Color Changers описывает термочувствительную смену цвета, представленную в 1988 году, и несколько связанных ассортиментных названий/поколений: Automagic, Automagic II / Color Racers II, Automagic III и Color Racers. Страница имеет 6 таблиц: 26, 15, 15, 71, 3 и 1 строка данных; последняя таблица является навигационным перечнем Color Shifters, а не перечнем релизов.
+- **Observation.** В тексте указано, что Automagic II и Color Racers II использовали одну и ту же группу из 12 машин, но разные варианты блистеров; шесть индивидуальных моделей и шесть комплектов с ice pen/ice cube tray. В одном из вариантов Aeroflash был заменён на Racebait 308.
+- **Observation.** Color FX описана как серия пластиковых машинок с изменением цвета, выпущенная в 1993–1995. Структура: 1993 2-Car Sets (16 строк), 1994 Monster Models 2-Car Sets (12), 1995 Super Stampers (6).
+- **Design requirement.** Технология color-change должна быть самостоятельным механизмом/атрибутом, а Automagic, Color Racers, Color FX и Color Shifters не следует сливать в одну серию только из-за общей функции. Отдельно хранить состав парных наборов и blister identity.
+
+### Convertables (1991)
+Источник: `Early Special Series/Convertables _ Hot Wheels Wiki _ Fandom.html`.
+
+- **Observation.** Страница разделяет Hot Rods, Wreckers и Roadsters. Для Wreckers указаны механизмы смятия крыши/подъёма капота, для Hot Rods — выдвижные имитации взорванного двигателя, для Roadsters — поднимающиеся тканевые крыши.
+- **Observation.** Roadsters не выпускались, но для них приведены названия и toy numbers: Black Ballet, Formula Fever, Lo-Down Limo и Turnin' T. В таблицах Hot Rods, Wreckers и Roadsters по 4 строки данных; отдельная таблица playset содержит 1 строку.
+- **Design requirement.** Хранить невыпущенные позиции со статусом Planned/Unreleased, не превращать их в Released. Функциональные механизмы должны быть описаны на уровне продукта/варианта.
+
+### Crashers: два поколения
+Источники: `Early Special Series/Crashers (1999) _ Hot Wheels Wiki _ Fandom.html`, `Early Special Series/Crashers (2007) _ Hot Wheels Wiki _ Fandom.html`.
+
+- **Observation.** Crashers 1999–2000 использовали металлические кастинги, которые "ломались" при ударе и могли быть возвращены в исходное состояние. Таблицы 1999 Crashers и Crashers 2 содержат 9 и 8 строк данных; отдельно упомянуты два крупномасштабных Ford F-150.
+- **Observation.** Crashers 2007–2008 используют пластиковые кузов и базу; удар активирует пружину и отделяет кузов от базы. Страница отдельно перечисляет Vehicles (31 строка), Bonus Vehicle 2-Packs (12), Crashers 3-Pack (3), Playset (3), Mega Wrecks (4) и Bumper Busters (небольшая таблица/раздел).
+- **Observation.** В позднем поколении встречаются бонусные обычные Hot Wheels в упаковках, крупные Mega Wrecks с lights & sounds и отдельные наборы. Статья явно предупреждает не путать поколение 2007 с Crashers/Crashers 2 1999–2000.
+- **Design requirement.** Два поколения — разные Series Era/product identities с разными механизмами и материалами; бонусные модели и playsets должны быть составными продуктами, не атрибутами одного автомобиля.
+
+### Flippers / Flashmagic Flippers
+Источник: `Early Special Series/Flippers _ Hot Wheels Wiki _ Fandom.html`.
+
+- **Observation.** Статья связывает Flippers 1990 с дизайнами Lionel, ранее выпущенными как Lionel Revolvers; производство приписано Chief Industrial Co. В 1991 одна модель была переработана с подсветкой/звуком и батарейным питанием под именем Flashmagic Flippers.
+- **Observation.** Текст предупреждает, что имена в таблице — имена Lionel, а не имена, присвоенные Hot Wheels. Таблицы содержат 32 строки для 1990, 1 для трековых наборов, 3 для 1991 и 1 для наборов.
+- **Design requirement.** Хранить оригинальное имя производителя/разработчика отдельно от официального HW product name; модификацию с новым механизмом считать отдельной модификацией/релизом.
+
+### Gran Toros
+Источник: `Early Special Series/Gran Toros _ Hot Wheels Wiki _ Fandom.html`.
+
+- **Observation.** Страница описывает линейку масштаба 1:43, производившуюся Mebetoys для Mattel в 1970–1973; производство кастингов происходило в Италии. В Италии использовалось название Sputafuoco, в Германии — Heisse Räder Supergroß.
+- **Observation.** Таблица содержит 25 строк моделей и отдельную таблицу из 4 строк track sets/playsets; наборы могли включать автомобиль или продаваться без него. Часть форм была специально создана для Gran Toros, часть происходила от более ранних Mebetoys и модифицировалась.
+- **Design requirement.** Обязательно хранить scale, original manufacturer/tooling lineage, regional names и состав набора; не приравнивать 1:43 Gran Toros к стандартным 1:64 Hot Wheels.
+
+### Sizzlers: исторические поколения и ассортимент
+Источник: `Early Special Series/Sizzlers _ Hot Wheels Wiki _ Fandom.html`.
+
+- **Observation.** Страница описывает моторизованную линейку 1970-х с перезаряжаемой батареей, зарядными устройствами Juice Machine/Goose Pump/Power Pit и отдельной системой Fat Track/гоночных наборов. В таблицах перемежаются автомобили, зарядные устройства, track sets и аксессуары.
+- **Observation.** Текст перечисляет 1970, 1971, 1972, Fat Daddy Sizzlers (1973), Sizzlers II (1976), Night Ridin' Sizzlers (1977), hiatus и позднее возрождение 2007–2008. В таблицах есть отдельные исторические и revival блоки: 1970 (8 строк), наборы 1970 (8), 1971 (12), наборы 1971 (12), 1972 (4), revival 2007 (12), аксессуары/наборы 2007 (4), revival 2008 (4).
+- **Observation.** В статье также описано переиздание Playing Mantis в 1990-х и прекращение после судебного разбирательства; это отдельный период от Mattel revival 2007.
+- **Design requirement.** Моделировать Sizzlers как family/technology с отдельными историческими eras, моделями, chargers, tracks, accessories и sets. Не складывать все таблицы в единый список автомобилей.
+
+### Scorchers и Shift Kickers
+Источники: `Early Special Series/Scorchers _ Hot Wheels Wiki _ Fandom.html`, `Early Special Series/Shift Kickers _ Hot Wheels Wiki _ Fandom.html`.
+
+- **Observation.** Scorchers описаны как spring-powered diecast, введённые в 1979 и снятые в 1982; 12 castings, каждому соответствовали две версии с разными именами. Таблица содержит 24 варианта (23 строки данных плюс заголовок).
+- **Observation.** Shift Kickers 1983 использовали modified Scorchers castings и иной механизм: крупный рычаг блокировал/разблокировал колёса. Таблица содержит 6 моделей. Более поздние casting names Shift Kicker в 1991 и 2004 указаны как не связанные с этой серией.
+- **Design requirement.** Связь Scorchers → modified casting → Shift Kickers должна быть lineage/derived-from, не тождеством релизов; одинаковое имя Shift Kicker в другие годы не доказывает продолжение.
+
+### RRRumblers
+Источник: `Early Special Series/RRRumblers _ Hot Wheels Wiki _ Fandom.html`.
+
+- **Observation.** RRRumblers описаны как мотоциклы 1:32 1971–1973 с Track-Rack — съёмной тележкой/опорой с маленькими колёсами для движения по Hot Wheels track. Таблица моделей содержит 16 строк, отдельная таблица rider variations — 44.
+- **Observation.** Статья прямо отличает их от Rumblers 2007 со светом и звуком.
+- **Design requirement.** Мотоцикл, rider, Track-Rack и track compatibility должны быть отдельными связанными сущностями/компонентами; Rumblers 2007 — отдельная серия.
+
+### Hot Wheels U.S.A. и Hot Wheels World
+Источники: `Early Special Series/Hot Wheels U.S.A. _ Hot Wheels Wiki _ Fandom.html`, `Early Special Series/Hot Wheels World _ Hot Wheels Wiki _ Fandom.html`.
+
+- **Observation.** Hot Wheels U.S.A. — система городских playsets 1980/1981; статья перечисляет региональные названия Hot Wheels World/L'Univers (Канада/UK/Франция) и Meine Kleine Stadt/Il Mondo Hot Wheels (Германия/Италия), а также поздние reissues в Hot Wheels City Sets и Matchbox Adventure Links. Таблица содержит 14 строк.
+- **Observation.** Hot Wheels World 1997–2005 описан как совместимая система E-Z Snap track с городскими и stunt/crash playsets. На странице 9 годовых таблиц, от 2 до 23 строк каждая. Есть reissues под Heat Street и Turbo Town, иногда с изменёнными названиями/цветами/наклейками; также встречаются повторы наборов в 2003, 2005 и 2011.
+- **Design requirement.** Системы playsets и track — не автомобильные серии; regional naming и reissue lineage должны храниться отдельно от product identity. Совместимость E-Z Snap — явная compatibility relationship.
+
+### Planet Micro
+Источник: `Early Special Series/Planet Micro _ Hot Wheels Wiki _ Fandom.html`.
+
+- **Observation.** Страница описывает примерно 1:150 масштаб, поздние 1990-е, промежуточную линейку между Micro Hot Wheels и Atomix. Часть моделей основана на 1:64 castings, а Atomix позднее перенёс часть старых и добавил новые формы.
+- **Observation.** Страница содержит множество таблиц наборов по темам (NASCAR, space, CAT, rescue, vehicle transport, police, city, military и др.), причём многие строки описывают пары/комплекты, а некоторые таблицы имеют неполные Toy # или пустые ячейки. Отдельная заметка прямо говорит, что Lockheed Martin X-33 в одном наборе на самом деле 1:64, а не micro.
+- **Design requirement.** Scale фиксировать на уровне конкретного продукта/выпуска, не наследовать автоматически от серии или набора; сохранять неполные строки и source notes о неверно классифицированных объектах.
+
+**Ограничение:** наблюдения основаны на архивных Fandom HTML; независимая историческая верификация не проводилась.
