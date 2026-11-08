@@ -47,3 +47,5 @@
 - 2026-11-08: добавлены наблюдения по 14 страницам Early Special Series; зафиксированы поколения механизмов, наборы/компоненты, regional aliases, tooling lineage и нерешённые вопросы.
 
 - 2026-11-08: завершён первичный структурный проход по пяти страницам Other Early Series (Action Cycles, Action Racers, Attack Pack, Hot Wheels Railroad, Key Force); добавлены требования по multi-type families, трансформации и железнодорожным системам.
+
+- 2026-11-08: начат Modern Special Series; изучены 100%, AcceleRacers (2005/2006/2025), Boulevard (2012/2020), Car Culture (2016/2026 и Team Transport 2026), Character Cars (Star Wars/Marvel/Disney), Color Shifters/Color Reveal, Pop Culture, Replica Entertainment и Fast & Furious Premium.
