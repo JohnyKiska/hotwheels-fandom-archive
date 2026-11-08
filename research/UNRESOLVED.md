@@ -274,3 +274,13 @@
 - **RX-3 family:** не объединять Mazda RX-3, RX-3 Wagon и иные варианты кузова только по общему имени/семейству. Сначала проверить исходные строки и изображения каждого конкретного релиза; отдельно установить, обозначает ли источник casting, модель автомобиля или маркетинговое имя.
 - **Cross-program coverage:** Boulevard и Pop Culture представлены в текущем сравнении выборочно (2024–2026 для source notes); необходимо расширять годы и проверять все таблицы, включая миксы, chase, multipacks и component rows.
 - **Source-note semantics:** Identical to, Similar to, Same as, Modified Casting, New Casting, New Die-Cast Chassis могут описывать разные уровни сравнения. До проверки контекста и изображений сохранять исходную формулировку без вывода о едином инструменте.
+
+
+### Межкаталожная сверка: Mainline 2025 source acquisition
+
+- [ ] Найти или добавить в архив полный HTML-снимок `List of 2025 Hot Wheels` и/или `List of 2025 Hot Wheels (by Series)`; зафиксировать Fandom revision ID, дату сохранения и точный путь.
+- [ ] Сохранить полные HTML-снимки `2025 Car Culture`, `2025 Hot Wheels Boulevard` и `2025 Car Culture: Team Transport`; проверить revision IDs и полноту таблиц. Публичные поисковые извлечения уже обнаружены, но не заменяют архивные источники.
+- [ ] После архивирования извлечь все строки Mainline 2025, сохраняя Toy #, Col. #, Model Name, Series, Series # и raw row order; отдельно сохранить повторные Toy #/цветовые варианты и store exclusives.
+- [ ] Сопоставить Mainline 2025 с Car Culture 2025, Boulevard 2025 и Team Transport 2025 раздельными comparison runs. Не смешивать компонентные строки Team Transport с отдельными SKU.
+- [ ] Для каждого name-match candidate проверить, совпадает ли именно casting/body/tooling, а не только реальный автомобиль или маркетинговое имя. Особенно внимательно рассматривать wagon/coupe, поколения кузова и casting-family labels.
+- [ ] Не публиковать aggregate match count до завершения полного сравнения и проверки входных наборов. Текущий source-discovery проход не дал подтверждённого числа совпадений.
