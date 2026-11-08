@@ -873,3 +873,15 @@
 Проверена структура `ALLHW/`: в ней есть годовые каталоги 1968–2026, а в MANIFEST.csv перечислены годовые Mainline-страницы. Для 2010 в манифесте присутствуют две отдельные страницы (обычная и International). Это полезное указание, что архив может содержать разные региональные/вариантные списки, которые нельзя схлопывать без проверки.
 
 Таким образом, Mainline 2025 **не является блокером по доступности источника**. Следующий этап: извлечь полную таблицу из архивного HTML и выполнить сопоставления с Premium 2025. При сравнении использовать архивную копию как фиксированный входной источник; записывать путь, branch, blob SHA и manifest SHA-256 в comparison run. Сам факт наличия файла не означает, что таблица уже разобрана или сверена.
+
+
+## Межкаталожная сверка: Mainline 2025 ↔ Premium 2025 (2026-11-08)
+
+Выполнен первый структурированный проход по архивным HTML Mainline 2025, Car Culture 2025, Boulevard 2025 и Team Transport 2025. Подробный отчёт, входные blob SHA, revision IDs, QA и кандидаты: research/comparisons/MAINLINE-PREMIUM-2025.md.
+
+- Mainline: 440 строк, 440 уникальных Toy #, 250 Collector #, 146 строк с пометкой (2nd Color); Collector #001–250.
+- Car Culture: 48 строк в 8 сегментах; 2 exact normalized-name candidates: Mazda 787B (HRW08 ↔ JBB39 / Collector #226) и Land Rover Defender 90 (JBK74 ↔ JBB29 / #210).
+- Boulevard: 25 строк в Mix 1–5; 2 Premium rows дают кандидатов Ford GT (JHW26 ↔ HYY92 / #159) и Ford RS200 (JBL29 ↔ JBB49 + JBC49 / #247, regular + STH).
+- Team Transport: 29 component rows, 26 distinct component names; найдены Jaguar Mk1 (JBM29 ↔ HYX19 / #075), DMC DeLorean (JBM35 ↔ HYW88 / #036) и '73 Honda Civic Custom (JBM36 ↔ JBB42 + JBC46 / #231, regular + STH).
+
+Это совпадения нормализованных названий, а не доказательство casting/tooling identity. Team Transport сопоставлялся на уровне компонентов, а не bundle SKU. Continuation rows Team Transport имеют другую структуру ячеек; извлечение учитывает это, не смешивая компоненты с упакованным набором.
