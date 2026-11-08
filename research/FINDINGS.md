@@ -567,3 +567,65 @@
 - **Data characteristics.** Table fields: Series #, Toy #, Casting Name, Color, Tampos, Wheel Type, Notes. Multiple base codes per release, detailed tampo descriptions and wheel types should be retained at release level. The 1971 models satisfy the stated “pre-1974” theme boundary.
 - **Identity distinction.** This is not the 2011 Vintage Racing line merely because of the shared words “Vintage Racing”. Different year, naming, assortment structure and Toy # namespace; keep as a separate series/assortment identity unless external evidence establishes a formal relation.
 - **Evidence status.** Extracted from Hot Wheels Wiki (Fandom revision 703020), not independently verified against packaging/catalogues.
+
+
+## Formula One Collection (2025–2026)
+
+**Sources:** `Modern Special Series/Formula One Collection/2025 Formula One Collection _ Hot Wheels Wiki _ Fandom.html` (Fandom revision 780455) and `Modern Special Series/Formula One Collection/2026 Formula One Collection _ Hot Wheels Wiki _ Fandom.html` (revision 816712). Status: **Observation** from archived Fandom HTML; not independently verified.
+
+### 2025 page
+- Three release tables contain **16 individual driver-specific cars** (6 + 6 + 4 rows), not 18. Each row has columns `Toy #`, `Casting Name`, `Driver`, `Wheel Type`, `Notes`, loose/card photos.
+- Toy #s and row data:
+  - JBM09 — BWT Alpine F1 Team - A524 (#31), Esteban Ocon; stand U13A.
+  - JBM10 — MoneyGram Haas F1 Team - VF-24 (#20), Kevin Magnussen; U14A, U22A.
+  - JBM12 — Oracle Red Bull Racing - RB20 (#1), Max Verstappen; U13A, U31A.
+  - JBM19 — Oracle Red Bull Racing - RB20 (#11), Sergio Pérez; U15A, U22A.
+  - JBM21 — BWT Alpine F1 Team - A524 (#10), Pierre Gasly; U13A.
+  - JBM22 — MoneyGram Haas F1 Team - VF-24 (#27), Nico Hülkenberg; U14A, U22A.
+  - JBM11 — McLaren Formula 1 Team (#4), Lando Norris; U21A, U24A, U27A.
+  - JBM13 — KICK Sauber F1 Team (#77), Valtteri Bottas; U23A, U24A.
+  - JBM15 — Williams Racing - FW46 (#23), Alex Albon; U24A.
+  - JBM20 — Williams Racing - FW46 (#43), Franco Colapinto; U23A, U25A.
+  - JBM23 — KICK Sauber F1 Team (#24), Zhou Guanyu; U21A, U25A.
+  - JBM25 — McLaren Formula 1 Team (#81), Oscar Piastri; U24A.
+  - JBM14 — Visa Cash App RB Formula One Team (#22), Yuki Tsunoda; U30A, U32A.
+  - JBM16 — Mercedes-AMG PETRONAS Formula One Team (#44), Lewis Hamilton; U29A, U32A.
+  - JBM18 — Mercedes-AMG PETRONAS Formula One Team (#63), George Russell; U29A, U31A.
+  - JBM24 — Visa Cash App RB Formula One Team (#30), Liam Lawson; U29A, U30A.
+- Every listed 2025 car uses wheel type RRPPZ. The source explicitly records multiple stand codes for some Toy #s.
+- Where supplied, chassis/model strings include A524, VF-24, RB20 and FW46. Several rows name only the team and racing number; do not infer a chassis designation from team/year alone.
+
+### 2026 page
+- Four individual-car tables contain **20 driver-specific releases**, grouped 5 + 5 + 5 + 5:
+  - JKD78 — MoneyGram Haas F1 Team (#31), Esteban Ocon; U43A.
+  - JKD79 — Visa Cash App Racing Bulls Formula One Team (#30), Liam Lawson; U43A.
+  - JKD80 — Mercedes-AMG PETRONAS Formula One Team (#63), George Russell; U42A.
+  - JKD81 — McLaren Formula 1 Team (#81), Oscar Piastri; U43A.
+  - JKD88 — McLaren Formula 1 Team (#4), Lando Norris; U43A.
+  - JKD82 — BWT Alpine Formula One Team (#10), Pierre Gasly; V05A.
+  - JKD83 — Oracle Red Bull Racing (#1), Max Verstappen; V05A.
+  - JKD84 — KICK Sauber F1 Team (#27), Nico Hülkenberg; V05A.
+  - JKD85 — Atlassian Williams Racing (#55), Carlos Sainz Jr.; V05A.
+  - JKD89 — KICK Sauber F1 Team (#5), Gabriel Bortoleto; V05A.
+  - JKD86 — Scuderia Ferrari HP (#44), Lewis Hamilton; V08A.
+  - JKD87 — Aston Martin Aramco Formula One Team (#18), Lance Stroll; V14A.
+  - JKD90 — MoneyGram Haas F1 Team (#87), Ollie Bearman; V14A.
+  - JKD91 — Visa Cash App Racing Bulls Formula One Team (#6), Isack Hadjar; V14A.
+  - JKD92 — Mercedes-AMG PETRONAS Formula One Team (#12), Kimi Antonelli; V14A.
+  - JKD93 — Scuderia Ferrari HP (#16), Charles Leclerc; V30A, V26A.
+  - JKD94 — BWT Alpine Formula One Team (#43), Franco Colapinto; V30A.
+  - JKD95 — Oracle Red Bull Racing (#22), Yuki Tsunoda; V30A.
+  - JKD96 — Atlassian Williams Racing (#23), Alex Albon; V30A.
+  - JKD97 — Aston Martin Aramco Formula One Team (#14), Fernando Alonso; V30A.
+- Every listed individual car uses RRPPZ. Stand codes vary by release group.
+- Three additional tables list **10 team-branded products**, one per team, without a Driver column: JMM91 McLaren; JMM93 Mercedes-AMG PETRONAS; JMM94 Visa Cash App Racing Bulls; JMM95 MoneyGram Haas; JMM92 KICK Sauber; JMM97 Oracle Red Bull Racing; JMM98 Atlassian Williams; JMM96 BWT Alpine; JMM99 Scuderia Ferrari HP; JMN00 Aston Martin Aramco. These are distinct from driver-specific car rows and should not be assigned a pilot without evidence.
+- A separate product row JRB39 has fields for Notes, Cover, Inside Cover, Display and Back but no descriptive value in Notes in the extracted table.
+- JRB40 is a Formula One Podium Set; listed contents are McLaren MCL39 (#4), Red Bull RB21 (#1), McLaren MCL39 (#81). This is a multi-product/set relationship, not a single casting.
+- The page labels its year navigation “2025 • 2026 • 2027”; this is navigation context, not evidence that a 2027 release table is present in this file.
+
+### Cross-year structural observations
+- The `Driver` column is explicit source data and must be preserved as a first-class relationship, not parsed permanently out of `Casting Name`.
+- Racing number is distinct from Hot Wheels Toy #. For example JBM09 is the toy identifier while #31 is the represented car's racing number.
+- A team can have multiple individual releases in one year, and a driver/team pairing can change across seasons. Treat driver participation as season/context-specific, not as a permanent attribute of a team or casting.
+- Team-branded products without a driver and the Podium Set demonstrate that the assortment contains product types beyond individual driver-specific cars.
+- Preserve original team names exactly as printed per year; names such as Visa Cash App RB and Visa Cash App Racing Bulls, or Williams Racing and Atlassian Williams Racing, may reflect naming changes and should not be normalized into one historical string.
