@@ -467,3 +467,14 @@
 - [x] Зафиксировать повторяющиеся Toy # для цветовых вариантов; не использовать Toy # как уникальный release key.
 - [ ] Проверить границы локальных Series # в Team assortments и остальных таблицах.
 - [ ] Выполнить межгодовое сравнение Mainline 2008 с 2007/2009 после извлечения 2007.
+
+
+## Mainline 2007 annual extraction
+
+- [x] Извлечь все 18 таблиц, сохранить table/section provenance.
+- [x] Проверить Collector # sequence: 001–180 без пропусков; не создавать позиции 181–250.
+- [x] Зафиксировать repeated Toy # values and color variants.
+- [x] Зафиксировать zero-width Unicode в 315 Series # values; сохранить raw values.
+- [ ] Проверить Toys R Us Promo STH и другие retailer-exclusive qualifiers в Series text.
+- [ ] Нормализовать Series # только в derived fields, сохраняя исходные code points.
+- [ ] Выполнить межгодовое сравнение Mainline 2007 с 2006/2008 после извлечения 2006.
