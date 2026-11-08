@@ -214,3 +214,18 @@
 - **Source assertions and normalization.** Preserve raw color, capitalization, punctuation and source typos (e.g. `Metelflake Silver`); normalized values should be additional fields with evidence, never destructive replacements.
 - **Series identity boundaries.** Do not merge Car Culture Team Transport (2018+) with Pro Racing Team Transporter (1998–2006) based only on a shared truck + car bundle format. A typed format/theme relation may be stored independently of Series identity.
 - **Provenance.** Retain source page/year/revision, table/mix, row order, original column values and group boundaries for re-import and audit.
+
+
+## Car Culture umbrella: annual segments, 2-Packs and Factory Sets
+
+- **Umbrella and segment separation:** represent Car Culture as a parent program/category, with annual themed segments as child assortment entities. Do not treat segment names as fixed enums or require one canonical segment list across years.
+- **Segment-local numbering:** Series # such as `1/5`–`5/5` is scoped to its themed segment. Retain raw value and parsed numerator/denominator separately. `0/5` needs a typed classification from source context (Chase, RLC 6th Car Set, or unknown), not a hard-coded meaning.
+- **Chase as release classification:** model Chase as a release/variant designation separate from ordinary Series Position. Preserve source note and year/segment.
+- **2-Pack product format:** model Toy # as a 2-Pack product and link two individual vehicle releases/components, each with its own casting, color, wheel, base code and notes. Preserve source row order and blank cells that indicate grouping.
+- **Team Transport product format:** retain multi-component bundle requirements (hauler/trailer/car) separately from 2-Packs; both are bundles but have different roles and component semantics.
+- **Factory Set format:** model Factory Set as a bundle/aggregation of named annual segments and Team Transport Mixes, with its own Toy # and Set #. Contents may reference a Team Transport Legends Tour Exclusive; preserve each included assortment relationship and source order.
+- **Container Sets vs Factory Sets:** do not assume annual `Container Sets` tables (2022–2024) are identical to the separate 2022–2026 Factory Set page. Keep source taxonomy labels and explicit relation unresolved until confirmed.
+- **Flexible assortment composition:** Factory Sets and 2-Packs demonstrate that one product can contain other products/assortments or multiple vehicle releases. Support typed set components, nested bundles/assortments and variable cardinality.
+- **Identifier domains:** distinguish Toy #, segment-local Series #, Factory Set Set #, Team Transport Mix/Series #, and component casting/release IDs. None is a universal key.
+- **Source-asserted equivalence:** preserve `Identical to`, `Similar to`, `Updated tooling`, `New Casting`, `New Die-cast Chassis` as raw assertions linked to the relevant row/component. Do not convert directly into canonical identity or tooling lineage without corroboration.
+- **Provenance:** store year page, Fandom revision, section heading, table index, row order, original cell strings and source grouping boundaries.
