@@ -102,3 +102,6 @@
 
 
 - 2026-11-08: повторно извлечена и QA-проверена полная таблица Mainline 2024 из канонического архива: 441 строка, 441 уникальный Toy #, 250 Collector #, 132 пометки (2nd Color), 15 TH и 15 STH. CSV и отчёт: research/extractions/MAINLINE-2024.csv и MAINLINE-2024-EXTRACTION-QA.md. 49 прежних Car Culture name-match candidates остаются не adjudicated.
+
+
+- 2026-11-08: независимо извлечены Mainline 2010 USA и International (Fandom revisions 815649/815650): USA 440 source rows в 28 таблицах, International 228 строк в 24 таблицах. Сохранены два CSV с table/section provenance; выявлены 213 общих Toy #, 39 USA-only, 13 International-only и 21 расхождение Model Name среди общих Toy # при сравнении первого появления. Отчёт: research/comparisons/MAINLINE-2010-USA-INTERNATIONAL.md. Эти совпадения/расхождения требуют adjudication.
