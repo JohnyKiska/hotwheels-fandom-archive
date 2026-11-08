@@ -294,3 +294,14 @@
 - [ ] Зафиксировать метод и контрольные количества извлечённых строк; сверить их с таблицами исходной страницы и проверить дубли/пропуски.
 - [ ] Выполнить отдельные воспроизводимые comparison runs Mainline 2025 ↔ Car Culture 2025, Boulevard 2025 и Team Transport 2025.
 - [ ] После проверки удалить/переформулировать устаревшие выводы о недоступности Mainline 2025; не считать совпадения названий доказательством идентичности casting/tooling.
+
+
+## Mainline ↔ Premium 2025: candidate adjudication
+
+- [x] Найти фиксированные архивные источники Mainline, Car Culture, Boulevard и Team Transport 2025, записать revision IDs и blob SHA.
+- [x] Выполнить первичное извлечение и контроль количества строк/идентификаторов.
+- [x] Выполнить exact normalized-name comparison для трёх Premium программ отдельно.
+- [ ] Визуально проверить кандидаты Mazda 787B, Land Rover Defender 90, Ford GT, Ford RS200, Jaguar Mk1, DMC DeLorean и '73 Honda Civic Custom; определить, что подтверждается на уровне body/casting/chassis/tooling.
+- [ ] Проверить исходные изображения и component-level notes для Team Transport; подтвердить grouping и порядок компонентов.
+- [ ] Сохранить машинно-читаемый экспорт извлечённых строк и скрипт/версию extraction method для полного воспроизведения.
+- [ ] После adjudication обновить candidate statuses, не сливая regular и STH releases и не используя Collector # как release key.
