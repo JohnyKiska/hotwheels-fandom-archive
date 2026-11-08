@@ -365,3 +365,11 @@
 - [x] Проверить структуру и полноту: Mainline 447 строк, Hot Wheels id 8 строк, обязательные поля заполнены.
 - [x] Зафиксировать два broken-media filename placeholders в Photo: GHD85 и GHF27; не трактовать как доступные изображения.
 - [ ] Выполнить межгодовое сравнение Mainline 2020 с 2019/2021 после извлечения 2019.
+
+
+## Mainline 2019 annual extraction
+
+- [x] Извлечь основную таблицу 2019 и отдельно сохранить Unnumbered Special Editions; не включать `No #` в числовой Collector # namespace.
+- [x] Проверить структуру и полноту: Mainline 447 строк, special editions 2 строки, обязательные поля заполнены.
+- [ ] Проверить происхождение и состав Tesla Greetings from Space Special Edition (GFJ71) и Barbie 60th Anniversary Special Edition (GJN99); не считать их автоматически частью обычного Mainline assortment.
+- [ ] Выполнить межгодовое сравнение Mainline 2019 с 2018/2020 после извлечения 2018.
