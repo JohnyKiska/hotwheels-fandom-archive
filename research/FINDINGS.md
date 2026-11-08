@@ -360,3 +360,64 @@
 - **Design requirement.** Ключ — уникальный комплектный компонент/инструмент с compatibility только с конкретной игрушкой; трансформационные формы должны быть моделируемы как states/forms одного продукта либо связанные компоненты, а Warriors — отдельный subtype/series relation.
 
 **Ограничение:** наблюдения основаны на архивных Fandom HTML; независимая проверка дат, материалов и производственных атрибуций не проводилась.
+
+
+## Modern Special Series: первые системные исследования (2026-11-08)
+
+### 100% Hot Wheels / Kalifornia Kustoms
+Источники: `Modern Special Series/100% Hot Wheels/2001 100% Hot Wheels _ Hot Wheels Wiki _ Fandom.html`, `.../2006 Kalifornia Kustoms _ Hot Wheels Wiki _ Fandom.html`.
+
+- **Observation.** Статья 2001 описывает автомобили из 100% castings в индивидуальных акриловых кейсах. Таблица содержит 49 строк данных с Toy #, Casting Name и Color.
+- **Observation.** Kalifornia Kustoms 2006 использует те же 100% castings и аналогичную упаковку в акриловый кейс; таблица содержит 12 строк данных, поля Toy #, Casting Name, Color, loose/boxed photos. В таблице есть редакционное замечание о некорректном написании Karmann Ghia как "Karman Ghia".
+- **Design requirement.** Acrylic display case — packaging/display format, не свойство casting. Серию/ассортимент 100% следует отделить от общей casting identity и конкретного варианта декора.
+
+### AcceleRacers: 2005, 2006 и 2025
+Источники: `Modern Special Series/AcceleRacers/AcceleRacers Series (2005) _ Hot Wheels Wiki _ Fandom.html`, `... (2006) ...`, `... (2025) ...`.
+
+- **Observation.** 2005 AcceleRacers — четыре команды по девять моделей: Teku, Metal Maniacs, Racing Drones и Silencerz. Статья описывает 1:64, специальные anodized finishes на пластиковых кузовах, шестизначные laser-etched base codes, скрытые ребристым блистером, для разблокировки онлайн-контента и игровых машин в Realm Champion. Четыре задуманных мотоцикла (Nightlife, Jaw Jammer, RD-07, Magnesium) не были выпущены; Airy 8 (ранее Jaw Jammer) и Hammer Sled позднее появились в Mainline.
+- **Observation.** Страница 2005 имеет 4 таблицы команд по 9 моделей (36 выпущенных позиций), плюс отдельную таблицу track sets/accessories (11 строк данных). Отдельные team membership и series position не заменяют Toy #.
+- **Observation.** AcceleRacers 2006 задумывалась как продолжение четырьмя фильмами, с 1:64 basic и 1:24 transformable ассортиментом; фактическая статья описывает семь тематических подсерий: Stripped Metal, Drone'd, AcceleCharged, Acceleron, Team Colors, Realm и другие таблицы/разделы. Встречаются позиции с явной пометкой Unreleased. Шестизначные коды на базах продолжали использоваться для цифрового контента.
+- **Observation.** AcceleRacers 2025 — semi-premium/Silver Series assortment к 20-летию оригинала. Таблица содержит 5 моделей; использованы архивные оригинальные графические материалы с переработкой, а не повторное издание прежнего состава.
+- **Design requirement.** Хранить franchise/fictional universe, product line era, team affiliation, release, digital unlock code и media tie-in отдельно. Unreleased concepts и фактически выпущенные в Mainline casting должны быть связаны, но не слиты. 2025 anniversary assortment — отдельный release/era, не продолжение линейки 2005 на уровне одной таблицы.
+
+### Boulevard 2012 и 2020
+Источники: `Modern Special Series/Boulevard/2012 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html`, `.../2020 Hot Wheels Boulevard ...`.
+
+- **Observation.** 2012 Boulevard был Walmart exclusive: 30 позиций в тематических группах, из них 5 exclusive castings, остальные 25 находились в regular series. Отдельная таблица 30-Car Set показывает комплектацию и варианты карт, включая upside-down cards.
+- **Observation.** Страница 2012 содержит группы Ahead of Its Time, Big Hits, Concept Cars, Legends, Show Rods и Underdogs; таблицы имеют разные количества строк (10, 17, 9, 15, 9, 11), плюс set table.
+- **Observation.** Boulevard 2020 организован в 4 mix по 5–6 строк, с полями Toy #, Series #, Casting Name, Body Color, Wheel Type и Base codes. Один Toy #/кастинг может иметь несколько записей/вариантов колёс: Twin Mill #GJT88 в одной таблице приведён с двумя wheel types.
+- **Design requirement.** Эксклюзивность к retailer, состав factory set, card orientation, mix/series position и вариант колёс — отдельные атрибуты/сущности. Нельзя считать 30-Car Set одной новой серией или считать один Toy # доказательством единственного wheel variant.
+
+### Car Culture и Team Transport
+Источники: `Modern Special Series/Car Culture/2016 Car Culture _ Hot Wheels Wiki _ Fandom.html`, `.../2026 Car Culture ...`, `.../2026 Car Culture_ Team Transport ...`.
+
+- **Observation.** Car Culture 2016 содержит четыре тематических микса: Japan Historics, Euro Style, Trucks, Track Day; каждая таблица содержит 5 моделей (20 позиций).
+- **Observation.** Car Culture 2026 отмечает десятилетие линейки и включает восемь тематических миксов по пять моделей (40 основных позиций). Таблица 2026 указывает Toy #, Series #, Casting Name, Body Color, Wheel Type, Base codes, notes о New Casting/New Die-Cast Chassis. Chase-модели описаны как отдельные автомобили в gold finish из любимых моделей прошлых лет, а не просто окрашенные дубликаты основных моделей.
+- **Observation.** Team Transport 2026 содержит миксы, где строка автомобиля и строка транспортёра/трейлера выступают парными элементами одного набора. Встречаются новые transport castings и отдельный Walmart Legends Tour Exclusive set.
+- **Design requirement.** Car Culture — umbrella assortment с ежегодными mix/series; Team Transport — связанный, но отдельный наборный формат. Транспортёр и перевозимый автомобиль — два продукта в одном package/set, с отдельными casting/release records и отношением комплектности. Chase — отдельный release/variant, а не обязательно chase repaint того же casting.
+
+### Character Cars: лицензии и формы
+Источники: `Modern Special Series/Character Cars/Star Wars Character Cars _ Hot Wheels Wiki _ Fandom.html`, `.../Marvel Character Cars ...`, `.../Disney Character Cars ...`.
+
+- **Observation.** Star Wars Character Cars стартовали в 2014; машины представляют персонажей, а faction logo на базе отражает принадлежность к Jedi Order, Galactic Republic, Empire, Resistance, Separatist, First Order, Sith и др. Страница разбивает данные на single packs, 2-packs, exclusives и playset exclusives; одна и та же модель/персонаж может встречаться в разных упаковочных контекстах и вариантах декора. Есть convention exclusives и отдельные casting reuse references.
+- **Observation.** Marvel Character Cars стартовали в retail в конце 2014. Таблицы включают single packs, 2-packs, comic-book bundles, RLC/HWC exclusives, retailer exclusives и playset-only vehicles. Есть прямые cross-references вида "Same as" между разными Toy #/декорациями, что демонстрирует повторное использование casting.
+- **Observation.** Disney Character Cars начались в 2018 с шести машин и расширились на Disney/Pixar properties. С 2020+ повторно используемые модели и упаковка без Series # сопровождаются пометкой "New" для first appearance; в ассортимент включены тематические наборы и Disney 100 anniversary release с персонажами Disney, Marvel, Star Wars и Pixar.
+- **Design requirement.** Character Cars требуют разделения licensed character/IP, character identity, vehicle casting, decoration/variant и release. Faction/allegiance — атрибут персонажа/вселенной или оформления, не casting. Single pack, 2-pack, comic bundle, retailer/convention exclusive и playset exclusive — packaging/set relationships. "Same as" фиксировать как casting reuse или deco relation, не объединять разные Toy #.
+
+### Color Shifters и Color Reveal
+Источники: `Modern Special Series/Color Shifters/2008 Color Shifters _ Hot Wheels Wiki _ Fandom.html`, `.../2026 Color Shifters ...`, `Modern Special Series/Color Reveal _ Hot Wheels Wiki _ Fandom.html`.
+
+- **Observation.** 2008 Color Shifters использует температурно-зависимое изменение цвета; таблица содержит 31 строку и отдельно указывает warm/cold colors. 2026 таблица имеет 24 позиции и три температурных состояния: Cold, Moderate, Warm; отдельные состояния не следует сводить к двум статическим цветам.
+- **Observation.** Color Reveal обозначена как sub-series Color Shifters. На кастинг нанесено водорастворимое покрытие, которое растворяется при первом погружении, после чего работает обычный color-change mechanism. Упаковка — барабан, запечатанный в пластиковый пакет, с двумя машинками; барабан может использоваться как dunk tank и контейнер для хранения. Код упаковки различает составы. В 2023 у моделей металлические кузова вместо пластиковых в ранних Color Reveal.
+- **Design requirement.** Color-change mechanism, temperature states, initial soluble coating, material/body construction, package container и package contents должны быть раздельными данными. Color Reveal — связанная подсерия/технологический вариант Color Shifters, но не просто alias.
+
+### Pop Culture, Replica Entertainment и Fast & Furious Premium
+Источники: `Modern Special Series/Pop Culture/2013 Pop Culture _ Hot Wheels Wiki _ Fandom.html`, `.../2026 Pop Culture ...`, `Modern Special Series/Replica Entertainment/2023 Replica Entertainment ...`, `Modern Special Series/Fast & Furious Premium Series/2026 Fast & Furious Premium Series ...`.
+
+- **Observation.** Pop Culture 2013 разделён по лицензионным темам (Looney Tunes, The Muppets, King Features Syndicate, DC Comics, General Mills, AC/DC/Live Nation, Universal Monsters, Archie, Mars, Hanna-Barbera и др.). Таблицы имеют Toy #, Casting Name, Theme, Body Color, Wheel Type, Notes. Встречаются новые кастинги, коммерческие/брендовые liveries и несколько машин по одной IP.
+- **Observation.** Pop Culture 2026 представлен шестью миксами по 5–6 позиций; тематические лицензии включают Stranger Things, Godzilla, Gran Turismo, G.I. Joe, Forza, Dracula, Airwolf и др. Некоторые строки прямо отмечают идентичность релизу 2025 года.
+- **Observation.** Replica Entertainment 2023 включает три микса, а также Disney 100 Premium 5-Pack. В таблицах есть cross-reference "Similar to" и "Identical to" для сопоставления с другими Toy #/релизами.
+- **Observation.** Fast & Furious Premium 2026 содержит четыре микса по пять моделей, chase cars с Spectraflame и отдельный Brian O'Conner Bundle. Примечание указывает, что в каждом case один chase, а вместо него в mix case добавляется дополнительный экземпляр одной из основных моделей как filler.
+- **Design requirement.** Лицензия/IP и тематическая группировка не должны становиться частью casting identity. "Similar to", "Identical to", "New Casting" и "New Die-Cast Chassis" — разные отношения/события. Chase allocation и case assortment — данные уровня distribution/case pack; bundle composition отдельно от individual releases.
+
+**Ограничение:** это постраничные observations по архивным Fandom HTML; цифры и исторические утверждения требуют независимой сверки с упаковками, каталогами Mattel и другими источниками.
