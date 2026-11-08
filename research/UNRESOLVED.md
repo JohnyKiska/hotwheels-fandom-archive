@@ -50,3 +50,10 @@
 - [ ] Проверить полную хронологию Sugar Caddy: оригинальный casting, мексиканское производство CIPSA и tooling/re-tool 2009 Neo Classics.
 - [ ] Уточнить, какие именно варианты Nitty Gritty Kitty относятся к 100% линейке и retooled tooling, не смешивая их с исходными 1:64 выпусками.
 - [ ] Проверить TNT-Bird Original Versions и Re-Tooled Versions на уровне конструктивных отличий и дат.
+
+
+- [ ] Независимо подтвердить статус Farbs как unbranded Mattel product и историю четырёх выпущенных/двух прототипных моделей.
+- [ ] Проверить список и упаковки Zowees/Fun Buggies, а также точный состав retail multipacks и канадских Hot Wheels + Zowees packs.
+- [ ] Для Truck Co. установить, какие именно тягачи/bonus vehicles соответствуют каждому Toy # и как они соотносятся с Steering Rigs.
+- [ ] Проверить таблицы версий Fat Daddy Sizzlers по упаковкам, рынкам и Toy #; отдельно исправить семантическую ошибку источника на странице Steering Trailer только на уровне нормализованного описания, сохранив исходный текст.
+- [ ] Разобрать Flip Outs: определить колонки таблиц без заголовков и отношение названий Camaro Wind/Ford Aerostar/Police Car/Nissan 200SX к именам castings и механизмам Flippers.
