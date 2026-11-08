@@ -537,3 +537,12 @@
 - **2010 table.** Номинальная сетка 01/25–25/25. Позиция 12/25 встречается дважды: '70 Plymouth Duster F/C - Tarmac Twister (V7177) и '63 Nova AWB Snake Eyes (V4237). Страница поясняет, что Nova изначально планировалась как позиция 18 предыдущего года, что и объясняет повторный 12/25. В строке #19 для Mongoo$e McEwen's Wedge Dragster есть note, что Tom “Mong00$e” McEwen никогда не имел такого Wedge Dragster; строка помечена N/A not a Real Dragster of Tom's. Это пример разделения модели и достоверности исторической ливреи/атрибуции.
 - **Fields.** Таблицы содержат Series #, Model Name, Toy #, Notes, Real Car, loose/card images. Не считать Series # или Toy # универсальным ID: есть повторяющиеся позиции/номера, пропущенный выпуск и wheel variants.
 - **Evidence status.** Все сведения в этом разделе извлечены из сохранённой страницы Hot Wheels Wiki (Fandom revision 807648); это source observations, не независимая проверка Mattel catalogues, упаковок или drag-racing history.
+
+
+### Vintage Racing (2011)
+
+- **Observation (Fandom).** Страница прямо называет Vintage Racing линией 2011 года, заменившей Dragstrip Demons. Заявлено 30 castings и производство всех автомобилей в Thailand.
+- **Table structure.** Одна таблица с 30 позициями 01/30–30/30. Поля: Series #, Model Name, Color, Toy #, Notes, loose/card images. Toy # лежат в диапазоне T8451–T8541 (не непрерывном). Каждая строка содержит Base code(s), иногда несколько кодов (например, позиции 04/30: C42, C46; 09/30: C45, C47; 15/30: D34, D35; 23/30: D34, D36).
+- **Packaging error.** Для John Morton's BRE Datsun Bluebird 510, Series #15/30, Toy # T8455, Notes сообщает: “Cards were produced with #22 in error”. Это напечатанная ошибка номера на карточке, а не изменение фактической Series Position.
+- **Lineage.** Прямая формулировка “replacing the Dragstrip Demons” даёт более сильное свидетельство преемственности/замены, чем простое сходство названия. Однако это не доказывает, что обе линии должны быть одной Series Identity в БД: нужно сохранить relation типа successor/replaced_by.
+- **Evidence status.** Наблюдения извлечены из сохранённой страницы Hot Wheels Wiki (Fandom revision 797035); не подтверждены независимыми каталогами/упаковками.
