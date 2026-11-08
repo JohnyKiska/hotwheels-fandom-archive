@@ -34,7 +34,8 @@ Status labels:
 
 | Year/source | Archive status | Research status | Audit conclusion |
 |---|---|---|---|
-| 1968–2004 (37 annual pages) | Present | No complete year-by-year extraction/QA documented | Not yet audited as annual Mainline datasets |
+| 1968–2003 (36 annual pages) | Present | No complete year-by-year extraction/QA documented | Not yet audited as annual Mainline datasets |
+| 2004 | Present | 268 rows across 16 tables; Collector # 001–212 continuous plus separate 000 Mail-In; four tables use five-column schema without Series # | Extracted + QA |
 | 2005 | Present | 288 rows across 19 tables; Collector # 001–187 continuous; 2005 Open Stock (86 rows) has a five-column schema without Series # | Extracted + QA |
 | 2006 | Present | 363 rows across 17 tables; Collector # 001–223 continuous; 2006 Open Stock has 141 rows in a distinct five-column schema without Series # | Extracted + QA |
 | 2007 | Present | 315 rows across 18 tables, 180 numeric Collector # positions (001–180); 193 unique Toy #; all 315 Series # cells contain zero-width Unicode | Extracted + QA |
