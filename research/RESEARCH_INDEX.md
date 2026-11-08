@@ -213,3 +213,6 @@
 
 
 - 2026-11-08: извлечена Mainline 1988: 27 строк в New Castings (13) и Reissues (14), 25 уникальных Toy #; Collector # отсутствует. Toy #5026 (Alien) и #4741 (Talbot Lago) представлены по два цветовых варианта; один вариант каждого отмечен Short run color. CSV/QA: research/extractions/MAINLINE-1988.csv и MAINLINE-1988-EXTRACTION-QA.md. Fandom revision 765062.
+
+
+- 2026-11-08: извлечена Mainline 1987: 23 строки в New Castings (12), Reissues (10), Real Riders (1). 20 уникальных Toy #; повторяются #1897 (три Ferrari Testarossa entries, включая Turbo Trax Turbo Glo Set) и #7527 (Pontiac Fiero 2M4 с двумя Wheel Type). Collector # отсутствует. CSV/QA: research/extractions/MAINLINE-1987.csv и MAINLINE-1987-EXTRACTION-QA.md. Fandom revision 754002.
