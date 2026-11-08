@@ -34,7 +34,8 @@ Status labels:
 
 | Year/source | Archive status | Research status | Audit conclusion |
 |---|---|---|---|
-| 1968–1999 (32 annual pages) | Present | No complete year-by-year extraction/QA documented | Not yet audited as annual Mainline datasets |
+| 1968–1998 (31 annual pages) | Present | No complete year-by-year extraction/QA documented | Not yet audited as annual Mainline datasets |
+| 1999 | Present | 196 numbered-list rows with Collector #649–1121 (non-dense); separate Final Run (12 rows, Collector # blank) and Bonus Cars (4 rows, Toy # blank) | Extracted + QA |
 | 2000 | Present | 249 rows across 17 tables; 245 distinct nonblank Toy #; Virtual Collection and Bonus Cars require separate identifier scopes; five numeric Collector # values absent | Extracted + QA |
 | 2001 | Present | Mainline: 240 rows, Collector # 001–240; separate Final Run: 12 rows; Store Exclusives: 4 rows with identifiers blank in source | Extracted + QA |
 | 2002 | Present | Annual Mainline: 240 rows, Collector # 001–240; separate Final Run table: 3 rows with its own Series # namespace; 2002 Hot Wheels uses five-column schema | Extracted + QA |
