@@ -183,3 +183,6 @@
 
 
 - 2026-11-08: извлечена Mainline 1998: 185 numbered-list rows, 184 unique Collector # values (633–908, non-dense); #780/Toy #19949 repeated twice. Отдельно Bonus Cars 4 rows (Toy # blank for two entries, Collector #001–004 in bonus scope). 1998 Hot Wheels table has 5-column schema; four tables declare optional Photo 2; some rows omit trailing empty cell. Preserved header typo "Serie s". CSV и QA: research/extractions/MAINLINE-1998.csv и MAINLINE-1998-EXTRACTION-QA.md. Fandom revision 811155.
+
+
+- 2026-11-08: извлечена Mainline 2003: 18 таблиц, исходные строки выгружены в research/extractions/MAINLINE-2003.csv; QA и provenance: research/extractions/MAINLINE-2003-EXTRACTION-QA.md. Обнаружены повторяющиеся Collector #, поэтому их нельзя трактовать как уникальные идентификаторы до ручной проверки. Fandom revision и полный перечень таблиц записаны в QA-отчёте.
