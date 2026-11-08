@@ -258,3 +258,12 @@
 - **2-Pack scope:** 2027 section is present in the archived page although this pass targets 2016–2026. Keep future/announced records separate from released products.
 - **Identity claims:** `Identical to`, `Similar to`, and `Updated tooling` are source notes. They may refer to release, deco, casting or tooling relationships; do not automatically merge records or assert exact tooling lineage.
 - **Coverage:** annual page review focused on table structure, segment counts, row conventions and representative examples. Every individual vehicle row has not yet been independently reconciled against physical packaging/catalogs.
+
+
+## Межкаталожная идентичность Car Culture / Mainline / Boulevard / Pop Culture
+
+- **Name-match false positives:** 2024 Mainline vs Car Culture 2016–2026 yielded 49 row-level exact normalized-name matches. Determine which are the same casting/tooling and which are only shared or revised model names. Do not turn the match count into a canonical identity count.
+- **Comparison target ambiguity:** source notes Identical to, Similar to, Same as 2024 and Modified Casting do not consistently state whether they compare deco, body, tooling, chassis, wheel setup or complete release. Retain raw phrase and target ID pending clarification.
+- **Identifier scope:** Mainline Toy #, Mainline Collector #, Premium Toy #, segment Series # and 2-Pack bundle Toy # occupy different namespaces. Validate each identifier's scope and year before matching.
+- **Cross-year Mainline sample limitation:** current comparison uses the archived 2024 Mainline list as an anchor, not a complete Mainline history. It identifies candidate intersections only and may miss older/newer Mainline relationships.
+- **Source confidence:** all cross-catalog observations currently derive from Fandom archive pages and the saved 2024 Fandom Mainline list. Seek Mattel packaging/catalogs or other independent evidence before declaring exact casting/tooling lineage.
