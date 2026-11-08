@@ -712,3 +712,35 @@
 - Team/sponsor is a compound source string in many tables. Preserve raw value and parse into separate team, sponsor, event and driver references only when evidence supports each component.
 - Track/venue names, charity rides, movie promotions, superhero names and sponsor campaigns are distinct contexts, not teams or drivers.
 - Keep unreleased/prototype/unknown Toy # records; they are useful archive evidence but must not be counted as confirmed retail releases.
+
+
+## Hot Wheels Racing Selects and Team Transporter (1998–2006)
+
+**Sources:** `Modern Special Series/Pro Racing/Hot Wheels Racing Selects _ Hot Wheels Wiki _ Fandom.html` (Fandom revision 763674) and `Modern Special Series/Pro Racing/Team Transporter _ Hot Wheels Wiki _ Fandom.html` (revision 783311). Status: **Observation** from archived Fandom pages.
+
+### Hot Wheels Racing Selects
+- The page contains two tables, with 32 and 23 rows respectively including headers and spacer/continuation rows. Both use the same explicit columns: racing number (#), Casting Name, Color, Team Sponsor, Driver, Notes, Photo Loose, Photo Carded.
+- Unlike most Pro Racing annual tables, Racing Selects explicitly separates **Driver** from **Team Sponsor** and gives the vehicle/casting name and color as independent fields.
+- The first table contains NASCAR Stocker castings and driver/team/sponsor pairings, including #4 Chevy Monte Carlo Stocker / Kodak / Bobby Hamilton; #6 Ford Taurus Stocker / Valvoline / Mark Martin; #12 Ford Taurus Stocker / Mobil 1 / Jeremy Mayfield; #17 Ford Taurus Stocker / Dewalt / Matt Kenseth; #21 Ford Taurus Stocker / Citgo / Elliott Sadler; #32 Ford Taurus Stocker / Tide / Scott Pruett; #43 Pontiac Grand Prix Stocker / Cheerios / John Andretti; #44 Pontiac Grand Prix Stocker / Hot Wheels / Kyle Petty; #55 Chevy Monte Carlo Stocker / Square D / Kenny Wallace; #99 Ford Taurus Stocker / Exide / Jeff Burton.
+- The #43 entry includes multiple continuation liveries: Wheaties and STP with different colors, with no repeated driver cell on those continuation lines. Treat these as variants associated with the surrounding #43 record only as an interpretation of table layout, retaining row order and raw cells.
+- #40 Chevy Monte Carlo Stocker is listed as Self-sponsored / Sterling Marlin, with a note “Supposed to be sponsored by Coors Light”. This records an editorial correction/uncertainty, not a verified Coors Light release.
+- Other notes distinguish round vs smaller headlights and a chrome-wheels variant. These are casting/release details, not separate racing numbers or drivers.
+- The second table contains later/alternate Stocker models and explicitly identifies a misattribution: #32 Ford Taurus Stocker / Tide is Ricky Craven, but note says “Erroneously labeled as Scott Pruett”. This is strong evidence that source/packaging text may be wrong and the catalog needs to retain both printed attribution and corrected attribution with provenance.
+- The second table includes non-stock-car castings under racing numbers: 1970 Plymouth Superbird, 1957 Oldsmobile Stock Car, 1963 Plymouth 426 Max Wedge, 1968 Plymouth Road Runner, plus standard stockers. A racing number can therefore occur across unrelated casting identities and historical racing subjects.
+- The page lists some entries as Self-sponsored and includes “Multiple” for sponsor on historical 1957 Oldsmobile Stock Car records. Sponsor is not a mandatory field and can be unresolved/multiple.
+
+### Team Transporter
+- The page contains a truck-identification guide and a master table with 137 data rows (138 including header), covering 1998–2006.
+- Three hauler castings are described: International Eagle 9400, Kenworth T2000 and Freightliner Columbia. The guide distinguishes them by exhaust stack location, cab/headlight shape and wind-deflector window imprint. Preserve this as casting identification evidence, not as release-level data.
+- The master table columns are Team #, Year, Casting, Notes, Variations and Photo. It is a transporter-focused list, not a car list.
+- Distribution by year in the table: 1998 10 rows; 1999 25; 2000 6; 2001 20; 2002 20; 2003 22; 2004 18; 2005 13; 2006 1; plus two rows with year not parsed from the visible year field.
+- Team # is reused from associated racing teams/vehicles, but is not a stable unique ID. Rows include car/truck pairing notes such as #10 Ford Taurus Stocker, #12 Ford Taurus Stocker, #36 Pontiac Grand Prix Stocker and #44 Pontiac Grand Prix Stocker. The truck and car are separate products linked by a set/pack relationship.
+- Some records explicitly say a truck came with a specific numbered car. Model this as set contents or bundle membership, not merely a textual note.
+- Some table rows document casting/deco anomalies: a 1999 International Eagle 9400 is said to say “Frieghtliner” on an International casting; one 1998 #8 Kenworth T2000 is marked “Does Not Exist”; 2005 Victory Lane rows appear twice; Ashley Force 2005 rows include same truck/different box and different sponsor decals.
+- The 2006 Little Debbie Racing row is marked as the only car/truck to appear in the “2006 Pro Racing” line. Retain source's qualification and do not infer a broad 2006 annual series from one row.
+- The page categorizes Team Transporter under Pro Racing / Team Transporters. This 1998–2006 line should not automatically be merged with the later Car Culture Team Transport line (2018 onward), despite similar truck-plus-car format and naming.
+
+### Cross-cutting requirements
+- Racing Selects offers a clean example of a source table with separate driver/team sponsor/casting/color fields. It can guide a normalized racing-entry model, but must not be projected onto annual Pro Racing pages that lack these fields.
+- Team Transporter demonstrates a product bundle containing at least two independently identifiable products (hauler and car). Store the bundle/set, its components, and each component's own casting/release separately.
+- Keep raw table row order and continuation rows. Some values are inherited from preceding rows or are blank because the page uses merged cells; do not discard the source layout semantics during extraction.
