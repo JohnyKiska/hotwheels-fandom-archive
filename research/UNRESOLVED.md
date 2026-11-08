@@ -390,3 +390,13 @@
 - [x] Выполнить структурный QA: 365 Mainline rows + 85 additional rows в 9 секциях; обязательные поля заполнены.
 - [ ] Adjudicate 85 additional rows, including TH/STH, Red Editions, retailer exclusives and Digital Circuit Chase Variants; do not add them to the numeric Mainline sequence.
 - [ ] Выполнить межгодовое сравнение Mainline 2017 с 2016/2018 после извлечения 2016.
+
+
+## Mainline 2016 annual extraction
+
+- [x] Извлечь все 31 series-specific таблицы Mainline и две Special Edition таблицы, сохранить source table/section provenance.
+- [x] Выполнить структурный QA: 433 Mainline rows и 8 Special Edition rows; обязательные поля заполнены.
+- [x] Зафиксировать 397 Series # cells с zero-width Unicode; raw values сохранены.
+- [ ] Проверить семантику zero-width code points и нормализацию Series #, сохраняя raw source.
+- [ ] Adjudicate Kroger/Target Special Edition rows against annual Mainline releases; не включать No # в numeric Collector # sequence.
+- [ ] Выполнить межгодовое сравнение Mainline 2016 с 2015/2017 после извлечения 2015.
