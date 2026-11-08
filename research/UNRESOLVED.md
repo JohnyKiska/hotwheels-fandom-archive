@@ -400,3 +400,12 @@
 - [ ] Проверить семантику zero-width code points и нормализацию Series #, сохраняя raw source.
 - [ ] Adjudicate Kroger/Target Special Edition rows against annual Mainline releases; не включать No # в numeric Collector # sequence.
 - [ ] Выполнить межгодовое сравнение Mainline 2016 с 2015/2017 после извлечения 2015.
+
+
+## Mainline 2015 annual extraction
+
+- [x] Извлечь 34 Mainline series tables и отдельно Scavenger Hunt (Kroger Exclusive); сохранить различия схем колонок.
+- [x] Проверить структурный QA: 433 Mainline rows, 4 Scavenger Hunt rows; обязательные поля заполнены.
+- [x] Зафиксировать отсутствие Series # в пятиколоночных Mainline tables; не трактовать как пропущенные значения.
+- [ ] Проверить связь Scavenger Hunt products с обычными Mainline releases; не включать No # в numeric Collector # sequence.
+- [ ] Выполнить межгодовое сравнение Mainline 2015 с 2014/2016 после извлечения 2014.
