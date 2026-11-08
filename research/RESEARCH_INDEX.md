@@ -56,3 +56,5 @@
 - 2026-11-08: Hot Wheels Classics (2005–2009) повторно исследована по обновлённому HTML; разобраны пять серийных таблиц (621 data rows), track sets, варианты Toy #/Series #, button/Spectraflame, Walgreens/Comic-Con/RLC exclusives и Chase. Результаты добавлены в FINDINGS, UNRESOLVED и DATA_MODEL_REQUIREMENTS.
 
 - 2026-11-08: исследованы Flying Customs 2006–2007 и 2013: 24 записи в двух годовых таблицах раннего Target-exclusive выпуска и 27 записей 2013 года в шести Mix; зафиксированы Toy #/casting variants, страны производства, base codes, wheel types и tooling/chassis notes. Обновлены FINDINGS, UNRESOLVED и DATA_MODEL_REQUIREMENTS.
+
+- 2026-11-08: исследована страница Hot Wheels Cool Classics (2013–2014): две таблицы по 30 позиций, Toy # Y9424–Y9453 и BDR-series, Spectrafrost colors, Retro Slot Wheels/metal base и два варианта card artwork для каждого года. Обновлены FINDINGS, UNRESOLVED и DATA_MODEL_REQUIREMENTS.
