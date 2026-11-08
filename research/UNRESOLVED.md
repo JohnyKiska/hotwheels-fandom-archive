@@ -499,3 +499,14 @@
 - [ ] Проверить связи Open Stock rows с обычными серийными таблицами и casting/release identity.
 - [ ] Нормализовать Series # в derived fields, сохраняя raw Unicode.
 - [ ] Выполнить межгодовое сравнение Mainline 2005 с 2004/2006 после извлечения 2004.
+
+
+## Mainline 2004 annual extraction
+
+- [x] Извлечь все 16 таблиц и сохранить source table/section provenance.
+- [x] Проверить numeric Collector # sequence 001–212 без пропусков; сохранить отдельный 000 Mail-In.
+- [x] Зафиксировать schema differences: tables 13–16 не содержат Series #.
+- [x] Сохранить raw zero-width Unicode в 101 Series # values.
+- [ ] Проверить First Editions Zamac/Kmart exclusives, Realistics Zamac Exclusive and Mail-In as distinct release scopes.
+- [ ] Проверить T-Hunt source label and its relation to later TH/STH terminology.
+- [ ] Выполнить межгодовое сравнение Mainline 2004 с 2003/2005 после извлечения 2003.
