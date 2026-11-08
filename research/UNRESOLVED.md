@@ -602,3 +602,14 @@
 - [ ] Проверить смысл межсекционных Toy # collisions: один физический casting/release identifier или конфликт источника.
 - [ ] Сверить non-dense Collector # values с каталогами/упаковками; не выводить отсутствующие позиции автоматически.
 - [ ] Выполнить межгодовое сравнение Mainline 1996 с 1995/1997.
+
+
+## Mainline 1995 annual extraction
+
+- [x] Извлечь все 15 product tables, сохранить source order and raw schemas.
+- [x] Сохранить Color and Rims as separate source attributes in the seven-column 1995 Hot Wheels table.
+- [x] Зафиксировать sparse Collector # values; не трактовать неприсутствующие номера как отсутствующие выпуски.
+- [x] Сохранить 72 Series # values containing zero-width Unicode.
+- [ ] Сверить sparse Collector # sequence with 1994/1996 lists and packaging/catalogue evidence.
+- [ ] Проверить relationship between 1995 Treasure Hunts' Series # and annual Collector #.
+- [ ] Выполнить межгодовое сравнение Mainline 1995 с 1994/1996.
