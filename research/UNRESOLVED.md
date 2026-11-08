@@ -267,3 +267,10 @@
 - **Identifier scope:** Mainline Toy #, Mainline Collector #, Premium Toy #, segment Series # and 2-Pack bundle Toy # occupy different namespaces. Validate each identifier's scope and year before matching.
 - **Cross-year Mainline sample limitation:** current comparison uses the archived 2024 Mainline list as an anchor, not a complete Mainline history. It identifies candidate intersections only and may miss older/newer Mainline relationships.
 - **Source confidence:** all cross-catalog observations currently derive from Fandom archive pages and the saved 2024 Fandom Mainline list. Seek Mattel packaging/catalogs or other independent evidence before declaring exact casting/tooling lineage.
+## Межкаталожная сверка: расширение Mainline anchor sample
+
+- **Mainline year coverage:** подтверждённая сравнительная выборка пока привязана к списку Mainline 2024. Для расширения нужны сохранённые годовые Mainline-страницы/списки и их точные пути, ревизии и границы таблиц. Не считать Premium-совпадения подтверждёнными для других лет по аналогии.
+- **Candidate match adjudication:** для каждого совпадения имени требуется отдельная проверка признаков кастинга: кузов/геометрия, шасси, база, колёса, tooling notes и упаковка. При недостатке данных оставлять статус кандидата.
+- **RX-3 family:** не объединять Mazda RX-3, RX-3 Wagon и иные варианты кузова только по общему имени/семейству. Сначала проверить исходные строки и изображения каждого конкретного релиза; отдельно установить, обозначает ли источник casting, модель автомобиля или маркетинговое имя.
+- **Cross-program coverage:** Boulevard и Pop Culture представлены в текущем сравнении выборочно (2024–2026 для source notes); необходимо расширять годы и проверять все таблицы, включая миксы, chase, multipacks и component rows.
+- **Source-note semantics:** Identical to, Similar to, Same as, Modified Casting, New Casting, New Die-Cast Chassis могут описывать разные уровни сравнения. До проверки контекста и изображений сохранять исходную формулировку без вывода о едином инструменте.
