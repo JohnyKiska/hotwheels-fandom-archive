@@ -522,3 +522,13 @@
 - [ ] Проверить source context and images for Boom Box color variants.
 - [ ] Проверить Sonic Special blank Series # and Roll Patrol Unnumbered status.
 - [ ] Выполнить межгодовое сравнение Mainline 2003 с 2002/2004 после извлечения 2002.
+
+
+## Mainline 2002 annual extraction
+
+- [x] Извлечь 18 таблиц annual Mainline и отдельно Final Run.
+- [x] Проверить annual Collector # sequence 001–240 без пропусков.
+- [x] Зафиксировать 5-column schema для 2002 Hot Wheels table (126 rows) без Series #.
+- [x] Отделить Final Run 3 rows от Mainline Collector # namespace; сохранить отдельные Series # values.
+- [ ] Проверить, является ли Final Run listing отдельной product program/line и как она связана с Mainline castings/releases.
+- [ ] Выполнить межгодовое сравнение Mainline 2002 с 2001/2003 после извлечения 2001.
