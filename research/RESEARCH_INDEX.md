@@ -65,3 +65,5 @@
 - 2026-11-08: исследована страница Dragstrip Demons (2009–2010), Fandom revision 807648: заявленные 55 выпусков, 18 castings/13 новых, отменённая позиция 18/30, двойной wheel variant для N8964, повтор позиции 12/25 в 2010 и спорная историческая атрибуция Wedge Dragster. Обновлены FINDINGS, UNRESOLVED и DATA_MODEL_REQUIREMENTS.
 
 - 2026-11-08: исследована страница Vintage Racing (2011), Fandom revision 797035: 30 позиций, Thailand manufacturing claim, множественные Base codes и ошибка печати #22 на карточках позиции 15/30 (T8455). Зафиксирована явная связь замены с Dragstrip Demons. Обновлены FINDINGS, UNRESOLVED и DATA_MODEL_REQUIREMENTS.
+
+- 2026-11-08: исследованы Dragstrip Demons как сегмент Car Culture 2018 (Fandom revision 760101; пять релизов FVN69–FVN73) и Vintage Racing Club 2024 (revision 703020; два mix, 11 релизов HRV00–HRV10). Зафиксированы wheel configurations, base codes, mix-local numbering и различия с Dragstrip Demons 2009–2010/Vintage Racing 2011. Обновлены FINDINGS, UNRESOLVED и DATA_MODEL_REQUIREMENTS.
