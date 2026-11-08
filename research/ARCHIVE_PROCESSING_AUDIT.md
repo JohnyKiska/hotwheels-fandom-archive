@@ -34,7 +34,8 @@ Status labels:
 
 | Year/source | Archive status | Research status | Audit conclusion |
 |---|---|---|---|
-| 1968–1995 (28 annual pages) | Present | No complete year-by-year extraction/QA documented | Not yet audited as annual Mainline datasets |
+| 1968–1994 (27 annual pages) | Present | No complete year-by-year extraction/QA documented | Not yet audited as annual Mainline datasets |
+| 1995 | Present | 97 rows across 15 tables; 97 unique Toy # and Collector #; 12 Treasure Hunts; 1995 Hot Wheels has 7-column schema with Color and Rims | Extracted + QA |
 | 1996 | Present | 141 rows across 17 product tables; 136 unique Toy # and Collector # values; two exact duplicate rows in 1996 Hot Wheels; 64-row five-column table omits Series # | Extracted + QA; duplicate rows and cross-scope Toy # collisions flagged |
 | 1997 | Present | Numbered list: 119 rows, numeric Collector #147–642 (non-dense); Bonus Cars 4 rows (#001–004); seven other series tables: 28 rows with Collector # = N/A | Extracted + QA |
 | 1998 | Present | 185 numbered-list rows, 184 unique Collector # values across 633–908; one repeated #780/Toy #19949 row; separate Bonus Cars 4 rows | Extracted + QA |
