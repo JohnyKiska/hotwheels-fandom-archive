@@ -34,7 +34,8 @@ Status labels:
 
 | Year/source | Archive status | Research status | Audit conclusion |
 |---|---|---|---|
-| 1968–1993 (26 annual pages) | Present | No complete year-by-year extraction/QA documented | Not yet audited as annual Mainline datasets |
+| 1968–1992 (25 annual pages) | Present | No complete year-by-year extraction/QA documented | Not yet audited as annual Mainline datasets |
+| 1993 | Present | 72 rows across five tables with distinct schemas; New Castings/Reissues, Tattoo Machines, Demolition Man and 25th Anniversary Series retain separate identifiers | Extracted + QA; duplicate/conflicting IDs and blanks flagged |
 | 1994 | Present | 14 rows across two 12-column tables (New Models and Reissues); preserves detailed color, tampo, base/window/interior, wheel and Toy # fields | Extracted + QA; missing and suspicious fields flagged |
 | 1995 | Present | 97 rows across 15 tables; 97 unique Toy # and Collector #; 12 Treasure Hunts; 1995 Hot Wheels has 7-column schema with Color and Rims | Extracted + QA |
 | 1996 | Present | 141 rows across 17 product tables; 136 unique Toy # and Collector # values; two exact duplicate rows in 1996 Hot Wheels; 64-row five-column table omits Series # | Extracted + QA; duplicate rows and cross-scope Toy # collisions flagged |
