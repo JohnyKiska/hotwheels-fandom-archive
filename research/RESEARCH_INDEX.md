@@ -126,3 +126,6 @@
 
 
 - 2026-11-08: извлечена Mainline 2018: основная таблица #1–365 содержит 365 строк; отдельно извлечены 104 строки из 10 секций (TH, STH, Super Ultimate Chase, Red Editions, Zamac, retailer exclusives, Daredevil Chase). Все дополнительные строки имеют Collector # = No #. Зафиксированы 6 Series # с zero-width Unicode. CSV и QA: research/extractions/MAINLINE-2018.csv и MAINLINE-2018-EXTRACTION-QA.md. Fandom revision 811760.
+
+
+- 2026-11-08: извлечена Mainline 2017: основная таблица #1–365 (365 строк), дополнительно 85 строк в 9 отдельных секциях, включая TH/STH, Red Editions, retailer exclusives и Digital Circuit Chase Variants. TH/STH задаются заголовками таблиц, а не Series text. CSV и QA: research/extractions/MAINLINE-2017.csv и MAINLINE-2017-EXTRACTION-QA.md. Fandom revision 781777.
