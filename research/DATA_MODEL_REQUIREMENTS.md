@@ -117,3 +117,10 @@
 - **Multiple base codes.** Поддержать связь релиза с несколькими исходными base/case codes и хранить исходную последовательность кодов.
 - **Tooling events.** Разделить New tool! и New die-cast chassis! как разные типы изменений tooling/chassis, с исходной заметкой и привязкой к релизу.
 - **Wheel specification.** Wheel type может быть указано отдельно от Mix, а сокращения UH/GHO/SHO/BW/CT требуют справочника алиасов с сохранением raw token.
+
+
+### Hot Wheels Cool Classics (2013–2014)
+- **Card artwork variants.** Поддержать несколько вариантов оформления карточки для одного и того же автомобильного релиза (Custom Otto blue/red и gold/pink) без создания отдельных casting/vehicle records.
+- **Series position vs Toy #.** Сохранять позицию 1/30–30/30 отдельно от Toy #; Toy # не является сортировочным ключом и может идти в ином порядке.
+- **Line-level specifications.** Общие утверждения о metal base, wheel type и country of manufacture хранить как line/year-level source assertions с provenance, пока источник не подтверждает их для каждой конкретной строки.
+- **Packaging provenance.** Фон карточки, artwork и их варианты должны моделироваться на уровне Packaging/Release, с возможностью связать несколько artwork variants с одной моделью.
