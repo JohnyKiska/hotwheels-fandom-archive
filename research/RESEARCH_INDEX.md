@@ -132,3 +132,6 @@
 
 
 - 2026-11-08: извлечена Mainline 2016: 433 строки в 31 series-specific таблице (250 Collector # positions), отдельно 8 Special Edition rows в двух таблицах. 397 Series # cells содержат zero-width Unicode, сохранённый в CSV. TH/STH указаны в Series text. CSV и QA: research/extractions/MAINLINE-2016.csv и MAINLINE-2016-EXTRACTION-QA.md. Fandom revision 724947.
+
+
+- 2026-11-08: извлечена Mainline 2015: 433 строки в 34 series tables (250 numeric Collector #); отдельно Scavenger Hunt 4 строки с Collector # = No # и шестой колонкой Series #. В Mainline tables только 5 полей (Toy #, Col.#, Model Name, Series, Photo), Series # отсутствует как колонка. CSV экспорт исправлен с header-based mapping и исключением navigation table. QA: research/extractions/MAINLINE-2015-EXTRACTION-QA.md. Fandom revision 790646.
