@@ -135,3 +135,12 @@
 - **Pack composition.** Bonus Vehicle 2-Packs и Crashers 3-Pack должны быть отдельными package/set records с собственным Toy #/SKU и Product Components; один комплект может включать обычную Hot Wheels модель и Crasher или несколько Crasher products.
 - **Source raw values.** Хранить raw wheel strings (C5SP, C6SP, CWSP, Red C5SP и т. п.) и raw Toy # values, включая «?», повторные номера и возможные опечатки. Нормализацию делать отдельно с provenance и статусом проверки.
 - **Year attribution.** Год страницы, год категории, год отдельного выпуска и год продуктовой линии не взаимозаменяемы; Mega Wrecks прямо обозначены на странице как 2008, а основной Crashers page охватывает категории 2007 и 2008.
+
+
+### Dragstrip Demons (2009–2010)
+- **Series position vs release identity.** Хранить Series # отдельно от Toy # и Release ID. Поддержать отсутствующие/отменённые позиции, повторяющиеся Series # и несколько вариантов одного номера.
+- **Wheel variants.** Один Toy #/Series # может иметь альтернативные wheel configurations (пример N8964, RR5SP и RRMag); wheel variant не должен автоматически создавать новый casting.
+- **Cancelled/planned releases.** Нужны статусы planned, cancelled/not produced, released и source notes для нереализованных позиций; не создавать полноценный Release как состоявшийся продукт без evidence.
+- **Historical vehicle attribution.** Хранить реальную машину, пилота, команду, спонсора и race livery отдельными связями с provenance и confidence; модель Hot Wheels и корректность исторической атрибуции не одно и то же.
+- **Series lineage and name reuse.** Поддержать successor/tribute/revival/name-reuse relations между Dragstrip Demons 2009–2010, Vintage Racing 2011 и Car Culture 2018, не объединяя их автоматически в одну Series Identity.
+- **Source row fidelity.** Сохранять raw Series #, Toy #, Notes, N/A и повторяющиеся значения без автоматической коррекции.
