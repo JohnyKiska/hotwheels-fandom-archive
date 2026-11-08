@@ -625,3 +625,17 @@
 - [ ] Verify missing Sol-Aire CX-4 Toy # and Road Roller INTL record with primary evidence.
 - [ ] Determine whether BMW 850i wheel variants are distinct releases or wheel-only variants of one release.
 - [ ] Выполнить межгодовое сравнение Mainline 1994 с 1993/1995.
+
+
+## Mainline 1993 annual extraction
+
+- [x] Извлечь пять таблиц с разными source schemas; сохранить все raw columns.
+- [x] Сохранить Tattoo Machines Series Rename separately from Car name; Demolition Man # in Series separately from annual Col #.
+- [x] Зафиксировать repeated/conflicting Col #149, #197 and #224.
+- [x] Зафиксировать repeated Toy #2781, #3502, #4314 and #5667.
+- [x] Зафиксировать three blank Col # rows (Toyota MR2, Good Humor Truck, Auburn 852) and four blank Toy # rows in Tattoo Machines.
+- [ ] Проверить Col #197 collision (Corvette Split Window / Gleamer Patrol) по упаковкам/каталогам.
+- [ ] Проверить Zombot #224 entries with Toy #3852/4346: distinct variants or source numbering error.
+- [ ] Проверить Toy #2781 shared by Path Beater and Bywayman; Toy #4314 Auburn 852 duplicate color entry.
+- [ ] Verify blank Toy # values in Tattoo Machines and blank Col # values in New Castings/Reissues.
+- [ ] Выполнить межгодовое сравнение Mainline 1993 с 1992/1994.
