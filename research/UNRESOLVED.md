@@ -613,3 +613,15 @@
 - [ ] Сверить sparse Collector # sequence with 1994/1996 lists and packaging/catalogue evidence.
 - [ ] Проверить relationship between 1995 Treasure Hunts' Series # and annual Collector #.
 - [ ] Выполнить межгодовое сравнение Mainline 1995 с 1994/1996.
+
+
+## Mainline 1994 annual extraction
+
+- [x] Извлечь New Models (5 rows) and Reissues (9 rows) with all 12 source columns.
+- [x] Сохранить Color, Tampo, Base Color / Type, Window Color, Interior Color, Wheel Type and Notes as separate source attributes.
+- [x] Зафиксировать BMW 850i #255 / Toy #5667 in two wheel variants (UH, GUH).
+- [x] Зафиксировать blank Toy # for Sol-Aire CX-4 #254 and literal Col # INTL for Road Roller.
+- [ ] Проверить suspicious field alignment in Tough Customer #159 row against original page/archived packaging or catalogues.
+- [ ] Verify missing Sol-Aire CX-4 Toy # and Road Roller INTL record with primary evidence.
+- [ ] Determine whether BMW 850i wheel variants are distinct releases or wheel-only variants of one release.
+- [ ] Выполнить межгодовое сравнение Mainline 1994 с 1993/1995.
