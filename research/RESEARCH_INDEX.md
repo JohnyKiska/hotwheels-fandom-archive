@@ -135,3 +135,6 @@
 
 
 - 2026-11-08: извлечена Mainline 2015: 433 строки в 34 series tables (250 numeric Collector #); отдельно Scavenger Hunt 4 строки с Collector # = No # и шестой колонкой Series #. В Mainline tables только 5 полей (Toy #, Col.#, Model Name, Series, Photo), Series # отсутствует как колонка. CSV экспорт исправлен с header-based mapping и исключением navigation table. QA: research/extractions/MAINLINE-2015-EXTRACTION-QA.md. Fandom revision 790646.
+
+
+- 2026-11-08: извлечена Mainline 2014: 433 строки в 32 series-specific tables (250 Collector # positions), отдельно 4 Scavenger Hunt (Kroger Exclusive) rows с Collector # = No #. Одна Mainline таблица (Batman 75th Anniversary) имеет 5 колонок без Series #; 153 Series # cells содержат zero-width Unicode. CSV и QA: research/extractions/MAINLINE-2014.csv и MAINLINE-2014-EXTRACTION-QA.md. Fandom revision 804340.
