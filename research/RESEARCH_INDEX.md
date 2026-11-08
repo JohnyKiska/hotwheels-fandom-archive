@@ -201,3 +201,6 @@
 
 
 - 2026-11-08: извлечена Mainline 1992: 24 строки в трёх таблицах (New Castings 12, Reissues 7, Gleam Team 5). Две схемы: 12 и 9 колонок. Уникальные Col # 24; Toy # 22; у Gleam Team #189/#190 Toy # отсутствует. CSV/QA: research/extractions/MAINLINE-1992.csv и MAINLINE-1992-EXTRACTION-QA.md. Fandom revision 783535.
+
+
+- 2026-11-08: извлечена Mainline 1991: 62 строки в New Castings (27), Reissues (24) и California Customs (11). 39 уникальных nonblank Col #, 46 уникальных Toy #; 10 пустых Col # и 9 пустых Toy #. Повторяются Col #129/148 и Toy #1470/1897/2097/3209/7607/9749. California Customs имеет отдельную схему без Col #. CSV/QA: research/extractions/MAINLINE-1991.csv и MAINLINE-1991-EXTRACTION-QA.md. Fandom revision 797729.
