@@ -201,3 +201,20 @@
 - [ ] Investigate 2027 navigation link and determine whether a 2027 page/release exists in the archive or is merely a future navigation placeholder.
 - [ ] Confirm the semantics of stand codes U13A–V30A and whether they encode manufacturing/date/packaging information.
 - [ ] Determine whether 2025/2026 Toy #s identify unique release SKUs, and how multi-car sets and team products are represented in Mattel's product catalogues.
+
+
+## Pro Racing (1997–2005) and Basic Pro Racing
+- [ ] Independently verify yearly Pro Racing tables and product lists against Mattel catalogues, packaging, and race-season sources.
+- [ ] Identify exact page table headings and the intended assortment/program meaning for every table, especially 1997–2000 and the numerous 2001–2004 promo categories.
+- [ ] Determine whether repeated rows with same Toy # but different facing/grille/spoiler/deco/card notes are physical variants, packaging variants, or duplicate documentation.
+- [ ] Confirm the full driver identities behind 1999 Formula 1 fragments “Mika” and “David”; identify the exact real-world McLaren MP4-14/MP4-13 entries and seasons.
+- [ ] Validate the 2003 Luxury Rides driver names and determine whether they refer to a specific race/season car or only a driver-themed livery.
+- [ ] Determine driver identity for other years only where the source provides evidence; do not infer from team number/sponsor alone.
+- [ ] Confirm meaning and scope of “Basic Pro Racing Series” and the chronology/identity of the GP-2009 entries.
+- [ ] Verify the Reynard 97L and Lola T97 real-world chassis, teams, drivers and season for Basic Pro Racing rows #19116–19119.
+- [ ] Clarify source table terms/codes: STOCKERZ, Pit Board, Race Day, Test Track, Recreational Series, Luxury Rides, Wrenchin' & Racing, GYERR/5SP/MC3/ORSB/etc.
+- [ ] Resolve unusual number suffixes (12A, 43A, 6A, 16A, 17A, 21A, 25A, 97A, 99A, 16B, 21B) and whether they are item/variant/series identifiers.
+- [ ] Verify all NEVER RELEASED rows and distinguish unreleased concepts from prototypes, preview pieces, promos, and confirmed production.
+- [ ] Investigate missing Toy # / Item Number values and duplicate numbers across tables.
+- [ ] Clarify whether Tool Box products belong within Pro Racing or are separately categorized products; do not classify them as cars.
+- [ ] Verify the relationship between 1999 Formula 1 table and GP-2009 Formula 1 entries on Basic page.
