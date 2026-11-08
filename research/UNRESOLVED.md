@@ -660,3 +660,14 @@
 - [ ] Разобрать repeated Toy #7607 (Porsche 930), #9749 (Renault 5 Turbo), #1470/#1897/#2097 cross-section and #3209.
 - [ ] Verify blank Toy # and Col # values against packaging/catalogues.
 - [ ] Выполнить межгодовое сравнение Mainline 1991 с 1990/1992.
+
+
+## Mainline 1990 annual extraction
+
+- [x] Извлечь New Castings, Reissues, The Simpsons and California Customs separately.
+- [x] Зафиксировать schema scope: only New Castings has Col #.
+- [x] Зафиксировать eight blank Toy # rows in Reissues.
+- [x] Зафиксировать 11 repeated Toy # groups across source sections and castings.
+- [ ] Проверить repeated Toy # values against package/catalogue data to distinguish variants, shared tooling, and source collisions.
+- [ ] Verify missing Toy # in eight Reissues rows.
+- [ ] Выполнить межгодовое сравнение Mainline 1990 с 1989/1991.
