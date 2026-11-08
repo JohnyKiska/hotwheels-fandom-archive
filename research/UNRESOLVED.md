@@ -428,3 +428,14 @@
 - [x] Зафиксировать отсутствие Series # в Mainline schema; не считать его пропуском.
 - [ ] Проверить Kroger-exclusive Scavenger Hunt products и связи с обычными Mainline releases; не включать No # в numeric Collector #.
 - [ ] Выполнить межгодовое сравнение Mainline 2013 с 2012/2014 после извлечения 2012.
+
+
+## Mainline 2012 annual extraction
+
+- [x] Извлечь 23 основных таблицы Mainline и отдельно Windshield Banner Exclusives, Redline Exclusives и Year of the Dragon Edition.
+- [x] Проверить Collector # sequence: 001–247 без пропусков; не создавать позиции 248–250.
+- [x] Зафиксировать 20 cross-listed exclusive rows (16 exact repeats, 4 differing Model Name strings under repeated Toy #) и отдельный Y5852 Year of the Dragon Edition with No #.
+- [ ] Adjudicate the four non-identical repeated Toy # records: V5473, V5615, V5651, V5431.
+- [ ] Проверить packaging/source context for Windshield Banner and Redline exclusives; don't deduplicate by Toy # alone.
+- [ ] Проверить Y5852 Year of the Dragon Edition's blank Series # and product scope.
+- [ ] Выполнить межгодовое сравнение Mainline 2012 с 2011/2013 после извлечения 2011.
