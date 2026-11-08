@@ -566,3 +566,14 @@
 - [ ] Determine whether unrepresented Collector # values 650–1121 correspond to other 1999 programs, unused numbers, or page omissions; do not label them missing products without evidence.
 - [ ] Verify separate Final Run and Bonus Cars product scopes with packaging/catalogues.
 - [ ] Выполнить межгодовое сравнение Mainline 1999 с 1998/2000 после извлечения 1998.
+
+
+## Mainline 1998 annual extraction
+
+- [x] Извлечь все 16 таблиц, сохранить source table/section provenance and raw column counts.
+- [x] Зафиксировать 5-column 1998 Hot Wheels schema without Series # and optional Photo 2 column in four tables.
+- [x] Зафиксировать header typo `Serie s` and normalize only derived field mapping.
+- [x] Зафиксировать non-dense Collector # range 633–908 and 92 unrepresented values; do not infer missing products.
+- [ ] Investigate duplicate Collector #780 / Toy #19949 row in 1998 Hot Wheels table.
+- [ ] Verify 1998 Bonus Cars scope and identifiers; two Toy # cells are blank in source.
+- [ ] Выполнить межгодовое сравнение Mainline 1998 с 1997/1999 после извлечения 1997.
