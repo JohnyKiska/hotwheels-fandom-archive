@@ -195,3 +195,6 @@
 
 
 - 2026-11-08: извлечена Mainline 1994: 14 строк в двух 12-колоночных таблицах (New Models 5, Reissues 9). Сохранены Color, Tampo, Base Color / Type, Window Color, Interior Color, Wheel Type, Toy # и Notes. Выявлены BMW 850i с двумя Wheel Type, пустой Toy # у Sol-Aire CX-4, INTL identifier у Road Roller и подозрительное смещение полей Tough Customer. CSV/QA: research/extractions/MAINLINE-1994.csv и MAINLINE-1994-EXTRACTION-QA.md. Fandom revision 783555.
+
+
+- 2026-11-08: извлечена Mainline 1993: 72 строки в пяти таблицах с разными схемами. 64 уникальных Toy #; 36 уникальных nonblank Col # в New Castings/Reissues. Отмечены повторяющиеся Col #149/197/224, Toy #2781/3502/4314/5667, три пустых Col # и четыре пустых Toy # в Tattoo Machines. Demolition Man использует # in Series, 25th Anniversary Series отдельный набор полей. CSV/QA: research/extractions/MAINLINE-1993.csv и MAINLINE-1993-EXTRACTION-QA.md. Fandom revision 797943.
