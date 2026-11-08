@@ -181,3 +181,48 @@
 - **Observation.** Nitty Gritty Kitty имеет три таблицы с одинаковым набором подробных полей (год, серия, цвет, тампо, тип/цвет базы, окна, интерьер, колёса, Toy #, страна, заметки). На странице также отдельно выделены 1:64, 100% и retooled версии. Это подтверждает необходимость различать scale/product line и поколения tooling.
 - **Observation.** TNT-Bird имеет отдельные таблицы Original Versions и Re-Tooled Versions. Само разделение страницы показывает, что повторное использование названия после re-tool не должно автоматически означать идентичность casting.
 - **Observation.** На странице Super Streeters и The Heavies общий текст Patch Cards указывает 1978–1979 и Hong Kong; это первичное подтверждение формулировок этих двух тематических страниц, а не независимая проверка дат.
+
+
+## Early Special Series: дополнительные продуктовые типы и границы бренда (2026-11-08)
+
+### Farbs (1972)
+Источник: `Early Special Series/Farbs _ Hot Wheels Wiki _ Fandom.html`.
+
+- **Observation.** Статья описывает короткоживущую серию 1972 года из четырёх выпущенных cartoonish "people cars", созданных Eddy Goldfarb; инженер проекта — Bob Rosas.
+- **Observation.** Ещё два названия, Bye-A-Nose и Wyndan Cheeks, указаны как проекты, не прошедшие стадию прототипирования. В таблице присутствуют четыре выпущенных имени: Hy Gear, Myles Ahead, Red CatchUp и Hot Rodney.
+- **Observation.** Страница прямо говорит, что продукция производилась Mattel, использовала колёса, применявшиеся также на Hot Wheels, но официально не брендировалась как Hot Wheels. При этом на упаковке упоминаются Hot Wheels track и аксессуары.
+- **Design requirement.** Не выводить принадлежность к бренду Hot Wheels из производителя Mattel, совместимости с трассой или текста на упаковке. Нужен явный Brand Relationship и статусы Released/Prototype.
+
+### Zowees (1972)
+Источник: `Early Special Series/Zowees _ Hot Wheels Wiki _ Fandom.html`.
+
+- **Observation.** Zowees описаны как миниатюрные модели масштаба 1:125. Первые восемь были произведены для Shell Oil Company как promotional items; затем слегка изменённые версии этих восьми и ещё шесть новых моделей продавались через розницу.
+- **Observation.** Розничные модели продавались в multipacks, а не по одной; встречались наборы из 2, 3, 4 и 6 Zowees, а также канадские наборы, где одна Zowees сочеталась с машинкой Hot Wheels 1972 года.
+- **Observation.** В Германии восемь Shell promotional моделей продавались Mattel Germany под именем Fun Buggies, причём у всех были другие названия.
+- **Observation.** Конструкция описана как металлическая база/двигатель с защёлкивающимися пластиковыми кузовом и колёсами.
+- **Design requirement.** Моделировать Zowees как отдельный продуктовый тип/масштаб, промо-канал Shell, розничные multipacks и региональные aliases (Fun Buggies) раздельно. В наборе хранить состав, а не искусственно создавать одиночные розничные релизы.
+
+### Truck Co.
+Источник: `Early Special Series/Truck Co. _ Hot Wheels Wiki _ Fandom.html`.
+
+- **Observation.** Статья определяет Truck Co. как серию тягачей с дополнительными транспортными средствами (bonus vehicles); прямо отмечено использование тех же cab castings, что и в Steering Rigs.
+- **Observation.** Таблица имеет 20 строк данных и поля Toy #, Vehicles, Color, Tampo, Notes и изображения.
+- **Design requirement.** Общий cab casting должен быть связан с разными product/series releases; bonus vehicle и тягач должны быть компонентами комплекта, а не сливаться в одну сущность.
+
+### Fat Daddy Sizzlers: отдельные модели и аксессуар
+Источники: Fireworks, HiWay Hauler, Law Mill, Needle Nose, Ram Rocket, Red Baron (Sizzlers), Steering Trailer.
+
+- **Observation.** Страницы Fireworks, HiWay Hauler, Law Mill, Needle Nose, Ram Rocket и Red Baron описывают модели, введённые в 1973 году и снятые с производства вместе с линейкой Sizzlers в 1973 году. Все связаны с Fat Daddy Sizzlers; большинство описаний приписывают дизайн George Soulakis.
+- **Observation.** На страницах имеются отдельные таблицы версий с разными количествами записей: Fireworks — 4, HiWay Hauler — 4, Law Mill — 2, Needle Nose — 5, Ram Rocket — 4, Red Baron — 1 (по числу строк данных).
+- **Observation.** Страница Steering Trailer описывает его не как автомобиль, а как аксессуар к Sizzlers: он крепился сзади модели и позволял ей двигаться по прямой, кругу или восьмёрке после зарядки. Он продавался только в Steering Trailer Set вместе с Law Mill.
+- **Observation.** В тексте Steering Trailer есть явная редакционная ошибка: предложение о версиях ошибочно называет Ram Rocket вместо Steering Trailer.
+- **Design requirement.** Steering Trailer должен быть Accessory/Mechanism component, а Steering Trailer Set — комплектом с отношением состава к Law Mill и аксессуару. Ошибочный текст источника сохранять как provenance, но не использовать как достоверное описание объекта.
+
+### Flip Outs: серия и castings
+Источник: `Early Special Series/Flip Outs _ Hot Wheels Wiki _ Fandom.html`.
+
+- **Observation.** Страница организована по четырём названиям/разделам: Camaro Wind, Ford Aerostar, Police Car и Nissan 200SX. Таблицы не имеют обычных заголовков, поэтому структуру следует интерпретировать с осторожностью.
+- **Observation.** Ссылки внутри таблиц связывают Camaro Wind с Road Flipper и Flipper Snapper, Ford Aerostar — с Capsider и Vaultin' Van; это показывает наличие нескольких имён/вариантов или связанных кастингов внутри разделов.
+- **Design requirement.** Сохранять без потерь порядок ячеек и заголовки секций для таблиц без th; не принимать название секции автоматически за имя casting.
+
+**Ограничение:** наблюдения основаны на содержимом архивных Fandom HTML. Исторические даты и атрибуции пока не сверены с независимыми каталогами.
