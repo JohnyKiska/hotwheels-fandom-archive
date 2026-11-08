@@ -151,3 +151,15 @@
 - **Base/case codes.** Поле Notes может содержать несколько Base code(s) на один релиз. Хранить список raw codes с исходным порядком, не превращая код в Toy # или Series Position.
 - **Packaging misprints.** Ошибочный номер, напечатанный на карточке (например, #22 вместо позиции 15/30), должен храниться как Packaging/Print Error с provenance и scope, не перезаписывая фактическую позицию продукта.
 - **Line-level manufacturing claim.** Страну производства, заявленную на уровне всей линии, хранить как source assertion с охватом 2011 Vintage Racing; не копировать как индивидуально проверенное поле для каждой модели без evidence.
+
+
+### Dragstrip Demons (Car Culture, 2018)
+- **Segment vs series identity.** Model Car Culture as the parent line/series and Dragstrip Demons as a named segment/subseries with its own five release positions, Toy # values and wheel configurations. Do not merge it with the 2009–2010 Dragstrip Demons series based only on name/logo reuse.
+- **Wheel assemblies.** Support multiple wheel types per release and preserve their raw order/string. Do not assume a compound wheel note means alternative variants; axle-level assignment may need verification.
+- **Themed successor/revival links.** Provide typed relations such as revival_of, tribute_to, successor_to or name_reuse_of, with evidence and confidence.
+
+### Vintage Racing Club (2024)
+- **Mix as assortment dimension.** Support separate mix-local position numbering (Mix 1 1/6–6/6; Mix 2 1/5–5/5), not one forced 1–11 sequence.
+- **Series identity separation.** Do not equate Vintage Racing Club 2024 with Vintage Racing 2011 based on lexical similarity. Store explicit relationship only when supported.
+- **Release-level attributes.** Store casting name, color, tampo/deco description, wheel type, opening features, metal-base notes and multiple base codes per release with source provenance. Line-level theme claims such as “pre-1974” and “silver label” remain source assertions, not inferred attributes on every vehicle.
+- **Raw source preservation.** Preserve punctuation anomalies and raw Notes (including “Base code(s); S43”) alongside normalized values.
