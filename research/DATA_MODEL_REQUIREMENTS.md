@@ -163,3 +163,15 @@
 - **Series identity separation.** Do not equate Vintage Racing Club 2024 with Vintage Racing 2011 based on lexical similarity. Store explicit relationship only when supported.
 - **Release-level attributes.** Store casting name, color, tampo/deco description, wheel type, opening features, metal-base notes and multiple base codes per release with source provenance. Line-level theme claims such as “pre-1974” and “silver label” remain source assertions, not inferred attributes on every vehicle.
 - **Raw source preservation.** Preserve punctuation anomalies and raw Notes (including “Base code(s); S43”) alongside normalized values.
+
+
+## Formula One Collection: motorsport identity and driver relationships
+- **Separate entities:** represent Hot Wheels Product/Casting/Release separately from the real-world racing vehicle, chassis/model, constructor/team, driver, season and racing number. Do not collapse these into one “car name” string.
+- **Season-scoped participation:** model Driver ↔ Team and Driver ↔ Racing Vehicle/Entry relationships with season (and, where available, race/event or date range). A driver can change teams/cars; a team can field multiple drivers in the same season.
+- **Release representation link:** each Hot Wheels release may represent a specific real-world vehicle/driver entry, a team livery without a specific driver, or a multi-vehicle set. Make this representation relation optional and typed; do not force a driver onto team-branded products.
+- **Racing number:** store the real-world competition number separately from Hot Wheels Toy # / SKU. Preserve its season/context because numbers can change between drivers and years.
+- **Chassis identity confidence:** store the source's raw vehicle/team label and a separately normalized chassis/model reference only when supported. Rows that state only team + racing number must not inherit a chassis by inference.
+- **Team naming history:** preserve original season-specific team names and model naming strings; provide optional canonical team identity plus time-bounded aliases/sponsorship names. Do not overwrite source labels such as Visa Cash App RB or Atlassian Williams Racing.
+- **Assortment product types:** support individual driver-specific cars, team-branded products without driver attribution, display/booklet products, podium sets and other multipacks. A set must link to its included product instances/castings and preserve the source's listed quantities/order where available.
+- **Release attributes and provenance:** retain Toy #, wheel type, stand codes (including multiple codes), raw Casting Name, Driver and source row/order as release-level data. Preserve year-specific source paths and revisions.
+- **No forced identity merge:** two releases with the same team and racing number in different years are not automatically the same real-world chassis; similarly, a repeated driver name does not establish the same team/vehicle relation across seasons.
