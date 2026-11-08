@@ -189,3 +189,15 @@
 - [ ] Decode wheel types S5, C5, MM5 and P4, and base codes S41–T10.
 - [ ] Investigate the 1967 Camaro opening hood note and raw punctuation “Base code(s); S43”.
 - [ ] Determine whether Vintage Racing Club (2024) has any documented lineage to Vintage Racing (2011), or is only a thematic/name resemblance.
+
+
+## Formula One Collection (2025–2026)
+- [ ] Independently verify the 2025 and 2026 release lists, Toy #s, team names, drivers, racing numbers and stand codes against Mattel packaging/catalogues.
+- [ ] Determine exact real-world chassis identity for rows where Fandom lists only a team and racing number; do not infer chassis from the season without corroboration.
+- [ ] Establish whether every driver-specific deco represents a specific race car/chassis or a generic team livery. Capture evidence per release.
+- [ ] Verify whether 2026 team-branded products JMM91–JMN00 are accessories, display pieces, generic team cars or another product format; source table provides only Toy # and team name.
+- [ ] Inspect JRB39 row and associated images/text to identify the product and any contents; extracted table fields are blank.
+- [ ] Verify JRB40 Podium Set contents and whether the listed MCL39/RB21 names correspond to exact physical castings or descriptive model labels.
+- [ ] Investigate 2027 navigation link and determine whether a 2027 page/release exists in the archive or is merely a future navigation placeholder.
+- [ ] Confirm the semantics of stand codes U13A–V30A and whether they encode manufacturing/date/packaging information.
+- [ ] Determine whether 2025/2026 Toy #s identify unique release SKUs, and how multi-car sets and team products are represented in Mattel's product catalogues.
