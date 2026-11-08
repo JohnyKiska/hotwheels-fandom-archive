@@ -373,3 +373,12 @@
 - [x] Проверить структуру и полноту: Mainline 447 строк, special editions 2 строки, обязательные поля заполнены.
 - [ ] Проверить происхождение и состав Tesla Greetings from Space Special Edition (GFJ71) и Barbie 60th Anniversary Special Edition (GJN99); не считать их автоматически частью обычного Mainline assortment.
 - [ ] Выполнить межгодовое сравнение Mainline 2019 с 2018/2020 после извлечения 2018.
+
+
+## Mainline 2018 annual extraction
+
+- [x] Извлечь основную таблицу #1–365 и все отдельно обозначенные дополнительные секции; сохранить source table/section provenance.
+- [x] Выполнить структурный QA: 365 Mainline rows + 104 additional rows в 10 секциях; обязательные поля заполнены.
+- [x] Зафиксировать шесть Series # cells с zero-width Unicode; raw values сохранены в CSV.
+- [ ] Проверить отношения дополнительных таблиц TH/STH, Super Ultimate Chase, Red Editions, Zamac и retailer exclusives к Mainline release rows; не считать их дополнительными номерами 366+.
+- [ ] Выполнить межгодовое сравнение Mainline 2018 с 2017/2019 после извлечения 2017.
