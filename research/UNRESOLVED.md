@@ -309,7 +309,8 @@
 
 ## Mainline annual archive: задачи после инвентаризации (2026-11-08)
 
-- [ ] Повторно извлечь Mainline 2024 из канонической ветки `archive/historical-html-1968-2026`, записать blob SHA/manifest SHA-256, полные row counts и QA; сверить provenance с ранее использованным 2024 anchor sample.
+- [x] Повторно извлечь Mainline 2024 из канонической ветки `archive/historical-html-1968-2026`, записать blob SHA/manifest SHA-256, полные row counts и QA. CSV и отчёт сохранены в `research/extractions/`.
+- [ ] Adjudicate 49 Car Culture ↔ Mainline 2024 exact-name candidates using the QA-checked canonical 2024 extraction; confirm only with evidence beyond name match.
 - [ ] Независимо извлечь и сравнить обе страницы Mainline 2010 (обычная и International); сохранить региональные различия и не объединять строки автоматически.
 - [ ] Выполнить полную annual extraction + QA для Mainline 1968–2009.
 - [ ] Выполнить полную annual extraction + QA для Mainline 2011–2023.
