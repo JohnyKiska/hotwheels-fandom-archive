@@ -175,3 +175,18 @@
 - **Assortment product types:** support individual driver-specific cars, team-branded products without driver attribution, display/booklet products, podium sets and other multipacks. A set must link to its included product instances/castings and preserve the source's listed quantities/order where available.
 - **Release attributes and provenance:** retain Toy #, wheel type, stand codes (including multiple codes), raw Casting Name, Driver and source row/order as release-level data. Preserve year-specific source paths and revisions.
 - **No forced identity merge:** two releases with the same team and racing number in different years are not automatically the same real-world chassis; similarly, a repeated driver name does not establish the same team/vehicle relation across seasons.
+
+
+## Pro Racing: motorsport entries, teams, drivers and multi-format assortments
+- **Do not force a single racing discipline:** support NASCAR stock cars, Indy/CART open-wheel cars, Formula 1 cars, pace cars, trucks and other racing-related castings under a broad racing context with discipline/category attributes.
+- **Separate product from racing entry:** a Hot Wheels casting/release is not the real race car. Link a release optionally to a real-world Racing Vehicle/Entry with confidence and source evidence.
+- **Team and sponsor are distinct:** preserve the raw source field (often a compound string) and model Team/Constructor, Sponsor, Livery/Deco, Event and Driver separately. Sponsor name alone does not identify a driver.
+- **Driver attribution is optional and evidence-based:** 2003 Luxury Rides explicitly supplies driver names, while most yearly tables do not. Support direct source attribution, partial/unresolved name fragments and absent driver attribution. Do not infer driver from racing number or team.
+- **Season and entry context:** model Driver ↔ Team ↔ Racing Entry as time-scoped relationships; the same number can be associated with different drivers/teams across years or even within one year. Racing number is not a stable global identity.
+- **Table/program provenance:** retain source page, year, table order/title, raw column labels, row order and program/category label (e.g. Race Day, Luxury Rides, Pit Board, Treasure Hunt, STOCKERZ, Wrenchin' & Racing, Justice League). A page may aggregate many unrelated product formats.
+- **Multiple product formats:** support cars, trucks, Tool Box products, Pit Board/display pieces, sets, promos, trading-card inclusions and other non-vehicle merchandise. Do not assume every table row is a car casting.
+- **Release identity and variant layers:** Toy #, Item Number, racing number, wheel code, base/material, interior, country, livery, facing direction, grille/spoiler, autograph/decal, card/packaging and set exclusivity must remain distinct fields/relations.
+- **Release status:** distinguish confirmed released, unreleased/never released, prototype, preview, promo-only, uncertain and source-noted duplicate. Do not include unreleased entries in released-product counts.
+- **Cross-listing and set links:** preserve explicit notes such as “same as [year/program]”, “only available in [set]”, or included trading cards. Do not create a new casting from each cross-listing.
+- **Open-wheel identity:** support chassis model and season-specific team/driver entries (e.g. Reynard 97L, Lola T97, McLaren MP4-14/MP4-13, GP-2009) independently from the Hot Wheels casting label. Preserve uncertain model/driver labels as raw text until verified.
+- **Normalization discipline:** wheel abbreviations and suffixes in team numbers require codebooks/evidence; retain raw strings and source spellings before normalization.
