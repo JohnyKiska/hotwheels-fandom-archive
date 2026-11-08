@@ -32,8 +32,8 @@
 2. [x] Проверена структура таблиц Boss Hoss, Heavy Chevy и King Kuda; полная хронология релизов остаётся задачей.
 3. [ ] Уточнить семантику двух таблиц Speed Fleet и сопоставить их с упаковками Blue Card/Rainbow Card.
 4. [x] Проведён структурный и выборочный построчный проход по 19 дополнительным страницам Early Collections; наблюдения внесены в FINDINGS.
-5. [ ] Разобрать страницы без HTML-таблиц и неполные/вспомогательные таблицы; продолжить сверку релизов.
-5. После исследования раннего блока перейти к Modern Special Series, Notable Modern Themed Assortments и Other Modern Series.
+5. [x] Разобраны Heavyweights (годовые галереи), Real Riders (disambiguation), Grand Prix (вложенные названия в ячейках) и шесть таблиц Ultra Hots 1984–1986/pack listings.\n6. [ ] Продолжить проверку остальных ранних коллекций и их вспомогательных таблиц/галерей.
+7. После исследования раннего блока перейти к Modern Special Series, Notable Modern Themed Assortments и Other Modern Series.
 
 ## История обновлений
 
