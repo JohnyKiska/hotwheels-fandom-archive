@@ -144,3 +144,10 @@
 - **Historical vehicle attribution.** Хранить реальную машину, пилота, команду, спонсора и race livery отдельными связями с provenance и confidence; модель Hot Wheels и корректность исторической атрибуции не одно и то же.
 - **Series lineage and name reuse.** Поддержать successor/tribute/revival/name-reuse relations между Dragstrip Demons 2009–2010, Vintage Racing 2011 и Car Culture 2018, не объединяя их автоматически в одну Series Identity.
 - **Source row fidelity.** Сохранять raw Series #, Toy #, Notes, N/A и повторяющиеся значения без автоматической коррекции.
+
+
+### Vintage Racing (2011)
+- **Series lineage.** Поддержать явные отношения successor/replaced_by между разными Series Identity; не объединять линии автоматически, даже если источник прямо говорит, что одна заменила другую.
+- **Base/case codes.** Поле Notes может содержать несколько Base code(s) на один релиз. Хранить список raw codes с исходным порядком, не превращая код в Toy # или Series Position.
+- **Packaging misprints.** Ошибочный номер, напечатанный на карточке (например, #22 вместо позиции 15/30), должен храниться как Packaging/Print Error с provenance и scope, не перезаписывая фактическую позицию продукта.
+- **Line-level manufacturing claim.** Страну производства, заявленную на уровне всей линии, хранить как source assertion с охватом 2011 Vintage Racing; не копировать как индивидуально проверенное поле для каждой модели без evidence.
