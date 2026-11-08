@@ -510,3 +510,15 @@
 - [ ] Проверить First Editions Zamac/Kmart exclusives, Realistics Zamac Exclusive and Mail-In as distinct release scopes.
 - [ ] Проверить T-Hunt source label and its relation to later TH/STH terminology.
 - [ ] Выполнить межгодовое сравнение Mainline 2004 с 2003/2005 после извлечения 2003.
+
+
+## Mainline 2003 annual extraction
+
+- [x] Извлечь все 22 таблицы, сохранить schema per table.
+- [x] Проверить Collector # sequence 001–220 без пропусков.
+- [x] Зафиксировать 5-column 2003 Hot Wheels table without Series #.
+- [x] Зафиксировать Collector #035 / Toy #56391 triple color entry.
+- [x] Зафиксировать blank Series # for Sonic Special #207 and literal Unnumbered for Roll Patrol.
+- [ ] Проверить source context and images for Boom Box color variants.
+- [ ] Проверить Sonic Special blank Series # and Roll Patrol Unnumbered status.
+- [ ] Выполнить межгодовое сравнение Mainline 2003 с 2002/2004 после извлечения 2002.
