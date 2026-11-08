@@ -284,3 +284,13 @@
 - [ ] Сопоставить Mainline 2025 с Car Culture 2025, Boulevard 2025 и Team Transport 2025 раздельными comparison runs. Не смешивать компонентные строки Team Transport с отдельными SKU.
 - [ ] Для каждого name-match candidate проверить, совпадает ли именно casting/body/tooling, а не только реальный автомобиль или маркетинговое имя. Особенно внимательно рассматривать wagon/coupe, поколения кузова и casting-family labels.
 - [ ] Не публиковать aggregate match count до завершения полного сравнения и проверки входных наборов. Текущий source-discovery проход не дал подтверждённого числа совпадений.
+
+
+### Mainline 2025: архивный источник найден, требуется извлечение и сверка
+
+- [x] Найти архивный HTML Mainline 2025. Источник: `JohnyKiska/hotwheels`, branch `archive/historical-html-1968-2026`, path `ALLHW/2025/List of 2025 Hot Wheels _ Hot Wheels Wiki _ Fandom.html`.
+- [x] Зафиксировать Git blob SHA `b155324bd3fca3281ed91fd7a8fa992e04f1662f`, размер 824,886 bytes и SHA-256 из `ALLHW/MANIFEST.csv`: `bbdac9d328130734328c1bb9b8a01fc738055dd596f0b7dfcf286ae5b142672c`.
+- [ ] Извлечь полные строки таблиц из архивного HTML, сохранив исходный порядок, Toy #, Col. #, Model Name, Series, Series #, варианты/цвета и примечания.
+- [ ] Зафиксировать метод и контрольные количества извлечённых строк; сверить их с таблицами исходной страницы и проверить дубли/пропуски.
+- [ ] Выполнить отдельные воспроизводимые comparison runs Mainline 2025 ↔ Car Culture 2025, Boulevard 2025 и Team Transport 2025.
+- [ ] После проверки удалить/переформулировать устаревшие выводы о недоступности Mainline 2025; не считать совпадения названий доказательством идентичности casting/tooling.
