@@ -58,3 +58,6 @@
 - 2026-11-08: исследованы Flying Customs 2006–2007 и 2013: 24 записи в двух годовых таблицах раннего Target-exclusive выпуска и 27 записей 2013 года в шести Mix; зафиксированы Toy #/casting variants, страны производства, base codes, wheel types и tooling/chassis notes. Обновлены FINDINGS, UNRESOLVED и DATA_MODEL_REQUIREMENTS.
 
 - 2026-11-08: исследована страница Hot Wheels Cool Classics (2013–2014): две таблицы по 30 позиций, Toy # Y9424–Y9453 и BDR-series, Spectrafrost colors, Retro Slot Wheels/metal base и два варианта card artwork для каждого года. Обновлены FINDINGS, UNRESOLVED и DATA_MODEL_REQUIREMENTS.
+
+
+- 2026-11-08: исследована страница Crashers (2007), Fandom revision 756909: 32 строки основной таблицы, spring-activated plastic body/base crash mechanism с тремя направлениями откидывания; Bonus Vehicle 2-Packs N1722–N1727, Crashers 3-Pack N9337 и Crossroad Crash playset. Также разобраны смежные Mega Wrecks (2008; 3 позиции, lights & sounds) и Bumper Busters (4 позиции, multi-stage crash damage). Зафиксированы аномалии Toy #, неоднозначные wheel codes и требования к моделированию механики/комплектов. Обновлены FINDINGS, UNRESOLVED и DATA_MODEL_REQUIREMENTS.
