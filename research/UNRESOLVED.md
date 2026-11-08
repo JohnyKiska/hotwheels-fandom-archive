@@ -382,3 +382,11 @@
 - [x] Зафиксировать шесть Series # cells с zero-width Unicode; raw values сохранены в CSV.
 - [ ] Проверить отношения дополнительных таблиц TH/STH, Super Ultimate Chase, Red Editions, Zamac и retailer exclusives к Mainline release rows; не считать их дополнительными номерами 366+.
 - [ ] Выполнить межгодовое сравнение Mainline 2018 с 2017/2019 после извлечения 2017.
+
+
+## Mainline 2017 annual extraction
+
+- [x] Извлечь основную таблицу #1–365 и все дополнительные секции, сохранив table/section provenance.
+- [x] Выполнить структурный QA: 365 Mainline rows + 85 additional rows в 9 секциях; обязательные поля заполнены.
+- [ ] Adjudicate 85 additional rows, including TH/STH, Red Editions, retailer exclusives and Digital Circuit Chase Variants; do not add them to the numeric Mainline sequence.
+- [ ] Выполнить межгодовое сравнение Mainline 2017 с 2016/2018 после извлечения 2016.
