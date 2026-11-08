@@ -671,3 +671,11 @@
 - [ ] Проверить repeated Toy # values against package/catalogue data to distinguish variants, shared tooling, and source collisions.
 - [ ] Verify missing Toy # in eight Reissues rows.
 - [ ] Выполнить межгодовое сравнение Mainline 1990 с 1989/1991.
+
+
+## Mainline 1989 annual extraction
+
+- [x] Извлечь единственную пятиколоночную annual table (76 rows).
+- [x] Проверить Col. #001–076 and Series # sequence.
+- [x] Зафиксировать отсутствие Toy # field as source schema, not missing data.
+- [ ] Выполнить межгодовое сравнение Mainline 1989 с 1988/1990.
