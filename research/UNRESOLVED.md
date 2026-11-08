@@ -101,3 +101,16 @@
 - [ ] Color Shifters/Color Reveal: сверить температурные цветовые состояния и coating materials; проверить изменение plastic/metal bodies по годам и package codes.
 - [ ] Pop Culture/Replica Entertainment/Fast & Furious: нормализовать IP/theme, release, casting reuse, chase, bundle и case-pack allocation; проверить "Similar to" vs "Identical to".
 - [ ] Независимо проверить актуальные страницы 2025–2026 и не трактовать незавершённые/плановые записи как окончательные выпуски.
+
+
+## Modern Special Series: вопросы Pro Racing и цифровых/коллекционных линий (2026-11-08)
+
+- [ ] Pro Racing: нормализовать Premium vs Basic, race team/number/sponsor/season и повторные варианты одной машины; проверить точную границу Pro Racing annual editions, Racing Selects и Team Transporter.
+- [ ] Basic Pro Racing: выяснить, что именно обозначает Toy #22500 на international cards, и связать все baggie/MLB/team promos с конкретными релизами.
+- [ ] Hot Wheels Delivery: проверить Sweet Rides 15 и Slick Rides 34, все варианты Super Van R3727/Re-Tooled, пять set-exclusive cars и ошибку #/25 на упаковке.
+- [ ] Hot Wheels Garage 2010: разрешить 8 new castings vs 9 mass-market exclusives и разобрать 30-Car Set; отделить Larry's Garage 2009 от Garage 2010 и Garage 2016.
+- [ ] Hot Wheels id: проверить точные даты shutdown/announcement, chip license, app/portal/track compatibility и статус промо-релизов, отменённых из-за COVID.
+- [ ] Nostalgic Brands: классифицировать все theme/IP types и лицензии; отделить бренды товаров от медиа-франшиз и художественных работ.
+- [ ] Flying Customs: проверить Target exclusivity для каждого года и состав 2021 10-pack; подтвердить связь с Throwback Series.
+- [ ] Hot Wheels Classics: исходный сохранённый HTML не содержит содержимого статьи; требуется повторное сохранение страницы или другой источник.
+- [ ] Все перечисленные линии: построчно проверить castings, Toy #, variants, retailer exclusives и packaging notes по каталогам/упаковкам.
