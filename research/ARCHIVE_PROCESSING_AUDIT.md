@@ -34,7 +34,8 @@ Status labels:
 
 | Year/source | Archive status | Research status | Audit conclusion |
 |---|---|---|---|
-| 1968–2006 (39 annual pages) | Present | No complete year-by-year extraction/QA documented | Not yet audited as annual Mainline datasets |
+| 1968–2005 (38 annual pages) | Present | No complete year-by-year extraction/QA documented | Not yet audited as annual Mainline datasets |
+| 2006 | Present | 363 rows across 17 tables; Collector # 001–223 continuous; 2006 Open Stock has 141 rows in a distinct five-column schema without Series # | Extracted + QA |
 | 2007 | Present | 315 rows across 18 tables, 180 numeric Collector # positions (001–180); 193 unique Toy #; all 315 Series # cells contain zero-width Unicode | Extracted + QA |
 | 2008 | Present | 358 rows across 18 tables, 196 numeric Collector # positions (001–196); 208 unique Toy #, repeated across color variants | Extracted + QA |
 | 2009 | Present | Mainline: 342 rows across 14 tables, 190 numeric Collector #; Toy # repeats among color entries; 12 Redline/Goodyear exclusive rows are exact repeats | Extracted + QA |
