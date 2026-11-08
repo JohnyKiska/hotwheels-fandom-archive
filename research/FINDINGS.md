@@ -318,3 +318,45 @@
 - **Design requirement.** Scale фиксировать на уровне конкретного продукта/выпуска, не наследовать автоматически от серии или набора; сохранять неполные строки и source notes о неверно классифицированных объектах.
 
 **Ограничение:** наблюдения основаны на архивных Fandom HTML; независимая историческая верификация не проводилась.
+
+
+## Other Early Series: пять страниц, проверка исходной структуры (2026-11-08)
+
+### Action Cycles
+Источник: `Other Early Series/Action Cycles _ Hot Wheels Wiki _ Fandom.html`.
+
+- **Observation.** Статья описывает мотоциклы примерно 1:12–1:18, выпускавшиеся около 1987–1997/98, первоначально в Hot Wheels Giants. Привод clockwork: оттянуть назад и отпустить; есть поворачиваемые руль/вилка и подвижная центральная подставка. Производитель указан ARCO Toys, дочерняя компания Mattel.
+- **Observation.** Таблица содержит 26 строк данных с Toy #, Name, Series, Color.
+- **Design requirement.** Масштаб, clockwork mechanism, steering/fork и stand — отдельные характеристики; ARCO Toys фиксировать как производителя, не смешивая с брендом.
+
+### Action Racers
+Источник: `Other Early Series/Action Racers _ Hot Wheels Wiki _ Fandom.html`.
+
+- **Observation.** Статья описывает автомобили примерно 1:43, выпускавшиеся около 1987–1996, первоначально под Hot Wheels Giants; clockwork pull-back/release mechanism; производитель ARCO Toys.
+- **Observation.** Основная таблица содержит 65 строк данных, отдельная Customizers Vehicles — 2 строки. В тексте указано, что некоторые casting повторяются под разными названиями серий, лицензированные машины не всегда имеют proper names; Customizers использует Toy #0606.
+- **Design requirement.** Не считать маркетинговое имя серии или Toy # достаточным идентификатором casting; поддержать кастинги без устойчивого официального имени и кастомизируемые версии.
+
+### Attack Pack
+Источник: `Other Early Series/Attack Pack _ Hot Wheels Wiki _ Fandom.html`.
+
+- **Observation.** Статья описывает линейку 1992–1994 трансформирующихся monster vehicles с несколькими подразделениями: Attack Pack, Big Ones, Biggest Ones, Growlers, Battle Birds, Alien Invaders и Dinosaurs. При нажатии/воздействии продукты открывают пасть или выполняют другие трансформации. В истории есть две команды: Heroic Cat Pack и Evil Rat Pack; таблицы часто содержат Toy #, год, casting name, allegiance и страну.
+- **Observation.** На странице есть отдельные таблицы для разных групп/лет; их строки нельзя складывать в один однородный список автомобилей: присутствуют самолёты, инопланетные объекты и динозаврообразные военные машины. Есть раздел unreleased products.
+- **Observation.** Статья сообщает, что название Attack Pack повторно использовано в 2026 году для похожих monster trucks в Hot Wheels Monster Trucks. Это одноимённый поздний выпуск, но не основание сливать его с исторической линейкой 1992–1994.
+- **Design requirement.** Моделировать Attack Pack как product family/story world с отдельными подразделениями, типами продуктов, allegiance, трансформационными механизмами и lifecycle status. Название 2026 года связывать как name reuse/related theme, а не продолжение по умолчанию.
+
+### Hot Wheels Railroad
+Источник: `Other Early Series/Hot Wheels Railroad _ Hot Wheels Wiki _ Fandom.html`.
+
+- **Observation.** Статья описывает железнодорожную систему 1983–1985 около 1:64, предназначенную для совместного использования с Hot Wheels; собственный тип рельсов похож на HO и совместим с обычными HO tracks. Локомотивы, вагоны и cabooses соединяются fork-style coupler; производились в Hong Kong, треки — в США.
+- **Observation.** Таблицы разделены на rolling stock (14 строк), bundles (5) и playsets/other bundles (12). Наборы могут включать несколько единиц подвижного состава и рельсы. В Канаде использовалось название Le Chemin de Fer.
+- **Observation.** Позднее некоторые наборы были переизданы/продолжены в Sto & Go Trucks & Trains, City Trains To Go и Superrails Station.
+- **Design requirement.** Хранить locomotives, rolling stock, track pieces, bundles и playsets как разные типы продуктов с component relationships, coupler/track compatibility и региональными aliases.
+
+### Key Force
+Источник: `Other Early Series/Key Force _ Hot Wheels Wiki _ Fandom.html`.
+
+- **Observation.** Key Force — трансформирующиеся игрушки 1992–1994: ключ открывает вторую форму и вставляется в специальные пазы для запуска ракет/активации частей. Ключи индивидуальны для каждого продукта.
+- **Observation.** Key Force Warriors — отдельная подсерия 1993 года, где машины трансформируются в роботов. Страница содержит отдельные таблицы Key Force (8 строк), Key Force Warriors (4) и unreleased products (3); упоминаются также McDonald's promotions.
+- **Design requirement.** Ключ — уникальный комплектный компонент/инструмент с compatibility только с конкретной игрушкой; трансформационные формы должны быть моделируемы как states/forms одного продукта либо связанные компоненты, а Warriors — отдельный subtype/series relation.
+
+**Ограничение:** наблюдения основаны на архивных Fandom HTML; независимая проверка дат, материалов и производственных атрибуций не проводилась.
