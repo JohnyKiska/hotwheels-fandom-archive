@@ -555,3 +555,14 @@
 - [ ] Найти независимое подтверждение причин отсутствия Collector #147, #170, #184, #185, #186; не создавать placeholder records.
 - [ ] Проверить Bonus Cars identifiers/packaging; не объединять с Mainline #001–004.
 - [ ] Выполнить межгодовое сравнение Mainline 2000 с 1999/2001 после извлечения 1999.
+
+
+## Mainline 1999 annual extraction
+
+- [x] Извлечь все 17 таблиц и сохранить annual numbered list, Final Run and Bonus Cars separately.
+- [x] Зафиксировать Collector # 649–1121 as a non-dense page-specific range; 277 numbers are not represented in this page.
+- [x] Сохранить 5-column 1999 Hot Wheels schema without Series #.
+- [x] Сохранить Final Run rows with blank Collector # and Bonus Cars with blank Toy #.
+- [ ] Determine whether unrepresented Collector # values 650–1121 correspond to other 1999 programs, unused numbers, or page omissions; do not label them missing products without evidence.
+- [ ] Verify separate Final Run and Bonus Cars product scopes with packaging/catalogues.
+- [ ] Выполнить межгодовое сравнение Mainline 1999 с 1998/2000 после извлечения 1998.
