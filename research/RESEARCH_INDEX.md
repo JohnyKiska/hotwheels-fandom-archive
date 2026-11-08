@@ -192,3 +192,6 @@
 
 
 - 2026-11-08: извлечена Mainline 2002: 244 строки в 16 таблицах. CSV: research/extractions/MAINLINE-2002.csv; QA/provenance: research/extractions/MAINLINE-2002-EXTRACTION-QA.md. Сохранены table/section provenance, исходные заголовки и повторы Toy #/Collector # без дедупликации.
+
+
+- 2026-11-08: извлечена Mainline 2002: 244 строки в 16 таблицах. CSV: research/extractions/MAINLINE-2002.csv; QA/provenance: research/extractions/MAINLINE-2002-EXTRACTION-QA.md. Сохранены table/section provenance, исходные заголовки и повторы Toy #/Collector # без дедупликации.
