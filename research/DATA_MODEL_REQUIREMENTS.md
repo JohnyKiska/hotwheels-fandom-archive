@@ -190,3 +190,13 @@
 - **Cross-listing and set links:** preserve explicit notes such as “same as [year/program]”, “only available in [set]”, or included trading cards. Do not create a new casting from each cross-listing.
 - **Open-wheel identity:** support chassis model and season-specific team/driver entries (e.g. Reynard 97L, Lola T97, McLaren MP4-14/MP4-13, GP-2009) independently from the Hot Wheels casting label. Preserve uncertain model/driver labels as raw text until verified.
 - **Normalization discipline:** wheel abbreviations and suffixes in team numbers require codebooks/evidence; retain raw strings and source spellings before normalization.
+
+
+## Racing Selects and Team Transporter
+- **Structured racing attribution:** support separate Racing Number, Casting, Color/Livery, Team, Sponsor and Driver. Driver may be explicit, corrected, inherited from a merged/continuation row, or unknown. Preserve both original/printed attribution and later correction with provenance.
+- **Non-unique racing number:** racing numbers may appear on different castings, historical vehicles and unrelated products. Never use racing number as a unique key.
+- **Continuation/merged table rows:** importer must preserve source row order, blank cells, merged-cell inheritance and continuation rows. Store raw row data before deriving inherited values.
+- **Transporter as product and bundle:** model hauler casting/release and car casting/release independently; represent the packaged Team Transporter as a set/bundle with explicit component membership and quantities where known.
+- **Truck casting identification:** allow casting attributes/identification notes such as exhaust stack position, cab shape, headlight shape and wind-deflector window imprint. These are not release attributes.
+- **Variant and packaging separation:** distinguish truck casting, livery/sponsor decals, car component, box/packaging variation, wheel/headlight variation and set composition.
+- **Separate line identities:** similar truck-plus-car format does not establish that 1998–2006 Pro Racing Team Transporter and 2018+ Car Culture Team Transport are the same Series/Collection identity. Link them through a typed thematic/format relationship only if evidence supports it.
