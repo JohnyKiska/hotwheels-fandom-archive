@@ -108,3 +108,6 @@
 
 
 - 2026-11-08: извлечена и QA-проверена Mainline 2026: 440 строк, 440 уникальных Toy #, 250 Collector #, 137 пометок (2nd Color), 15 TH и 15 STH; 126 сырых Series labels. Сохранены CSV и отчёт: research/extractions/MAINLINE-2026.csv и MAINLINE-2026-EXTRACTION-QA.md. Fandom revision 816337.
+
+
+- 2026-11-08: извлечена и QA-проверена Mainline 2023: 445 строк, 445 уникальных Toy #, 250 Collector #, 141 пометка (2nd Color), 15 TH и 15 STH; 1 таблица. CSV и отчёт: research/extractions/MAINLINE-2023.csv и MAINLINE-2023-EXTRACTION-QA.md. Fandom revision 772739.
