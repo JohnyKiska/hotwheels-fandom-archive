@@ -38,7 +38,7 @@ Status labels:
 | 2010 ordinary | Present | No independent full extraction/QA documented | Special handling required |
 | 2010 International | Present | No independent full extraction/QA documented | Special handling required; compare against ordinary 2010 |
 | 2011–2023 (13 annual pages) | Present | No complete year-by-year extraction/QA documented | Not yet audited as annual Mainline datasets |
-| 2024 | Present | Used as anchor for Car Culture name-match comparison (49 row-level candidates); no separate full extraction QA report is indexed | Partial anchor |
+| 2024 | Present | Full table re-extracted and QA checked: 441 rows, 441 unique Toy #, 250 Collector #, 132 rows marked (2nd Color), 15 TH + 15 STH; 49 prior Car Culture name-match candidates remain unadjudicated | Extracted + QA |
 | 2025 | Present | Full extraction and QA documented: 440 rows, 440 unique Toy #, 250 Collector #, 146 rows marked (2nd Color); Premium comparisons completed | Extracted + QA |
 | 2026 | Present | No complete annual extraction/QA documented in current research index | Not yet audited |
 
@@ -58,15 +58,15 @@ Source: `ALLHW/2025/List of 2025 Hot Wheels _ Hot Wheels Wiki _ Fandom.html`
 
 Detailed extraction QA and Mainline/Premium candidate comparisons are recorded in `research/comparisons/MAINLINE-PREMIUM-2025.md`.
 
-### 2024 anchor limitation
+### 2024 extraction status
 
-The 2024 annual list was used to identify 49 exact normalized-name row matches against Car Culture 2016–2026. These are name-match candidates, not confirmed casting/tooling identities. The existing research record does not provide a standalone complete extraction report, row count, source blob/revision provenance for the current `archive/historical-html-1968-2026` copy, or a full QA checklist. Treat 2024 as a partial anchor until re-extracted from the canonical archive branch and checked.
+The 2024 annual list has now been re-extracted from the canonical archive branch and passed structural QA. Results, provenance, and the machine-readable row export are recorded in `research/extractions/MAINLINE-2024-EXTRACTION-QA.md` and `research/extractions/MAINLINE-2024.csv`. The prior 49 Car Culture exact-name matches remain candidate links only; they still require row-level adjudication for casting/tooling identity.
 
 ## 3. Mainline work remaining
 
 Priority order:
 
-1. Re-extract and QA 2024 from the canonical `archive/historical-html-1968-2026/ALLHW/2024/` source. Preserve the existing 49-candidate comparison as a separate historical run, then reconcile its source provenance.
+1. Adjudicate the existing 49 Car Culture ↔ Mainline 2024 name-match candidates against the newly QA-checked canonical 2024 extraction. Preserve the comparison as a separate run.
 2. Process 2010 ordinary and International independently. Compare their row counts, identifiers, model names, regional differences, and overlaps; do not deduplicate automatically.
 3. Extract and QA 1968–2009 annual pages, preserving original table boundaries, row order, raw identifiers, color/series notes, and any non-table sections.
 4. Extract and QA 2011–2023 annual pages with the same method.
