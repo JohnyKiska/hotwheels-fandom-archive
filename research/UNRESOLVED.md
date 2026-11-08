@@ -218,3 +218,17 @@
 - [ ] Investigate missing Toy # / Item Number values and duplicate numbers across tables.
 - [ ] Clarify whether Tool Box products belong within Pro Racing or are separately categorized products; do not classify them as cars.
 - [ ] Verify the relationship between 1999 Formula 1 table and GP-2009 Formula 1 entries on Basic page.
+
+
+## Hot Wheels Racing Selects and Team Transporter
+- [ ] Independently verify Racing Selects table records, exact release years, packaging and product numbers; the page's two tables have no explicit year column.
+- [ ] Establish whether continuation lines under #43 represent multiple paint schemes of one casting/release family and whether driver/sponsor values are inherited from the preceding row.
+- [ ] Resolve the #40 Self-sponsored / Sterling Marlin entry and its “Supposed to be sponsored by Coors Light” note against packaging/catalogue evidence.
+- [ ] Verify the #32 Tide driver correction (Ricky Craven vs Scott Pruett) and determine whether Scott Pruett was a packaging error, an earlier livery attribution or a wiki correction.
+- [ ] Determine the release identity and source for chrome wheels, headlight variations and other notes in Racing Selects.
+- [ ] Identify all Team Transporter car/truck combinations, set names, product numbers, packaging and component contents from packaging/catalogues.
+- [ ] Resolve 1998 #8 Kenworth T2000 “Does Not Exist” and the two yearless Team Transporter records.
+- [ ] Investigate 1999 International Eagle 9400 with “Frieghtliner” marking: typo, tampo error, casting confusion or wiki note.
+- [ ] Resolve repeated 2005 Victory Lane rows and Ashley Force same-truck/different-box or sponsor-decal variants.
+- [ ] Confirm whether 2006 Little Debbie Racing is genuinely the only 2006 Pro Racing truck/car product, and clarify the scope of the source's statement.
+- [ ] Compare 1998–2006 Pro Racing Team Transporter with 2018–2026 Car Culture Team Transport without assuming a direct series identity.
