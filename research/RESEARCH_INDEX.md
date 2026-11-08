@@ -117,3 +117,6 @@
 
 
 - 2026-11-08: извлечена Mainline 2021: основная таблица 447 строк (447 уникальных Toy #, Collector # 001–250), отдельно Hot Wheels id: Chase Series 8 строк с Collector # = No #. Всего 455 source rows в двух таблицах; сохранён table/section provenance. CSV и QA: research/extractions/MAINLINE-2021.csv и MAINLINE-2021-EXTRACTION-QA.md. Fandom revision 797153.
+
+
+- 2026-11-08: извлечена Mainline 2020: основная таблица 447 строк (447 уникальных Toy #, Collector # 001–250), отдельно Hot Wheels id Chase Series 8 строк с Collector # = No #. Два Photo cell содержат имена broken-media placeholders (GHD85 и GHF27), сохранены в CSV. CSV и QA: research/extractions/MAINLINE-2020.csv и MAINLINE-2020-EXTRACTION-QA.md. Fandom revision 812218.
