@@ -37,7 +37,8 @@ Status labels:
 | 1968–2009 (42 annual pages) | Present | No complete year-by-year extraction/QA documented in current research index | Not yet audited as annual Mainline datasets |
 | 2010 USA | Present | Extracted + QA: 440 source rows across 28 tables, 252 unique Toy #, 240 Collector #; includes Goodyear/BF Goodrich sections | Extracted + QA; cross-page adjudication pending |
 | 2010 International | Present | Extracted + QA: 228 source rows across 24 tables, 226 unique Toy #, 214 Collector # | Extracted + QA; cross-page adjudication pending |
-| 2011–2014 (4 annual pages) | Present | No complete year-by-year extraction/QA documented | Not yet audited as annual Mainline datasets |
+| 2011–2013 (3 annual pages) | Present | No complete year-by-year extraction/QA documented | Not yet audited as annual Mainline datasets |
+| 2014 | Present | Mainline: 433 rows across 32 series tables, 250 numeric Collector #; Scavenger Hunt: 4 rows in separate Kroger-exclusive table; one Mainline table lacks Series # column | Extracted + QA |
 | 2015 | Present | Mainline: 433 rows across 34 series tables, 250 numeric Collector #; Scavenger Hunt: 4 rows in separate 6-column table, Collector # = No #; Mainline schema has no Series # column | Extracted + QA |
 | 2016 | Present | Mainline: 433 rows across 31 series tables, 250 numeric Collector #; 8 Special Edition rows in 2 additional tables, Collector # = No #; 397 Series # cells contain zero-width Unicode | Extracted + QA |
 | 2017 | Present | Mainline #1–365: 365 rows; additional separately headed sections: 85 rows across 9 sections, all Collector # = No # | Extracted + QA |
