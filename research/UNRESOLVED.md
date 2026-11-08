@@ -86,3 +86,18 @@
 - [ ] Hot Wheels Railroad: подтвердить совместимость с HO track, точный scale rolling stock, канадское имя Le Chemin de Fer и lineage переизданий в Sto & Go/City Trains To Go/Superrails Station.
 - [ ] Key Force: проверить комплектность уникальных ключей, точный механизм трансформации и статусы трёх unreleased products; отделить Key Force Warriors от базовой серии и McDonald's promotions.
 - [ ] Для всех пяти страниц провести построчную нормализацию Toy #/Year/Name и связать каждый набор с его компонентами, не считая строк таблиц автоматически самостоятельными продуктами.
+
+
+## Modern Special Series: вопросы для следующего прохода (2026-11-08)
+
+- [ ] 100%: проверить, является ли 100% отдельной серией/брендом коллекционных выпусков или umbrella для разных yearly lines; нормализовать 1:18/1:43/1:64 и acrylic case packaging.
+- [ ] AcceleRacers 2005: сверить 36 выпущенных team models, невыпущенные мотоциклы и их последующие Mainline releases; разобраться с base-code online unlock lifecycle.
+- [ ] AcceleRacers 2006: классифицировать все seven subsets, 1:24 transformables, unreleased entries и планировавшиеся фильмы; выяснить, что реально было выпущено в разных рынках.
+- [ ] AcceleRacers 2025: подтвердить, является ли Silver Series assortment частью отдельной anniversary line или только themed assortment; проверить список пяти моделей и происхождение графики.
+- [ ] Boulevard 2012: проверить 30-car set, пять Walmart exclusives и 25 regular-series castings; разобраться с upside-down cards.
+- [ ] Boulevard 2020: проверить повторяющиеся Toy #/wheel variants, base-code ranges и точную нумерацию миксов.
+- [ ] Car Culture: проверить границы ежегодных mixes, chase eligibility/selection и связь Team Transport с Car Culture; нормализовать транспортёры и автомобили как компоненты.
+- [ ] Character Cars: построчно разобрать все лицензии, retailer/convention exclusives, playset-only releases и повторные casting identities; определить правила faction logo и "New" first-appearance labels.
+- [ ] Color Shifters/Color Reveal: сверить температурные цветовые состояния и coating materials; проверить изменение plastic/metal bodies по годам и package codes.
+- [ ] Pop Culture/Replica Entertainment/Fast & Furious: нормализовать IP/theme, release, casting reuse, chase, bundle и case-pack allocation; проверить "Similar to" vs "Identical to".
+- [ ] Независимо проверить актуальные страницы 2025–2026 и не трактовать незавершённые/плановые записи как окончательные выпуски.
