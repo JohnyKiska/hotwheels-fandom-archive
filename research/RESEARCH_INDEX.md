@@ -204,3 +204,6 @@
 
 
 - 2026-11-08: извлечена Mainline 1991: 62 строки в New Castings (27), Reissues (24) и California Customs (11). 39 уникальных nonblank Col #, 46 уникальных Toy #; 10 пустых Col # и 9 пустых Toy #. Повторяются Col #129/148 и Toy #1470/1897/2097/3209/7607/9749. California Customs имеет отдельную схему без Col #. CSV/QA: research/extractions/MAINLINE-1991.csv и MAINLINE-1991-EXTRACTION-QA.md. Fandom revision 797729.
+
+
+- 2026-11-08: извлечена Mainline 1990: 87 строк в четырёх таблицах (New Castings 8, Reissues 50, The Simpsons 2, California Customs 27). Только New Castings имеет Col #; Toy # отсутствует у восьми Reissues rows; 11 повторяющихся Toy # groups. CSV/QA: research/extractions/MAINLINE-1990.csv и MAINLINE-1990-EXTRACTION-QA.md. Fandom revision 754020.
