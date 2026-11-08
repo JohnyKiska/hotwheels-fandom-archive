@@ -28,12 +28,14 @@
 
 ## Очередь исследования
 
-1. Ранние коллекции и Patch Cards: Flying Colors, Classy Customs, Drag Strippers, Oldies But Goodies, Rescue Team, Speedway Specials, Super Streeters, The Heavies.
-2. Страницы отдельных кастингов: Boss Hoss, Heavy Chevy, King Kuda.
-3. Speed Fleet: Blue Card и Rainbow Card.
+1. [x] Построчно проверена первая группа Patch Cards и Flying Colors; точные количества и выявленные расхождения записаны в FINDINGS.md.
+2. [x] Проверена структура таблиц Boss Hoss, Heavy Chevy и King Kuda; полная хронология релизов остаётся задачей.
+3. [ ] Уточнить семантику двух таблиц Speed Fleet и сопоставить их с упаковками Blue Card/Rainbow Card.
 4. Расширить сверку на другие ранние коллекции и серии.
 5. После исследования раннего блока перейти к Modern Special Series, Notable Modern Themed Assortments и Other Modern Series.
 
 ## История обновлений
 
 - 2026-11-08: создана исследовательская документация; добавлены предварительные наблюдения и требования к модели данных.
+
+- 2026-11-08: выполнена построчная сверка Flying Colors, семи Patch Cards, Boss Hoss, Heavy Chevy, King Kuda и Speed Fleet; исправлены две ошибки интерпретации Collector # как Toy #.
