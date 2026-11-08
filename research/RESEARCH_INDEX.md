@@ -141,3 +141,6 @@
 
 
 - 2026-11-08: извлечена Mainline 2013: 433 строки в 30 series tables (250 numeric Collector #), отдельно 6 Kroger-exclusive Scavenger Hunt rows с Collector # = No # и Series # 1/6–6/6. Mainline tables имеют 5 колонок без Series #. CSV и QA: research/extractions/MAINLINE-2013.csv и MAINLINE-2013-EXTRACTION-QA.md. Fandom revision 790643.
+
+
+- 2026-11-08: извлечена Mainline 2012: 387 строк в 23 основных таблицах, Collector # 001–247 без пропусков (не до 250); отдельно Windshield Banner Exclusives + Redline Exclusives 20 cross-listed rows и Year of the Dragon Edition 1 row с No #. 16 из 20 эксклюзивных строк exact repeats, 4 имеют текстовые расхождения при том же Toy #. Сохранены CSV и QA: research/extractions/MAINLINE-2012.csv и MAINLINE-2012-EXTRACTION-QA.md. Fandom revision 778347.
