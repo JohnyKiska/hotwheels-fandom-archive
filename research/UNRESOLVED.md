@@ -543,3 +543,15 @@
 - [ ] Проверить Final Run product program relationship to Mainline castings/releases.
 - [ ] Проверить Store Exclusives packaging/catalogue evidence for identifiers and release scope.
 - [ ] Выполнить межгодовое сравнение Mainline 2001 с 2000/2002 после извлечения 2000.
+
+
+## Mainline 2000 annual extraction
+
+- [x] Извлечь все 17 таблиц и сохранить table/section provenance.
+- [x] Отдельно зафиксировать Core annual, Virtual Collection and Bonus Cars.
+- [x] Зафиксировать 5-column schema for 2000 Hot Wheels without Series #.
+- [x] Зафиксировать blank Toy # in four Bonus Cars rows; no inferred identifiers.
+- [ ] Проверить, входит ли Virtual Collection в annual Mainline product scope или является отдельной program; сохранить alphanumeric Series # codes.
+- [ ] Найти независимое подтверждение причин отсутствия Collector #147, #170, #184, #185, #186; не создавать placeholder records.
+- [ ] Проверить Bonus Cars identifiers/packaging; не объединять с Mainline #001–004.
+- [ ] Выполнить межгодовое сравнение Mainline 2000 с 1999/2001 после извлечения 1999.
