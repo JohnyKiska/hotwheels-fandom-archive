@@ -245,3 +245,16 @@
 - **2024 #62–#73 formatting:** source displays `#62` etc., unlike prior plain integer values. Normalize only with raw representation retained.
 - **Relationship to 1998–2006 Pro Racing Team Transporter:** similar bundle format alone does not establish a direct lineage, revival, or common Series identity. Seek Mattel catalog/packaging statements before adding a stronger typed relation.
 - **Coverage caveat:** this pass transcribed table structure and selected row-level details across all nine pages; it is not an independent physical-release audit and does not validate every Toy #, color, wheel, base code or component identification.
+
+
+## Car Culture (2016–2026): annual segments, Chase, 2-Packs and Factory Sets
+
+- **Series position scope:** annual pages repeat `1/5`–`5/5` inside each named theme. Scope Series # to its segment, not the whole year or Car Culture umbrella.
+- **2017 RLC 6th Car Set:** five entries are labelled `0/5` but the table is explicitly titled Red Line Club Exclusive 6th Car Set. Do not classify as Chase without independent evidence.
+- **Chase chronology:** annual pages reviewed first show explicit `Chase` rows at `0/5` from 2022 onward. Determine whether earlier years had Chase releases omitted from these pages or listed elsewhere.
+- **Container Sets:** annual pages show Container Sets sections in 2022–2024, while the separate Factory Set page covers 2022–2026. Determine the precise relationship and whether annual Container Sets are a subset, alias, or separate product format.
+- **Factory Set contents:** the Contents field lists themed assortments and Team Transport Mixes, sometimes a Legends Tour Exclusive. Confirm whether each listed item is physically included in each Factory Set SKU and whether “Factory Set” is a packaging/retail term.
+- **2-Pack component grouping:** source tables put Toy # and Theme on the first row, with second component row blank in those columns. Confirm all row group boundaries and whether Toy # is the actual 2-Pack SKU for every entry.
+- **2-Pack scope:** 2027 section is present in the archived page although this pass targets 2016–2026. Keep future/announced records separate from released products.
+- **Identity claims:** `Identical to`, `Similar to`, and `Updated tooling` are source notes. They may refer to release, deco, casting or tooling relationships; do not automatically merge records or assert exact tooling lineage.
+- **Coverage:** annual page review focused on table structure, segment counts, row conventions and representative examples. Every individual vehicle row has not yet been independently reconciled against physical packaging/catalogs.
