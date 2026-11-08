@@ -185,13 +185,7 @@
 - 2026-11-08: извлечена Mainline 1998: 185 numbered-list rows, 184 unique Collector # values (633–908, non-dense); #780/Toy #19949 repeated twice. Отдельно Bonus Cars 4 rows (Toy # blank for two entries, Collector #001–004 in bonus scope). 1998 Hot Wheels table has 5-column schema; four tables declare optional Photo 2; some rows omit trailing empty cell. Preserved header typo "Serie s". CSV и QA: research/extractions/MAINLINE-1998.csv и MAINLINE-1998-EXTRACTION-QA.md. Fandom revision 811155.
 
 
-- 2026-11-08: извлечена Mainline 2003: 18 таблиц, исходные строки выгружены в research/extractions/MAINLINE-2003.csv; QA и provenance: research/extractions/MAINLINE-2003-EXTRACTION-QA.md. Обнаружены повторяющиеся Collector #, поэтому их нельзя трактовать как уникальные идентификаторы до ручной проверки. Fandom revision и полный перечень таблиц записаны в QA-отчёте.
-
-
 - 2026-11-08: извлечена Mainline 1997: 119 numbered-list rows (numeric Collector #147–642, non-dense), отдельно Bonus Cars 4 rows (#001–004) и 7 other series tables (28 rows, Collector # = N/A). Обнаружен конфликт Toy #18365: Pontiac Salsa в 1997 Hot Wheels vs Auburn 852 в Classics Series; Toy #11850 повторяется в двух numbered tables, Toy #15789 пересекает Mainline/Street Racers. CSV и QA: research/extractions/MAINLINE-1997.csv и MAINLINE-1997-EXTRACTION-QA.md. Fandom revision 799665.
-
-
-- 2026-11-08: извлечена Mainline 2002: 244 строки в 16 таблицах. CSV: research/extractions/MAINLINE-2002.csv; QA/provenance: research/extractions/MAINLINE-2002-EXTRACTION-QA.md. Сохранены table/section provenance, исходные заголовки и повторы Toy #/Collector # без дедупликации.
 
 
 - 2026-11-08: извлечена Mainline 2002: 244 строки в 16 таблицах. CSV: research/extractions/MAINLINE-2002.csv; QA/provenance: research/extractions/MAINLINE-2002-EXTRACTION-QA.md. Сохранены table/section provenance, исходные заголовки и повторы Toy #/Collector # без дедупликации.
