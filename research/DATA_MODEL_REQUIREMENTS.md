@@ -200,3 +200,17 @@
 - **Truck casting identification:** allow casting attributes/identification notes such as exhaust stack position, cab shape, headlight shape and wind-deflector window imprint. These are not release attributes.
 - **Variant and packaging separation:** distinguish truck casting, livery/sponsor decals, car component, box/packaging variation, wheel/headlight variation and set composition.
 - **Separate line identities:** similar truck-plus-car format does not establish that 1998–2006 Pro Racing Team Transporter and 2018+ Car Culture Team Transport are the same Series/Collection identity. Link them through a typed thematic/format relationship only if evidence supports it.
+
+
+## Car Culture Team Transport (2018–2026): multi-component bundles and annual mixes
+
+- **Bundle is a first-class product format.** Model a Team Transport product/set separately from each included vehicle, hauler and trailer release. Do not treat the bundle as a single casting.
+- **Variable component cardinality.** Support two-, three- and potentially higher-component bundles. Examples in source tables include truck + trailer + car. Preserve component order, role (hauler, trailer, car/vehicle, other) when explicitly known, quantity and raw source row.
+- **Table row grouping.** Source tables often put Toy # and Series # on the first component row and leave them blank on following component rows. Preserve source row order, blank cells and group membership before normalization; do not interpret each blank-number component as an independent SKU.
+- **Annual mix is an assortment dimension.** Store year and Mix label separately from the continuous Team Transport Series #. Retailer/event exclusives may be listed outside mixes and carry Series # = N/A.
+- **Separate identifiers.** Toy # (bundle SKU) and Team Transport Series # (numbered position) are distinct fields. Retain raw Series # string, including 2024's `#62` formatting and N/A values.
+- **Component-level attributes.** Casting name, body color, wheel type, base codes, and notes such as `New Casting`, `New Die-Cast Chassis` and `Modified casting` belong to individual component rows unless source explicitly assigns them to the whole product.
+- **Wheel assemblies.** Preserve compound wheel strings verbatim. A string containing two wheel codes may describe multiple axle/component configurations, not a choice of variants.
+- **Source assertions and normalization.** Preserve raw color, capitalization, punctuation and source typos (e.g. `Metelflake Silver`); normalized values should be additional fields with evidence, never destructive replacements.
+- **Series identity boundaries.** Do not merge Car Culture Team Transport (2018+) with Pro Racing Team Transporter (1998–2006) based only on a shared truck + car bundle format. A typed format/theme relation may be stored independently of Series identity.
+- **Provenance.** Retain source page/year/revision, table/mix, row order, original column values and group boundaries for re-import and audit.
