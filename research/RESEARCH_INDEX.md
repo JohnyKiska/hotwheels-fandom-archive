@@ -150,3 +150,6 @@
 
 
 - 2026-11-08: извлечена Mainline 2009: 342 строки в 14 основных таблицах, Collector # 001–190 без пропусков; Toy # повторяется между color entries (202 unique Toy #, 104 IDs repeated within Mainline rows). Дополнительно Redline Exclusives 10 и Goodyear Tire Exclusives 2 rows, все 12 exact repeats Mainline rows. 12 TH и 12 STH. CSV и QA: research/extractions/MAINLINE-2009.csv и MAINLINE-2009-EXTRACTION-QA.md. Fandom revision 811763.
+
+
+- 2026-11-08: извлечена Mainline 2008: 358 строк в 18 таблицах, Collector # 001–196 без пропусков, 208 уникальных Toy # (часть повторяется между color entries), 91 пометка (2nd Color), 12 TH и 12 STH. CSV и QA: research/extractions/MAINLINE-2008.csv и MAINLINE-2008-EXTRACTION-QA.md. Fandom revision 803369.
