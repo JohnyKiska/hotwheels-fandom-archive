@@ -189,3 +189,6 @@
 
 
 - 2026-11-08: извлечена Mainline 1996: 141 строка в 17 таблицах; 136 уникальных Toy # и Collector # values; 12 Treasure Hunts, 4 Bonus Cars, 64 строки в 1996 Hot Wheels без Series #. Выявлены две точные повторные строки (#473 BMW M1 и #491 Rocket Shot) и три межсекционных Toy # collisions между Bonus Cars и Treasure Hunts. CSV/QA: research/extractions/MAINLINE-1996.csv и MAINLINE-1996-EXTRACTION-QA.md. Fandom revision 800722.
+
+
+- 2026-11-08: извлечена Mainline 1995: 97 строк в 15 таблицах, 97 уникальных Toy # и Collector #, 12 Treasure Hunts. Таблица 1995 Hot Wheels имеет отдельные поля Color и Rims (7 колонок). В 72 Series # сохранены zero-width Unicode. CSV/QA: research/extractions/MAINLINE-1995.csv и MAINLINE-1995-EXTRACTION-QA.md. Fandom revision 797722.
