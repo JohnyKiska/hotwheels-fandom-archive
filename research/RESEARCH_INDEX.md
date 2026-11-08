@@ -210,3 +210,6 @@
 
 
 - 2026-11-08: извлечена Mainline 1989: одна таблица, 76 строк, Col. #001–076 без пропусков, Series #1/76–76/76; Toy # в источнике отсутствует. CSV/QA: research/extractions/MAINLINE-1989.csv и MAINLINE-1989-EXTRACTION-QA.md. Fandom revision 754017.
+
+
+- 2026-11-08: извлечена Mainline 1988: 27 строк в New Castings (13) и Reissues (14), 25 уникальных Toy #; Collector # отсутствует. Toy #5026 (Alien) и #4741 (Talbot Lago) представлены по два цветовых варианта; один вариант каждого отмечен Short run color. CSV/QA: research/extractions/MAINLINE-1988.csv и MAINLINE-1988-EXTRACTION-QA.md. Fandom revision 765062.
