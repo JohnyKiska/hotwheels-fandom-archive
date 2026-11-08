@@ -109,3 +109,11 @@
 - **Set composition.** Track sets и 3-packs являются самостоятельными assortment/set records с компонентами и количествами; track pieces/joiners и cars должны быть разными Product Types и Product Components.
 - **Source schema variability.** Импортёр должен поддерживать разные наборы колонок по таблицам и хранить raw source rows/cells. Пустая/отсутствующая колонка не означает, что характеристика отсутствует у продукта.
 - **Source notes and confidence.** Notes вроде "rear bigger wheels", "same size wheels", "from Ice Blue to dark" и logo orientation должны сохраняться как provenance evidence даже после структурирования в отдельные поля.
+
+
+### Flying Customs (2006–2013)
+- **Assortment waves.** Mix 1–6 и годовые выпуски должны моделироваться как отдельные assortment/wave assignments, не как Series Position.
+- **Manufacturing provenance.** Сохранять country of manufacture на уровне конкретного релиза/варианта; допустимы неизвестные/пустые значения без вывода страны по соседним строкам.
+- **Multiple base codes.** Поддержать связь релиза с несколькими исходными base/case codes и хранить исходную последовательность кодов.
+- **Tooling events.** Разделить New tool! и New die-cast chassis! как разные типы изменений tooling/chassis, с исходной заметкой и привязкой к релизу.
+- **Wheel specification.** Wheel type может быть указано отдельно от Mix, а сокращения UH/GHO/SHO/BW/CT требуют справочника алиасов с сохранением raw token.
