@@ -50,3 +50,15 @@
 ## Следующий шаг
 
 До изменения схемы БД проверить требования на реальных строках из ранних и современных коллекций, особенно на повторяющихся номерах, пересечениях серий, нескольких типах продуктов и поздних переизданиях.
+
+
+## Дополнения по ранним специальным сериям
+
+- **Assortment vs. product.** Action Packs, Color FX 2-Car Sets, Planet Micro sets и Sizzlers race sets показывают, что набор/упаковка должен быть самостоятельным ассортиментным объектом с составом компонентов; не каждая строка таблицы соответствует отдельному автомобилю.
+- **Mechanism generations.** Color-change, spring-powered, electric motor, impact/crash mechanism, pop-up body features и light/sound должны моделироваться как отдельные механизмы/функции с возможностью нескольких механизмов на продукт.
+- **Tooling lineage.** Поддержать отношения исходного casting, modified casting, retool и casting-derived-from (например, Scorchers → Shift Kickers; Mebetoys → Gran Toros adaptations; Corgi tooling in Action Packs).
+- **Brand/manufacturer distinction.** Производитель, владелец бренда, разработчик дизайна и бренд на упаковке — разные роли. Не считать изделие Hot Wheels только потому, что оно произведено Mattel или совместимо с HW track.
+- **Regional identity.** Региональные имена могут быть aliases одной системы (Hot Wheels U.S.A. и локальные названия), но похожее название в другом десятилетии может обозначать отдельную линейку (Hot Wheels World 1997–2005).
+- **Scale exceptions.** Масштаб продукта хранить индивидуально: Planet Micro содержит исключения, а playset может включать предметы разных масштабов.
+- **Unreleased records.** Хранить запланированные и прототипные модели с отдельным lifecycle status и без создания фиктивного Released event.
+- **Packaging variants.** Различия карточки/лейбла могут существовать при неизменном продукте (пример Action Packs Sojourner Rover); упаковочные изменения не должны автоматически порождать новый casting.
