@@ -478,3 +478,13 @@
 - [ ] Проверить Toys R Us Promo STH и другие retailer-exclusive qualifiers в Series text.
 - [ ] Нормализовать Series # только в derived fields, сохраняя исходные code points.
 - [ ] Выполнить межгодовое сравнение Mainline 2007 с 2006/2008 после извлечения 2006.
+
+
+## Mainline 2006 annual extraction
+
+- [x] Извлечь все 17 таблиц, сохранить table/section provenance.
+- [x] Проверить Collector # sequence: 001–223 без пропусков.
+- [x] Отдельно зафиксировать Open Stock (141 rows) с пятью source columns; Series # отсутствует по схеме.
+- [x] Зафиксировать повторяющиеся Toy # values и color variants.
+- [ ] Проверить Open Stock's relation to standard annual series and whether it shares the same release scope.
+- [ ] Выполнить межгодовое сравнение Mainline 2006 с 2005/2007 после извлечения 2005.
