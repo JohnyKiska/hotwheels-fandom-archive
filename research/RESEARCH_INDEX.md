@@ -86,3 +86,6 @@
 
 
 - 2026-11-08: начат source-discovery этап для межкаталожной сверки Mainline 2025. Найдены публичные Fandom-страницы Mainline 2025, Car Culture 2025, Boulevard 2025 и Team Transport 2025; локальный Mainline 2025 HTML не обнаружен поиском по коду репозитория. Полные страницы и revision IDs ещё не зафиксированы, поэтому match count не рассчитывался. Подробности и ограничения добавлены в FINDINGS.md; acquisition/adjudication tasks добавлены в UNRESOLVED.md.
+
+
+- 2026-11-08: исправлена ошибка source discovery для Mainline 2025. Пользователь указал полный архив `JohnyKiska/hotwheels`, branch `archive/historical-html-1968-2026`, каталог `ALLHW/`. Проверены каталог `ALLHW/2025` и `ALLHW/MANIFEST.csv`: Mainline 2025 HTML найден (824,886 bytes); записаны Git blob SHA и manifest SHA-256. В ALLHW присутствуют годовые папки 1968–2026; в MANIFEST отдельно представлены две страницы за 2010 год. Mainline 2025 теперь source-available; остаются извлечение таблиц, контроль полноты и Premium comparisons. Подробности в FINDINGS.md и задачи в UNRESOLVED.md.
