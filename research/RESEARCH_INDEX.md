@@ -144,3 +144,6 @@
 
 
 - 2026-11-08: извлечена Mainline 2012: 387 строк в 23 основных таблицах, Collector # 001–247 без пропусков (не до 250); отдельно Windshield Banner Exclusives + Redline Exclusives 20 cross-listed rows и Year of the Dragon Edition 1 row с No #. 16 из 20 эксклюзивных строк exact repeats, 4 имеют текстовые расхождения при том же Toy #. Сохранены CSV и QA: research/extractions/MAINLINE-2012.csv и MAINLINE-2012-EXTRACTION-QA.md. Fandom revision 778347.
+
+
+- 2026-11-08: извлечена Mainline 2011: 429 строк в 21 основных таблицах, Collector # 001–244 без пропусков; две дополнительные секции Windshield Banner Exclusives и Redline Exclusives содержат 20 exact row repeats, а не новые уникальные Toy #. 15 TH и 15 STH находятся в Series labels. CSV и QA: research/extractions/MAINLINE-2011.csv и MAINLINE-2011-EXTRACTION-QA.md. Fandom revision 806210.
