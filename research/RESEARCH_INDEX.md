@@ -79,3 +79,6 @@
 
 
 - 2026-11-08: проведён структурный и выборочный построчный проход по Car Culture 2016–2026, а также отдельным страницам Car Culture 2-Packs (revision 816371) и Car Culture Factory Set (revision 766209). Годовые страницы содержат 4–8 тематических сегментов; Series # 1/5–5/5 локален сегменту; с 2022 в обычных сегментах видны Chase 0/5, тогда как RLC 6th Car Set 2017 имеет 0/5 без Chase label. Изучены 2-Packs как двухкомпонентные bundle-продукты и Factory Sets 2022–2026 как агрегаты тематических сегментов и Team Transport Mixes. Зафиксированы Container Sets как отдельная/неразрешённая категория, переменные вложенные наборы и требования к scoped identifiers, component relations и provenance. Обновлены FINDINGS, UNRESOLVED и DATA_MODEL_REQUIREMENTS.
+
+
+- 2026-11-08: начат межкаталожный проход Car Culture / Mainline / Boulevard / Pop Culture. Сопоставлены Car Culture 2016–2026 и сохранённый список Mainline 2024: обнаружено 49 строковых совпадений casting names (кандидаты, не доказанные identity matches). Выявлены прямые ссылки Identical to / Similar to на Toy # других выпусков в Car Culture 2-Packs и Pop Culture; зафиксирована необходимость хранить typed source assertions, target identifier и namespace. Обновлены FINDINGS, UNRESOLVED и DATA_MODEL_REQUIREMENTS.
