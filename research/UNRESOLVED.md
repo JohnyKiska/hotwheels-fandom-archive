@@ -305,3 +305,14 @@
 - [ ] Проверить исходные изображения и component-level notes для Team Transport; подтвердить grouping и порядок компонентов.
 - [ ] Сохранить машинно-читаемый экспорт извлечённых строк и скрипт/версию extraction method для полного воспроизведения.
 - [ ] После adjudication обновить candidate statuses, не сливая regular и STH releases и не используя Collector # как release key.
+
+
+## Mainline annual archive: задачи после инвентаризации (2026-11-08)
+
+- [ ] Повторно извлечь Mainline 2024 из канонической ветки `archive/historical-html-1968-2026`, записать blob SHA/manifest SHA-256, полные row counts и QA; сверить provenance с ранее использованным 2024 anchor sample.
+- [ ] Независимо извлечь и сравнить обе страницы Mainline 2010 (обычная и International); сохранить региональные различия и не объединять строки автоматически.
+- [ ] Выполнить полную annual extraction + QA для Mainline 1968–2009.
+- [ ] Выполнить полную annual extraction + QA для Mainline 2011–2023.
+- [ ] Выполнить полную annual extraction + QA для Mainline 2026; отделить подтверждённые релизы от плановых/анонсированных записей.
+- [ ] Для каждого года сохранять исходный порядок и границы таблиц, raw Toy #, Collector #, цветовые варианты, series/notes, provenance, дубли и unresolved cases.
+- [ ] После QA годовых списков выполнять отдельные cross-program comparisons; не переносить совпадения из 2024/2025 на другие годы.
