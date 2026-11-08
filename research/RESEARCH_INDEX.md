@@ -30,9 +30,9 @@
 
 1. [x] Построчно проверена первая группа Patch Cards и Flying Colors; точные количества и выявленные расхождения записаны в FINDINGS.md.
 2. [x] Проверена структура таблиц Boss Hoss, Heavy Chevy и King Kuda; полная хронология релизов остаётся задачей.
-3. [ ] Уточнить семантику двух таблиц Speed Fleet и сопоставить их с упаковками Blue Card/Rainbow Card.
+3. [x] Уточнена семантика Speed Fleet: Blue Card line и Rainbow Card в составе Mainline; названия секций подтверждены HTML-заголовками.
 4. [x] Проведён структурный и выборочный построчный проход по 19 дополнительным страницам Early Collections; наблюдения внесены в FINDINGS.
-5. [x] Разобраны Heavyweights (годовые галереи), Real Riders (disambiguation), Grand Prix (вложенные названия в ячейках) и шесть таблиц Ultra Hots 1984–1986/pack listings.\n6. [ ] Продолжить проверку остальных ранних коллекций и их вспомогательных таблиц/галерей.
+5. [x] Разобраны Heavyweights (годовые галереи), Real Riders (disambiguation), Grand Prix (вложенные названия в ячейках) и шесть таблиц Ultra Hots 1984–1986/pack listings.\n6. [x] Дополнительно проверены The Heavies, Super Streeters, Sugar Caddy, Nitty Gritty Kitty и TNT-Bird.\n7. [ ] Продолжить ранний блок, затем перейти к Modern Special Series, Notable Modern Themed Assortments и Other Modern Series.
 7. После исследования раннего блока перейти к Modern Special Series, Notable Modern Themed Assortments и Other Modern Series.
 
 ## История обновлений
