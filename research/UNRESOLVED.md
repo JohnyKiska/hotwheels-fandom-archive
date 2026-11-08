@@ -587,3 +587,16 @@
 - [ ] Проверить числовую последовательность Collector # с учётом повторов и возможных специальных номеров.
 - [ ] Нормализовать Series # в derived fields, сохраняя raw values and Unicode.
 - [ ] Выполнить межгодовое сравнение Mainline 2003 с 2002/2004.
+
+
+## Mainline 1997 annual extraction
+
+- [x] Извлечь 15 numbered tables, Bonus Cars and seven other series separately.
+- [x] Зафиксировать sparse numeric Collector # range 147–642; не трактовать 377 unrepresented values как missing products.
+- [x] Сохранить Bonus Cars #001–004 and N/A identifiers for other series as separate scopes.
+- [x] Зафиксировать Toy #11850 repeated with two Collector # values, Toy #15789 cross-series, and Toy #18365 model-name conflict (Pontiac Salsa vs Auburn 852).
+- [ ] Investigate Toy #18365 conflicting model attribution with packaging/catalogue evidence.
+- [ ] Determine whether Toy #11850's two Collector # entries are separate releases or a source inconsistency.
+- [ ] Determine how Toy #15789 links between 1997 Hot Wheels and Street Racers Series.
+- [ ] Verify Breakaway Bucket (Unreleased) status independently.
+- [ ] Выполнить межгодовое сравнение Mainline 1997 с 1996/1998 после извлечения 1996.
