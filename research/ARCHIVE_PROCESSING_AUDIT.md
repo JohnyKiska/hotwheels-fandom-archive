@@ -34,7 +34,8 @@ Status labels:
 
 | Year/source | Archive status | Research status | Audit conclusion |
 |---|---|---|---|
-| 1968–1997 (30 annual pages) | Present | No complete year-by-year extraction/QA documented | Not yet audited as annual Mainline datasets |
+| 1968–1996 (29 annual pages) | Present | No complete year-by-year extraction/QA documented | Not yet audited as annual Mainline datasets |
+| 1997 | Present | Numbered list: 119 rows, numeric Collector #147–642 (non-dense); Bonus Cars 4 rows (#001–004); seven other series tables: 28 rows with Collector # = N/A | Extracted + QA |
 | 1998 | Present | 185 numbered-list rows, 184 unique Collector # values across 633–908; one repeated #780/Toy #19949 row; separate Bonus Cars 4 rows | Extracted + QA |
 | 1999 | Present | 196 numbered-list rows with Collector #649–1121 (non-dense); separate Final Run (12 rows, Collector # blank) and Bonus Cars (4 rows, Toy # blank) | Extracted + QA |
 | 2000 | Present | 249 rows across 17 tables; 245 distinct nonblank Toy #; Virtual Collection and Bonus Cars require separate identifier scopes; five numeric Collector # values absent | Extracted + QA |
