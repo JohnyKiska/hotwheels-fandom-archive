@@ -247,3 +247,11 @@
 - **Identifier resolution:** разрешать target Toy # только в контексте namespace (program/series/year/source). Если target неоднозначен или отсутствует, сохранять исходную ссылку как unresolved assertion.
 - **Casting family vs casting:** поддерживать отдельную сущность/связь для семейства или маркетингового имени, чтобы варианты кузова (например, coupe/wagon) не сливались в один casting без свидетельств.
 - **Reproducibility:** сохранять точный набор входных страниц/файлов и версию алгоритма нормализации, чтобы повторный проход мог объяснить появление/исчезновение каждого совпадения.
+
+
+## Требования, подтверждённые сверкой Mainline ↔ Premium 2025
+
+- Mainline 2025 содержит 440 строк при 250 Collector #; Toy # уникален в этой таблице, но Collector # не уникален для релиза (например, #247 Ford RS200 и #231 '73 Honda Civic Custom имеют regular и STH строки).
+- Сопоставление по названию должно быть отдельным candidate-match layer, который может связывать одну Premium row/component с несколькими Mainline release rows.
+- Team Transport bundle Toy # относится к набору; continuation component rows могут не повторять Toy # и Series #. Нужны явные bundle-component relations с сохранением source row order.
+- Extraction QA должна учитывать continuation conventions и переменную структуру строк, а не предполагать одинаковый индекс ячейки для каждой строки.
