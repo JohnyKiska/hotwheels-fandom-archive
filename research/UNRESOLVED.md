@@ -699,3 +699,15 @@
 - [ ] Verify whether Toy #1897 set-only entry represents the same casting/release as standard Ferrari Testarossa listings.
 - [ ] Verify Pontiac Fiero 2M4 wheel variants as distinct releases or wheel-only variants.
 - [ ] Выполнить межгодовое сравнение Mainline 1987 с 1986/1988.
+
+
+## Mainline 1986 annual extraction
+
+- [x] Извлечь New Castings, Reissues and Real Riders separately.
+- [x] Preserve Country and "Only in set" source notes.
+- [x] Зафиксировать Toy #2057/#2058 country/color and set-only entries.
+- [x] Зафиксировать repeated Toy #2520, #2537 and #2539 across wheel/release listings.
+- [x] Зафиксировать Toy #2534 collision (Path Beater / Power Plower) in Real Riders.
+- [ ] Проверить whether Toy #2534 collision is source error or genuine identifier reuse.
+- [ ] Verify set-only entries and country-specific variants with packaging/catalogues.
+- [ ] Выполнить межгодовое сравнение Mainline 1986 с 1985/1987.
