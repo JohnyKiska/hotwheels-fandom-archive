@@ -31,8 +31,8 @@ Extracted 3 product tables and 23 rows: New Castings, Reissues and Real Riders. 
 | Collector # field present | No |
 
 Repeated Toy # groups:
-- Toy #1897: 3 rows
-- Toy #7527: 2 rows
+- Toy #1897: three Ferrari Testarossa entries (black, white, and a red Turbo Trax Turbo Glo Set-only entry).
+- Toy #7527: two Pontiac Fiero 2M4 entries differing by Wheel Type (GHO vs UH).
 
 ## Interpretation notes
 
