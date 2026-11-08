@@ -124,3 +124,14 @@
 - **Series position vs Toy #.** Сохранять позицию 1/30–30/30 отдельно от Toy #; Toy # не является сортировочным ключом и может идти в ином порядке.
 - **Line-level specifications.** Общие утверждения о metal base, wheel type и country of manufacture хранить как line/year-level source assertions с provenance, пока источник не подтверждает их для каждой конкретной строки.
 - **Packaging provenance.** Фон карточки, artwork и их варианты должны моделироваться на уровне Packaging/Release, с возможностью связать несколько artwork variants с одной моделью.
+
+
+### Crashers / Mega Wrecks / Bumper Busters (2007–2008)
+
+- **Mechanism as product feature.** Поддержать тип механизма (например, spring-activated), триггер/условие активации (collision/impact), действие (body flips away; multi-stage damage) и направление/тип движения (back/side/front) раздельно. Не сводить crash type к текстовому тегу окраски.
+- **Moving parts and product states.** Нужны связи между продуктом, подвижными/отделяемыми компонентами и визуальными состояниями (normal/crashed), включая возможность нескольких стадий трансформации/повреждения.
+- **Product form and scale.** Отличать обычный die-cast vehicle, пластиковую crash-action toy vehicle, увеличенную игрушку с lights & sounds и крупную play vehicle с multi-stage crash action. Масштаб и габариты должны быть nullable и подтверждаться источником.
+- **Product family vs line identity.** Позволить связывать Crashers 2007, Mega Wrecks 2008 и Bumper Busters отношениями related_to / based_on, не навязывая им одну Series Identity.
+- **Pack composition.** Bonus Vehicle 2-Packs и Crashers 3-Pack должны быть отдельными package/set records с собственным Toy #/SKU и Product Components; один комплект может включать обычную Hot Wheels модель и Crasher или несколько Crasher products.
+- **Source raw values.** Хранить raw wheel strings (C5SP, C6SP, CWSP, Red C5SP и т. п.) и raw Toy # values, включая «?», повторные номера и возможные опечатки. Нормализацию делать отдельно с provenance и статусом проверки.
+- **Year attribution.** Год страницы, год категории, год отдельного выпуска и год продуктовой линии не взаимозаменяемы; Mega Wrecks прямо обозначены на странице как 2008, а основной Crashers page охватывает категории 2007 и 2008.
