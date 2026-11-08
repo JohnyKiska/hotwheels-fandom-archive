@@ -439,3 +439,12 @@
 - [ ] Проверить packaging/source context for Windshield Banner and Redline exclusives; don't deduplicate by Toy # alone.
 - [ ] Проверить Y5852 Year of the Dragon Edition's blank Series # and product scope.
 - [ ] Выполнить межгодовое сравнение Mainline 2012 с 2011/2013 после извлечения 2011.
+
+
+## Mainline 2011 annual extraction
+
+- [x] Извлечь 21 основную таблицу и отдельно сохранить Windshield Banner Exclusives / Redline Exclusives.
+- [x] Проверить Collector # sequence: 001–244 без пропусков; не создавать позиции 245–250.
+- [x] Подтвердить, что 20 дополнительных эксклюзивных строк являются точными шестиколоночными повторами Mainline source rows; сохранить section provenance.
+- [ ] Проверить физический/упаковочный статус Windshield Banner и Redline exclusives, не выводить новый release только из повторного листинга.
+- [ ] Выполнить межгодовое сравнение Mainline 2011 с 2010/2012 после извлечения 2010 (USA/International) и 2012.
