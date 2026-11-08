@@ -72,3 +72,17 @@
 - **Rail systems.** Для Hot Wheels Railroad хранить рельсы, стрелки, переходы, локомотивы, вагоны и наборы как отдельные продукты; совместимость с HO track и fork-style coupler должны быть явными связями.
 - **Name reuse.** Повторное использование названия спустя десятилетия (Attack Pack 1992–1994 и 2026) не является достаточным доказательством одной Series Identity; нужна отдельная связь Name Reuse/Inspired By.
 - **Manufacturer and brand.** ARCO Toys, Mattel и Hot Wheels brand role должны быть отдельными атрибутами/отношениями.
+
+
+## Дополнения по Modern Special Series (первый проход)
+
+- **Umbrella assortment hierarchy.** Ввести уровни franchise/family → series identity → era/year → mix/subseries → individual release → packaging/case assortment. Примеры: Car Culture annual mixes, Character Cars IP-based assortments, AcceleRacers team subsets.
+- **Licensed IP.** Хранить лицензиара, франшизу, персонажа, фильм/медиа источник и тематическое оформление независимо от casting identity и HW product brand.
+- **Release vs. casting reuse.** Один casting может иметь разные Toy #, цвета, колёса, IP deco, retail channels и packaging. Отношения "same casting", "same decoration", "identical release" и "similar tooling" должны быть разными.
+- **Set composition.** Team Transport, 2-packs, premium 5-packs, comic bundles, Character Cars playsets и Color Reveal barrels требуют component/quantity relationships и собственного package/set SKU.
+- **Chase and distribution.** Chase status, case allocation, filler cars, retailer exclusivity, convention exclusivity и factory-set exclusivity — разные данные distribution/assortment, не один флаг exclusive.
+- **Color-change states.** Механизм изменения цвета хранить как технологию с несколькими температурными состояниями; Color Reveal дополнительно имеет растворимое внешнее покрытие и отдельное first-use transition.
+- **Digital features.** AcceleRacers base codes и online unlocks требуют поля/сущности digital code, destination/service, validity period и entitlement, не смешанные с Toy #.
+- **Packaging.** Acrylic cases, ribbed blister, upside-down card, Color Reveal barrel, card artwork and packaging code должны быть отдельными packaging variants.
+- **Materials and chassis.** Plastic body, metal body, die-cast chassis, anodized finish и spectraflame finish фиксируются раздельно на уровне варианта/релиза.
+- **Anniversary/name reuse.** Anniversary-themed reissues (например AcceleRacers 2025) должны связываться с исходной franchise/line через tribute/commemorative relationship, но не автоматически объединяться с исходной эpoхой.
