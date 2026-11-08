@@ -419,3 +419,12 @@
 - [ ] Проверить Kroger-exclusive Scavenger Hunt products и их возможные связи с Mainline releases; не включать No # в numeric Collector #.
 - [ ] Проверить zero-width Unicode в Series #, сохраняя raw source.
 - [ ] Выполнить межгодовое сравнение Mainline 2014 с 2013/2015 после извлечения 2013.
+
+
+## Mainline 2013 annual extraction
+
+- [x] Извлечь 30 Mainline series tables и отдельно Kroger-exclusive Scavenger Hunts.
+- [x] Выполнить структурный QA: 433 Mainline rows + 6 Scavenger Hunt rows; обязательные source fields заполнены.
+- [x] Зафиксировать отсутствие Series # в Mainline schema; не считать его пропуском.
+- [ ] Проверить Kroger-exclusive Scavenger Hunt products и связи с обычными Mainline releases; не включать No # в numeric Collector #.
+- [ ] Выполнить межгодовое сравнение Mainline 2013 с 2012/2014 после извлечения 2012.
