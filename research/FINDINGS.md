@@ -779,3 +779,43 @@
 - Safe current conclusion: relate them as analogous/related transport-and-vehicle product formats only; do not merge their Series entities absent explicit evidence.
 
 **Evidence status:** observations from the archived Fandom HTML pages listed above. The product descriptions, release statuses, casting novelty claims, and base-code interpretations are not independently verified by this pass.
+
+
+## Car Culture annual assortments (2016–2026), 2-Packs and Factory Sets
+
+**Annual pages:** `Modern Special Series/Car Culture/YYYY Car Culture _ Hot Wheels Wiki _ Fandom.html`. Archived revisions: 2016 801361; 2017 801358; 2018 760101; 2019 742363; 2020 754186; 2021 703018; 2022 778008; 2023 736899; 2024 795931; 2025 816325; 2026 816657.
+
+### Annual themed assortments
+
+- Annual pages aggregate independently named thematic segments, not one flat annual checklist. Segment counts: 2016 4; 2017 6 (including a separately labelled Red Line Club Exclusive 6th Car Set); 2018 6; 2019 6; 2020 6; 2021 8; 2022 8; 2023 6; 2024 7; 2025 8; 2026 8.
+- Standard segment tables use five numbered positions `1/5`–`5/5`; numbering restarts inside each segment. It is not a global Car Culture number.
+- The 2017 Red Line Club Exclusive 6th Car Set table has five entries labelled `0/5`. Do not classify these as Chase based only on the number.
+- From 2022 through 2026, each regular segment table has five regular positions plus an additional `0/5` row explicitly labelled `Chase`. 2021 tables reviewed have five entries and no Chase row. This is a source observation, not proof that no Chase existed in other channels/markets.
+- Themes change freely: examples include Japan Historics / Euro Style / Trucks / Track Day (2016); HW Redliners / Air-Cooled / Race Day / Modern Classics / Cars & Donuts (2017); Japan Historics 2 / Cargo Carriers / Eurospeed / Shop Trucks / Circuit Legends / Dragstrip Demons (2018); and Japan Historics 5 / Thrill Climbers / Power Trip / Modern Classics / Vintage Racing / Aerostyles / Road Trip / Deutschland Design (2026).
+- Annual tables record Toy #, segment-local Series #, Casting Name, Body Color, Wheel Type, Notes and Base codes. Values and labels vary; preserve source strings and row order.
+- Notes such as `New Casting`, `New Die-cast Chassis`, `Chase` and descriptive comments apply to the row/release, not automatically to the whole themed segment. Wheel descriptions can include front/rear assignments or compound wheel sets.
+- Some annual pages include a separate `Container Sets` table: 2022 lists eight themed set products (HFF44, HFF41, HFF43, HFF42, HFF45, HFF47, HFF46, HFF48); 2023 lists HKD98/HKD99; 2024 lists HRW84. These are not ordinary single-car segment positions.
+
+### Car Culture 2-Packs (2021–2026)
+
+- Archived page `Modern Special Series/Car Culture/Car Culture 2-Packs _ Hot Wheels Wiki _ Fandom.html`, Fandom revision 816371.
+- The page has year headings 2021–2027. The reviewed HTML contains 24 full tables of six component rows (three 2-packs per table) for the 2021–2026 portion, plus one partial 2027 table. The 2027 row is outside this 2016–2026 scope and is not counted as a released 2026 product.
+- Each bundle has a Toy # on its first component row, a Theme label and two vehicle component rows; the second row usually leaves Toy # and Theme blank. This is a bundle with two included vehicles, not one casting with two variants.
+- Component rows carry their own casting name, color, wheel type, base codes and notes. Notes include `Identical to [release]`, `Similar to [release]`, and `Updated tooling`; retain as source assertions/relations, not automatic casting identity merges.
+- Themes include named partnerships/franchises and broad automotive themes (Larry Chen, Borla, BRE Datsun, Mooneyes Volkswagen, Formula Drift / RTR, NISMO, Knight Rider, Classic Stock Cars, Snake and Mongoose, Back to the Future, Cyberpunk 2077, Ferrari, BMW Race Cars, etc.). Theme is not necessarily a formal annual five-car Car Culture segment.
+
+### Car Culture Factory Sets (2022–2026)
+
+- Archived page `Modern Special Series/Car Culture/Car Culture Factory Set _ Hot Wheels Wiki _ Fandom.html`, Fandom revision 766209.
+- Five year sections, 2022–2026, with 4, 3, 4, 4 and 4 set rows respectively (19 listed set products).
+- Each record has Toy #, Set # and a Contents field listing included themed Car Culture segments and Team Transport Mixes. Some sets include a Team Transport Legends Tour Exclusive in addition to the numbered Mix.
+- A Factory Set is an aggregation/bundle of assortment-level contents, not a casting or a five-car subseries. Model the Factory Set as a product/set with explicit included assortment/mix relationships; do not flatten its Contents string into one series label.
+- Example: 2022 HJV99 (1/4) includes American Scene, Deutschland Design and Team Transport Mix 1; HJW00 (2/4) includes Mountain Drifters, Exotic Envy, Team Transport Mix 2 and Team Transport Legends Tour Exclusive. 2026 JMN16–JMN19 combine the year's eight themed segments in pairs with Team Transport Mixes 1–4; Mix 2 set also lists the Legends Tour Exclusive.
+
+### Cross-format model implications
+
+- Car Culture needs a parent umbrella/category relation without assuming every annual theme, 2-Pack theme, Team Transport Mix and Factory Set is the same entity type.
+- Distinguish annual themed assortment/segment; individual vehicle release; Chase release; 2-Pack product with two vehicle components; Team Transport product with variable hauler/trailer/car components; Factory Set containing multiple assortments/mixes.
+- Toy # identifies a product/release row or bundle as shown by the source; Series # is local to the relevant themed segment; Set # is local to the Factory Set year. These identifiers are not interchangeable.
+- Repeated casting names, `Identical to`/`Similar to` notes and wheel differences require separate casting/release/variant layers and source-linked relationships.
+- Evidence is archived Fandom HTML. This is structured catalog transcription, not an independent audit of market availability, packaging, or Mattel's official product taxonomy.
