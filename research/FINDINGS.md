@@ -629,3 +629,86 @@
 - A team can have multiple individual releases in one year, and a driver/team pairing can change across seasons. Treat driver participation as season/context-specific, not as a permanent attribute of a team or casting.
 - Team-branded products without a driver and the Podium Set demonstrate that the assortment contains product types beyond individual driver-specific cars.
 - Preserve original team names exactly as printed per year; names such as Visa Cash App RB and Visa Cash App Racing Bulls, or Williams Racing and Atlassian Williams Racing, may reflect naming changes and should not be normalized into one historical string.
+
+
+## Pro Racing (1997–2005) and Basic Pro Racing Series
+
+**Sources:** archived year pages in `Modern Special Series/Pro Racing/`; Fandom revisions: 1997 783371, 1998 764854, 1999 801821, 2000 809610, 2001 792684, 2002 765107, 2003 783974, 2004 773614, 2005 801554, Basic Pro Racing Series 815908. Status: **Observation** from Fandom archive, not independently verified.
+
+### Overall structure
+- The yearly pages are not uniform annual checklists. They contain multiple tables grouped by release program, packaging/promo channel, wheel configuration, special paint scheme, track/race event, and sometimes non-car products.
+- The data schema changes over time. 1997–2000 pages commonly record casting, team/number, primary sponsor, base/body material, interior, wheel type, Toy #, country, notes and images. From 2001 onward, many tables instead use Team number, Team/sponsor label, Wheels, Series and photo/status fields; item/Toy # is often absent.
+- Do not equate a table row with a unique casting or a unique physical release. The same Toy # can recur with different facing/grille/spoiler/paint/packaging notes, and identical cars can be cross-listed in several annual tables/programs.
+- The number in Team / Number is a racing number, not a Mattel Toy #. The sponsor/team label is not necessarily the driver name.
+
+### 1997
+- The main first table has 28 data rows, including duplicate Toy # entries with variation notes, and several unreleased concepts (e.g. Kranefuss-Haas #37, Neal Motorsports #91, Buz McCall Racing #96 marked NEVER RELEASED in the packaged/loose photo fields).
+- Toy # examples: 17408 Morgan-McClure #4, 17407 Hendrick #5, 17411 Roush #6, 17409 Petty #43, 17580 PE2 #44, 17414 Roush #99.
+- Explicit differences include car facing direction, grille, spoiler, bumper, decal/autograph and card variation. These are release/variant-level notes, not new casting identities by default.
+- Other tables repeat many of the same cars as 1st Edition/Short Track listings, and include a Ford F-150 Irvan-Simo Racing #28 entry (Toy #18631) with plastic base, distinct from the metal-base stock cars.
+
+### 1998
+- Multiple separate tables cover annual releases, Preview/1st Edition, Short Track, promo/team listings, and Tool Box products. The page has many repeated entries and incomplete Toy # fields.
+- The Team n° / Team / Year # / Series table lists 1998 team labels such as Target #4, Walker #5, and LCI #31; a separate table lists K-mart Havoline #6 and K-mart Duracell #11.
+- Tool Box is a separate product/casting category with its own team/sponsor-decorated releases; do not model it as a car.
+- At least one table lists Pontiac Grand Prix and Dodge Ram releases with body color and wheel type but no explicit Toy # on every row.
+
+### 1999
+- The year page contains NASCAR stock cars plus separate Daytona 500, Hall of Fame, Grand National, Toy Story 2, Tee'd Off, Formula 1 and Tool Box groupings.
+- An explicit Formula 1 table lists McLaren Mercedes MP4-14 #1 (Mobil 1, Mika), MP4-14 #2 (Mobil 1, David), and MP4-13 #8 (Mobil 1). “Mika” and “David” are source text fragments, not yet normalized full driver identities.
+- Hall of Fame and other special tables include castings whose sponsor/number details are different from ordinary annual stock-car releases. A 1999 note distinguishes Ford Taurus Stocker #26 from the similar Toy Story 2 Set car.
+- Tee'd Off entries reuse NASCAR team/sponsor liveries on a different casting. This is a casting-level distinction despite shared team/number/sponsor concepts.
+- Preserve source uncertainty such as “(Scandia)?” and rows with missing Toy #.
+
+### 2000
+- The main table contains 32 data rows and records numerous NASCAR castings, teams, numbers, sponsors, materials, wheels, Toy #s and countries.
+- The page separately lists Petty Enterprises #44 Hot Wheels cars with race/track-specific sponsor text (Darlington, Talladega, California, Michigan, Daytona, Watkins Glen, Phoenix, Homestead-Miami). These should be modeled as event/track livery or promotional variants, not separate teams or drivers.
+- Some rows explicitly distinguish alternate liveries and set exclusives, e.g. Petty Enterprises #44 Toy #50452 only in Commemorative Racing 4-Pack.
+- A row may have a driver/trading card association, such as the Kenny Wallace Trading Card note on Andy Petree Racing #55, but this is not equivalent to a dedicated Driver column.
+- Multiple Toy #s can exist for same team-number livery across different program/table contexts; cross-listing notes explicitly say “Car identical to the one in 2000 Pro Racing Main Series”.
+
+### 2001
+- The page is primarily a set of compact tables using Team n° / Team / Wheels / Series / Photo, with several release categories: Pro Racing, Pit Board, Promo, Treasure Hunt, Roush Racing Commemorative and others.
+- Explicit unreleased status appears in a table: #45 Georgia Pacific marked NEVER RELEASED. Photo/status values must be preserved as status evidence, not treated as an actual released product.
+- Pit Board, Treasure Hunt and other table categories are not necessarily the same physical product format as a standard car.
+- There are separate wheel configurations (5SP, MGW, N/A, BW, GYERR, LW, ORSB, 3SP, DDRR, etc.). Preserve the source's raw wheel codes; do not normalize without a wheel-code reference.
+- A “Campeanato McCormack” entry and other unusual labels should be retained verbatim pending clarification.
+
+### 2002
+- The page includes several standard Pro Racing wheel groups plus Treasure Hunt, baggie, sticker, promo, Daytona Set-UP and M&M's Campaign tables.
+- Explicit NEVER RELEASED rows include #32 Tide, #97 Sharpie, #25 Marines, #36 M&Ms and #43 STP in the relevant 5SP tables.
+- Treasure Hunt rows identify race/track names rather than driver/team numbers (e.g. Daytona, Darlington, Talladega, California, Watkins Glen, Phoenix, Kansas, Homestead Miami); this is an event/venue relationship.
+- Notes distinguish prototypes and production wheel variants, e.g. #4 Kodak “GYERR (Prototype is a GYERR R)”, and cross-year repeats such as “Same as 2001 version”.
+- M&M's campaign rows include several repeated #36 sponsor/deco records. Do not deduplicate solely on team number and sponsor.
+
+### 2003
+- This page makes the driver relationship explicit in one special table, **Pro Racing Luxury Rides**, where sponsor/team label and driver are both printed: examples include #4 Kodak “Mike Skinner”, #6 Pfizer “Mark Martin”, #10 Nesquik “Scott Riggs”, #10 Valvoline “Johnny Benson”, #12 Alltel “Ryan Newman”, #17 DeWalt “Matt Kenseth”, #21 Motorcraft “Ricky Rudd”, #32 Tide “Ricky Craven”, #36 M&M's “Ken Schrader”, #43 Cheerios “John Andretti”, #43 STP “Richard Petty”, #45 Brawny/Sprint “Kyle Petty”, #97 Sharpie/Rubbermaid “Kurt Busch”, #99 Citgo “Jeff Burton”.
+- This is strong evidence that driver identity can be represented separately from the team/sponsor and car number. The same number can have different driver representations: #10 Nesquik/Scott Riggs and #10 Valvoline/Johnny Benson; #43 Cheerios/John Andretti and #43 STP/Richard Petty.
+- Other tables include Recreational Series, Race Day, Color Changer, Special Paint Scheme, Wrenchin' & Racing, Stockerz and promos. Suffixes such as 12A/43A identify source-listed product/team-number forms; their meaning needs confirmation.
+- Some tables mark rows NEVER RELEASED, e.g. #99 Citgo in the Recreational Series table.
+- A 2003 Champions DeWalt #17 entry and related 2003 Champion items are separate commemorative decoration/program entries, not automatically separate real-world race entries.
+
+### 2004
+- The page's table structure uses Item Number, Team number, Team, Wheels, Series and Photo. Item Number is frequently blank, with some populated values such as G9276 and G9290.
+- Categories include Race Day, Artist Collection, Showcase, Color Changer, Chase for the Cup, Justice League, Test Track, Alternative Paint Scheme and Treasure Hunt.
+- Some Justice League entries combine team-number references with character names (e.g. Batman, The Flash, Wonder Woman, Superman, Green Lantern). These are licensed decorative variants, not driver names.
+- A #6 entry appears under multiple sponsors (Viagra, Oscar Mayer, Pfizer) and product programs; #21 likewise has multiple liveries (Motorcraft, US Air Force, Rent-A-Center). The same number is not sufficient to infer a unique driver or vehicle identity.
+- STOCKERZ is a separate table/category and should not be collapsed into the standard Race Day release table.
+
+### 2005
+- Three compact tables list Race Day, Cars Movie Promo and Alternative Paint Scheme entries. Examples include #10 Valvoline Cars Movie Promo, #12 Alltel Race Day, #43 Plymouth/Cheerios, #45 GP Brawny, #6 Pfizer, #16 National Guard, #17 DeWalt, #21 Motorcraft, #97 Sharpie and #99 Office Depot.
+- The source's “Team #” and “Team” fields do not provide a dedicated driver column; avoid assigning drivers based on external assumptions without corroborating source evidence.
+- The year page appears much more compact than earlier Pro Racing pages and may not represent every release channel or product type.
+
+### Basic Pro Racing Series
+- The Basic page contains multiple historically distinct groups, not just one basic NASCAR set. It includes early NASCAR stock cars with plastic bases and GYE10SP wheels; 1998-related headlight/casting notes; a 1997-era Indy/CART group with Reynard 97L #5/#8 and Lola T97 #31 (Walker/Shell/LCI); pace cars and commemoratives; later GP-2009 Formula 1 cars; and many further NASCAR stocker/promotional entries.
+- The 1997-era Indy/CART rows include Toy #19117 Reynard 97L #5 Walker, #19116 Reynard 97L #8 Shell, and #19119 Lola T97 #31 LCI. These should be linked to real racing entries only after driver/team/chassis confirmation.
+- A separate GP-2009 group includes McLaren #1, Ferrari #3 and HSBC #16 liveries. Do not assume these are the same real-world F1 season or chassis as the 1999 Formula 1 rows without corroboration.
+- Basic page entries include multiple material/base and wheel configurations. “Basic” is a source grouping, not proof of a single product type or one coherent racing season.
+
+### Cross-cutting data observations
+- Store series/year, source table heading/category, release channel, casting, Toy #/Item Number, racing number, team/sponsor string, wheel code, base/material, interior, country, raw notes and release status separately.
+- Represent driver as an optional, independently sourced relationship to a racing entry/season. A driver can be explicitly printed (e.g. 2003 Luxury Rides), hinted by source labels (e.g. 1999 “Mika”/“David”), or absent. Do not promote hints into verified driver identities.
+- Team/sponsor is a compound source string in many tables. Preserve raw value and parse into separate team, sponsor, event and driver references only when evidence supports each component.
+- Track/venue names, charity rides, movie promotions, superhero names and sponsor campaigns are distinct contexts, not teams or drivers.
+- Keep unreleased/prototype/unknown Toy # records; they are useful archive evidence but must not be counted as confirmed retail releases.
