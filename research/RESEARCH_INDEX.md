@@ -165,3 +165,6 @@
 
 
 - 2026-11-08: извлечена Mainline 2004: 268 строк в 16 таблицах, numeric Collector # 001–212 без пропусков плюс отдельный Collector #000 для First Editions Mail-In. Таблицы 13–16 используют пятиколоночную схему без Series #; 101 Series # values содержат zero-width Unicode. Зафиксированы 48 (2nd Color) и 12 T-Hunt. CSV и QA: research/extractions/MAINLINE-2004.csv и MAINLINE-2004-EXTRACTION-QA.md. Fandom revision 811756.
+
+
+- 2026-11-08: извлечена Mainline 2003: 222 строки в 22 таблицах, Collector # 001–220 без пропусков; таблица 2003 Hot Wheels (32 строки) использует 5-column schema без Series #. Collector #035 / Toy #56391 имеет три цветовых варианта; один Series # blank (Sonic Special #207), один literal Unnumbered (Roll Patrol). CSV и QA: research/extractions/MAINLINE-2003.csv и MAINLINE-2003-EXTRACTION-QA.md. Fandom revision 797937.
