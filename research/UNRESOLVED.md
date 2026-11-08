@@ -327,3 +327,11 @@
 - [ ] Проверить 13 International-only и 39 USA-only Toy # значений: regional exclusives vs source coverage/omissions.
 - [ ] Adjudicate 18 строк Goodyear Tire Exclusives / BF Goodrich Tire Exclusives в USA page; сохранить section context и не deduplicate автоматически.
 - [ ] Проверить color variants и повторные Toy # по упаковке/каталогам; не трактовать Toy # как уникальный release key.
+
+
+## Mainline 2026 annual extraction
+
+- [x] Извлечь годовую таблицу из архивного HTML, сохранить исходный порядок и поля Toy #, Collector #, Model Name, Series, Series #, Photo.
+- [x] Выполнить структурный QA: 440 строк, 440 уникальных Toy #, 250 Collector #, пустые обязательные поля отсутствуют.
+- [ ] Проверить анонсированные/плановые и иные неоднозначные source notes, если они встречаются в актуальных записях; не приравнивать их автоматически к подтверждённым релизам.
+- [ ] Выполнить отдельные сравнения Mainline 2026 с Premium-программами и Mainline 2025 после проверки конкретных таблиц/источников.
