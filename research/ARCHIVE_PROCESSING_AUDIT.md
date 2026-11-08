@@ -34,7 +34,8 @@ Status labels:
 
 | Year/source | Archive status | Research status | Audit conclusion |
 |---|---|---|---|
-| 1968–1986 (19 annual pages) | Present | No complete year-by-year extraction/QA documented | Not yet audited as annual Mainline datasets |
+| 1968–1985 (18 annual pages) | Present | No complete year-by-year extraction/QA documented | Not yet audited as annual Mainline datasets |
+| 1986 | Present | 26 rows across New Castings, Reissues and Real Riders; 20 unique Toy #; country and set-only qualifiers preserved | Extracted + QA; repeated Toy # and scope collisions flagged |
 | 1987 | Present | 23 rows across New Castings, Reissues and Real Riders; 20 unique Toy #; no Collector # field | Extracted + QA; repeated Toy # variants flagged |
 | 1988 | Present | 27 rows across New Castings and Reissues; 25 unique Toy #; no Collector # field; two Toy # values have two color variants each | Extracted + QA |
 | 1989 | Present | One five-column annual table; 76 rows, Col. #001–076 and Series #1/76–76/76; no Toy # field | Extracted + QA |
