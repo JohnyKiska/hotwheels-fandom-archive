@@ -37,7 +37,7 @@ Status labels:
 | 1968–2009 (42 annual pages) | Present | No complete year-by-year extraction/QA documented in current research index | Not yet audited as annual Mainline datasets |
 | 2010 USA | Present | Extracted + QA: 440 source rows across 28 tables, 252 unique Toy #, 240 Collector #; includes Goodyear/BF Goodrich sections | Extracted + QA; cross-page adjudication pending |
 | 2010 International | Present | Extracted + QA: 228 source rows across 24 tables, 226 unique Toy #, 214 Collector # | Extracted + QA; cross-page adjudication pending |
-| 2011 | Present | No complete year-by-year extraction/QA documented | Not yet audited as annual Mainline dataset |
+| 2011 | Present | Mainline: 429 rows across 21 tables, numeric Collector # 001–244; 20 additional Windshield Banner/Redline exclusive rows are exact repeats of Mainline rows | Extracted + QA |
 | 2012 | Present | Mainline: 387 rows across 23 tables, numeric Collector # 001–247; two cross-listed exclusives tables add 20 rows; Year of the Dragon Edition adds 1 No # row | Extracted + QA |
 | 2013 | Present | Mainline: 433 rows across 30 series tables, 250 numeric Collector #; Scavenger Hunts: 6 rows in separate Kroger-exclusive table, Collector # = No #; Mainline schema has no Series # column | Extracted + QA |
 | 2014 | Present | Mainline: 433 rows across 32 series tables, 250 numeric Collector #; Scavenger Hunt: 4 rows in separate Kroger-exclusive table; one Mainline table lacks Series # column | Extracted + QA |
