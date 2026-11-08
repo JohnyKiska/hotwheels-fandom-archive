@@ -177,3 +177,6 @@
 
 
 - 2026-11-08: извлечена Mainline 2000: 249 строк в 17 таблицах; 245 distinct nonblank Toy #. Выявлены три source scopes: core annual tables, Virtual Collection (35 rows, alphanumeric Series # codes) и Bonus Cars (4 rows with blank Toy # and Collector # 001–004 in separate scope). Пять numeric Collector # values absent: 147, 170, 184, 185, 186. 2000 Hot Wheels uses 5-column schema. CSV и QA: research/extractions/MAINLINE-2000.csv и MAINLINE-2000-EXTRACTION-QA.md. Fandom revision 799670.
+
+
+- 2026-11-08: извлечена Mainline 1999: 196 numbered-list rows с Collector #649–1121 (non-dense), отдельно Final Run 12 rows (Collector # blank) и Bonus Cars 4 rows (Toy # blank, Collector #001–004 in bonus scope). 1999 Hot Wheels table has 5-column schema without Series #. 277 numeric values in range 649–1121 are not represented on this page; do not infer missing releases. CSV и QA: research/extractions/MAINLINE-1999.csv и MAINLINE-1999-EXTRACTION-QA.md. Fandom revision 799669.
