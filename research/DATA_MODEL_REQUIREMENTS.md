@@ -229,3 +229,13 @@
 - **Identifier domains:** distinguish Toy #, segment-local Series #, Factory Set Set #, Team Transport Mix/Series #, and component casting/release IDs. None is a universal key.
 - **Source-asserted equivalence:** preserve `Identical to`, `Similar to`, `Updated tooling`, `New Casting`, `New Die-cast Chassis` as raw assertions linked to the relevant row/component. Do not convert directly into canonical identity or tooling lineage without corroboration.
 - **Provenance:** store year page, Fandom revision, section heading, table index, row order, original cell strings and source grouping boundaries.
+
+
+## Cross-catalog identity and source-asserted relationships
+
+- **Candidate matching, not identity merging:** support candidate links generated from normalized casting names, but keep them separate from confirmed casting identity. A match must retain the compared source rows and matching method.
+- **Typed source assertions:** represent notes such as Identical to [Toy #], Similar to [Toy #], Same as [year], Modified Casting, New Casting and New Die-Cast Chassis as typed assertions/relationships attached to the exact release or bundle component. Preserve raw note, source page, row, and target identifier when present.
+- **Cross-catalog identifier namespaces:** Toy # is not a globally unique key across Mainline, Premium, 2-Packs, Boulevard, Pop Culture, Team Transport or other product programs. Store source/program/year context with every external identifier.
+- **Separate release from casting:** the same named casting can recur in multiple years and product programs with different Toy #, colors, wheels, base codes, chassis notes and distribution. Model each release separately and link to a casting only when supported.
+- **Relationship confidence:** distinguish exact source phrase from normalized interpretation and independently verified identity. Identical to must not be silently upgraded to a canonical same-casting or same-tooling assertion.
+- **Mainline comparison anchor:** 2024 Mainline list is one comparison dataset, not a complete Mainline authority. Matching should be repeatable across years as additional annual lists are imported.
