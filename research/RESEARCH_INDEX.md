@@ -99,3 +99,6 @@
 
 
 - 2026-11-08: выполнен аудит Mainline archive tree: 59 годовых папок (1968–2026), 60 HTML-страниц с отдельными обычной и International страницами за 2010 год; 2025 имеет полную extraction QA, 2024 использован как частичный anchor, остальные годовые страницы требуют систематического извлечения/QA. Отчёт: ARCHIVE_PROCESSING_AUDIT.md.
+
+
+- 2026-11-08: повторно извлечена и QA-проверена полная таблица Mainline 2024 из канонического архива: 441 строка, 441 уникальный Toy #, 250 Collector #, 132 пометки (2nd Color), 15 TH и 15 STH. CSV и отчёт: research/extractions/MAINLINE-2024.csv и MAINLINE-2024-EXTRACTION-QA.md. 49 прежних Car Culture name-match candidates остаются не adjudicated.
