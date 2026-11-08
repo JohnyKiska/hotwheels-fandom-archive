@@ -123,3 +123,6 @@
 
 
 - 2026-11-08: извлечена Mainline 2019: основная таблица 447 строк (447 уникальных Toy #, Collector # 001–250), отдельно Unnumbered Special Editions 2 строки (GFJ71, GJN99; Collector # = No #). Всего 449 source rows в двух таблицах. CSV и QA: research/extractions/MAINLINE-2019.csv и MAINLINE-2019-EXTRACTION-QA.md. Fandom revision 812200.
+
+
+- 2026-11-08: извлечена Mainline 2018: основная таблица #1–365 содержит 365 строк; отдельно извлечены 104 строки из 10 секций (TH, STH, Super Ultimate Chase, Red Editions, Zamac, retailer exclusives, Daredevil Chase). Все дополнительные строки имеют Collector # = No #. Зафиксированы 6 Series # с zero-width Unicode. CSV и QA: research/extractions/MAINLINE-2018.csv и MAINLINE-2018-EXTRACTION-QA.md. Fandom revision 811760.
