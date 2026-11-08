@@ -198,3 +198,6 @@
 
 
 - 2026-11-08: извлечена Mainline 1993: 72 строки в пяти таблицах с разными схемами. 64 уникальных Toy #; 36 уникальных nonblank Col # в New Castings/Reissues. Отмечены повторяющиеся Col #149/197/224, Toy #2781/3502/4314/5667, три пустых Col # и четыре пустых Toy # в Tattoo Machines. Demolition Man использует # in Series, 25th Anniversary Series отдельный набор полей. CSV/QA: research/extractions/MAINLINE-1993.csv и MAINLINE-1993-EXTRACTION-QA.md. Fandom revision 797943.
+
+
+- 2026-11-08: извлечена Mainline 1992: 24 строки в трёх таблицах (New Castings 12, Reissues 7, Gleam Team 5). Две схемы: 12 и 9 колонок. Уникальные Col # 24; Toy # 22; у Gleam Team #189/#190 Toy # отсутствует. CSV/QA: research/extractions/MAINLINE-1992.csv и MAINLINE-1992-EXTRACTION-QA.md. Fandom revision 783535.
