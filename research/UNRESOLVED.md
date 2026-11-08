@@ -577,3 +577,13 @@
 - [ ] Investigate duplicate Collector #780 / Toy #19949 row in 1998 Hot Wheels table.
 - [ ] Verify 1998 Bonus Cars scope and identifiers; two Toy # cells are blank in source.
 - [ ] Выполнить межгодовое сравнение Mainline 1998 с 1997/1999 после извлечения 1997.
+
+
+## Mainline 2003 annual extraction
+
+- [x] Извлечь все 18 product tables, сохранить table/section provenance and raw headers.
+- [x] Создать row-level CSV and QA report.
+- [ ] Разобрать повторяющиеся Collector # по таблицам: выяснить, где это намеренное повторное перечисление, вариант, промо или конфликт исходной страницы.
+- [ ] Проверить числовую последовательность Collector # с учётом повторов и возможных специальных номеров.
+- [ ] Нормализовать Series # в derived fields, сохраняя raw values and Unicode.
+- [ ] Выполнить межгодовое сравнение Mainline 2003 с 2002/2004.
