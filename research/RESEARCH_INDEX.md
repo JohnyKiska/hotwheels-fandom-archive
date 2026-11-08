@@ -186,3 +186,6 @@
 
 
 - 2026-11-08: извлечена Mainline 1997: 119 numbered-list rows (numeric Collector #147–642, non-dense), отдельно Bonus Cars 4 rows (#001–004) и 7 other series tables (28 rows, Collector # = N/A). Обнаружен конфликт Toy #18365: Pontiac Salsa в 1997 Hot Wheels vs Auburn 852 в Classics Series; Toy #11850 повторяется в двух numbered tables, Toy #15789 пересекает Mainline/Street Racers. CSV и QA: research/extractions/MAINLINE-1997.csv и MAINLINE-1997-EXTRACTION-QA.md. Fandom revision 799665.
+
+
+- 2026-11-08: извлечена Mainline 1996: 141 строка в 17 таблицах; 136 уникальных Toy # и Collector # values; 12 Treasure Hunts, 4 Bonus Cars, 64 строки в 1996 Hot Wheels без Series #. Выявлены две точные повторные строки (#473 BMW M1 и #491 Rocket Shot) и три межсекционных Toy # collisions между Bonus Cars и Treasure Hunts. CSV/QA: research/extractions/MAINLINE-1996.csv и MAINLINE-1996-EXTRACTION-QA.md. Fandom revision 800722.
