@@ -488,3 +488,14 @@
 - [x] Зафиксировать повторяющиеся Toy # values и color variants.
 - [ ] Проверить Open Stock's relation to standard annual series and whether it shares the same release scope.
 - [ ] Выполнить межгодовое сравнение Mainline 2006 с 2005/2007 после извлечения 2005.
+
+
+## Mainline 2005 annual extraction
+
+- [x] Извлечь все 19 таблиц и сохранить Open Stock отдельно с исходной схемой колонок.
+- [x] Проверить Collector # sequence: 001–187 без пропусков.
+- [x] Зафиксировать Open Stock's five-column schema without Series #; не считать это missing field.
+- [x] Зафиксировать repeated Toy # values, color variants, Mail-In TH and zero-width Series #.
+- [ ] Проверить связи Open Stock rows с обычными серийными таблицами и casting/release identity.
+- [ ] Нормализовать Series # в derived fields, сохраняя raw Unicode.
+- [ ] Выполнить межгодовое сравнение Mainline 2005 с 2004/2006 после извлечения 2004.
