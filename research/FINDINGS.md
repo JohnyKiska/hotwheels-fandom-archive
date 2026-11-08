@@ -840,3 +840,18 @@
 - **Design boundary.** Уровни сравнения должны быть явными: name_match_candidate, source_asserted_identical_to, source_asserted_similar_to, visually_supported_variant, casting_identity_confirmed, tooling_lineage_confirmed. Последние два статуса требуют более сильного свидетельства, чем совпадение имени или текстовая заметка Fandom.
 - **Design boundary.** Для ссылок на Toy # обязательно хранить контекст целевого идентификатора: программа/серия, год и источник. Сам Toy # не является глобальным ключом.
 - **Scope note.** На этом этапе документация фиксирует протокол дальнейшей сверки; новые межгодовые совпадения не добавляются без чтения конкретных годовых исходников. Предыдущие 49 совпадений остаются отдельным anchor sample.
+
+
+## Подготовка межкаталожной сверки: Mainline 2025 (2026-11-08)
+
+**Статус: source discovery / preliminary observation. Полноценная сверка ещё не выполнена.**
+
+Найдены публичные источники для следующего сравнительного прохода:
+- Mainline: [List of 2025 Hot Wheels](https://hotwheels.fandom.com/wiki/List_of_2025_Hot_Wheels) и [List of 2025 Hot Wheels (by Series)](https://hotwheels.fandom.com/wiki/List_of_2025_Hot_Wheels_%28by_Series%29). По доступному поисковому извлечению Fandom указывает основную нумерацию 1–250; цветовые варианты могут иметь отдельные Toy # при сохранении одного Col. #. Список содержит поля Toy #, Col. #, Model Name, Series и Series #.
+- Car Culture: [2025 Car Culture](https://hotwheels.fandom.com/wiki/2025_Car_Culture). В доступном извлечении видны отдельные тематические сегменты, включая Hammer Drop, Silhouettes, HW Off Road, Fast Wagons, Circuit Legends, Eurospeed, Ronin Run II и Timeless Icons; строки содержат Toy #, Series #, Casting Name, Body Color, Wheel Type и Notes.
+- Boulevard: [2025 Hot Wheels Boulevard](https://hotwheels.fandom.com/wiki/2025_Hot_Wheels_Boulevard). Видны Mix 1–5, Series # 116–140 и отдельная таблица Boxed Set с Toy # JFM00.
+- Team Transport: [2025 Car Culture: Team Transport](https://hotwheels.fandom.com/wiki/2025_Car_Culture%3A_Team_Transport). Извлечение показывает Mix 1 и Mix 2, наборы с двумя/тремя компонентами, Toy # на уровне упакованного набора и Series # #74–#79, #84–#85; присутствует Walmart Legends Tour Exclusive JFM93 с Series # N/A.
+
+**Важное ограничение охвата:** это извлечения публичных страниц, а не сохранённые локальные HTML из репозитория. Fandom при открытии страницы напрямую вернул 402, поэтому в этой сессии нельзя подтвердить полное содержимое страниц, ревизии и все строки. Поиск по коду репозитория `hotwheels-fandom-archive` не обнаружил сохранённый файл Mainline 2025; это результат поиска, а не доказательство абсолютного отсутствия файла.
+
+**Никакое число совпадений Mainline ↔ Premium 2025 пока не рассчитано.** До получения полного и зафиксированного входного списка нельзя выдавать выборочные совпадения из поисковых сниппетов за итог сравнения. Следующий корректный шаг: сохранить Mainline 2025 и нужные Premium-страницы в архив, записать revision IDs/даты/пути, затем выполнить воспроизводимое построчное сравнение отдельно по Car Culture, Boulevard и Team Transport.
