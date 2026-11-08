@@ -688,3 +688,14 @@
 - [x] Сохранить two color variants each for Toy #5026 Alien and #4741 Talbot Lago; preserve Short run color source note.
 - [ ] Проверить значения Toy #5026 / #4741 and Short run color claims against packaging/catalogues.
 - [ ] Выполнить межгодовое сравнение Mainline 1988 с 1987/1989.
+
+
+## Mainline 1987 annual extraction
+
+- [x] Извлечь New Castings, Reissues and Real Riders separately.
+- [x] Зафиксировать absence of Collector # field.
+- [x] Разобрать повтор Toy #1897: three Ferrari Testarossa records, including set-only Turbo Trax Turbo Glo Set entry.
+- [x] Разобрать повтор Toy #7527: Pontiac Fiero 2M4 with GHO and UH wheel variants.
+- [ ] Verify whether Toy #1897 set-only entry represents the same casting/release as standard Ferrari Testarossa listings.
+- [ ] Verify Pontiac Fiero 2M4 wheel variants as distinct releases or wheel-only variants.
+- [ ] Выполнить межгодовое сравнение Mainline 1987 с 1986/1988.
