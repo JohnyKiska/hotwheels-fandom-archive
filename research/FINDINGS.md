@@ -744,3 +744,38 @@
 - Racing Selects offers a clean example of a source table with separate driver/team sponsor/casting/color fields. It can guide a normalized racing-entry model, but must not be projected onto annual Pro Racing pages that lack these fields.
 - Team Transporter demonstrates a product bundle containing at least two independently identifiable products (hauler and car). Store the bundle/set, its components, and each component's own casting/release separately.
 - Keep raw table row order and continuation rows. Some values are inherited from preceding rows or are blank because the page uses merged cells; do not discard the source layout semantics during extraction.
+
+
+## Car Culture: Team Transport (2018–2026)
+
+**Scope:** nine archived annual pages, Fandom revisions 740997 (2018), 780158 (2019), 764386 (2020), 789564 (2021), 816153 (2022), 753242 (2023), 804894 (2024), 768859 (2025), 815941 (2026). Paths are under `Modern Special Series/Car Culture/`, named `YYYY Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html`.
+
+### Longitudinal structure
+
+- The numbered Team Transport sequence is continuous across the reviewed pages: 2018 #1–6; 2019 #7–15; 2020 #16–25; 2021 #26–37; 2022 #38–49; 2023 #50–61; 2024 #62–73; 2025 #74–85; 2026 #86–97.
+- Annual numbered core is generally organized into mixes. The number is a Team Transport product/pair position, not the Toy # of the lead vehicle. Toy # is recorded once for the product row, while following component rows often have blank Toy # and Series # cells.
+- Extra retailer/event exclusives are commonly listed separately with Series # = N/A: examples include GJY52 (2019), GRL85 (2021), HHL50 (2022), HPX97 and HPG19 (2023), HWV66 (2024), JFM93 (2025), JMN15 (2026). These are not additional numbered positions.
+- 2018 starts with six numbered pairings and already uses three truck castings (Volkswagen Transporter T1 Pickup, Sakura Sprinter, Carry On, Retro Rig, Fleet Flyer) plus cars. The table is compact and the component rows omit repeated Toy #/Series #.
+- The later years expand the hauler vocabulary and product composition: Aero Lift, Euro Hauler, Horizon Hauler, Speed Waze, Rally Van/Rally Trailer, HW Rally Hauler/Rally Trailer, Fleet Street, Flipsider Hauler, Second Story Lorry, '72 Chevy Ramp Truck, HW Rally Hauler, Kousoku Hauler, Terra-Torque, Mercedes-Benz Renntransporter and others.
+- Product compositions are not uniformly two pieces. Examples include 2021 #33 Rally Van + Rally Trailer + Ford RS200; 2022 #47 HW Rally Hauler + HW Rally Trailer + MG Metro 6R4; 2023 #56 Flipsider Hauler + LB-Silhouette WORKS GT Nissan 35GT-RR VER.2 and #57 Second Story Lorry + De Tomaso Pantera Gruppo 4; 2024 #68 '88 Chevy Silverado 3500 + HW Rally Trailer + '63 Chevy Nova; 2025 #74 2023 Land Rover Defender 110 + HW Rally Trailer + Jaguar Mk1 and #83 Fiat 642 RN2 Bartoletti Transporter + Ferrari 250 GTO; 2026 #95 2008 Porsche Cayenne + HW Rally Trailer + '89 Porsche 944 Turbo and #96 '17 Ford F-150 Raptor + Open Trailer + Rob'n Pinks.
+- Therefore the bundle composition must preserve the ordered component list and component roles, not assume exactly one hauler plus one car.
+
+### Product-level observations and anomalies
+
+- Release records expose Toy #, Series #, casting, body color, wheel type, notes and base codes. Base-code lists can contain several codes, and some component rows have their own code lists. Preserve these at the row/component level.
+- The Notes column distinguishes at least `New Casting`, `New Die-Cast Chassis` / `New Die-cast Chassis`, and `Modified casting`. These are not interchangeable: casting/tooling change claims should remain raw source assertions until independently verified.
+- Wheel strings are heterogeneous and sometimes compound (for example `RRDragS & Mini RR5SP`, `RRA & MiniRR6SPM`, `RRDragS / Mini RRDragD`, `SRR & RRWSP`). Preserve exact raw strings; do not assume they always indicate alternative variants rather than different component axles.
+- 2024 changes Series # display style to a prefixed hash (`#62` etc.), while earlier pages display plain integers. Normalize numeric value only while retaining raw printed/source string.
+- Source spelling/data anomalies include 2023 #61 color typo `Metelflake Silver` for Porsche 934.5; 2023 #54 base-code string `S17, S19,S20, S22` missing a space; and inconsistent capitalization in `Base Code(s)`. Preserve raw text and do not silently correct.
+- 2025 #74 lists three components and marks Jaguar Mk1 as `New Die-Cast Chassis`; 2025 #83 marks both the Fiat 642 RN2 Bartoletti Transporter and Ferrari 250 GTO as `New Casting`. These labels apply to the relevant component rows, not automatically to the whole bundle.
+- 2026 #89 Mercedes-Benz Renntransporter + Mercedes-Benz 300 SLR includes a component row marked `New Casting`; #92 Terra-Torque + '67 Off Road Camaro and #95/#96 are multi-component examples with off-road/utility vehicle components. The format is not limited to conventional road cars or enclosed race haulers.
+- 2026 #97 is Fleet Flyer + Porsche 911 GT3 R (992); #95 includes a third component '89 Porsche 944 Turbo; #96 includes trailer and Rob'n Pinks. These show a bundle may contain more than two individual product/casting records.
+
+### Comparison with Pro Racing Team Transporter (1998–2006)
+
+- Both product programs use a transport vehicle paired with a separately identifiable vehicle, and both require component-level modelling.
+- The Car Culture 2018–2026 pages have a continuous numbered series, annual Mix groupings, many distinct hauler/trailer castings, detailed wheel/base-code rows and explicit Toy # values for bundle products.
+- The earlier Pro Racing Team Transporter (1998–2006) has its own program identity and historical table conventions. Similar bundle format is not evidence of one continuous Series identity or direct successor relationship.
+- Safe current conclusion: relate them as analogous/related transport-and-vehicle product formats only; do not merge their Series entities absent explicit evidence.
+
+**Evidence status:** observations from the archived Fandom HTML pages listed above. The product descriptions, release statuses, casting novelty claims, and base-code interpretations are not independently verified by this pass.
