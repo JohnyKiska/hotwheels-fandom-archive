@@ -37,7 +37,8 @@ Status labels:
 | 1968–2009 (42 annual pages) | Present | No complete year-by-year extraction/QA documented in current research index | Not yet audited as annual Mainline datasets |
 | 2010 USA | Present | Extracted + QA: 440 source rows across 28 tables, 252 unique Toy #, 240 Collector #; includes Goodyear/BF Goodrich sections | Extracted + QA; cross-page adjudication pending |
 | 2010 International | Present | Extracted + QA: 228 source rows across 24 tables, 226 unique Toy #, 214 Collector # | Extracted + QA; cross-page adjudication pending |
-| 2011–2022 (12 annual pages) | Present | No complete year-by-year extraction/QA documented | Not yet audited as annual Mainline datasets |
+| 2011–2021 (11 annual pages) | Present | No complete year-by-year extraction/QA documented | Not yet audited as annual Mainline datasets |
+| 2022 | Present | Full table extracted and QA checked: 447 rows, 447 unique Toy #, 250 Collector #, 142 rows marked (2nd Color), 15 TH + 15 STH | Extracted + QA |
 | 2023 | Present | Full table extracted and QA checked: 445 rows, 445 unique Toy #, 250 Collector #, 141 rows marked (2nd Color), 15 TH + 15 STH | Extracted + QA |
 | 2024 | Present | Full table re-extracted and QA checked: 441 rows, 441 unique Toy #, 250 Collector #, 132 rows marked (2nd Color), 15 TH + 15 STH; 49 prior Car Culture name-match candidates remain unadjudicated | Extracted + QA |
 | 2025 | Present | Full extraction and QA documented: 440 rows, 440 unique Toy #, 250 Collector #, 146 rows marked (2nd Color); Premium comparisons completed | Extracted + QA |
