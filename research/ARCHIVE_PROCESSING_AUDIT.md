@@ -35,8 +35,8 @@ Status labels:
 | Year/source | Archive status | Research status | Audit conclusion |
 |---|---|---|---|
 | 1968–2009 (42 annual pages) | Present | No complete year-by-year extraction/QA documented in current research index | Not yet audited as annual Mainline datasets |
-| 2010 ordinary | Present | No independent full extraction/QA documented | Special handling required |
-| 2010 International | Present | No independent full extraction/QA documented | Special handling required; compare against ordinary 2010 |
+| 2010 USA | Present | Extracted + QA: 440 source rows across 28 tables, 252 unique Toy #, 240 Collector #; includes Goodyear/BF Goodrich sections | Extracted + QA; cross-page adjudication pending |
+| 2010 International | Present | Extracted + QA: 228 source rows across 24 tables, 226 unique Toy #, 214 Collector # | Extracted + QA; cross-page adjudication pending |
 | 2011–2023 (13 annual pages) | Present | No complete year-by-year extraction/QA documented | Not yet audited as annual Mainline datasets |
 | 2024 | Present | Full table re-extracted and QA checked: 441 rows, 441 unique Toy #, 250 Collector #, 132 rows marked (2nd Color), 15 TH + 15 STH; 49 prior Car Culture name-match candidates remain unadjudicated | Extracted + QA |
 | 2025 | Present | Full extraction and QA documented: 440 rows, 440 unique Toy #, 250 Collector #, 146 rows marked (2nd Color); Premium comparisons completed | Extracted + QA |
@@ -67,13 +67,17 @@ The 2024 annual list has now been re-extracted from the canonical archive branch
 Priority order:
 
 1. Adjudicate the existing 49 Car Culture ↔ Mainline 2024 name-match candidates against the newly QA-checked canonical 2024 extraction. Preserve the comparison as a separate run.
-2. Process 2010 ordinary and International independently. Compare their row counts, identifiers, model names, regional differences, and overlaps; do not deduplicate automatically.
+2. Adjudicate the 2010 USA/International comparison: investigate 21 shared-Toy# model-name discrepancies, 13 International-only and 39 USA-only Toy # values, and 18 USA tire-exclusive section rows.
 3. Extract and QA 1968–2009 annual pages, preserving original table boundaries, row order, raw identifiers, color/series notes, and any non-table sections.
 4. Extract and QA 2011–2023 annual pages with the same method.
 5. Extract and QA 2026, keeping announced/planned entries distinct from confirmed releases where the source indicates uncertainty.
 6. Build year-scoped cross-program comparisons only after each annual Mainline source has a verified extraction. Do not infer a match in another year from the 2024/2025 samples.
 
 For every annual page, record source path, branch, Git blob SHA, manifest SHA-256, Fandom revision/date if available, extraction method/version, table boundaries, row counts, unique identifier counts, duplicate groups, and unresolved anomalies.
+
+### 2010 dual-page extraction status
+
+Both 2010 pages have been independently extracted and QA-checked. The exports preserve table index, section heading, row position, all six source columns, and the raw Collector-column header. The cross-page analysis is documented in `research/comparisons/MAINLINE-2010-USA-INTERNATIONAL.md`. Shared Toy # values are candidates only; Collector # values differ between the page scopes and must not be merged.
 
 ## 4. Data-model and QA cautions
 
