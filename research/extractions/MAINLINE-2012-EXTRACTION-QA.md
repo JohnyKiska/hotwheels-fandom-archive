@@ -28,10 +28,10 @@ Extracted all 26 product tables separately, preserving source row order and tabl
 Mainline checks:
 
 - Numeric Collector # values are continuous from 001 through 247; no gaps.
-- 119 rows marked `(2nd Color)`.
+- 110 Mainline rows marked `(2nd Color)` (9 additional rows in the two exclusives tables also carry that label).
 - 15 Treasure Hunt and 15 Super Treasure Hunt rows (Series-label counts).
 - No duplicate Toy # within the 23 Mainline tables.
-- Series # cells contain zero-width Unicode in the source; raw values are preserved in the CSV.
+- 407 non-empty Series # cells contain zero-width Unicode in the source; raw values are preserved in the CSV.
 
 Additional tables:
 
