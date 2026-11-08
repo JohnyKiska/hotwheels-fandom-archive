@@ -648,3 +648,15 @@
 - [x] Зафиксировать blank Toy # values for Gleam Team Col #189 (Gleamer Patrol) and #190 ('57 T-Bird).
 - [ ] Проверить два missing Toy # values in Gleam Team against packaging/catalogues.
 - [ ] Выполнить межгодовое сравнение Mainline 1992 с 1991/1993.
+
+
+## Mainline 1991 annual extraction
+
+- [x] Извлечь New Castings, Reissues and California Customs separately, preserving 12-/9-column schemas.
+- [x] Зафиксировать blank Col # records (promotional/International and other rows) without coercing to zero.
+- [x] Зафиксировать 9 blank Toy # values, including Speed Shark, eight Reissues entries and California Customs '67 Camaro.
+- [x] Зафиксировать duplicate Col #129/#148 and repeated Toy # values.
+- [ ] Проверить whether repeated Col #129/#148 rows are literal source duplicates or separate variants.
+- [ ] Разобрать repeated Toy #7607 (Porsche 930), #9749 (Renault 5 Turbo), #1470/#1897/#2097 cross-section and #3209.
+- [ ] Verify blank Toy # and Col # values against packaging/catalogues.
+- [ ] Выполнить межгодовое сравнение Mainline 1991 с 1990/1992.
