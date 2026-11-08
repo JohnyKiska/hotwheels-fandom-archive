@@ -40,3 +40,5 @@
 - 2026-11-08: создана исследовательская документация; добавлены предварительные наблюдения и требования к модели данных.
 
 - 2026-11-08: выполнена построчная сверка Flying Colors, семи Patch Cards, Boss Hoss, Heavy Chevy, King Kuda и Speed Fleet; исправлены две ошибки интерпретации Collector # как Toy #.
+8. [x] Проверены Farbs, Zowees, Truck Co., шесть моделей Fat Daddy Sizzlers и аксессуар Steering Trailer; зафиксированы бренд-границы, regional aliases, комплекты и source typo.
+9. [ ] Продолжить проверку оставшихся Early Special Series и затем Other Early Series.
