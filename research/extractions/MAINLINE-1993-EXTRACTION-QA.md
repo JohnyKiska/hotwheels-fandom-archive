@@ -50,7 +50,7 @@ Toy # repeats:
 - BMW 850i, Col #149 / Toy #5667 appears twice in Reissues with different Wheel Type values (HO and LIW).
 - Col #197 is used by two different Reissues: Corvette Split Window (Toy #3092) and Gleamer Patrol (Toy #1691). Treat as a source identifier conflict pending validation.
 - Zombot, Col #224 appears twice with different Toy # values (3852 and 4346) and different color descriptions.
-- Auburn 852, Toy #4314 appears twice in Reissues; the second row has blank Col # and a different color description.
+- Three rows in New Castings/Reissues have blank Col #: Toyota MR2 (Toy #4609), Good Humor Truck (Toy #3206), and Auburn 852 (Toy #4314). The Auburn 852 row duplicates Toy #4314 with a different color description.
 - Path Beater and Bywayman share Toy #2781 in Reissues.
 - Rapid Transit appears twice in Tattoo Machines with Toy #3502, different colors, and the same Series Rename (Bus Boys).
 - Four Tattoo Machines rows have blank Toy #: BMW M1, Science Friction, Speed Blaster and Road Pirate.
