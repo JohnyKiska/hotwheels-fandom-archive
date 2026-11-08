@@ -162,3 +162,6 @@
 
 
 - 2026-11-08: извлечена Mainline 2005: 288 строк в 19 таблицах, Collector # 001–187 без пропусков; Open Stock 86 строк в отдельной пятиколоночной схеме без Series #. 40 пометок (2nd Color), 13 Treasure Hunt (включая Mail-In), 77 повторяющихся Toy # values, 135 Series # cells с zero-width Unicode. CSV и QA: research/extractions/MAINLINE-2005.csv и MAINLINE-2005-EXTRACTION-QA.md. Fandom revision 797737.
+
+
+- 2026-11-08: извлечена Mainline 2004: 268 строк в 16 таблицах, numeric Collector # 001–212 без пропусков плюс отдельный Collector #000 для First Editions Mail-In. Таблицы 13–16 используют пятиколоночную схему без Series #; 101 Series # values содержат zero-width Unicode. Зафиксированы 48 (2nd Color) и 12 T-Hunt. CSV и QA: research/extractions/MAINLINE-2004.csv и MAINLINE-2004-EXTRACTION-QA.md. Fandom revision 811756.
