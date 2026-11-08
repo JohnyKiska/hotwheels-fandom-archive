@@ -232,3 +232,16 @@
 - [ ] Resolve repeated 2005 Victory Lane rows and Ashley Force same-truck/different-box or sponsor-decal variants.
 - [ ] Confirm whether 2006 Little Debbie Racing is genuinely the only 2006 Pro Racing truck/car product, and clarify the scope of the source's statement.
 - [ ] Compare 1998–2006 Pro Racing Team Transporter with 2018–2026 Car Culture Team Transport without assuming a direct series identity.
+
+
+## Car Culture: Team Transport (2018–2026)
+
+- **Bundle cardinality and role semantics:** confirm whether every row grouping represents one packaged SKU and whether the source table's component order consistently corresponds to hauler/trailer/car roles. Current evidence shows groups with two, three and potentially more components; importer must not hard-code a 2-piece bundle.
+- **Meaning of New Casting vs New Die-Cast Chassis:** Fandom uses both labels on component rows. Determine whether they refer to new tooling, a new body casting, a new chassis/base, or an editorial convention. Keep raw label and component association until verified.
+- **Wheel type compound strings:** values such as `RRDragS & Mini RR5SP` or `RRA & MiniRR6SPM` may describe front/rear wheel assemblies or different component axles. Do not split into axle assignments without evidence.
+- **Exclusive rows:** N/A Series # entries are separately listed retailer/event exclusives. Confirm exact retail channel and whether each is a complete Team Transport bundle or a related standalone product.
+- **Series numbering:** the observed #1–#97 continuity is strong evidence of one ongoing numbered product program in Fandom's presentation, but verify with packaging/catalog evidence before treating as an authoritative Mattel series identity.
+- **2023 Porsche 934.5 body color typo `Metelflake Silver`:** likely a typo for Metalflake Silver, but preserve raw source string.
+- **2024 #62–#73 formatting:** source displays `#62` etc., unlike prior plain integer values. Normalize only with raw representation retained.
+- **Relationship to 1998–2006 Pro Racing Team Transporter:** similar bundle format alone does not establish a direct lineage, revival, or common Series identity. Seek Mattel catalog/packaging statements before adding a stronger typed relation.
+- **Coverage caveat:** this pass transcribed table structure and selected row-level details across all nine pages; it is not an independent physical-release audit and does not validate every Toy #, color, wheel, base code or component identification.
