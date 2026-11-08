@@ -189,3 +189,6 @@
 
 
 - 2026-11-08: извлечена Mainline 1997: 119 numbered-list rows (numeric Collector #147–642, non-dense), отдельно Bonus Cars 4 rows (#001–004) и 7 other series tables (28 rows, Collector # = N/A). Обнаружен конфликт Toy #18365: Pontiac Salsa в 1997 Hot Wheels vs Auburn 852 в Classics Series; Toy #11850 повторяется в двух numbered tables, Toy #15789 пересекает Mainline/Street Racers. CSV и QA: research/extractions/MAINLINE-1997.csv и MAINLINE-1997-EXTRACTION-QA.md. Fandom revision 799665.
+
+
+- 2026-11-08: извлечена Mainline 2002: 244 строки в 16 таблицах. CSV: research/extractions/MAINLINE-2002.csv; QA/provenance: research/extractions/MAINLINE-2002-EXTRACTION-QA.md. Сохранены table/section provenance, исходные заголовки и повторы Toy #/Collector # без дедупликации.
