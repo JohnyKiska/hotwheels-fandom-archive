@@ -317,3 +317,13 @@
 - [ ] Выполнить полную annual extraction + QA для Mainline 2026; отделить подтверждённые релизы от плановых/анонсированных записей.
 - [ ] Для каждого года сохранять исходный порядок и границы таблиц, raw Toy #, Collector #, цветовые варианты, series/notes, provenance, дубли и unresolved cases.
 - [ ] После QA годовых списков выполнять отдельные cross-program comparisons; не переносить совпадения из 2024/2025 на другие годы.
+
+
+## Mainline 2010 USA / International comparison (2026-11-08)
+
+- [x] Независимо извлечь обе архивные страницы и сохранить все строки с table/section provenance: `research/extractions/MAINLINE-2010-USA.csv`, `MAINLINE-2010-INTERNATIONAL.csv`.
+- [x] Зафиксировать revision IDs, blob SHA, manifest SHA-256, row counts, unique Toy #/Collector # и структуру таблиц.
+- [ ] Проверить 21 расхождение Model Name для общих Toy #; в первую очередь R6455 (USA: '86 Monte Carlo SS; International: '73 Ford Falcon XB) и R7642 (USA: Corvette Stingray; International: Monster Vette).
+- [ ] Проверить 13 International-only и 39 USA-only Toy # значений: regional exclusives vs source coverage/omissions.
+- [ ] Adjudicate 18 строк Goodyear Tire Exclusives / BF Goodrich Tire Exclusives в USA page; сохранить section context и не deduplicate автоматически.
+- [ ] Проверить color variants и повторные Toy # по упаковке/каталогам; не трактовать Toy # как уникальный release key.
