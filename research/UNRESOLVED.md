@@ -409,3 +409,13 @@
 - [x] Зафиксировать отсутствие Series # в пятиколоночных Mainline tables; не трактовать как пропущенные значения.
 - [ ] Проверить связь Scavenger Hunt products с обычными Mainline releases; не включать No # в numeric Collector # sequence.
 - [ ] Выполнить межгодовое сравнение Mainline 2015 с 2014/2016 после извлечения 2014.
+
+
+## Mainline 2014 annual extraction
+
+- [x] Извлечь 32 series-specific Mainline tables и отдельно Kroger-exclusive Scavenger Hunt.
+- [x] Выполнить структурный QA: 433 Mainline rows + 4 Scavenger Hunt rows; сохранить schema differences.
+- [x] Зафиксировать отсутствие Series # в Batman 75th Anniversary table и 153 zero-width Series # values в других таблицах.
+- [ ] Проверить Kroger-exclusive Scavenger Hunt products и их возможные связи с Mainline releases; не включать No # в numeric Collector #.
+- [ ] Проверить zero-width Unicode в Series #, сохраняя raw source.
+- [ ] Выполнить межгодовое сравнение Mainline 2014 с 2013/2015 после извлечения 2013.
