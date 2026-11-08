@@ -590,3 +590,15 @@
 - [ ] Determine how Toy #15789 links between 1997 Hot Wheels and Street Racers Series.
 - [ ] Verify Breakaway Bucket (Unreleased) status independently.
 - [ ] Выполнить межгодовое сравнение Mainline 1997 с 1996/1998 после извлечения 1996.
+
+
+## Mainline 1996 annual extraction
+
+- [x] Извлечь 17 product tables, сохранить table/section provenance and source schemas.
+- [x] Зафиксировать 64-row 1996 Hot Wheels table without Series # and Bonus Cars Collector #000 scope.
+- [x] Выявить две точные повторные source rows: BMW M1 (#473) и Rocket Shot (#491).
+- [x] Зафиксировать три Toy # collisions between Bonus Cars and Treasure Hunts (15083, 15076, 15077).
+- [ ] Проверить по упаковке/каталогам, являются ли повторные BMW M1 и Rocket Shot дублями страницы или отдельными listings.
+- [ ] Проверить смысл межсекционных Toy # collisions: один физический casting/release identifier или конфликт источника.
+- [ ] Сверить non-dense Collector # values с каталогами/упаковками; не выводить отсутствующие позиции автоматически.
+- [ ] Выполнить межгодовое сравнение Mainline 1996 с 1995/1997.
