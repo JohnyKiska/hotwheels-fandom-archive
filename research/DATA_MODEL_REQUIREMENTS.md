@@ -239,3 +239,11 @@
 - **Separate release from casting:** the same named casting can recur in multiple years and product programs with different Toy #, colors, wheels, base codes, chassis notes and distribution. Model each release separately and link to a casting only when supported.
 - **Relationship confidence:** distinguish exact source phrase from normalized interpretation and independently verified identity. Identical to must not be silently upgraded to a canonical same-casting or same-tooling assertion.
 - **Mainline comparison anchor:** 2024 Mainline list is one comparison dataset, not a complete Mainline authority. Matching should be repeatable across years as additional annual lists are imported.
+## Межгодовая сверка и adjudication кандидатов
+
+- **Comparison run entity:** сохранять каждый запуск сопоставления как отдельную запись с источником A/B, годовыми диапазонами, программами, датой/версией метода и нормализацией имён. Не смешивать результаты разных запусков.
+- **Candidate match record:** хранить обе исходные записи, поле сравнения, исходные и нормализованные строки, метод совпадения, статус проверки, confidence/основание, проверяющего и ссылки на доказательства. Имя совпадения должно создавать candidate link, а не merge.
+- **Evidence levels:** различать совпадение названий, source-asserted relationship, визуально подтверждённое сходство конкретных вариантов, подтверждённую casting identity и подтверждённую tooling lineage. Не выводить более сильный уровень из более слабого.
+- **Identifier resolution:** разрешать target Toy # только в контексте namespace (program/series/year/source). Если target неоднозначен или отсутствует, сохранять исходную ссылку как unresolved assertion.
+- **Casting family vs casting:** поддерживать отдельную сущность/связь для семейства или маркетингового имени, чтобы варианты кузова (например, coupe/wagon) не сливались в один casting без свидетельств.
+- **Reproducibility:** сохранять точный набор входных страниц/файлов и версию алгоритма нормализации, чтобы повторный проход мог объяснить появление/исчезновение каждого совпадения.
