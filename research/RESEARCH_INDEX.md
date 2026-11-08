@@ -192,3 +192,6 @@
 
 
 - 2026-11-08: извлечена Mainline 1995: 97 строк в 15 таблицах, 97 уникальных Toy # и Collector #, 12 Treasure Hunts. Таблица 1995 Hot Wheels имеет отдельные поля Color и Rims (7 колонок). В 72 Series # сохранены zero-width Unicode. CSV/QA: research/extractions/MAINLINE-1995.csv и MAINLINE-1995-EXTRACTION-QA.md. Fandom revision 797722.
+
+
+- 2026-11-08: извлечена Mainline 1994: 14 строк в двух 12-колоночных таблицах (New Models 5, Reissues 9). Сохранены Color, Tampo, Base Color / Type, Window Color, Interior Color, Wheel Type, Toy # и Notes. Выявлены BMW 850i с двумя Wheel Type, пустой Toy # у Sol-Aire CX-4, INTL identifier у Road Roller и подозрительное смещение полей Tough Customer. CSV/QA: research/extractions/MAINLINE-1994.csv и MAINLINE-1994-EXTRACTION-QA.md. Fandom revision 783555.
