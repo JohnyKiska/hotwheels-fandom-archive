@@ -129,3 +129,6 @@
 
 
 - 2026-11-08: извлечена Mainline 2017: основная таблица #1–365 (365 строк), дополнительно 85 строк в 9 отдельных секциях, включая TH/STH, Red Editions, retailer exclusives и Digital Circuit Chase Variants. TH/STH задаются заголовками таблиц, а не Series text. CSV и QA: research/extractions/MAINLINE-2017.csv и MAINLINE-2017-EXTRACTION-QA.md. Fandom revision 781777.
+
+
+- 2026-11-08: извлечена Mainline 2016: 433 строки в 31 series-specific таблице (250 Collector # positions), отдельно 8 Special Edition rows в двух таблицах. 397 Series # cells содержат zero-width Unicode, сохранённый в CSV. TH/STH указаны в Series text. CSV и QA: research/extractions/MAINLINE-2016.csv и MAINLINE-2016-EXTRACTION-QA.md. Fandom revision 724947.
