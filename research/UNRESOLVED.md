@@ -639,3 +639,12 @@
 - [ ] Проверить Toy #2781 shared by Path Beater and Bywayman; Toy #4314 Auburn 852 duplicate color entry.
 - [ ] Verify blank Toy # values in Tattoo Machines and blank Col # values in New Castings/Reissues.
 - [ ] Выполнить межгодовое сравнение Mainline 1993 с 1992/1994.
+
+
+## Mainline 1992 annual extraction
+
+- [x] Извлечь New Castings, Reissues and Gleam Team with their separate source schemas.
+- [x] Preserve Toy # leading zeroes as text.
+- [x] Зафиксировать blank Toy # values for Gleam Team Col #189 (Gleamer Patrol) and #190 ('57 T-Bird).
+- [ ] Проверить два missing Toy # values in Gleam Team against packaging/catalogues.
+- [ ] Выполнить межгодовое сравнение Mainline 1992 с 1991/1993.
