@@ -93,12 +93,12 @@ The 2024 annual list has now been re-extracted from the canonical archive branch
 
 Priority order:
 
-1. Adjudicate the existing 49 Car Culture ↔ Mainline 2024 name-match candidates against the newly QA-checked canonical 2024 extraction. Preserve the comparison as a separate run.
-2. Adjudicate the 2010 USA/International comparison: investigate 21 shared-Toy# model-name discrepancies, 13 International-only and 39 USA-only Toy # values, and 18 USA tire-exclusive section rows.
-3. Extract and QA 1968–2009 annual pages, preserving original table boundaries, row order, raw identifiers, color/series notes, and any non-table sections.
-4. Extract and QA 2011–2021 annual pages with the same method.
+1. Continue annual Mainline extraction and QA for 1968–1996. The 1997–2026 annual sources have been extracted/QA-checked; 2010 ordinary and International lists are separate, independently processed datasets.
+2. Adjudicate the 2010 USA/International comparison: investigate 21 shared-Toy# model-name discrepancies, 13 International-only and 39 USA-only Toy # values, and the 18 USA tire-exclusive section rows.
+3. Resolve year-specific anomalies already recorded for 1997–2009 (sparse Collector # ranges, repeated Toy #/Collector # values, separate program scopes, blank identifiers and schema differences).
+4. Adjudicate the existing 49 Car Culture ↔ Mainline 2024 name-match candidates against the canonical 2024 extraction. Preserve the comparison as a separate run; name matches are not casting/tooling proof.
 5. Adjudicate 2026 source notes and compare against adjacent annual lists; the 2026 annual table extraction and structural QA are complete.
-6. Build year-scoped cross-program comparisons only after each annual Mainline source has a verified extraction. Do not infer a match in another year from the 2024/2025 samples.
+6. Build year-scoped cross-program comparisons only after the relevant annual Mainline sources have verified extraction. Do not infer a match in another year from the 2024/2025 samples.
 
 For every annual page, record source path, branch, Git blob SHA, manifest SHA-256, Fandom revision/date if available, extraction method/version, table boundaries, row counts, unique identifier counts, duplicate groups, and unresolved anomalies.
 
