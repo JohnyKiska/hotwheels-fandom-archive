@@ -37,7 +37,8 @@ Status labels:
 | 1968–2009 (42 annual pages) | Present | No complete year-by-year extraction/QA documented in current research index | Not yet audited as annual Mainline datasets |
 | 2010 USA | Present | Extracted + QA: 440 source rows across 28 tables, 252 unique Toy #, 240 Collector #; includes Goodyear/BF Goodrich sections | Extracted + QA; cross-page adjudication pending |
 | 2010 International | Present | Extracted + QA: 228 source rows across 24 tables, 226 unique Toy #, 214 Collector # | Extracted + QA; cross-page adjudication pending |
-| 2011–2018 (8 annual pages) | Present | No complete year-by-year extraction/QA documented | Not yet audited as annual Mainline datasets |
+| 2011–2017 (7 annual pages) | Present | No complete year-by-year extraction/QA documented | Not yet audited as annual Mainline datasets |
+| 2018 | Present | Mainline #1–365: 365 rows; additional separately headed sections: 104 rows across 10 assortments/exclusives/chase tables, all Collector # = No # | Extracted + QA |
 | 2019 | Present | Mainline: 447 rows, 447 unique Toy #, 250 numeric Collector #; separate unnumbered Special Editions: 2 rows with Collector # = No # | Extracted + QA |
 | 2020 | Present | Mainline: 447 rows, 447 unique Toy #, 250 numeric Collector #; separate Hot Wheels id Chase Series: 8 rows with Collector # = No #; 2 broken Photo filename placeholders | Extracted + QA |
 | 2021 | Present | Mainline: 447 rows, 447 unique Toy #, 250 numeric Collector #; separate Hot Wheels id: Chase Series table: 8 rows with Collector # = No # | Extracted + QA |
