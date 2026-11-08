@@ -86,3 +86,15 @@
 - **Packaging.** Acrylic cases, ribbed blister, upside-down card, Color Reveal barrel, card artwork and packaging code должны быть отдельными packaging variants.
 - **Materials and chassis.** Plastic body, metal body, die-cast chassis, anodized finish и spectraflame finish фиксируются раздельно на уровне варианта/релиза.
 - **Anniversary/name reuse.** Anniversary-themed reissues (например AcceleRacers 2025) должны связываться с исходной franchise/line через tribute/commemorative relationship, но не автоматически объединяться с исходной эpoхой.
+
+
+## Дополнения по Pro Racing, цифровым и тематическим коллекционным линиям
+
+- **Competition identity.** Для гоночных релизов хранить сезон, чемпионат/серии, команду, номер машины, пилота, спонсора, race livery и casting отдельно. Один casting может быть несколькими командами/ливреями.
+- **Basic vs Premium construction.** Материал базы/кузова, колёса, детализация и назначение (play/track vs display) могут отличаться у визуально родственных выпусков; не наследовать construction от casting.
+- **Promotional distribution.** Baggie promos, commemorative cards, MLB/team promotions, retailer exclusives и factory sets требуют distribution channel и package type.
+- **Physical-digital products.** Для Hot Wheels id нужны NFC chip, app/service, portal, smart-track, game entitlement и lifecycle/deprecation. Digital identity не равна Toy #.
+- **Designer attribution.** Designer garage, designer, graphics artist и licensor/brand owner — разные роли и отношения.
+- **Packaging/source errors.** Сохранять ошибочные напечатанные series counts, исправленные надписи и notes как source evidence, не перезаписывая фактическое значение без provenance.
+- **Theme polymorphism.** Theme может ссылаться на media franchise, fictional character, consumer brand, musician, sports team, historical artwork или product brand; нужна типизированная Theme/IP taxonomy.
+- **Retailer exclusivity by era.** Exclusivity scope должен относиться к конкретному release/package/market/year, а не глобально к series identity.
