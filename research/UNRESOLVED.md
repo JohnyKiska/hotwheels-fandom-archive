@@ -448,3 +448,13 @@
 - [x] Подтвердить, что 20 дополнительных эксклюзивных строк являются точными шестиколоночными повторами Mainline source rows; сохранить section provenance.
 - [ ] Проверить физический/упаковочный статус Windshield Banner и Redline exclusives, не выводить новый release только из повторного листинга.
 - [ ] Выполнить межгодовое сравнение Mainline 2011 с 2010/2012 после извлечения 2010 (USA/International) и 2012.
+
+
+## Mainline 2009 annual extraction
+
+- [x] Извлечь 14 Mainline tables и отдельно Redline Exclusives / Goodyear Tire Exclusives.
+- [x] Проверить Collector # sequence: 001–190 без пропусков; не создавать позиции 191–250.
+- [x] Зафиксировать, что Toy # повторяется в Mainline при разных color entries; 104 Toy # values встречаются более одного раза.
+- [x] Подтвердить 12 эксклюзивных строк как exact six-column repeats Mainline source rows; сохранить section provenance.
+- [ ] Проверить, как цветовые варианты 2009 распределены по Toy # и Collector #; не использовать Toy # как unique release key.
+- [ ] Выполнить межгодовое сравнение Mainline 2009 с 2008/2010 после извлечения 2008.
