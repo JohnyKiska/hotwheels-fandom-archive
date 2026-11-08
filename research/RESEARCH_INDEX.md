@@ -174,3 +174,6 @@
 
 
 - 2026-11-08: извлечена Mainline 2001: 240 rows, Collector # 001–240 без пропусков; отдельно Final Run 12 rows (собственный namespace 001–012) и Store Exclusives 4 rows с Toy #/Collector #/Series # blank в source. Таблица 2001 Hot Wheels имеет 5 колонок без Series #. CSV и QA: research/extractions/MAINLINE-2001.csv и MAINLINE-2001-EXTRACTION-QA.md. Fandom revision 806211.
+
+
+- 2026-11-08: извлечена Mainline 2000: 249 строк в 17 таблицах; 245 distinct nonblank Toy #. Выявлены три source scopes: core annual tables, Virtual Collection (35 rows, alphanumeric Series # codes) и Bonus Cars (4 rows with blank Toy # and Collector # 001–004 in separate scope). Пять numeric Collector # values absent: 147, 170, 184, 185, 186. 2000 Hot Wheels uses 5-column schema. CSV и QA: research/extractions/MAINLINE-2000.csv и MAINLINE-2000-EXTRACTION-QA.md. Fandom revision 799670.
