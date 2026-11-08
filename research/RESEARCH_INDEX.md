@@ -89,3 +89,5 @@
 
 
 - 2026-11-08: исправлена ошибка source discovery для Mainline 2025. Пользователь указал полный архив `JohnyKiska/hotwheels`, branch `archive/historical-html-1968-2026`, каталог `ALLHW/`. Проверены каталог `ALLHW/2025` и `ALLHW/MANIFEST.csv`: Mainline 2025 HTML найден (824,886 bytes); записаны Git blob SHA и manifest SHA-256. В ALLHW присутствуют годовые папки 1968–2026; в MANIFEST отдельно представлены две страницы за 2010 год. Mainline 2025 теперь source-available; остаются извлечение таблиц, контроль полноты и Premium comparisons. Подробности в FINDINGS.md и задачи в UNRESOLVED.md.
+
+- 2026-11-08: завершён первый structured exact-name pass Mainline 2025 ↔ Car Culture/Boulevard/Team Transport 2025. Mainline: 440 строк / 250 Collector #; CC: 48 строк / 2 кандидата; Boulevard: 25 / 2; Team Transport: 29 компонентов / 3 distinct component-name candidates. Исходные revision IDs/blob SHA, extraction QA и кандидаты записаны в research/comparisons/MAINLINE-PREMIUM-2025.md. Это name matches, не подтверждённая casting/tooling identity.
