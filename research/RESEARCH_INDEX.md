@@ -51,3 +51,6 @@
 - 2026-11-08: начат Modern Special Series; изучены 100%, AcceleRacers (2005/2006/2025), Boulevard (2012/2020), Car Culture (2016/2026 и Team Transport 2026), Character Cars (Star Wars/Marvel/Disney), Color Shifters/Color Reveal, Pop Culture, Replica Entertainment и Fast & Furious Premium.
 
 - 2026-11-08: Modern Special Series batch 2: исследованы Pro Racing 1997/2005 и Basic Pro Racing, Hot Wheels Delivery, Garage 2010/2016, Hot Wheels id, Nostalgic Brands и Flying Customs 2020–2022; добавлены вопросы по лицензиям, промо и digital ecosystem.
+
+
+- 2026-11-08: Hot Wheels Classics (2005–2009) повторно исследована по обновлённому HTML; разобраны пять серийных таблиц (621 data rows), track sets, варианты Toy #/Series #, button/Spectraflame, Walgreens/Comic-Con/RLC exclusives и Chase. Результаты добавлены в FINDINGS, UNRESOLVED и DATA_MODEL_REQUIREMENTS.
