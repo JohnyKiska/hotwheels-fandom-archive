@@ -156,3 +156,6 @@
 
 
 - 2026-11-08: извлечена Mainline 2007: 315 строк в 18 таблицах, Collector # 001–180 без пропусков, 193 уникальных Toy # (повторяются между цветами), 80 пометок (2nd Color), 12 TH и 13 STH (включая отдельную Toys R Us Promo). Все 315 Series # содержат zero-width Unicode; сохранены raw. CSV и QA: research/extractions/MAINLINE-2007.csv и MAINLINE-2007-EXTRACTION-QA.md. Fandom revision 804327.
+
+
+- 2026-11-08: извлечена Mainline 2006: 363 строки в 17 таблицах, Collector # 001–223 без пропусков, 223 уникальных Toy #; Open Stock отдельно 141 строка в пятиколоночной схеме без Series #. Зафиксированы 74 (2nd Color), 12 TH, 90 повторяющихся Toy # values. CSV и QA: research/extractions/MAINLINE-2006.csv и MAINLINE-2006-EXTRACTION-QA.md. Fandom revision 811755.
