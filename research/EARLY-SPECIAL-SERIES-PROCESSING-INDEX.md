@@ -2,7 +2,7 @@
 
 Scope: source HTML/HTM pages in `Early Special Series/` on `main`. Folder membership is provenance only and does not establish a canonical Hot Wheels product hierarchy.
 
-Inventory: 39 HTML/HTM files. 10 of 39 pages extracted and QA-reviewed.
+Inventory: 39 HTML/HTM files. 11 of 39 pages extracted and QA-reviewed.
 
 ## Source inventory and processing status
 
@@ -18,7 +18,7 @@ Inventory: 39 HTML/HTM files. 10 of 39 pages extracted and QA-reviewed.
 | `Crack-Ups _ Hot Wheels Wiki _ Fandom.html` | `f6d3f538cdc2413b04e49442f7cc2c2ce0ad2452` | 404627 | Extracted + QA |
 | `Crashers (1999) _ Hot Wheels Wiki _ Fandom.html` | `b2f4b98c52688f41810e45113175220e5af80f4b` | 359867 | Extracted + QA |
 | `Crashers (2007) _ Hot Wheels Wiki _ Fandom.html` | `3023119d25944cf061208c570e78bfb56f8b33b4` | 416484 | Extracted + QA |
-| `Farbs _ Hot Wheels Wiki _ Fandom.html` | `6782c038228300407c7cc1e317343fac91d7a67e` | 336279 | Not yet extracted |
+| `Farbs _ Hot Wheels Wiki _ Fandom.html` | `6782c038228300407c7cc1e317343fac91d7a67e` | 336279 | Extracted + QA |
 | `Fireworks _ Hot Wheels Wiki _ Fandom.html` | `08a63beb5eb2c2b18b4e0eab7b97c439d8826ed8` | 337208 | Not yet extracted |
 | `Flip Outs _ Hot Wheels Wiki _ Fandom.html` | `7656894b0087ebab19b711a9a0e991e0be614055` | 343005 | Not yet extracted |
 | `Flippers _ Hot Wheels Wiki _ Fandom.html` | `6b55836c7505ffe72d93bd0305004857668ef827` | 467036 | Not yet extracted |
@@ -78,6 +78,12 @@ Inventory: 39 HTML/HTM files. 10 of 39 pages extracted and QA-reviewed.
 | Crack-Ups | 9 | 43 | 43 | 90 |
 | Crashers (1999) | 2 | 17 | 17 | 51 |
 | Crashers (2007) | 5 | 53 | 98 | 176 |
+
+
+## Batch 2 (in progress)
+
+- Farbs: 1 table, 4 product rows, 4 embedded images, 12 links.
+- CSV and per-page QA created. Remaining pages in this batch: Fireworks, Flip Outs, Flippers, Gran Toros, HiWay Hauler, Hot Birds, Hot Line, Hot Shots, Hot Wheels U.S.A.
 
 ## Completed extraction records
 
