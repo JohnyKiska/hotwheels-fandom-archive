@@ -202,3 +202,35 @@ Ten further Early Collections CSV exports were parsed with CSV-aware quote handl
 All ten files passed malformed-quote, BOM, U+FFFD, empty-header and duplicate-header checks. No blank data rows, exact duplicate data rows, or row-width mismatches were found. Different header widths are intentional and validated per file. No source rows were removed or normalized.
 
 Manifest update commit: `d8b37f5d3d9f7f3aa53bca5790e75f68a0c4ce4b`.
+
+
+## Early Collections and Early Special Series structural audit batch 4 (2026-11-09)
+
+Twenty CSV exports were fetched from `main` and parsed with CSV-aware quoting rules. Every data row was checked against its own file's header; no global schema was imposed. The audit also checked physical blank/whitespace-only lines (excluding a final newline), exact duplicate full rows, malformed quoting, BOM, U+FFFD, empty/duplicate headers, and trailing delimiters.
+
+| CSV | Data rows | Header columns | Width errors | Blank rows | Exact duplicate extra rows |
+|---|---:|---:|---:|---:|---:|
+| EARLY-COLLECTIONS-TRAILBUSTERS.csv | 49 | 21 | 0 | 0 | 0 |
+| EARLY-COLLECTIONS-ULTRA-HOTS-SERIES-1984.csv | 26 | 21 | 0 | 0 | 0 |
+| EARLY-COLLECTIONS-WORKHORSES.csv | 86 | 21 | 0 | 0 | 0 |
+| EARLY-SPECIAL-SERIES-ACTION-PACKS.csv | 32 | 21 | 0 | 0 | 0 |
+| EARLY-SPECIAL-SERIES-AUTO-CITY.csv | 87 | 21 | 0 | 0 | 0 |
+| EARLY-SPECIAL-SERIES-CALIFORNIA-CUSTOM-SERIES.csv | 57 | 21 | 0 | 0 | 0 |
+| EARLY-SPECIAL-SERIES-CHOPCYCLES.csv | 9 | 21 | 0 | 0 | 0 |
+| EARLY-SPECIAL-SERIES-COLOR-CHANGERS.csv | 133 | 21 | 0 | 0 | 0 |
+| EARLY-SPECIAL-SERIES-COLOR-FX.csv | 34 | 21 | 0 | 0 | 0 |
+| EARLY-SPECIAL-SERIES-CONVERTABLES.csv | 13 | 21 | 0 | 0 | 0 |
+| EARLY-SPECIAL-SERIES-CRACK-UPS.csv | 43 | 21 | 0 | 0 | 0 |
+| EARLY-SPECIAL-SERIES-CRASHERS-1999.csv | 17 | 21 | 0 | 0 | 0 |
+| EARLY-SPECIAL-SERIES-CRASHERS-2007.csv | 53 | 21 | 0 | 0 | 0 |
+| EARLY-SPECIAL-SERIES-FARBS.csv | 4 | 21 | 0 | 0 | 0 |
+| EARLY-SPECIAL-SERIES-FIREWORKS.csv | 4 | 21 | 0 | 0 | 0 |
+| EARLY-SPECIAL-SERIES-FLIP-OUTS.csv | 9 | 21 | 0 | 0 | 0 |
+| EARLY-SPECIAL-SERIES-FLIPPERS.csv | 37 | 21 | 0 | 0 | 0 |
+| EARLY-SPECIAL-SERIES-GRAN-TOROS.csv | 29 | 21 | 0 | 0 | 0 |
+| EARLY-SPECIAL-SERIES-HIWAY-HAULER.csv | 4 | 21 | 0 | 0 | 0 |
+| EARLY-SPECIAL-SERIES-HOT-BIRDS.csv | 15 | 21 | 0 | 0 | 0 |
+
+All twenty passed: no row-width errors, blank/whitespace-only rows, exact duplicate full rows, malformed quotes, BOM, U+FFFD, empty or duplicate headers, or trailing delimiters. Source data was not normalized, deduplicated, or modified. Repeated values within fields were retained.
+
+Total data rows inspected in this batch: **741**. Manifest update commit: `810f88c58499e9fbeb85d8a7a78d6ba70bcbf31b`. The manifest records the pre-update branch HEAD as checked provenance: `25bb51821e02bbb4217bef75e081687adab1aff4`.
