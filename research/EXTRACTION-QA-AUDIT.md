@@ -329,3 +329,34 @@ Twenty further Larger Scale CSV exports were re-fetched from `main` and parsed w
 All twenty passed the structural checks. No row-width errors, blank/whitespace-only rows, exact duplicate full rows, malformed quotes, BOM, U+FFFD, empty or duplicate headers, or trailing delimiters were found. All twenty QA report product-row counts matched the CSVs. The header-only `LARGER-SCALE-PULL-BACK-SPEEDERS.csv` was reconciled against its QA report: the source HTML has no qualifying product table (no Toy # plus casting/model/name headers); one non-product table was excluded. This is an expected zero-row export, not an unexplained extraction failure. CSV source values were not normalized, deduplicated, or modified.
 
 Total data rows inspected in this batch: **668**. Manifest update commit: `200eaaefb0a0fb9de2f17557fca706f77eddc56a`. The manifest records the branch HEAD before this audit update: `31b0fbcf37761a3af800930e6294c69b8cdcc80d`.
+
+## CSV structural audit batch 8 (2026-11-09)
+
+Twenty CSV exports spanning the final Larger Scale files and Mainline 1968–1984 were fetched from `main` and parsed with CSV-aware quoting rules. Every record was checked against its own header. Checks covered row-width consistency, physical blank/whitespace-only lines, exact duplicate full rows, malformed quoting, BOM, U+FFFD, empty/duplicate headers, and trailing delimiters. Each corresponding QA report was reviewed and its declared total CSV row count or gallery/product inventory count reconciled to the exported CSV row count.
+
+| CSV | Data rows | Columns | Width errors | Blank rows | Duplicate extra rows | Trailing delimiters |
+|---|---:|---:|---:|---:|---:|---:|
+| LARGER-SCALE-STREET-POWER.csv | 163 | 21 | 0 | 0 | 0 | 0 |
+| LARGER-SCALE-TEAM-HOT-WHEELS-RACING-SERIES-2008.csv | 4 | 21 | 0 | 0 | 0 | 0 |
+| LARGER-SCALE-TUNERZ.csv | 21 | 21 | 0 | 0 | 0 | 0 |
+| MAINLINE-1968.csv | 42 | 19 | 0 | 0 | 0 | 0 |
+| MAINLINE-1969.csv | 25 | 19 | 0 | 0 | 0 | 0 |
+| MAINLINE-1970.csv | 37 | 19 | 0 | 0 | 0 | 0 |
+| MAINLINE-1971.csv | 39 | 19 | 0 | 0 | 0 | 0 |
+| MAINLINE-1972.csv | 7 | 19 | 0 | 0 | 0 | 0 |
+| MAINLINE-1973.csv | 34 | 19 | 0 | 0 | 0 | 34 |
+| MAINLINE-1974.csv | 25 | 19 | 0 | 0 | 0 | 0 |
+| MAINLINE-1975.csv | 31 | 19 | 0 | 0 | 0 | 0 |
+| MAINLINE-1976.csv | 41 | 19 | 0 | 0 | 0 | 0 |
+| MAINLINE-1977.csv | 103 | 19 | 0 | 0 | 0 | 0 |
+| MAINLINE-1978.csv | 54 | 19 | 0 | 0 | 0 | 0 |
+| MAINLINE-1979.csv | 51 | 19 | 0 | 0 | 0 | 0 |
+| MAINLINE-1980.csv | 49 | 19 | 0 | 0 | 0 | 0 |
+| MAINLINE-1981.csv | 27 | 19 | 0 | 0 | 0 | 0 |
+| MAINLINE-1982.csv | 90 | 19 | 0 | 0 | 0 | 0 |
+| MAINLINE-1983.csv | 67 | 18 | 0 | 0 | 0 | 0 |
+| MAINLINE-1984.csv | 35 | 18 | 0 | 0 | 0 | 0 |
+
+All twenty files have consistent row widths, no blank/whitespace-only rows, no exact duplicate full rows, no malformed quotes, no BOM, no U+FFFD, and no empty or duplicate headers. QA inventory counts reconcile across all twenty files. The 34 trailing delimiters in `MAINLINE-1973.csv` are intentional empty final fields in the exported raw-source metadata; each row still has exactly 19 fields matching its 19-column header. They are not malformed rows or width errors. The 1968–1973 exports include gallery inventory rows as specified by their QA reports; these rows are retained as source records and not reclassified as product-table castings. CSV source values were not normalized, deduplicated, or modified.
+
+Total data rows inspected in this batch: **945**. Manifest update commit: `304a9f963e4300f7ac95b0786a51bbe1abc293bf`. The manifest records the branch HEAD before this audit update: `49a8e3a4b2cdd9cbd04d31dcd4a68e4ba83ed449`.
