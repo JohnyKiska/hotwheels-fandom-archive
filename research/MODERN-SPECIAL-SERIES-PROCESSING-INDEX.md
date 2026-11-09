@@ -7,7 +7,7 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 - Source pages: 223
 - Total source size: 92,291,750 bytes (88.02 MiB)
 - Inventory source: repository `MANIFEST.csv` and GitHub directory/tree entries.
-- Extraction status: 107 of 223 source pages extracted and QA-reviewed; remaining pages are marked `Not yet extracted`.
+- Extraction status: 112 of 223 source pages extracted and QA-reviewed; remaining pages are marked `Not yet extracted`.
 - This index is an inventory baseline, not a claim that each file represents one distinct product series.
 
 ## Source folder breakdown
@@ -100,11 +100,11 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 | `Modern Special Series/Character Cars/Godzilla Character Cars _ Hot Wheels Wiki _ Fandom.html` | `cad502a944c63a7bc9104060dcd7b7485c57469a` | 350279 | `22DD51CED40523BBBFE36A2E38D201D137B9592FF275C57610B62D441BF40CF5` | Extracted + QA |
 | `Modern Special Series/Character Cars/Good Luck Trolls Character Cars _ Hot Wheels Wiki _ Fandom.html` | `abb57d9390cab73dc3697b4ba882c865987132c6` | 348675 | `786F05F918542215F70DDF419921BDBF92C8FD968512B4619E1E124009246B25` | Extracted + QA |
 | `Modern Special Series/Character Cars/Jurassic World Character Cars _ Hot Wheels Wiki _ Fandom.html` | `8dd42f0c56fa9b2a55e1be3cb99b4375193ba355` | 399498 | `523764535333F78918A91D82BC67F34322184D3AA921BE2982BA3D416CE37881` | Extracted + QA |
-| `Modern Special Series/Character Cars/Lightyear Character Cars _ Hot Wheels Wiki _ Fandom.html` | `2ae665b19a51b6ad539e3429cc55b4e5aecce395` | 369028 | `210E91D4983CA129DCC246841652DF288C96035EAC9E925FF83615E795F38AC5` | Not yet extracted |
-| `Modern Special Series/Character Cars/Looney Tunes Character Cars _ Hot Wheels Wiki _ Fandom.html` | `c86b1e77f4ca120e27fbae3fbf1d9cfd472a2c1d` | 359340 | `C9CAD8D9CA093C543A86A2A27CD8176BEFC4CCA70DE3E796E84A5EECA57E5421` | Not yet extracted |
-| `Modern Special Series/Character Cars/Marvel Character Cars _ Hot Wheels Wiki _ Fandom.html` | `85aa6572f0f636a6af26c400a6a0617d7d1ea5e2` | 775918 | `A65BDA74B60B511104DF722E2D45E644B0A730A96D1F0CFC116D6A9D0659D114` | Not yet extracted |
-| `Modern Special Series/Character Cars/Masters of the Universe Character Cars _ Hot Wheels Wiki _ Fandom.html` | `2b5bb7cc178b401b1a1a13c0500621be9e3b105a` | 376818 | `089F68896BFC284EAFDCA7AB7B66885DF14A4FAD26287CB47A74CD76CC6D6571` | Not yet extracted |
-| `Modern Special Series/Character Cars/Minecraft Character Cars _ Hot Wheels Wiki _ Fandom.html` | `bbc10c09af097f398558b8209b4c5443a2a1c985` | 396289 | `3257DCEAFFE0A5FFF80A49CAFCD0FE0E117FE1B85131392F67EEB6CAF1F23569` | Not yet extracted |
+| `Modern Special Series/Character Cars/Lightyear Character Cars _ Hot Wheels Wiki _ Fandom.html` | `2ae665b19a51b6ad539e3429cc55b4e5aecce395` | 369028 | `210E91D4983CA129DCC246841652DF288C96035EAC9E925FF83615E795F38AC5` | Extracted + QA |
+| `Modern Special Series/Character Cars/Looney Tunes Character Cars _ Hot Wheels Wiki _ Fandom.html` | `c86b1e77f4ca120e27fbae3fbf1d9cfd472a2c1d` | 359340 | `C9CAD8D9CA093C543A86A2A27CD8176BEFC4CCA70DE3E796E84A5EECA57E5421` | Extracted + QA |
+| `Modern Special Series/Character Cars/Marvel Character Cars _ Hot Wheels Wiki _ Fandom.html` | `85aa6572f0f636a6af26c400a6a0617d7d1ea5e2` | 775918 | `A65BDA74B60B511104DF722E2D45E644B0A730A96D1F0CFC116D6A9D0659D114` | Extracted + QA |
+| `Modern Special Series/Character Cars/Masters of the Universe Character Cars _ Hot Wheels Wiki _ Fandom.html` | `2b5bb7cc178b401b1a1a13c0500621be9e3b105a` | 376818 | `089F68896BFC284EAFDCA7AB7B66885DF14A4FAD26287CB47A74CD76CC6D6571` | Extracted + QA |
+| `Modern Special Series/Character Cars/Minecraft Character Cars _ Hot Wheels Wiki _ Fandom.html` | `bbc10c09af097f398558b8209b4c5443a2a1c985` | 396289 | `3257DCEAFFE0A5FFF80A49CAFCD0FE0E117FE1B85131392F67EEB6CAF1F23569` | Extracted + QA |
 | `Modern Special Series/Character Cars/Minions Character Cars _ Hot Wheels Wiki _ Fandom.html` | `af61bccc5d0616a9cdf35244b5c4c598a454a659` | 384672 | `A2638AD0D73FC98E749303F84B784F3F80210265F1B75A6798F666615993344C` | Not yet extracted |
 | `Modern Special Series/Character Cars/Overwatch Character Cars _ Hot Wheels Wiki _ Fandom.html` | `58dd862846e24c575d14a4ee283ce71d0f735339` | 363567 | `EC8E531F5438E9F4BF282DE048C159E55472BC83AC98B2A51735D834531198E0` | Not yet extracted |
 | `Modern Special Series/Character Cars/Power Rangers Megaforce _ Hot Wheels Wiki _ Fandom.html` | `0f7be6cad8f86a917c4b3866b7f2b1794c9b07ed` | 345514 | `4C7DEE569DE0F1AD6897B1E65B0A5D33A09E9F02C5C72A82F08F97DC55C7AC05` | Not yet extracted |
