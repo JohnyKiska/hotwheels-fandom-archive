@@ -2,8 +2,8 @@
 
 - Source: `Modern Special Series/Replica Entertainment/2022 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html`
 - Source blob SHA: `e27942eb5417d9577782edf507164f8b159a5fca`
-- Source manifest SHA-256: `undefined`
-- Source size (bytes): NaN
+- Source manifest SHA-256: `365DB71D33E83AFE37EF4F050A4F51318612DD38AD9DC46FC164646B7F569D77`
+- Source size (bytes): 415746
 - Fandom revision ID: 792797
 - Product tables extracted: 10
 - Product rows extracted: 48
