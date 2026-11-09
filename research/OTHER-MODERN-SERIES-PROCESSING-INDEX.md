@@ -5,23 +5,23 @@ Scope: archived source HTML under `Other Modern Series/`, including all nested f
 ## Inventory summary
 
 - Source pages: 83
-- Extracted + QA: 0
-- Remaining: 83
+- Extracted + QA: 10
+- Remaining: 73
 
 ## File inventory and processing status
 
 | Source file | Size (bytes) | Manifest SHA-256 | Processing status |
 |---|---:|---|---|
-| `Other Modern Series/1_50 Dropstars _ Hot Wheels Wiki _ Fandom.html` | 444569 | `8C18CA09BE39D4376AA971585273A0A30736C5E567FE2B60BA60996E91584839` | Pending |
-| `Other Modern Series/2026 Superstar Speeders _ Hot Wheels Wiki _ Fandom.html` | 393592 | `F85D8AAB12CC69E09ADAAB4E282EB4C37EAADD1C5AA06D7195BE13CDAF473015` | Pending |
-| `Other Modern Series/Atomix _ Hot Wheels Wiki _ Fandom.html` | 485121 | `2A5193B4BF8D1AA16BE1E633A55D36B89A0066415A16C04F35F7AF1F64B0A22B` | Pending |
-| `Other Modern Series/Bash-Ups _ Hot Wheels Wiki _ Fandom.html` | 328649 | `990FB8A733AED660FB35F23090432845EFD51A6C364F32894E255FE9B092A469` | Pending |
-| `Other Modern Series/Battle X _ Hot Wheels Wiki _ Fandom.html` | 336837 | `EABDFDE6F7E2EFE05DE9301CA1643DC9DC0547882932ED198DA8E503468E5A61` | Pending |
-| `Other Modern Series/Custom Classics _ Hot Wheels Wiki _ Fandom.html` | 594707 | `5EFA932CB5191560D919DB60757239A7DAF44A21F636F56A3EE4C1E3A8618DFB` | Pending |
-| `Other Modern Series/Custom Motors _ Hot Wheels Wiki _ Fandom.html` | 354279 | `1484FD0C8370827B379349C656E254B657C2FE7A7341FAEDEBD0B99AA28B88E9` | Pending |
-| `Other Modern Series/Extreme Shoxx _ Hot Wheels Wiki _ Fandom.html` | 350432 | `581FCC80F2E14A0437F08A08E0F74F6641619B0AF524CAEEA9731C94FCCCBD90` | Pending |
-| `Other Modern Series/Ferrari X-V _ Hot Wheels Wiki _ Fandom.html` | 345365 | `408B88361CCE4FB3EEDEA828B9B6DB35807065633E134E96E32157366E2035DC` | Pending |
-| `Other Modern Series/G-Machines _ Hot Wheels Wiki _ Fandom.html` | 498506 | `5B6B1F97959E57B6ECC0816FF9EDC71AEF05BC924042F57EA47B50485C955F5C` | Pending |
+| `Other Modern Series/1_50 Dropstars _ Hot Wheels Wiki _ Fandom.html` | 444569 | `8C18CA09BE39D4376AA971585273A0A30736C5E567FE2B60BA60996E91584839` | Extracted + QA |
+| `Other Modern Series/2026 Superstar Speeders _ Hot Wheels Wiki _ Fandom.html` | 393592 | `F85D8AAB12CC69E09ADAAB4E282EB4C37EAADD1C5AA06D7195BE13CDAF473015` | Extracted + QA |
+| `Other Modern Series/Atomix _ Hot Wheels Wiki _ Fandom.html` | 485121 | `2A5193B4BF8D1AA16BE1E633A55D36B89A0066415A16C04F35F7AF1F64B0A22B` | Extracted + QA |
+| `Other Modern Series/Bash-Ups _ Hot Wheels Wiki _ Fandom.html` | 328649 | `990FB8A733AED660FB35F23090432845EFD51A6C364F32894E255FE9B092A469` | Extracted + QA |
+| `Other Modern Series/Battle X _ Hot Wheels Wiki _ Fandom.html` | 336837 | `EABDFDE6F7E2EFE05DE9301CA1643DC9DC0547882932ED198DA8E503468E5A61` | Extracted + QA |
+| `Other Modern Series/Custom Classics _ Hot Wheels Wiki _ Fandom.html` | 594707 | `5EFA932CB5191560D919DB60757239A7DAF44A21F636F56A3EE4C1E3A8618DFB` | Extracted + QA |
+| `Other Modern Series/Custom Motors _ Hot Wheels Wiki _ Fandom.html` | 354279 | `1484FD0C8370827B379349C656E254B657C2FE7A7341FAEDEBD0B99AA28B88E9` | Extracted + QA |
+| `Other Modern Series/Extreme Shoxx _ Hot Wheels Wiki _ Fandom.html` | 350432 | `581FCC80F2E14A0437F08A08E0F74F6641619B0AF524CAEEA9731C94FCCCBD90` | Extracted + QA |
+| `Other Modern Series/Ferrari X-V _ Hot Wheels Wiki _ Fandom.html` | 345365 | `408B88361CCE4FB3EEDEA828B9B6DB35807065633E134E96E32157366E2035DC` | Extracted + QA |
+| `Other Modern Series/G-Machines _ Hot Wheels Wiki _ Fandom.html` | 498506 | `5B6B1F97959E57B6ECC0816FF9EDC71AEF05BC924042F57EA47B50485C955F5C` | Extracted + QA |
 | `Other Modern Series/Hot Import Nights _ Hot Wheels Wiki _ Fandom.html` | 373518 | `D0C5D0F0C57EE1B6EE6155795293AE159FA053C58E17A25635D7407B84BE7C2E` | Pending |
 | `Other Modern Series/Hot Tunerz _ Hot Wheels Wiki _ Fandom.html` | 398149 | `803D3F34D2741BE8AE514161970B14D469EA0FF07337DB1826716624E2122A4B` | Pending |
 | `Other Modern Series/Hot Wheels 1_87 Scale Series _ Hot Wheels Wiki _ Fandom.html` | 424346 | `AC3D63F481E6DE68A68B983B16543A62AAF862D5620FC9B4E5BDE086786AA165` | Pending |
@@ -99,3 +99,23 @@ Scope: archived source HTML under `Other Modern Series/`, including all nested f
 ## Processing batches
 
 Extraction follows the project 21-column product-table CSV schema. Each page receives a QA report; ancillary/navigation tables are excluded and documented. CSVs are re-fetched and checked for 21 columns and malformed rows. Gallery extraction is deferred until all HTML categories are processed.
+
+
+## Batch 1: First 10 Other Modern Series pages
+
+Processed 10 source HTML pages in manifest order. Product-table extraction totals: **65 product tables and 447 product rows**. Each page has a 21-column CSV and a QA report. All 10 CSVs were re-fetched from GitHub and validated: 21 columns and zero malformed-width records.
+
+| Page | Product tables | Product rows |
+|---|---:|---:|
+| 1:50 Dropstars | 11 | 71 |
+| 2026 Superstar Speeders | 11 | 31 |
+| Atomix | 2 | 49 |
+| Bash-Ups | 1 | 16 |
+| Battle X | 3 | 10 |
+| Custom Classics | 14 | 85 |
+| Custom Motors | 0 | 0 |
+| Extreme Shoxx | 1 | 18 |
+| Ferrari X-V | 1 | 10 |
+| G-Machines | 21 | 157 |
+
+**Custom Motors:** archived HTML contains no `<table>` elements, so its valid CSV contains only the 21-column header. No product rows were available to extract.
