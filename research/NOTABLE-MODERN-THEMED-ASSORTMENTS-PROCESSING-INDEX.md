@@ -7,7 +7,7 @@ Scope: archived HTML/HTM source pages under `Notable Modern Themed Assortments/`
 - Source pages: 57
 - Total source size: 20,744,066 bytes
 - Inventory source: recursive Git tree and repository `MANIFEST.csv`.
-- Extraction status: 25 of 57 pages extracted and QA-reviewed; 32 remaining.
+- Extraction status: 30 of 57 pages extracted and QA-reviewed; 27 remaining.
 - Source SHA-256 values are copied from the repository manifest. Git blob SHAs identify the exact archived HTML blobs.
 
 ## File inventory and processing status
@@ -39,11 +39,11 @@ Scope: archived HTML/HTM source pages under `Notable Modern Themed Assortments/`
 | `Notable Modern Themed Assortments/Fire Rods/Fire Rods Series (2009) _ Hot Wheels Wiki _ Fandom.html` | `5d21568cfa1850ac39a6b08a30744e01449d6d5e` | 363924 | `967319D9E8ECC3E78A10DFA940B3B1EC562533341F9C9D714E22CD9EF69106C6` | Extracted + QA |
 | `Notable Modern Themed Assortments/Fright Cars Series _ Hot Wheels Wiki _ Fandom.html` | `d983b23ed4ac0f6a899e81ed7668b5754d561bc7` | 552878 | `3A5C485FB3C0022910970DF38EBB844577835DF39C35586A6F22395EA6294358` | Extracted + QA |
 | `Notable Modern Themed Assortments/HW Road Trippin' Series (2014) _ Hot Wheels Wiki _ Fandom.html` | `d6b486f5255e5cbcb186a296e5a2c7f1137a674a` | 409320 | `6ADFF03D155005CA1345EA1D5893C2485CBD3361C880364639CAC37885EA8E49` | Extracted + QA |
-| `Notable Modern Themed Assortments/HW Winter/HW Winter Series (2020) _ Hot Wheels Wiki _ Fandom.html` | `c2f5823d7597a31801a632df1262955703235b27` | 335636 | `728FAA2B4FF7AFAB47974A370F6D4BDACCC7C2D85B069436C6D0B3971EF81CFF` | Not yet extracted |
-| `Notable Modern Themed Assortments/HW Winter/HW Winter Series (2021) _ Hot Wheels Wiki _ Fandom.html` | `9cdf60c7822bef17d15150c13cfb50fb0923ceee` | 325198 | `312E914A300C4E7B17910F8E77281D5E8F01B1EB3D50F1953B5861E7D9B19A78` | Not yet extracted |
-| `Notable Modern Themed Assortments/HW Winter/HW Winter Series (2022) _ Hot Wheels Wiki _ Fandom.html` | `fdfcd7a4fa45303bea3f44519fab600d5285a3fb` | 332987 | `9AD5292B0FAEA5F842E0277F47AB527F3C21DE3EF3EFC7288B8451CCE0C8D0E4` | Not yet extracted |
-| `Notable Modern Themed Assortments/HW Winter/HW Winter Series (2023) _ Hot Wheels Wiki _ Fandom.html` | `69ad7901bca7bbe1e595321a1fd2fc8d29de0bb7` | 325214 | `03AE98513437241BE419E15FB99B058C5A0C4E0B17426B067E42D90426F2B037` | Not yet extracted |
-| `Notable Modern Themed Assortments/HW Winter/HW Winter Series (2024) _ Hot Wheels Wiki _ Fandom.html` | `50723a30fc344968dbf05506803e245f04be22a6` | 338438 | `0962988173148951EF0449789B7D3811A0C9A60271BE0222698465EBAF7A4C66` | Not yet extracted |
+| `Notable Modern Themed Assortments/HW Winter/HW Winter Series (2020) _ Hot Wheels Wiki _ Fandom.html` | `c2f5823d7597a31801a632df1262955703235b27` | 335636 | `728FAA2B4FF7AFAB47974A370F6D4BDACCC7C2D85B069436C6D0B3971EF81CFF` | Extracted + QA |
+| `Notable Modern Themed Assortments/HW Winter/HW Winter Series (2021) _ Hot Wheels Wiki _ Fandom.html` | `9cdf60c7822bef17d15150c13cfb50fb0923ceee` | 325198 | `312E914A300C4E7B17910F8E77281D5E8F01B1EB3D50F1953B5861E7D9B19A78` | Extracted + QA |
+| `Notable Modern Themed Assortments/HW Winter/HW Winter Series (2022) _ Hot Wheels Wiki _ Fandom.html` | `fdfcd7a4fa45303bea3f44519fab600d5285a3fb` | 332987 | `9AD5292B0FAEA5F842E0277F47AB527F3C21DE3EF3EFC7288B8451CCE0C8D0E4` | Extracted + QA |
+| `Notable Modern Themed Assortments/HW Winter/HW Winter Series (2023) _ Hot Wheels Wiki _ Fandom.html` | `69ad7901bca7bbe1e595321a1fd2fc8d29de0bb7` | 325214 | `03AE98513437241BE419E15FB99B058C5A0C4E0B17426B067E42D90426F2B037` | Extracted + QA |
+| `Notable Modern Themed Assortments/HW Winter/HW Winter Series (2024) _ Hot Wheels Wiki _ Fandom.html` | `50723a30fc344968dbf05506803e245f04be22a6` | 338438 | `0962988173148951EF0449789B7D3811A0C9A60271BE0222698465EBAF7A4C66` | Extracted + QA |
 | `Notable Modern Themed Assortments/Halloween Highway Series _ Hot Wheels Wiki _ Fandom.html` | `ce975b116e40391fb3bca05288958982001bbf08` | 352381 | `1FACB48E88B231DEDF00FD7909F58DB60946866663BA4E5C0A9317AA1B6A09A9` | Not yet extracted |
 | `Notable Modern Themed Assortments/Holiday Hot Rods _ Hot Wheels Wiki _ Fandom.html` | `81c5f4c4e70633f1d6327fa877ae6c9a4b57a58c` | 662210 | `03CFB6FA075FCA56D88DB981C5D25852B1C0CEB2F302B4A879715FF3DAF99A5F` | Not yet extracted |
 | `Notable Modern Themed Assortments/Neon Speeders Series (2023) _ Hot Wheels Wiki _ Fandom.html` | `81bb5b856256e981c1c64eb6d364aaab696d1aaa` | 503878 | `E5B19E6E9EA25DAEFA13BF62E70C176243ED346791F98A7E0D46180C1BA98C3D` | Not yet extracted |
@@ -174,3 +174,22 @@ Each page has a 21-column source-preserving CSV and a per-page QA report in `res
 ## Next batch
 
 Continue with the next five unprocessed pages in inventory order: HW Winter Series (2020), HW Winter Series (2021), HW Winter Series (2022), HW Winter Series (2023), and HW Winter Series (2024).
+
+
+## Batch 6: HW Winter Series (2020–2024), 2026-11-09
+
+Five source pages extracted and QA-reviewed. Batch total: 5 product tables, 26 product rows, 52 embedded table image references, and 106 links retained from product cells.
+
+| Source page | Revision | Tables | Product rows | Images | Links | CSV | QA |
+|---|---:|---:|---:|---:|---:|---|---|
+| HW Winter Series (2020) | 675206 | 1 | 6 | 12 | 24 | `research/extractions/NOTABLE-MODERN-THEMED-ASSORTMENTS-HW-WINTER-SERIES-2020.csv` | `research/extractions/NOTABLE-MODERN-THEMED-ASSORTMENTS-HW-WINTER-SERIES-2020-EXTRACTION-QA.md` |
+| HW Winter Series (2021) | 692068 | 1 | 5 | 10 | 20 | `research/extractions/NOTABLE-MODERN-THEMED-ASSORTMENTS-HW-WINTER-SERIES-2021.csv` | `research/extractions/NOTABLE-MODERN-THEMED-ASSORTMENTS-HW-WINTER-SERIES-2021-EXTRACTION-QA.md` |
+| HW Winter Series (2022) | 675210 | 1 | 5 | 10 | 20 | `research/extractions/NOTABLE-MODERN-THEMED-ASSORTMENTS-HW-WINTER-SERIES-2022.csv` | `research/extractions/NOTABLE-MODERN-THEMED-ASSORTMENTS-HW-WINTER-SERIES-2022-EXTRACTION-QA.md` |
+| HW Winter Series (2023) | 675211 | 1 | 5 | 10 | 20 | `research/extractions/NOTABLE-MODERN-THEMED-ASSORTMENTS-HW-WINTER-SERIES-2023.csv` | `research/extractions/NOTABLE-MODERN-THEMED-ASSORTMENTS-HW-WINTER-SERIES-2023-EXTRACTION-QA.md` |
+| HW Winter Series (2024) | 675212 | 1 | 5 | 10 | 22 | `research/extractions/NOTABLE-MODERN-THEMED-ASSORTMENTS-HW-WINTER-SERIES-2024.csv` | `research/extractions/NOTABLE-MODERN-THEMED-ASSORTMENTS-HW-WINTER-SERIES-2024-EXTRACTION-QA.md` |
+
+Each page has a 21-column source-preserving CSV and an individual QA report. Source blob SHA, manifest SHA-256, source size, and Fandom revision ID are recorded in the artifacts.
+
+## Next batch
+
+Continue with the next five unprocessed pages in inventory order: Halloween Highway Series, Holiday Hot Rods, Neon Speeders Series (2023), Pantone Series (2026), and 50th Anniversary Black and Gold Series (2018).
