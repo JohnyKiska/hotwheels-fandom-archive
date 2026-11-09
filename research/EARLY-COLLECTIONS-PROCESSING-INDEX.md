@@ -9,7 +9,7 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total.
 | `Action Command _ Hot Wheels Wiki _ Fandom.html` | `aac8bef248329166dd47ca7387d31dd6a89c3b1d` | 369285 | Extracted + QA |
 | `Boss Hoss _ Hot Wheels Wiki _ Fandom.html` | `3a7cb7b9e5e4e65c0a9e6a0d671fc6422014119f` | 419070 | Extracted + QA |
 | `Classics _ Hot Wheels Wiki _ Fandom.html` | `81cdb2bcc7ce2505b2ce3b11f2a533475401e8a7` | 361417 | Extracted + QA |
-| `Classy Customs _ Hot Wheels Wiki _ Fandom.html` | `e6abb91ef7ee6140ac65220a5aaef8b33a07f72a` | 343179 | Not yet extracted |
+| `Classy Customs _ Hot Wheels Wiki _ Fandom.html` | `e6abb91ef7ee6140ac65220a5aaef8b33a07f72a` | 343179 | Extracted + QA |
 | `Drag Strippers _ Hot Wheels Wiki _ Fandom.html` | `4a562feebe3ee01403ae956cae9ba6757081f205` | 351156 | Not yet extracted |
 | `Evil Weevil _ Hot Wheels Wiki _ Fandom.html` | `1f58c9c929ca5529421d7e689e5fadcf1ce487ec` | 397979 | Not yet extracted |
 | `Extras _ Hot Wheels Wiki _ Fandom.html` | `e2a591a06e8ae39a455dc264e8cb8c6543c6536b` | 332471 | Not yet extracted |
@@ -78,3 +78,13 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total.
 - Loose and carded photo filenames/alt labels retained in separate columns.
 - Export: `research/extractions/EARLY-COLLECTIONS-CLASSICS.csv`
 - QA: `research/extractions/EARLY-COLLECTIONS-CLASSICS-EXTRACTION-QA.md`
+
+
+### Classy Customs
+- Source: `Early Collections/Classy Customs _ Hot Wheels Wiki _ Fandom.html`
+- Git blob SHA: `e6abb91ef7ee6140ac65220a5aaef8b33a07f72a`
+- Manifest SHA-256: `07E1C1AF03D7D807AD4CD5BB1B0C00F2BC638F79F4BDCC3C1BAE80B9662CACF7`
+- 1 product table, 12 product rows, 9 source columns; 2 separate gallery entries.
+- Source has no Year column. Toy # and Collector # preserved independently.
+- Export: `research/extractions/EARLY-COLLECTIONS-CLASSY-CUSTOMS.csv`
+- QA: `research/extractions/EARLY-COLLECTIONS-CLASSY-CUSTOMS-EXTRACTION-QA.md`
