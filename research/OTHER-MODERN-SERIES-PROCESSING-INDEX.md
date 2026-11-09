@@ -5,8 +5,8 @@ Scope: archived source HTML under `Other Modern Series/`, including all nested f
 ## Inventory summary
 
 - Source pages: 83
-- Extracted + QA: 66
-- Remaining: 17
+- Extracted + QA: 71
+- Remaining: 12
 
 ## File inventory and processing status
 
@@ -57,7 +57,7 @@ Scope: archived source HTML under `Other Modern Series/`, including all nested f
 | `Other Modern Series/Hot Wheels Monster Trucks/2024 Hot Wheels Monster Trucks _ Hot Wheels Wiki _ Fandom.html` | 600822 | `2D5625FBAB74672E722106D1667DD284A5EFD23E7B09709DB404326AFD37B6E5` | Extracted + QA |
 | `Other Modern Series/Hot Wheels Monster Trucks/2025 Hot Wheels Monster Trucks _ Hot Wheels Wiki _ Fandom.html` | 699139 | `BC483DF0FF29E379CD76631B3702527AB973F1316A3D26C382D3CAEC481ADB15` | Extracted + QA |
 | `Other Modern Series/Hot Wheels Monster Trucks/2026 Hot Wheels Monster Trucks _ Hot Wheels Wiki _ Fandom.html` | 730647 | `90B0C7CCEA1FA12BD5B516AAE43800D4492BF76E6D7540B2B1E3B077DC07142B` | Extracted + QA |
-| `Other Modern Series/Hot Wheels Monster Trucks/Hot Wheels Monster Trucks _ Hot Wheels Wiki _ Fandom.html` | 410056 | `C1254DF47CE9FA1AC11C2A49CFDC7DF3CCFECD32D5E08DCFEC7F33DA29542486` | Pending |
+| `Other Modern Series/Hot Wheels Monster Trucks/Hot Wheels Monster Trucks _ Hot Wheels Wiki _ Fandom.html` | 410056 | `C1254DF47CE9FA1AC11C2A49CFDC7DF3CCFECD32D5E08DCFEC7F33DA29542486` | Extracted + QA |
 | `Other Modern Series/Hot Wheels RacerVerse/2023 Hot Wheels RacerVerse _ Hot Wheels Wiki _ Fandom.html` | 393497 | `C397D320EF2CD304A26E628B6B294DBB853C150DBA6159DF4FFF1DE12AC803B1` | Extracted + QA |
 | `Other Modern Series/Hot Wheels RacerVerse/2024 Hot Wheels RacerVerse _ Hot Wheels Wiki _ Fandom.html` | 445175 | `80AE30E4F3BEC5275A509F375317FE65EA0B6B6867E506D670E4E406D0513702` | Extracted + QA |
 | `Other Modern Series/Hot Wheels RacerVerse/2025 Hot Wheels RacerVerse _ Hot Wheels Wiki _ Fandom.html` | 470336 | `0CB275151F7CCB559884C5CD0A1FD4AD016EABBFBF4B5F497879C7C56C2C0EB2` | Extracted + QA |
@@ -79,10 +79,10 @@ Scope: archived source HTML under `Other Modern Series/`, including all nested f
 | `Other Modern Series/Rapid Transit Series _ Hot Wheels Wiki _ Fandom.html` | 365312 | `0178E0D6FC48AFD5EE30EF1A6EC2DE5DEBD2C2C65340FC84C30B6B6C2A8DD3DB` | Extracted + QA |
 | `Other Modern Series/Rev Tredz _ Hot Wheels Wiki _ Fandom.html` | 442100 | `B4E21854542EBD7EE2AA767871E39A21BBC2739B99F91A1E42135CE9BDDD3CCD` | Extracted + QA |
 | `Other Modern Series/Road Beasts _ Hot Wheels Wiki _ Fandom.html` | 315380 | `B3DBBFBE45B236B738AD1978C89C0087EAD963DD850C2CE12BE3C7B4BF587F9F` | Extracted + QA |
-| `Other Modern Series/Robo Wheels _ Hot Wheels Wiki _ Fandom.html` | 433443 | `A2B589D80EAAE4FFEF7049D8C9656B8095A2741CA5B8FB0AD581324DF5898B88` | Pending |
-| `Other Modern Series/Shogun Racers _ Hot Wheels Wiki _ Fandom.html` | 348114 | `5091246F97933528C9383E8078ADD4C0FC6847AD3F72CF8D336A49BB56C38019` | Pending |
-| `Other Modern Series/Skate Freaks _ Hot Wheels Wiki _ Fandom.html` | 373678 | `F29CCDA489AE5BB7C149048F0229C092635C75DE7AAD5845E418DD55DCF31C6E` | Pending |
-| `Other Modern Series/Sky Busters _ Hot Wheels Wiki _ Fandom.html` | 494120 | `3AA4866CD387B12C771F8E222A6FF13E0B3D8B8954FFD896FB81575F40E06F95` | Pending |
+| `Other Modern Series/Robo Wheels _ Hot Wheels Wiki _ Fandom.html` | 433443 | `A2B589D80EAAE4FFEF7049D8C9656B8095A2741CA5B8FB0AD581324DF5898B88` | Extracted + QA |
+| `Other Modern Series/Shogun Racers _ Hot Wheels Wiki _ Fandom.html` | 348114 | `5091246F97933528C9383E8078ADD4C0FC6847AD3F72CF8D336A49BB56C38019` | Extracted + QA |
+| `Other Modern Series/Skate Freaks _ Hot Wheels Wiki _ Fandom.html` | 373678 | `F29CCDA489AE5BB7C149048F0229C092635C75DE7AAD5845E418DD55DCF31C6E` | Extracted + QA |
+| `Other Modern Series/Sky Busters _ Hot Wheels Wiki _ Fandom.html` | 494120 | `3AA4866CD387B12C771F8E222A6FF13E0B3D8B8954FFD896FB81575F40E06F95` | Extracted + QA |
 | `Other Modern Series/Snap Rides _ Hot Wheels Wiki _ Fandom.html` | 341225 | `DE90E0B6197D80F0A8B5C7BBBA232D784CC20EA32FB495AD30BFF1ED94FD519A` | Pending |
 | `Other Modern Series/Speed Cycles _ Hot Wheels Wiki _ Fandom.html` | 408126 | `4AFCCEA67940FEA92D78BC2AF5A7BAD052E6742E10AC3E3925EE05E7E7ACAAD3` | Pending |
 | `Other Modern Series/Speed Demons Series (2003) _ Hot Wheels Wiki _ Fandom.html` | 463633 | `8C479DD670A5E7CF12EC558F86FC078CB80A7295A51A4181E50C08C4514EC123` | Pending |
@@ -238,3 +238,18 @@ Processed 5 source pages. Product-table extraction totals: **21 product tables a
 | Road Beasts | 1 | 8 |
 
 Batch totals: **5 pages, 21 product tables, 397 product rows**. Gallery extraction remains deferred.
+
+
+## Batch 9: Hot Wheels Monster Trucks, Robo Wheels, Shogun Racers, Skate Freaks, and Sky Busters
+
+Processed 5 source pages. Product-table extraction totals: **14 product tables and 176 product rows**. Each page has a 21-column CSV and QA report. All five CSVs were re-fetched and validated: 21 columns and zero malformed-width rows.
+
+| Page | Product tables | Product rows |
+|---|---:|---:|
+| Hot Wheels Monster Trucks | 1 | 4 |
+| Robo Wheels | 2 | 36 |
+| Shogun Racers | 2 | 13 |
+| Skate Freaks | 1 | 34 |
+| Sky Busters | 8 | 89 |
+
+Batch totals: **5 pages, 14 product tables, 176 product rows**. Gallery extraction remains deferred.
