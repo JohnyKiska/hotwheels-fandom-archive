@@ -1,0 +1,601 @@
+record_type,source_file,source_blob_sha,source_sha256,source_size_bytes,fandom_revision_id,source_section,source_table_index,source_row_index,source_headers_json,source_cells_json,source_cell_values_json,raw_row_html,model_links_json,cell_image_metadata_json,gallery_index,gallery_caption,gallery_alt,gallery_filename,gallery_file_link,gallery_image_metadata_json
+"product_table_row","Early Special Series/Scorchers _ Hot Wheels Wiki _ Fandom.html","dfd9bf51ee5a25c738ed1bb633ce29d441e57140","","364502","788245","","1","2","[""Year"",""Model Name"",""Series"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Country"",""Toy Number"",""Photo""]","[{""cell_index"":1,""html"":""<td>1979\n</td>""},{""cell_index"":2,""html"":""<td><a href=\""/wiki/Black_Bird\"" title=\""Black Bird\"">Black Bird</a>\n</td>""},{""cell_index"":3,""html"":""<td>Scorchers\n</td>""},{""cell_index"":4,""html"":""<td>Black\n</td>""},{""cell_index"":5,""html"":""<td>Flames\n</td>""},{""cell_index"":6,""html"":""<td>Black<br />/<br />Plastic\n</td>""},{""cell_index"":7,""html"":""<td>Chrome\n</td>""},{""cell_index"":8,""html"":""<td>N.A.\n</td>""},{""cell_index"":9,""html"":""<td><a href=\""/wiki/8SP\"" title=\""8SP\"">8SP</a>\n</td>""},{""cell_index"":10,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":11,""html"":""<td>2891\n</td>""},{""cell_index"":12,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/3/31/Black_Bird.jpg/revision/latest?cb=20260228001657\"" class=\""mw-file-description image\""><img alt=\""Black Bird\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""75\"" height=\""56\"" class=\""mw-file-element lazyload\"" data-image-name=\""Black Bird.jpg\"" data-image-key=\""Black_Bird.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/3/31/Black_Bird.jpg/revision/latest/scale-to-width-down/75?cb=20260228001657\"" /></a></span>\n</td>""}]","[""1979"",""Black Bird"",""Scorchers"",""Black"",""Flames"",""Black / Plastic"",""Chrome"",""N.A."",""8SP"",""Hong Kong"",""2891"",""""]","<tr>
+<td>1979
+</td>
+<td><a href=""/wiki/Black_Bird"" title=""Black Bird"">Black Bird</a>
+</td>
+<td>Scorchers
+</td>
+<td>Black
+</td>
+<td>Flames
+</td>
+<td>Black<br />/<br />Plastic
+</td>
+<td>Chrome
+</td>
+<td>N.A.
+</td>
+<td><a href=""/wiki/8SP"" title=""8SP"">8SP</a>
+</td>
+<td>Hong Kong
+</td>
+<td>2891
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/3/31/Black_Bird.jpg/revision/latest?cb=20260228001657"" class=""mw-file-description image""><img alt=""Black Bird"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""75"" height=""56"" class=""mw-file-element lazyload"" data-image-name=""Black Bird.jpg"" data-image-key=""Black_Bird.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/3/31/Black_Bird.jpg/revision/latest/scale-to-width-down/75?cb=20260228001657"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Black_Bird"",""title"":""Black Bird"",""text"":""Black Bird""},{""href"":""/wiki/8SP"",""title"":""8SP"",""text"":""8SP""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/3/31/Black_Bird.jpg/revision/latest?cb=20260228001657"",""title"":"""",""text"":""""}]","[{""alt"":""Black Bird"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/3/31/Black_Bird.jpg/revision/latest/scale-to-width-down/75?cb=20260228001657"",""data_image_name"":""Black Bird.jpg"",""data_image_key"":""Black_Bird.jpg"",""width"":""75"",""height"":""56""}]","","","","","",""
+"product_table_row","Early Special Series/Scorchers _ Hot Wheels Wiki _ Fandom.html","dfd9bf51ee5a25c738ed1bb633ce29d441e57140","","364502","788245","","1","3","[""Year"",""Model Name"",""Series"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Country"",""Toy Number"",""Photo""]","[{""cell_index"":1,""html"":""<td>1979\n</td>""},{""cell_index"":2,""html"":""<td><a href=\""/wiki/Black_Bird\"" title=\""Black Bird\"">White Thunder</a>\n</td>""},{""cell_index"":3,""html"":""<td>Scorchers\n</td>""},{""cell_index"":4,""html"":""<td>White\n</td>""},{""cell_index"":5,""html"":""<td>Number '1' on sides and hood, Ford, Champion and Goodyear logos, red and blue tampos\n</td>""},{""cell_index"":6,""html"":""<td>Black<br />/<br />Plastic\n</td>""},{""cell_index"":7,""html"":""<td>Chrome\n</td>""},{""cell_index"":8,""html"":""<td>N.A.\n</td>""},{""cell_index"":9,""html"":""<td><a href=\""/wiki/8SP\"" title=\""8SP\"">8SP</a>\n</td>""},{""cell_index"":10,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":11,""html"":""<td>2640\n</td>""},{""cell_index"":12,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/e/e1/DSC_17600_%28Small%29_exposure_exposure.JPG/revision/latest?cb=20170207181627\"" class=\""mw-file-description image\""><img alt=\""DSC 17600 (Small) exposure exposure\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""75\"" height=\""50\"" class=\""mw-file-element lazyload\"" data-image-name=\""DSC 17600 (Small) exposure exposure.JPG\"" data-image-key=\""DSC_17600_%28Small%29_exposure_exposure.JPG\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/e/e1/DSC_17600_%28Small%29_exposure_exposure.JPG/revision/latest/scale-to-width-down/75?cb=20170207181627\"" /></a></span>\n</td>""}]","[""1979"",""White Thunder"",""Scorchers"",""White"",""Number '1' on sides and hood, Ford, Champion and Goodyear logos, red and blue tampos"",""Black / Plastic"",""Chrome"",""N.A."",""8SP"",""Hong Kong"",""2640"",""""]","<tr>
+<td>1979
+</td>
+<td><a href=""/wiki/Black_Bird"" title=""Black Bird"">White Thunder</a>
+</td>
+<td>Scorchers
+</td>
+<td>White
+</td>
+<td>Number '1' on sides and hood, Ford, Champion and Goodyear logos, red and blue tampos
+</td>
+<td>Black<br />/<br />Plastic
+</td>
+<td>Chrome
+</td>
+<td>N.A.
+</td>
+<td><a href=""/wiki/8SP"" title=""8SP"">8SP</a>
+</td>
+<td>Hong Kong
+</td>
+<td>2640
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/e/e1/DSC_17600_%28Small%29_exposure_exposure.JPG/revision/latest?cb=20170207181627"" class=""mw-file-description image""><img alt=""DSC 17600 (Small) exposure exposure"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""75"" height=""50"" class=""mw-file-element lazyload"" data-image-name=""DSC 17600 (Small) exposure exposure.JPG"" data-image-key=""DSC_17600_%28Small%29_exposure_exposure.JPG"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/e/e1/DSC_17600_%28Small%29_exposure_exposure.JPG/revision/latest/scale-to-width-down/75?cb=20170207181627"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Black_Bird"",""title"":""Black Bird"",""text"":""White Thunder""},{""href"":""/wiki/8SP"",""title"":""8SP"",""text"":""8SP""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/e/e1/DSC_17600_%28Small%29_exposure_exposure.JPG/revision/latest?cb=20170207181627"",""title"":"""",""text"":""""}]","[{""alt"":""DSC 17600 (Small) exposure exposure"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/e/e1/DSC_17600_%28Small%29_exposure_exposure.JPG/revision/latest/scale-to-width-down/75?cb=20170207181627"",""data_image_name"":""DSC 17600 (Small) exposure exposure.JPG"",""data_image_key"":""DSC_17600_%28Small%29_exposure_exposure.JPG"",""width"":""75"",""height"":""50""}]","","","","","",""
+"product_table_row","Early Special Series/Scorchers _ Hot Wheels Wiki _ Fandom.html","dfd9bf51ee5a25c738ed1bb633ce29d441e57140","","364502","788245","","1","4","[""Year"",""Model Name"",""Series"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Country"",""Toy Number"",""Photo""]","[{""cell_index"":1,""html"":""<td>1979\n</td>""},{""cell_index"":2,""html"":""<td><a href=\""/wiki/Capri_Turbo\"" title=\""Capri Turbo\"">Capri Turbo</a>\n</td>""},{""cell_index"":3,""html"":""<td>Scorchers\n</td>""},{""cell_index"":4,""html"":""<td>Orange\n</td>""},{""cell_index"":5,""html"":""<td>'Capri Turbo' on sides, purple, yellow, blue and red tampos\n</td>""},{""cell_index"":6,""html"":""<td>Black<br />/<br />Plastic\n</td>""},{""cell_index"":7,""html"":""<td>Chrome\n</td>""},{""cell_index"":8,""html"":""<td>N.A.\n</td>""},{""cell_index"":9,""html"":""<td><a href=\""/wiki/8SP\"" title=\""8SP\"">8SP</a>\n</td>""},{""cell_index"":10,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":11,""html"":""<td>2896\n</td>""},{""cell_index"":12,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/2/29/Scorchers_Gran_Toros_1981_Catalog_Capri_Turbo.jpg/revision/latest?cb=20240511014850\"" class=\""mw-file-description image\""><img alt=\""Scorchers Gran Toros 1981 Catalog Capri Turbo\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""75\"" height=\""34\"" class=\""mw-file-element lazyload\"" data-image-name=\""Scorchers Gran Toros 1981 Catalog Capri Turbo.jpg\"" data-image-key=\""Scorchers_Gran_Toros_1981_Catalog_Capri_Turbo.jpg\"" data-relevant=\""0\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/2/29/Scorchers_Gran_Toros_1981_Catalog_Capri_Turbo.jpg/revision/latest/scale-to-width-down/75?cb=20240511014850\"" /></a></span>\n</td>""}]","[""1979"",""Capri Turbo"",""Scorchers"",""Orange"",""'Capri Turbo' on sides, purple, yellow, blue and red tampos"",""Black / Plastic"",""Chrome"",""N.A."",""8SP"",""Hong Kong"",""2896"",""""]","<tr>
+<td>1979
+</td>
+<td><a href=""/wiki/Capri_Turbo"" title=""Capri Turbo"">Capri Turbo</a>
+</td>
+<td>Scorchers
+</td>
+<td>Orange
+</td>
+<td>'Capri Turbo' on sides, purple, yellow, blue and red tampos
+</td>
+<td>Black<br />/<br />Plastic
+</td>
+<td>Chrome
+</td>
+<td>N.A.
+</td>
+<td><a href=""/wiki/8SP"" title=""8SP"">8SP</a>
+</td>
+<td>Hong Kong
+</td>
+<td>2896
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/2/29/Scorchers_Gran_Toros_1981_Catalog_Capri_Turbo.jpg/revision/latest?cb=20240511014850"" class=""mw-file-description image""><img alt=""Scorchers Gran Toros 1981 Catalog Capri Turbo"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""75"" height=""34"" class=""mw-file-element lazyload"" data-image-name=""Scorchers Gran Toros 1981 Catalog Capri Turbo.jpg"" data-image-key=""Scorchers_Gran_Toros_1981_Catalog_Capri_Turbo.jpg"" data-relevant=""0"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/2/29/Scorchers_Gran_Toros_1981_Catalog_Capri_Turbo.jpg/revision/latest/scale-to-width-down/75?cb=20240511014850"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Capri_Turbo"",""title"":""Capri Turbo"",""text"":""Capri Turbo""},{""href"":""/wiki/8SP"",""title"":""8SP"",""text"":""8SP""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/2/29/Scorchers_Gran_Toros_1981_Catalog_Capri_Turbo.jpg/revision/latest?cb=20240511014850"",""title"":"""",""text"":""""}]","[{""alt"":""Scorchers Gran Toros 1981 Catalog Capri Turbo"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/2/29/Scorchers_Gran_Toros_1981_Catalog_Capri_Turbo.jpg/revision/latest/scale-to-width-down/75?cb=20240511014850"",""data_image_name"":""Scorchers Gran Toros 1981 Catalog Capri Turbo.jpg"",""data_image_key"":""Scorchers_Gran_Toros_1981_Catalog_Capri_Turbo.jpg"",""width"":""75"",""height"":""34""}]","","","","","",""
+"product_table_row","Early Special Series/Scorchers _ Hot Wheels Wiki _ Fandom.html","dfd9bf51ee5a25c738ed1bb633ce29d441e57140","","364502","788245","","1","5","[""Year"",""Model Name"",""Series"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Country"",""Toy Number"",""Photo""]","[{""cell_index"":1,""html"":""<td>1979\n</td>""},{""cell_index"":2,""html"":""<td><a href=\""/wiki/Capri_Turbo\"" title=\""Capri Turbo\"">Cool Capri</a>\n</td>""},{""cell_index"":3,""html"":""<td>Scorchers\n</td>""},{""cell_index"":4,""html"":""<td>Blue\n</td>""},{""cell_index"":5,""html"":""<td>'Cool Capri' on sides, red, white and yellow tampos\n</td>""},{""cell_index"":6,""html"":""<td>Black<br />/<br />Plastic\n</td>""},{""cell_index"":7,""html"":""<td>Chrome\n</td>""},{""cell_index"":8,""html"":""<td>N.A.\n</td>""},{""cell_index"":9,""html"":""<td><a href=\""/wiki/8SP\"" title=\""8SP\"">8SP</a>\n</td>""},{""cell_index"":10,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":11,""html"":""<td>2645\n</td>""},{""cell_index"":12,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/4/48/Scorchers_Gran_Toros_1981_Catalog_Capri_Turbo_%282%29.jpg/revision/latest?cb=20240511014836\"" class=\""mw-file-description image\""><img alt=\""Scorchers Gran Toros 1981 Catalog Capri Turbo (2)\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""75\"" height=\""34\"" class=\""mw-file-element lazyload\"" data-image-name=\""Scorchers Gran Toros 1981 Catalog Capri Turbo (2).jpg\"" data-image-key=\""Scorchers_Gran_Toros_1981_Catalog_Capri_Turbo_%282%29.jpg\"" data-relevant=\""0\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/4/48/Scorchers_Gran_Toros_1981_Catalog_Capri_Turbo_%282%29.jpg/revision/latest/scale-to-width-down/75?cb=20240511014836\"" /></a></span>\n</td>""}]","[""1979"",""Cool Capri"",""Scorchers"",""Blue"",""'Cool Capri' on sides, red, white and yellow tampos"",""Black / Plastic"",""Chrome"",""N.A."",""8SP"",""Hong Kong"",""2645"",""""]","<tr>
+<td>1979
+</td>
+<td><a href=""/wiki/Capri_Turbo"" title=""Capri Turbo"">Cool Capri</a>
+</td>
+<td>Scorchers
+</td>
+<td>Blue
+</td>
+<td>'Cool Capri' on sides, red, white and yellow tampos
+</td>
+<td>Black<br />/<br />Plastic
+</td>
+<td>Chrome
+</td>
+<td>N.A.
+</td>
+<td><a href=""/wiki/8SP"" title=""8SP"">8SP</a>
+</td>
+<td>Hong Kong
+</td>
+<td>2645
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/4/48/Scorchers_Gran_Toros_1981_Catalog_Capri_Turbo_%282%29.jpg/revision/latest?cb=20240511014836"" class=""mw-file-description image""><img alt=""Scorchers Gran Toros 1981 Catalog Capri Turbo (2)"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""75"" height=""34"" class=""mw-file-element lazyload"" data-image-name=""Scorchers Gran Toros 1981 Catalog Capri Turbo (2).jpg"" data-image-key=""Scorchers_Gran_Toros_1981_Catalog_Capri_Turbo_%282%29.jpg"" data-relevant=""0"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/4/48/Scorchers_Gran_Toros_1981_Catalog_Capri_Turbo_%282%29.jpg/revision/latest/scale-to-width-down/75?cb=20240511014836"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Capri_Turbo"",""title"":""Capri Turbo"",""text"":""Cool Capri""},{""href"":""/wiki/8SP"",""title"":""8SP"",""text"":""8SP""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/4/48/Scorchers_Gran_Toros_1981_Catalog_Capri_Turbo_%282%29.jpg/revision/latest?cb=20240511014836"",""title"":"""",""text"":""""}]","[{""alt"":""Scorchers Gran Toros 1981 Catalog Capri Turbo (2)"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/4/48/Scorchers_Gran_Toros_1981_Catalog_Capri_Turbo_%282%29.jpg/revision/latest/scale-to-width-down/75?cb=20240511014836"",""data_image_name"":""Scorchers Gran Toros 1981 Catalog Capri Turbo (2).jpg"",""data_image_key"":""Scorchers_Gran_Toros_1981_Catalog_Capri_Turbo_%282%29.jpg"",""width"":""75"",""height"":""34""}]","","","","","",""
+"product_table_row","Early Special Series/Scorchers _ Hot Wheels Wiki _ Fandom.html","dfd9bf51ee5a25c738ed1bb633ce29d441e57140","","364502","788245","","1","6","[""Year"",""Model Name"",""Series"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Country"",""Toy Number"",""Photo""]","[{""cell_index"":1,""html"":""<td>1979\n</td>""},{""cell_index"":2,""html"":""<td><a href=\""/wiki/Cookin%27_Camaro\"" title=\""Cookin&#39; Camaro\"">Cookin' Camaro</a>\n</td>""},{""cell_index"":3,""html"":""<td>Scorchers\n</td>""},{""cell_index"":4,""html"":""<td>Grey\n</td>""},{""cell_index"":5,""html"":""<td>'Camaro' on hood, orange and black tampos\n</td>""},{""cell_index"":6,""html"":""<td>Black<br />/<br />Plastic\n</td>""},{""cell_index"":7,""html"":""<td>Chrome\n</td>""},{""cell_index"":8,""html"":""<td>N.A.\n</td>""},{""cell_index"":9,""html"":""<td><a href=\""/wiki/8SP\"" title=\""8SP\"">8SP</a>\n</td>""},{""cell_index"":10,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":11,""html"":""<td>2895\n</td>""},{""cell_index"":12,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/9/9d/Scorchers_Gran_Toros_1981_Catalog_Cookin_Camaro.jpg/revision/latest?cb=20240511014901\"" class=\""mw-file-description image\""><img alt=\""Scorchers Gran Toros 1981 Catalog Cookin Camaro\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""75\"" height=\""35\"" class=\""mw-file-element lazyload\"" data-image-name=\""Scorchers Gran Toros 1981 Catalog Cookin Camaro.jpg\"" data-image-key=\""Scorchers_Gran_Toros_1981_Catalog_Cookin_Camaro.jpg\"" data-relevant=\""0\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/9/9d/Scorchers_Gran_Toros_1981_Catalog_Cookin_Camaro.jpg/revision/latest/scale-to-width-down/75?cb=20240511014901\"" /></a></span>\n</td>""}]","[""1979"",""Cookin' Camaro"",""Scorchers"",""Grey"",""'Camaro' on hood, orange and black tampos"",""Black / Plastic"",""Chrome"",""N.A."",""8SP"",""Hong Kong"",""2895"",""""]","<tr>
+<td>1979
+</td>
+<td><a href=""/wiki/Cookin%27_Camaro"" title=""Cookin&#39; Camaro"">Cookin' Camaro</a>
+</td>
+<td>Scorchers
+</td>
+<td>Grey
+</td>
+<td>'Camaro' on hood, orange and black tampos
+</td>
+<td>Black<br />/<br />Plastic
+</td>
+<td>Chrome
+</td>
+<td>N.A.
+</td>
+<td><a href=""/wiki/8SP"" title=""8SP"">8SP</a>
+</td>
+<td>Hong Kong
+</td>
+<td>2895
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/9/9d/Scorchers_Gran_Toros_1981_Catalog_Cookin_Camaro.jpg/revision/latest?cb=20240511014901"" class=""mw-file-description image""><img alt=""Scorchers Gran Toros 1981 Catalog Cookin Camaro"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""75"" height=""35"" class=""mw-file-element lazyload"" data-image-name=""Scorchers Gran Toros 1981 Catalog Cookin Camaro.jpg"" data-image-key=""Scorchers_Gran_Toros_1981_Catalog_Cookin_Camaro.jpg"" data-relevant=""0"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/9/9d/Scorchers_Gran_Toros_1981_Catalog_Cookin_Camaro.jpg/revision/latest/scale-to-width-down/75?cb=20240511014901"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Cookin%27_Camaro"",""title"":""Cookin&#39; Camaro"",""text"":""Cookin' Camaro""},{""href"":""/wiki/8SP"",""title"":""8SP"",""text"":""8SP""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/9/9d/Scorchers_Gran_Toros_1981_Catalog_Cookin_Camaro.jpg/revision/latest?cb=20240511014901"",""title"":"""",""text"":""""}]","[{""alt"":""Scorchers Gran Toros 1981 Catalog Cookin Camaro"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/9/9d/Scorchers_Gran_Toros_1981_Catalog_Cookin_Camaro.jpg/revision/latest/scale-to-width-down/75?cb=20240511014901"",""data_image_name"":""Scorchers Gran Toros 1981 Catalog Cookin Camaro.jpg"",""data_image_key"":""Scorchers_Gran_Toros_1981_Catalog_Cookin_Camaro.jpg"",""width"":""75"",""height"":""35""}]","","","","","",""
+"product_table_row","Early Special Series/Scorchers _ Hot Wheels Wiki _ Fandom.html","dfd9bf51ee5a25c738ed1bb633ce29d441e57140","","364502","788245","","1","7","[""Year"",""Model Name"",""Series"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Country"",""Toy Number"",""Photo""]","[{""cell_index"":1,""html"":""<td>1979\n</td>""},{""cell_index"":2,""html"":""<td><a href=\""/wiki/Cookin%27_Camaro\"" title=\""Cookin&#39; Camaro\"">Zappin Z-28</a>\n</td>""},{""cell_index"":3,""html"":""<td>Scorchers\n</td>""},{""cell_index"":4,""html"":""<td>Brown\n</td>""},{""cell_index"":5,""html"":""<td>'Z-28' on sides, red, yellow and white tampos\n</td>""},{""cell_index"":6,""html"":""<td>Black<br />/<br />Plastic\n</td>""},{""cell_index"":7,""html"":""<td>Chrome\n</td>""},{""cell_index"":8,""html"":""<td>N.A.\n</td>""},{""cell_index"":9,""html"":""<td><a href=\""/wiki/8SP\"" title=\""8SP\"">8SP</a>\n</td>""},{""cell_index"":10,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":11,""html"":""<td>2644\n</td>""},{""cell_index"":12,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/e/ef/ZappinZ2879Scorchers.jpg/revision/latest?cb=20260706230001\"" class=\""mw-file-description image\""><img alt=\""ZappinZ2879Scorchers\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""75\"" height=\""56\"" class=\""mw-file-element lazyload\"" data-image-name=\""ZappinZ2879Scorchers.jpg\"" data-image-key=\""ZappinZ2879Scorchers.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/e/ef/ZappinZ2879Scorchers.jpg/revision/latest/scale-to-width-down/75?cb=20260706230001\"" /></a></span>\n</td>""}]","[""1979"",""Zappin Z-28"",""Scorchers"",""Brown"",""'Z-28' on sides, red, yellow and white tampos"",""Black / Plastic"",""Chrome"",""N.A."",""8SP"",""Hong Kong"",""2644"",""""]","<tr>
+<td>1979
+</td>
+<td><a href=""/wiki/Cookin%27_Camaro"" title=""Cookin&#39; Camaro"">Zappin Z-28</a>
+</td>
+<td>Scorchers
+</td>
+<td>Brown
+</td>
+<td>'Z-28' on sides, red, yellow and white tampos
+</td>
+<td>Black<br />/<br />Plastic
+</td>
+<td>Chrome
+</td>
+<td>N.A.
+</td>
+<td><a href=""/wiki/8SP"" title=""8SP"">8SP</a>
+</td>
+<td>Hong Kong
+</td>
+<td>2644
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/e/ef/ZappinZ2879Scorchers.jpg/revision/latest?cb=20260706230001"" class=""mw-file-description image""><img alt=""ZappinZ2879Scorchers"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""75"" height=""56"" class=""mw-file-element lazyload"" data-image-name=""ZappinZ2879Scorchers.jpg"" data-image-key=""ZappinZ2879Scorchers.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/e/ef/ZappinZ2879Scorchers.jpg/revision/latest/scale-to-width-down/75?cb=20260706230001"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Cookin%27_Camaro"",""title"":""Cookin&#39; Camaro"",""text"":""Zappin Z-28""},{""href"":""/wiki/8SP"",""title"":""8SP"",""text"":""8SP""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/e/ef/ZappinZ2879Scorchers.jpg/revision/latest?cb=20260706230001"",""title"":"""",""text"":""""}]","[{""alt"":""ZappinZ2879Scorchers"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/e/ef/ZappinZ2879Scorchers.jpg/revision/latest/scale-to-width-down/75?cb=20260706230001"",""data_image_name"":""ZappinZ2879Scorchers.jpg"",""data_image_key"":""ZappinZ2879Scorchers.jpg"",""width"":""75"",""height"":""56""}]","","","","","",""
+"product_table_row","Early Special Series/Scorchers _ Hot Wheels Wiki _ Fandom.html","dfd9bf51ee5a25c738ed1bb633ce29d441e57140","","364502","788245","","1","8","[""Year"",""Model Name"",""Series"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Country"",""Toy Number"",""Photo""]","[{""cell_index"":1,""html"":""<td>1979\n</td>""},{""cell_index"":2,""html"":""<td><a href=\""/wiki/Chevy_Light\"" title=\""Chevy Light\"">Chevy Light</a>\n</td>""},{""cell_index"":3,""html"":""<td>Scorchers\n</td>""},{""cell_index"":4,""html"":""<td>Apple green\n</td>""},{""cell_index"":5,""html"":""<td>'Scorchers' and 'Truckin CO' on sides, yellow and red flames\n</td>""},{""cell_index"":6,""html"":""<td>Black<br />/<br />Plastic\n</td>""},{""cell_index"":7,""html"":""<td>Chrome\n</td>""},{""cell_index"":8,""html"":""<td>N.A.\n</td>""},{""cell_index"":9,""html"":""<td><a href=\""/wiki/8SP\"" title=\""8SP\"">8SP</a>\n</td>""},{""cell_index"":10,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":11,""html"":""<td>2894\n</td>""},{""cell_index"":12,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/4/41/Chevy_Light.jpg/revision/latest?cb=20160705023630\"" class=\""mw-file-description image\""><img alt=\""Chevy Light\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""75\"" height=\""35\"" class=\""mw-file-element lazyload\"" data-image-name=\""Chevy Light.jpg\"" data-image-key=\""Chevy_Light.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/4/41/Chevy_Light.jpg/revision/latest/scale-to-width-down/75?cb=20160705023630\"" /></a></span>\n</td>""}]","[""1979"",""Chevy Light"",""Scorchers"",""Apple green"",""'Scorchers' and 'Truckin CO' on sides, yellow and red flames"",""Black / Plastic"",""Chrome"",""N.A."",""8SP"",""Hong Kong"",""2894"",""""]","<tr>
+<td>1979
+</td>
+<td><a href=""/wiki/Chevy_Light"" title=""Chevy Light"">Chevy Light</a>
+</td>
+<td>Scorchers
+</td>
+<td>Apple green
+</td>
+<td>'Scorchers' and 'Truckin CO' on sides, yellow and red flames
+</td>
+<td>Black<br />/<br />Plastic
+</td>
+<td>Chrome
+</td>
+<td>N.A.
+</td>
+<td><a href=""/wiki/8SP"" title=""8SP"">8SP</a>
+</td>
+<td>Hong Kong
+</td>
+<td>2894
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/4/41/Chevy_Light.jpg/revision/latest?cb=20160705023630"" class=""mw-file-description image""><img alt=""Chevy Light"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""75"" height=""35"" class=""mw-file-element lazyload"" data-image-name=""Chevy Light.jpg"" data-image-key=""Chevy_Light.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/4/41/Chevy_Light.jpg/revision/latest/scale-to-width-down/75?cb=20160705023630"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Chevy_Light"",""title"":""Chevy Light"",""text"":""Chevy Light""},{""href"":""/wiki/8SP"",""title"":""8SP"",""text"":""8SP""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/4/41/Chevy_Light.jpg/revision/latest?cb=20160705023630"",""title"":"""",""text"":""""}]","[{""alt"":""Chevy Light"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/4/41/Chevy_Light.jpg/revision/latest/scale-to-width-down/75?cb=20160705023630"",""data_image_name"":""Chevy Light.jpg"",""data_image_key"":""Chevy_Light.jpg"",""width"":""75"",""height"":""35""}]","","","","","",""
+"product_table_row","Early Special Series/Scorchers _ Hot Wheels Wiki _ Fandom.html","dfd9bf51ee5a25c738ed1bb633ce29d441e57140","","364502","788245","","1","9","[""Year"",""Model Name"",""Series"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Country"",""Toy Number"",""Photo""]","[{""cell_index"":1,""html"":""<td>1979\n</td>""},{""cell_index"":2,""html"":""<td><a href=\""/wiki/Chevy_Light\"" title=\""Chevy Light\"">El Camino Real</a>\n</td>""},{""cell_index"":3,""html"":""<td>Scorchers\n</td>""},{""cell_index"":4,""html"":""<td>Dark red\n</td>""},{""cell_index"":5,""html"":""<td>'El Camino' on sides, yellow, light red and white tampos\n</td>""},{""cell_index"":6,""html"":""<td>Black<br />/<br />Plastic\n</td>""},{""cell_index"":7,""html"":""<td>Chrome\n</td>""},{""cell_index"":8,""html"":""<td>N.A.\n</td>""},{""cell_index"":9,""html"":""<td><a href=\""/wiki/8SP\"" title=\""8SP\"">8SP</a>\n</td>""},{""cell_index"":10,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":11,""html"":""<td>2643\n</td>""},{""cell_index"":12,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/7/78/El_camino_real.jpg/revision/latest?cb=20160705023708\"" class=\""mw-file-description image\""><img alt=\""El camino real\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""75\"" height=\""35\"" class=\""mw-file-element lazyload\"" data-image-name=\""El camino real.jpg\"" data-image-key=\""El_camino_real.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/7/78/El_camino_real.jpg/revision/latest/scale-to-width-down/75?cb=20160705023708\"" /></a></span>\n</td>""}]","[""1979"",""El Camino Real"",""Scorchers"",""Dark red"",""'El Camino' on sides, yellow, light red and white tampos"",""Black / Plastic"",""Chrome"",""N.A."",""8SP"",""Hong Kong"",""2643"",""""]","<tr>
+<td>1979
+</td>
+<td><a href=""/wiki/Chevy_Light"" title=""Chevy Light"">El Camino Real</a>
+</td>
+<td>Scorchers
+</td>
+<td>Dark red
+</td>
+<td>'El Camino' on sides, yellow, light red and white tampos
+</td>
+<td>Black<br />/<br />Plastic
+</td>
+<td>Chrome
+</td>
+<td>N.A.
+</td>
+<td><a href=""/wiki/8SP"" title=""8SP"">8SP</a>
+</td>
+<td>Hong Kong
+</td>
+<td>2643
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/7/78/El_camino_real.jpg/revision/latest?cb=20160705023708"" class=""mw-file-description image""><img alt=""El camino real"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""75"" height=""35"" class=""mw-file-element lazyload"" data-image-name=""El camino real.jpg"" data-image-key=""El_camino_real.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/7/78/El_camino_real.jpg/revision/latest/scale-to-width-down/75?cb=20160705023708"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Chevy_Light"",""title"":""Chevy Light"",""text"":""El Camino Real""},{""href"":""/wiki/8SP"",""title"":""8SP"",""text"":""8SP""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/7/78/El_camino_real.jpg/revision/latest?cb=20160705023708"",""title"":"""",""text"":""""}]","[{""alt"":""El camino real"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/7/78/El_camino_real.jpg/revision/latest/scale-to-width-down/75?cb=20160705023708"",""data_image_name"":""El camino real.jpg"",""data_image_key"":""El_camino_real.jpg"",""width"":""75"",""height"":""35""}]","","","","","",""
+"product_table_row","Early Special Series/Scorchers _ Hot Wheels Wiki _ Fandom.html","dfd9bf51ee5a25c738ed1bb633ce29d441e57140","","364502","788245","","1","10","[""Year"",""Model Name"",""Series"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Country"",""Toy Number"",""Photo""]","[{""cell_index"":1,""html"":""<td>1979\n</td>""},{""cell_index"":2,""html"":""<td><a href=\""/wiki/Magnum_Fever\"" title=\""Magnum Fever\"">Magnum Fever</a>\n</td>""},{""cell_index"":3,""html"":""<td>Scorchers\n</td>""},{""cell_index"":4,""html"":""<td>Red\n</td>""},{""cell_index"":5,""html"":""<td>'Dodge' on hood, number '93' on sides and roof, Goodyear, Bell, Union, STP and Direct Connection logos\n</td>""},{""cell_index"":6,""html"":""<td>Black<br />/<br />Plastic\n</td>""},{""cell_index"":7,""html"":""<td>Chrome\n</td>""},{""cell_index"":8,""html"":""<td>N.A.\n</td>""},{""cell_index"":9,""html"":""<td><a href=\""/wiki/8SP\"" title=\""8SP\"">8SP</a>\n</td>""},{""cell_index"":10,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":11,""html"":""<td>2892\n</td>""},{""cell_index"":12,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/8/8b/Magnum_Fever.jpg/revision/latest?cb=20160705023745\"" class=\""mw-file-description image\""><img alt=\""Magnum Fever\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""75\"" height=\""38\"" class=\""mw-file-element lazyload\"" data-image-name=\""Magnum Fever.jpg\"" data-image-key=\""Magnum_Fever.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/8/8b/Magnum_Fever.jpg/revision/latest/scale-to-width-down/75?cb=20160705023745\"" /></a></span>\n</td>""}]","[""1979"",""Magnum Fever"",""Scorchers"",""Red"",""'Dodge' on hood, number '93' on sides and roof, Goodyear, Bell, Union, STP and Direct Connection logos"",""Black / Plastic"",""Chrome"",""N.A."",""8SP"",""Hong Kong"",""2892"",""""]","<tr>
+<td>1979
+</td>
+<td><a href=""/wiki/Magnum_Fever"" title=""Magnum Fever"">Magnum Fever</a>
+</td>
+<td>Scorchers
+</td>
+<td>Red
+</td>
+<td>'Dodge' on hood, number '93' on sides and roof, Goodyear, Bell, Union, STP and Direct Connection logos
+</td>
+<td>Black<br />/<br />Plastic
+</td>
+<td>Chrome
+</td>
+<td>N.A.
+</td>
+<td><a href=""/wiki/8SP"" title=""8SP"">8SP</a>
+</td>
+<td>Hong Kong
+</td>
+<td>2892
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/8/8b/Magnum_Fever.jpg/revision/latest?cb=20160705023745"" class=""mw-file-description image""><img alt=""Magnum Fever"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""75"" height=""38"" class=""mw-file-element lazyload"" data-image-name=""Magnum Fever.jpg"" data-image-key=""Magnum_Fever.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/8/8b/Magnum_Fever.jpg/revision/latest/scale-to-width-down/75?cb=20160705023745"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Magnum_Fever"",""title"":""Magnum Fever"",""text"":""Magnum Fever""},{""href"":""/wiki/8SP"",""title"":""8SP"",""text"":""8SP""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/8/8b/Magnum_Fever.jpg/revision/latest?cb=20160705023745"",""title"":"""",""text"":""""}]","[{""alt"":""Magnum Fever"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/8/8b/Magnum_Fever.jpg/revision/latest/scale-to-width-down/75?cb=20160705023745"",""data_image_name"":""Magnum Fever.jpg"",""data_image_key"":""Magnum_Fever.jpg"",""width"":""75"",""height"":""38""}]","","","","","",""
+"product_table_row","Early Special Series/Scorchers _ Hot Wheels Wiki _ Fandom.html","dfd9bf51ee5a25c738ed1bb633ce29d441e57140","","364502","788245","","1","11","[""Year"",""Model Name"",""Series"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Country"",""Toy Number"",""Photo""]","[{""cell_index"":1,""html"":""<td>1979\n</td>""},{""cell_index"":2,""html"":""<td><a href=\""/wiki/Magnum_Fever\"" title=\""Magnum Fever\"">Magnum XE</a>\n</td>""},{""cell_index"":3,""html"":""<td>Scorchers\n</td>""},{""cell_index"":4,""html"":""<td>Dark blue\n</td>""},{""cell_index"":5,""html"":""<td>'Magnum' on sides, red, yellow, white, purple and pink tampos\n</td>""},{""cell_index"":6,""html"":""<td>Black<br />/<br />Plastic\n</td>""},{""cell_index"":7,""html"":""<td>Chrome\n</td>""},{""cell_index"":8,""html"":""<td>N.A.\n</td>""},{""cell_index"":9,""html"":""<td><a href=\""/wiki/8SP\"" title=\""8SP\"">8SP</a>\n</td>""},{""cell_index"":10,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":11,""html"":""<td>2641\n</td>""},{""cell_index"":12,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/0/05/Magnum_xe.jpg/revision/latest?cb=20160705023803\"" class=\""mw-file-description image\""><img alt=\""Magnum xe\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""75\"" height=\""37\"" class=\""mw-file-element lazyload\"" data-image-name=\""Magnum xe.jpg\"" data-image-key=\""Magnum_xe.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/0/05/Magnum_xe.jpg/revision/latest/scale-to-width-down/75?cb=20160705023803\"" /></a></span>\n</td>""}]","[""1979"",""Magnum XE"",""Scorchers"",""Dark blue"",""'Magnum' on sides, red, yellow, white, purple and pink tampos"",""Black / Plastic"",""Chrome"",""N.A."",""8SP"",""Hong Kong"",""2641"",""""]","<tr>
+<td>1979
+</td>
+<td><a href=""/wiki/Magnum_Fever"" title=""Magnum Fever"">Magnum XE</a>
+</td>
+<td>Scorchers
+</td>
+<td>Dark blue
+</td>
+<td>'Magnum' on sides, red, yellow, white, purple and pink tampos
+</td>
+<td>Black<br />/<br />Plastic
+</td>
+<td>Chrome
+</td>
+<td>N.A.
+</td>
+<td><a href=""/wiki/8SP"" title=""8SP"">8SP</a>
+</td>
+<td>Hong Kong
+</td>
+<td>2641
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/0/05/Magnum_xe.jpg/revision/latest?cb=20160705023803"" class=""mw-file-description image""><img alt=""Magnum xe"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""75"" height=""37"" class=""mw-file-element lazyload"" data-image-name=""Magnum xe.jpg"" data-image-key=""Magnum_xe.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/0/05/Magnum_xe.jpg/revision/latest/scale-to-width-down/75?cb=20160705023803"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Magnum_Fever"",""title"":""Magnum Fever"",""text"":""Magnum XE""},{""href"":""/wiki/8SP"",""title"":""8SP"",""text"":""8SP""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/0/05/Magnum_xe.jpg/revision/latest?cb=20160705023803"",""title"":"""",""text"":""""}]","[{""alt"":""Magnum xe"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/0/05/Magnum_xe.jpg/revision/latest/scale-to-width-down/75?cb=20160705023803"",""data_image_name"":""Magnum xe.jpg"",""data_image_key"":""Magnum_xe.jpg"",""width"":""75"",""height"":""37""}]","","","","","",""
+"product_table_row","Early Special Series/Scorchers _ Hot Wheels Wiki _ Fandom.html","dfd9bf51ee5a25c738ed1bb633ce29d441e57140","","364502","788245","","1","12","[""Year"",""Model Name"",""Series"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Country"",""Toy Number"",""Photo""]","[{""cell_index"":1,""html"":""<td>1979\n</td>""},{""cell_index"":2,""html"":""<td><a href=\""/wiki/Vandemonium\"" title=\""Vandemonium\"">Vandemonium</a>\n</td>""},{""cell_index"":3,""html"":""<td>Scorchers\n</td>""},{""cell_index"":4,""html"":""<td>Green\n</td>""},{""cell_index"":5,""html"":""<td>'Vandemonium' on sides, yellow and white tampos\n</td>""},{""cell_index"":6,""html"":""<td>Black<br />/<br />Plastic\n</td>""},{""cell_index"":7,""html"":""<td>Chrome\n</td>""},{""cell_index"":8,""html"":""<td>N.A.\n</td>""},{""cell_index"":9,""html"":""<td><a href=\""/wiki/8SP\"" title=\""8SP\"">8SP</a>\n</td>""},{""cell_index"":10,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":11,""html"":""<td>2893\n</td>""},{""cell_index"":12,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/0/06/Vandemonium.jpg/revision/latest?cb=20160705023821\"" class=\""mw-file-description image\""><img alt=\""Vandemonium\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""75\"" height=\""48\"" class=\""mw-file-element lazyload\"" data-image-name=\""Vandemonium.jpg\"" data-image-key=\""Vandemonium.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/0/06/Vandemonium.jpg/revision/latest/scale-to-width-down/75?cb=20160705023821\"" /></a></span>\n</td>""}]","[""1979"",""Vandemonium"",""Scorchers"",""Green"",""'Vandemonium' on sides, yellow and white tampos"",""Black / Plastic"",""Chrome"",""N.A."",""8SP"",""Hong Kong"",""2893"",""""]","<tr>
+<td>1979
+</td>
+<td><a href=""/wiki/Vandemonium"" title=""Vandemonium"">Vandemonium</a>
+</td>
+<td>Scorchers
+</td>
+<td>Green
+</td>
+<td>'Vandemonium' on sides, yellow and white tampos
+</td>
+<td>Black<br />/<br />Plastic
+</td>
+<td>Chrome
+</td>
+<td>N.A.
+</td>
+<td><a href=""/wiki/8SP"" title=""8SP"">8SP</a>
+</td>
+<td>Hong Kong
+</td>
+<td>2893
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/0/06/Vandemonium.jpg/revision/latest?cb=20160705023821"" class=""mw-file-description image""><img alt=""Vandemonium"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""75"" height=""48"" class=""mw-file-element lazyload"" data-image-name=""Vandemonium.jpg"" data-image-key=""Vandemonium.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/0/06/Vandemonium.jpg/revision/latest/scale-to-width-down/75?cb=20160705023821"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Vandemonium"",""title"":""Vandemonium"",""text"":""Vandemonium""},{""href"":""/wiki/8SP"",""title"":""8SP"",""text"":""8SP""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/0/06/Vandemonium.jpg/revision/latest?cb=20160705023821"",""title"":"""",""text"":""""}]","[{""alt"":""Vandemonium"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/0/06/Vandemonium.jpg/revision/latest/scale-to-width-down/75?cb=20160705023821"",""data_image_name"":""Vandemonium.jpg"",""data_image_key"":""Vandemonium.jpg"",""width"":""75"",""height"":""48""}]","","","","","",""
+"product_table_row","Early Special Series/Scorchers _ Hot Wheels Wiki _ Fandom.html","dfd9bf51ee5a25c738ed1bb633ce29d441e57140","","364502","788245","","1","13","[""Year"",""Model Name"",""Series"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Country"",""Toy Number"",""Photo""]","[{""cell_index"":1,""html"":""<td>1979\n</td>""},{""cell_index"":2,""html"":""<td><a href=\""/wiki/Vandemonium\"" title=\""Vandemonium\"">Good Looker</a>\n</td>""},{""cell_index"":3,""html"":""<td>Scorchers\n</td>""},{""cell_index"":4,""html"":""<td>Yellow\n</td>""},{""cell_index"":5,""html"":""<td>Blue and orange tampos\n</td>""},{""cell_index"":6,""html"":""<td>Black<br />/<br />Plastic\n</td>""},{""cell_index"":7,""html"":""<td>Chrome\n</td>""},{""cell_index"":8,""html"":""<td>N.A.\n</td>""},{""cell_index"":9,""html"":""<td><a href=\""/wiki/8SP\"" title=\""8SP\"">8SP</a>\n</td>""},{""cell_index"":10,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":11,""html"":""<td>2642\n</td>""},{""cell_index"":12,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/3/3c/GoodLooker79Scorchers.jpg/revision/latest?cb=20260706230023\"" class=\""mw-file-description image\""><img alt=\""GoodLooker79Scorchers\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""75\"" height=\""56\"" class=\""mw-file-element lazyload\"" data-image-name=\""GoodLooker79Scorchers.jpg\"" data-image-key=\""GoodLooker79Scorchers.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/3/3c/GoodLooker79Scorchers.jpg/revision/latest/scale-to-width-down/75?cb=20260706230023\"" /></a></span>\n</td>""}]","[""1979"",""Good Looker"",""Scorchers"",""Yellow"",""Blue and orange tampos"",""Black / Plastic"",""Chrome"",""N.A."",""8SP"",""Hong Kong"",""2642"",""""]","<tr>
+<td>1979
+</td>
+<td><a href=""/wiki/Vandemonium"" title=""Vandemonium"">Good Looker</a>
+</td>
+<td>Scorchers
+</td>
+<td>Yellow
+</td>
+<td>Blue and orange tampos
+</td>
+<td>Black<br />/<br />Plastic
+</td>
+<td>Chrome
+</td>
+<td>N.A.
+</td>
+<td><a href=""/wiki/8SP"" title=""8SP"">8SP</a>
+</td>
+<td>Hong Kong
+</td>
+<td>2642
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/3/3c/GoodLooker79Scorchers.jpg/revision/latest?cb=20260706230023"" class=""mw-file-description image""><img alt=""GoodLooker79Scorchers"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""75"" height=""56"" class=""mw-file-element lazyload"" data-image-name=""GoodLooker79Scorchers.jpg"" data-image-key=""GoodLooker79Scorchers.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/3/3c/GoodLooker79Scorchers.jpg/revision/latest/scale-to-width-down/75?cb=20260706230023"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Vandemonium"",""title"":""Vandemonium"",""text"":""Good Looker""},{""href"":""/wiki/8SP"",""title"":""8SP"",""text"":""8SP""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/3/3c/GoodLooker79Scorchers.jpg/revision/latest?cb=20260706230023"",""title"":"""",""text"":""""}]","[{""alt"":""GoodLooker79Scorchers"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/3/3c/GoodLooker79Scorchers.jpg/revision/latest/scale-to-width-down/75?cb=20260706230023"",""data_image_name"":""GoodLooker79Scorchers.jpg"",""data_image_key"":""GoodLooker79Scorchers.jpg"",""width"":""75"",""height"":""56""}]","","","","","",""
+"product_table_row","Early Special Series/Scorchers _ Hot Wheels Wiki _ Fandom.html","dfd9bf51ee5a25c738ed1bb633ce29d441e57140","","364502","788245","","1","14","[""Year"",""Model Name"",""Series"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Country"",""Toy Number"",""Photo""]","[{""cell_index"":1,""html"":""<td>1980\n</td>""},{""cell_index"":2,""html"":""<td><a href=\""/wiki/%2755_Chevy_Fever\"" title=\""&#39;55 Chevy Fever\"">'55 Chevy Fever</a>\n</td>""},{""cell_index"":3,""html"":""<td>Scorchers\n</td>""},{""cell_index"":4,""html"":""<td>Burgundy\n</td>""},{""cell_index"":5,""html"":""<td>'55 Chevy Fever' on sides, flames on hood\n</td>""},{""cell_index"":6,""html"":""<td>Black<br />/<br />Plastic\n</td>""},{""cell_index"":7,""html"":""<td>Chrome\n</td>""},{""cell_index"":8,""html"":""<td>N.A.\n</td>""},{""cell_index"":9,""html"":""<td><a href=\""/wiki/8SP\"" title=\""8SP\"">8SP</a>\n</td>""},{""cell_index"":10,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":11,""html"":""<td>1508\n</td>""},{""cell_index"":12,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/b/b3/Scorchers_Gran_Toros_1981_Catalog_55_Chevy_Fever_%282%29.jpg/revision/latest?cb=20240511014811\"" class=\""mw-file-description image\""><img alt=\""Scorchers Gran Toros 1981 Catalog 55 Chevy Fever (2)\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""75\"" height=\""35\"" class=\""mw-file-element lazyload\"" data-image-name=\""Scorchers Gran Toros 1981 Catalog 55 Chevy Fever (2).jpg\"" data-image-key=\""Scorchers_Gran_Toros_1981_Catalog_55_Chevy_Fever_%282%29.jpg\"" data-relevant=\""0\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/b/b3/Scorchers_Gran_Toros_1981_Catalog_55_Chevy_Fever_%282%29.jpg/revision/latest/scale-to-width-down/75?cb=20240511014811\"" /></a></span>\n</td>""}]","[""1980"",""'55 Chevy Fever"",""Scorchers"",""Burgundy"",""'55 Chevy Fever' on sides, flames on hood"",""Black / Plastic"",""Chrome"",""N.A."",""8SP"",""Hong Kong"",""1508"",""""]","<tr>
+<td>1980
+</td>
+<td><a href=""/wiki/%2755_Chevy_Fever"" title=""&#39;55 Chevy Fever"">'55 Chevy Fever</a>
+</td>
+<td>Scorchers
+</td>
+<td>Burgundy
+</td>
+<td>'55 Chevy Fever' on sides, flames on hood
+</td>
+<td>Black<br />/<br />Plastic
+</td>
+<td>Chrome
+</td>
+<td>N.A.
+</td>
+<td><a href=""/wiki/8SP"" title=""8SP"">8SP</a>
+</td>
+<td>Hong Kong
+</td>
+<td>1508
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/b/b3/Scorchers_Gran_Toros_1981_Catalog_55_Chevy_Fever_%282%29.jpg/revision/latest?cb=20240511014811"" class=""mw-file-description image""><img alt=""Scorchers Gran Toros 1981 Catalog 55 Chevy Fever (2)"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""75"" height=""35"" class=""mw-file-element lazyload"" data-image-name=""Scorchers Gran Toros 1981 Catalog 55 Chevy Fever (2).jpg"" data-image-key=""Scorchers_Gran_Toros_1981_Catalog_55_Chevy_Fever_%282%29.jpg"" data-relevant=""0"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/b/b3/Scorchers_Gran_Toros_1981_Catalog_55_Chevy_Fever_%282%29.jpg/revision/latest/scale-to-width-down/75?cb=20240511014811"" /></a></span>
+</td></tr>","[{""href"":""/wiki/%2755_Chevy_Fever"",""title"":""&#39;55 Chevy Fever"",""text"":""'55 Chevy Fever""},{""href"":""/wiki/8SP"",""title"":""8SP"",""text"":""8SP""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/b/b3/Scorchers_Gran_Toros_1981_Catalog_55_Chevy_Fever_%282%29.jpg/revision/latest?cb=20240511014811"",""title"":"""",""text"":""""}]","[{""alt"":""Scorchers Gran Toros 1981 Catalog 55 Chevy Fever (2)"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/b/b3/Scorchers_Gran_Toros_1981_Catalog_55_Chevy_Fever_%282%29.jpg/revision/latest/scale-to-width-down/75?cb=20240511014811"",""data_image_name"":""Scorchers Gran Toros 1981 Catalog 55 Chevy Fever (2).jpg"",""data_image_key"":""Scorchers_Gran_Toros_1981_Catalog_55_Chevy_Fever_%282%29.jpg"",""width"":""75"",""height"":""35""}]","","","","","",""
+"product_table_row","Early Special Series/Scorchers _ Hot Wheels Wiki _ Fandom.html","dfd9bf51ee5a25c738ed1bb633ce29d441e57140","","364502","788245","","1","15","[""Year"",""Model Name"",""Series"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Country"",""Toy Number"",""Photo""]","[{""cell_index"":1,""html"":""<td>1980\n</td>""},{""cell_index"":2,""html"":""<td><a href=\""/wiki/%2755_Chevy_Fever\"" title=\""&#39;55 Chevy Fever\"">'55 Super Chevy</a>\n</td>""},{""cell_index"":3,""html"":""<td>Scorchers\n</td>""},{""cell_index"":4,""html"":""<td>Yellow\n</td>""},{""cell_index"":5,""html"":""<td>Blue, red and purple tampos\n</td>""},{""cell_index"":6,""html"":""<td>Black<br />/<br />Plastic\n</td>""},{""cell_index"":7,""html"":""<td>Chrome\n</td>""},{""cell_index"":8,""html"":""<td>N.A.\n</td>""},{""cell_index"":9,""html"":""<td><a href=\""/wiki/8SP\"" title=\""8SP\"">8SP</a>\n</td>""},{""cell_index"":10,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":11,""html"":""<td>1507\n</td>""},{""cell_index"":12,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/2/2e/Scorchers_Gran_Toros_1981_Catalog_55_Chevy_Fever.jpg/revision/latest?cb=20240511014826\"" class=\""mw-file-description image\""><img alt=\""Scorchers Gran Toros 1981 Catalog 55 Chevy Fever\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""75\"" height=\""37\"" class=\""mw-file-element lazyload\"" data-image-name=\""Scorchers Gran Toros 1981 Catalog 55 Chevy Fever.jpg\"" data-image-key=\""Scorchers_Gran_Toros_1981_Catalog_55_Chevy_Fever.jpg\"" data-relevant=\""0\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/2/2e/Scorchers_Gran_Toros_1981_Catalog_55_Chevy_Fever.jpg/revision/latest/scale-to-width-down/75?cb=20240511014826\"" /></a></span>\n</td>""}]","[""1980"",""'55 Super Chevy"",""Scorchers"",""Yellow"",""Blue, red and purple tampos"",""Black / Plastic"",""Chrome"",""N.A."",""8SP"",""Hong Kong"",""1507"",""""]","<tr>
+<td>1980
+</td>
+<td><a href=""/wiki/%2755_Chevy_Fever"" title=""&#39;55 Chevy Fever"">'55 Super Chevy</a>
+</td>
+<td>Scorchers
+</td>
+<td>Yellow
+</td>
+<td>Blue, red and purple tampos
+</td>
+<td>Black<br />/<br />Plastic
+</td>
+<td>Chrome
+</td>
+<td>N.A.
+</td>
+<td><a href=""/wiki/8SP"" title=""8SP"">8SP</a>
+</td>
+<td>Hong Kong
+</td>
+<td>1507
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/2/2e/Scorchers_Gran_Toros_1981_Catalog_55_Chevy_Fever.jpg/revision/latest?cb=20240511014826"" class=""mw-file-description image""><img alt=""Scorchers Gran Toros 1981 Catalog 55 Chevy Fever"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""75"" height=""37"" class=""mw-file-element lazyload"" data-image-name=""Scorchers Gran Toros 1981 Catalog 55 Chevy Fever.jpg"" data-image-key=""Scorchers_Gran_Toros_1981_Catalog_55_Chevy_Fever.jpg"" data-relevant=""0"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/2/2e/Scorchers_Gran_Toros_1981_Catalog_55_Chevy_Fever.jpg/revision/latest/scale-to-width-down/75?cb=20240511014826"" /></a></span>
+</td></tr>","[{""href"":""/wiki/%2755_Chevy_Fever"",""title"":""&#39;55 Chevy Fever"",""text"":""'55 Super Chevy""},{""href"":""/wiki/8SP"",""title"":""8SP"",""text"":""8SP""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/2/2e/Scorchers_Gran_Toros_1981_Catalog_55_Chevy_Fever.jpg/revision/latest?cb=20240511014826"",""title"":"""",""text"":""""}]","[{""alt"":""Scorchers Gran Toros 1981 Catalog 55 Chevy Fever"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/2/2e/Scorchers_Gran_Toros_1981_Catalog_55_Chevy_Fever.jpg/revision/latest/scale-to-width-down/75?cb=20240511014826"",""data_image_name"":""Scorchers Gran Toros 1981 Catalog 55 Chevy Fever.jpg"",""data_image_key"":""Scorchers_Gran_Toros_1981_Catalog_55_Chevy_Fever.jpg"",""width"":""75"",""height"":""37""}]","","","","","",""
+"product_table_row","Early Special Series/Scorchers _ Hot Wheels Wiki _ Fandom.html","dfd9bf51ee5a25c738ed1bb633ce29d441e57140","","364502","788245","","1","16","[""Year"",""Model Name"",""Series"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Country"",""Toy Number"",""Photo""]","[{""cell_index"":1,""html"":""<td>1980\n</td>""},{""cell_index"":2,""html"":""<td><a href=\""/wiki/Time_Bender\"" title=\""Time Bender\"">Time Bender</a>\n</td>""},{""cell_index"":3,""html"":""<td>Scorchers\n</td>""},{""cell_index"":4,""html"":""<td>White\n</td>""},{""cell_index"":5,""html"":""<td>Yellow and red tampos\n</td>""},{""cell_index"":6,""html"":""<td>Black<br />/<br />Plastic\n</td>""},{""cell_index"":7,""html"":""<td>Chrome\n</td>""},{""cell_index"":8,""html"":""<td>N.A.\n</td>""},{""cell_index"":9,""html"":""<td><a href=\""/wiki/8SP\"" title=\""8SP\"">8SP</a>\n</td>""},{""cell_index"":10,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":11,""html"":""<td>1505\n</td>""},{""cell_index"":12,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/b/bb/Time_bender.JPG/revision/latest?cb=20210415030046\"" class=\""mw-file-description image\""><img alt=\""Time bender\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""75\"" height=\""45\"" class=\""mw-file-element lazyload\"" data-image-name=\""Time bender.JPG\"" data-image-key=\""Time_bender.JPG\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/b/bb/Time_bender.JPG/revision/latest/scale-to-width-down/75?cb=20210415030046\"" /></a></span>\n</td>""}]","[""1980"",""Time Bender"",""Scorchers"",""White"",""Yellow and red tampos"",""Black / Plastic"",""Chrome"",""N.A."",""8SP"",""Hong Kong"",""1505"",""""]","<tr>
+<td>1980
+</td>
+<td><a href=""/wiki/Time_Bender"" title=""Time Bender"">Time Bender</a>
+</td>
+<td>Scorchers
+</td>
+<td>White
+</td>
+<td>Yellow and red tampos
+</td>
+<td>Black<br />/<br />Plastic
+</td>
+<td>Chrome
+</td>
+<td>N.A.
+</td>
+<td><a href=""/wiki/8SP"" title=""8SP"">8SP</a>
+</td>
+<td>Hong Kong
+</td>
+<td>1505
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/b/bb/Time_bender.JPG/revision/latest?cb=20210415030046"" class=""mw-file-description image""><img alt=""Time bender"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""75"" height=""45"" class=""mw-file-element lazyload"" data-image-name=""Time bender.JPG"" data-image-key=""Time_bender.JPG"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/b/bb/Time_bender.JPG/revision/latest/scale-to-width-down/75?cb=20210415030046"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Time_Bender"",""title"":""Time Bender"",""text"":""Time Bender""},{""href"":""/wiki/8SP"",""title"":""8SP"",""text"":""8SP""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/b/bb/Time_bender.JPG/revision/latest?cb=20210415030046"",""title"":"""",""text"":""""}]","[{""alt"":""Time bender"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/b/bb/Time_bender.JPG/revision/latest/scale-to-width-down/75?cb=20210415030046"",""data_image_name"":""Time bender.JPG"",""data_image_key"":""Time_bender.JPG"",""width"":""75"",""height"":""45""}]","","","","","",""
+"product_table_row","Early Special Series/Scorchers _ Hot Wheels Wiki _ Fandom.html","dfd9bf51ee5a25c738ed1bb633ce29d441e57140","","364502","788245","","1","17","[""Year"",""Model Name"",""Series"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Country"",""Toy Number"",""Photo""]","[{""cell_index"":1,""html"":""<td>1980\n</td>""},{""cell_index"":2,""html"":""<td><a href=\""/wiki/Time_Bender\"" title=\""Time Bender\"">Quick Lightning</a>\n</td>""},{""cell_index"":3,""html"":""<td>Scorchers\n</td>""},{""cell_index"":4,""html"":""<td>Blue\n</td>""},{""cell_index"":5,""html"":""<td>'Quick Lightning 3' on hood, yellow and red tampos\n</td>""},{""cell_index"":6,""html"":""<td>Black<br />/<br />Plastic\n</td>""},{""cell_index"":7,""html"":""<td>Chrome\n</td>""},{""cell_index"":8,""html"":""<td>N.A.\n</td>""},{""cell_index"":9,""html"":""<td><a href=\""/wiki/8SP\"" title=\""8SP\"">8SP</a>\n</td>""},{""cell_index"":10,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":11,""html"":""<td>1509\n</td>""},{""cell_index"":12,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428\"" class=\""mw-file-description image\""><img alt=\""Image Not Available\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""75\"" height=\""50\"" class=\""mw-file-element lazyload\"" data-image-name=\""Image Not Available.jpg\"" data-image-key=\""Image_Not_Available.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/75?cb=20151025125428\"" /></a></span>\n</td>""}]","[""1980"",""Quick Lightning"",""Scorchers"",""Blue"",""'Quick Lightning 3' on hood, yellow and red tampos"",""Black / Plastic"",""Chrome"",""N.A."",""8SP"",""Hong Kong"",""1509"",""""]","<tr>
+<td>1980
+</td>
+<td><a href=""/wiki/Time_Bender"" title=""Time Bender"">Quick Lightning</a>
+</td>
+<td>Scorchers
+</td>
+<td>Blue
+</td>
+<td>'Quick Lightning 3' on hood, yellow and red tampos
+</td>
+<td>Black<br />/<br />Plastic
+</td>
+<td>Chrome
+</td>
+<td>N.A.
+</td>
+<td><a href=""/wiki/8SP"" title=""8SP"">8SP</a>
+</td>
+<td>Hong Kong
+</td>
+<td>1509
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"" class=""mw-file-description image""><img alt=""Image Not Available"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""75"" height=""50"" class=""mw-file-element lazyload"" data-image-name=""Image Not Available.jpg"" data-image-key=""Image_Not_Available.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/75?cb=20151025125428"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Time_Bender"",""title"":""Time Bender"",""text"":""Quick Lightning""},{""href"":""/wiki/8SP"",""title"":""8SP"",""text"":""8SP""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"",""title"":"""",""text"":""""}]","[{""alt"":""Image Not Available"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/75?cb=20151025125428"",""data_image_name"":""Image Not Available.jpg"",""data_image_key"":""Image_Not_Available.jpg"",""width"":""75"",""height"":""50""}]","","","","","",""
+"product_table_row","Early Special Series/Scorchers _ Hot Wheels Wiki _ Fandom.html","dfd9bf51ee5a25c738ed1bb633ce29d441e57140","","364502","788245","","1","18","[""Year"",""Model Name"",""Series"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Country"",""Toy Number"",""Photo""]","[{""cell_index"":1,""html"":""<td>1981\n</td>""},{""cell_index"":2,""html"":""<td><a href=\""/wiki/Turbo_928\"" title=\""Turbo 928\"">Turbo 928</a>\n</td>""},{""cell_index"":3,""html"":""<td>Scorchers\n</td>""},{""cell_index"":4,""html"":""<td>Black\n</td>""},{""cell_index"":5,""html"":""<td>'928 Turbo' on sides, 'Turbo' on hood, yellow and red tampos\n</td>""},{""cell_index"":6,""html"":""<td>Black<br />/<br />Plastic\n</td>""},{""cell_index"":7,""html"":""<td>Chrome\n</td>""},{""cell_index"":8,""html"":""<td>N.A.\n</td>""},{""cell_index"":9,""html"":""<td><a href=\""/wiki/8SP\"" title=\""8SP\"">8SP</a>\n</td>""},{""cell_index"":10,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":11,""html"":""<td>1593\n</td>""},{""cell_index"":12,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/0/02/HW_Scortchers.JPG/revision/latest?cb=20200227174314\"" class=\""mw-file-description image\""><img alt=\""HW Scortchers\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""75\"" height=\""34\"" class=\""mw-file-element lazyload\"" data-image-name=\""HW Scortchers.JPG\"" data-image-key=\""HW_Scortchers.JPG\"" data-relevant=\""0\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/0/02/HW_Scortchers.JPG/revision/latest/scale-to-width-down/75?cb=20200227174314\"" /></a></span>\n</td>""}]","[""1981"",""Turbo 928"",""Scorchers"",""Black"",""'928 Turbo' on sides, 'Turbo' on hood, yellow and red tampos"",""Black / Plastic"",""Chrome"",""N.A."",""8SP"",""Hong Kong"",""1593"",""""]","<tr>
+<td>1981
+</td>
+<td><a href=""/wiki/Turbo_928"" title=""Turbo 928"">Turbo 928</a>
+</td>
+<td>Scorchers
+</td>
+<td>Black
+</td>
+<td>'928 Turbo' on sides, 'Turbo' on hood, yellow and red tampos
+</td>
+<td>Black<br />/<br />Plastic
+</td>
+<td>Chrome
+</td>
+<td>N.A.
+</td>
+<td><a href=""/wiki/8SP"" title=""8SP"">8SP</a>
+</td>
+<td>Hong Kong
+</td>
+<td>1593
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/0/02/HW_Scortchers.JPG/revision/latest?cb=20200227174314"" class=""mw-file-description image""><img alt=""HW Scortchers"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""75"" height=""34"" class=""mw-file-element lazyload"" data-image-name=""HW Scortchers.JPG"" data-image-key=""HW_Scortchers.JPG"" data-relevant=""0"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/0/02/HW_Scortchers.JPG/revision/latest/scale-to-width-down/75?cb=20200227174314"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Turbo_928"",""title"":""Turbo 928"",""text"":""Turbo 928""},{""href"":""/wiki/8SP"",""title"":""8SP"",""text"":""8SP""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/0/02/HW_Scortchers.JPG/revision/latest?cb=20200227174314"",""title"":"""",""text"":""""}]","[{""alt"":""HW Scortchers"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/0/02/HW_Scortchers.JPG/revision/latest/scale-to-width-down/75?cb=20200227174314"",""data_image_name"":""HW Scortchers.JPG"",""data_image_key"":""HW_Scortchers.JPG"",""width"":""75"",""height"":""34""}]","","","","","",""
+"product_table_row","Early Special Series/Scorchers _ Hot Wheels Wiki _ Fandom.html","dfd9bf51ee5a25c738ed1bb633ce29d441e57140","","364502","788245","","1","19","[""Year"",""Model Name"",""Series"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Country"",""Toy Number"",""Photo""]","[{""cell_index"":1,""html"":""<td>1981\n</td>""},{""cell_index"":2,""html"":""<td><a href=\""/wiki/Turbo_928\"" title=\""Turbo 928\"">Britework 928</a>\n</td>""},{""cell_index"":3,""html"":""<td>Scorchers\n</td>""},{""cell_index"":4,""html"":""<td>Grey\n</td>""},{""cell_index"":5,""html"":""<td>Number '2', red and yellow stripes, red and blue stripes\n</td>""},{""cell_index"":6,""html"":""<td>Black<br />/<br />Plastic\n</td>""},{""cell_index"":7,""html"":""<td>Chrome\n</td>""},{""cell_index"":8,""html"":""<td>N.A.\n</td>""},{""cell_index"":9,""html"":""<td><a href=\""/wiki/8SP\"" title=\""8SP\"">8SP</a>\n</td>""},{""cell_index"":10,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":11,""html"":""<td>1596\n</td>""},{""cell_index"":12,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/4/48/Scorcher_2.JPG/revision/latest?cb=20200227175632\"" class=\""mw-file-description image\""><img alt=\""Scorcher 2\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""75\"" height=\""48\"" class=\""mw-file-element lazyload\"" data-image-name=\""Scorcher 2.JPG\"" data-image-key=\""Scorcher_2.JPG\"" data-relevant=\""0\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/4/48/Scorcher_2.JPG/revision/latest/scale-to-width-down/75?cb=20200227175632\"" /></a></span>\n</td>""}]","[""1981"",""Britework 928"",""Scorchers"",""Grey"",""Number '2', red and yellow stripes, red and blue stripes"",""Black / Plastic"",""Chrome"",""N.A."",""8SP"",""Hong Kong"",""1596"",""""]","<tr>
+<td>1981
+</td>
+<td><a href=""/wiki/Turbo_928"" title=""Turbo 928"">Britework 928</a>
+</td>
+<td>Scorchers
+</td>
+<td>Grey
+</td>
+<td>Number '2', red and yellow stripes, red and blue stripes
+</td>
+<td>Black<br />/<br />Plastic
+</td>
+<td>Chrome
+</td>
+<td>N.A.
+</td>
+<td><a href=""/wiki/8SP"" title=""8SP"">8SP</a>
+</td>
+<td>Hong Kong
+</td>
+<td>1596
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/4/48/Scorcher_2.JPG/revision/latest?cb=20200227175632"" class=""mw-file-description image""><img alt=""Scorcher 2"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""75"" height=""48"" class=""mw-file-element lazyload"" data-image-name=""Scorcher 2.JPG"" data-image-key=""Scorcher_2.JPG"" data-relevant=""0"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/4/48/Scorcher_2.JPG/revision/latest/scale-to-width-down/75?cb=20200227175632"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Turbo_928"",""title"":""Turbo 928"",""text"":""Britework 928""},{""href"":""/wiki/8SP"",""title"":""8SP"",""text"":""8SP""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/4/48/Scorcher_2.JPG/revision/latest?cb=20200227175632"",""title"":"""",""text"":""""}]","[{""alt"":""Scorcher 2"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/4/48/Scorcher_2.JPG/revision/latest/scale-to-width-down/75?cb=20200227175632"",""data_image_name"":""Scorcher 2.JPG"",""data_image_key"":""Scorcher_2.JPG"",""width"":""75"",""height"":""48""}]","","","","","",""
+"product_table_row","Early Special Series/Scorchers _ Hot Wheels Wiki _ Fandom.html","dfd9bf51ee5a25c738ed1bb633ce29d441e57140","","364502","788245","","1","20","[""Year"",""Model Name"",""Series"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Country"",""Toy Number"",""Photo""]","[{""cell_index"":1,""html"":""<td>1981\n</td>""},{""cell_index"":2,""html"":""<td><a href=\""/wiki/Police_Chief_Car\"" title=\""Police Chief Car\"">Police Chief Car</a>\n</td>""},{""cell_index"":3,""html"":""<td>Scorchers\n</td>""},{""cell_index"":4,""html"":""<td>White\n</td>""},{""cell_index"":5,""html"":""<td>'State Police' and yellow star on sides\n</td>""},{""cell_index"":6,""html"":""<td>Black<br />/<br />Plastic\n</td>""},{""cell_index"":7,""html"":""<td>Chrome\n</td>""},{""cell_index"":8,""html"":""<td>N.A.\n</td>""},{""cell_index"":9,""html"":""<td><a href=\""/wiki/8SP\"" title=\""8SP\"">8SP</a>\n</td>""},{""cell_index"":10,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":11,""html"":""<td>1506\n</td>""},{""cell_index"":12,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/1/18/Scorchers_Gran_Toros_1981_Catalog_Police_Chief_Car.jpg/revision/latest?cb=20240511015008\"" class=\""mw-file-description image\""><img alt=\""Scorchers Gran Toros 1981 Catalog Police Chief Car\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""75\"" height=\""35\"" class=\""mw-file-element lazyload\"" data-image-name=\""Scorchers Gran Toros 1981 Catalog Police Chief Car.jpg\"" data-image-key=\""Scorchers_Gran_Toros_1981_Catalog_Police_Chief_Car.jpg\"" data-relevant=\""0\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/1/18/Scorchers_Gran_Toros_1981_Catalog_Police_Chief_Car.jpg/revision/latest/scale-to-width-down/75?cb=20240511015008\"" /></a></span>\n</td>""}]","[""1981"",""Police Chief Car"",""Scorchers"",""White"",""'State Police' and yellow star on sides"",""Black / Plastic"",""Chrome"",""N.A."",""8SP"",""Hong Kong"",""1506"",""""]","<tr>
+<td>1981
+</td>
+<td><a href=""/wiki/Police_Chief_Car"" title=""Police Chief Car"">Police Chief Car</a>
+</td>
+<td>Scorchers
+</td>
+<td>White
+</td>
+<td>'State Police' and yellow star on sides
+</td>
+<td>Black<br />/<br />Plastic
+</td>
+<td>Chrome
+</td>
+<td>N.A.
+</td>
+<td><a href=""/wiki/8SP"" title=""8SP"">8SP</a>
+</td>
+<td>Hong Kong
+</td>
+<td>1506
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/1/18/Scorchers_Gran_Toros_1981_Catalog_Police_Chief_Car.jpg/revision/latest?cb=20240511015008"" class=""mw-file-description image""><img alt=""Scorchers Gran Toros 1981 Catalog Police Chief Car"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""75"" height=""35"" class=""mw-file-element lazyload"" data-image-name=""Scorchers Gran Toros 1981 Catalog Police Chief Car.jpg"" data-image-key=""Scorchers_Gran_Toros_1981_Catalog_Police_Chief_Car.jpg"" data-relevant=""0"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/1/18/Scorchers_Gran_Toros_1981_Catalog_Police_Chief_Car.jpg/revision/latest/scale-to-width-down/75?cb=20240511015008"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Police_Chief_Car"",""title"":""Police Chief Car"",""text"":""Police Chief Car""},{""href"":""/wiki/8SP"",""title"":""8SP"",""text"":""8SP""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/1/18/Scorchers_Gran_Toros_1981_Catalog_Police_Chief_Car.jpg/revision/latest?cb=20240511015008"",""title"":"""",""text"":""""}]","[{""alt"":""Scorchers Gran Toros 1981 Catalog Police Chief Car"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/1/18/Scorchers_Gran_Toros_1981_Catalog_Police_Chief_Car.jpg/revision/latest/scale-to-width-down/75?cb=20240511015008"",""data_image_name"":""Scorchers Gran Toros 1981 Catalog Police Chief Car.jpg"",""data_image_key"":""Scorchers_Gran_Toros_1981_Catalog_Police_Chief_Car.jpg"",""width"":""75"",""height"":""35""}]","","","","","",""
+"product_table_row","Early Special Series/Scorchers _ Hot Wheels Wiki _ Fandom.html","dfd9bf51ee5a25c738ed1bb633ce29d441e57140","","364502","788245","","1","21","[""Year"",""Model Name"",""Series"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Country"",""Toy Number"",""Photo""]","[{""cell_index"":1,""html"":""<td>1981\n</td>""},{""cell_index"":2,""html"":""<td><a href=\""/wiki/Police_Chief_Car\"" title=\""Police Chief Car\"">Fire Chief Car</a>\n</td>""},{""cell_index"":3,""html"":""<td>Scorchers\n</td>""},{""cell_index"":4,""html"":""<td>Red\n</td>""},{""cell_index"":5,""html"":""<td>'Fire Chief Dept' on sides\n</td>""},{""cell_index"":6,""html"":""<td>Black<br />/<br />Plastic\n</td>""},{""cell_index"":7,""html"":""<td>Chrome\n</td>""},{""cell_index"":8,""html"":""<td>N.A.\n</td>""},{""cell_index"":9,""html"":""<td><a href=\""/wiki/8SP\"" title=\""8SP\"">8SP</a>\n</td>""},{""cell_index"":10,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":11,""html"":""<td>1510\n</td>""},{""cell_index"":12,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/d/d6/Scorcher_Fire_Chief.jpeg/revision/latest?cb=20170422202307\"" class=\""mw-file-description image\""><img alt=\""Scorcher Fire Chief\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""75\"" height=\""100\"" class=\""mw-file-element lazyload\"" data-image-name=\""Scorcher Fire Chief.jpeg\"" data-image-key=\""Scorcher_Fire_Chief.jpeg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/d/d6/Scorcher_Fire_Chief.jpeg/revision/latest/scale-to-width-down/75?cb=20170422202307\"" /></a></span>\n</td>""}]","[""1981"",""Fire Chief Car"",""Scorchers"",""Red"",""'Fire Chief Dept' on sides"",""Black / Plastic"",""Chrome"",""N.A."",""8SP"",""Hong Kong"",""1510"",""""]","<tr>
+<td>1981
+</td>
+<td><a href=""/wiki/Police_Chief_Car"" title=""Police Chief Car"">Fire Chief Car</a>
+</td>
+<td>Scorchers
+</td>
+<td>Red
+</td>
+<td>'Fire Chief Dept' on sides
+</td>
+<td>Black<br />/<br />Plastic
+</td>
+<td>Chrome
+</td>
+<td>N.A.
+</td>
+<td><a href=""/wiki/8SP"" title=""8SP"">8SP</a>
+</td>
+<td>Hong Kong
+</td>
+<td>1510
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/d/d6/Scorcher_Fire_Chief.jpeg/revision/latest?cb=20170422202307"" class=""mw-file-description image""><img alt=""Scorcher Fire Chief"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""75"" height=""100"" class=""mw-file-element lazyload"" data-image-name=""Scorcher Fire Chief.jpeg"" data-image-key=""Scorcher_Fire_Chief.jpeg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/d/d6/Scorcher_Fire_Chief.jpeg/revision/latest/scale-to-width-down/75?cb=20170422202307"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Police_Chief_Car"",""title"":""Police Chief Car"",""text"":""Fire Chief Car""},{""href"":""/wiki/8SP"",""title"":""8SP"",""text"":""8SP""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/d/d6/Scorcher_Fire_Chief.jpeg/revision/latest?cb=20170422202307"",""title"":"""",""text"":""""}]","[{""alt"":""Scorcher Fire Chief"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/d/d6/Scorcher_Fire_Chief.jpeg/revision/latest/scale-to-width-down/75?cb=20170422202307"",""data_image_name"":""Scorcher Fire Chief.jpeg"",""data_image_key"":""Scorcher_Fire_Chief.jpeg"",""width"":""75"",""height"":""100""}]","","","","","",""
+"product_table_row","Early Special Series/Scorchers _ Hot Wheels Wiki _ Fandom.html","dfd9bf51ee5a25c738ed1bb633ce29d441e57140","","364502","788245","","1","22","[""Year"",""Model Name"",""Series"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Country"",""Toy Number"",""Photo""]","[{""cell_index"":1,""html"":""<td>1981\n</td>""},{""cell_index"":2,""html"":""<td><a href=\""/wiki/Blue_Fever\"" title=\""Blue Fever\"">Blue Fever</a>\n</td>""},{""cell_index"":3,""html"":""<td>Scorchers\n</td>""},{""cell_index"":4,""html"":""<td>Blue\n</td>""},{""cell_index"":5,""html"":""<td>White, yellow and green tampos\n</td>""},{""cell_index"":6,""html"":""<td>Black<br />/<br />Plastic\n</td>""},{""cell_index"":7,""html"":""<td>Chrome\n</td>""},{""cell_index"":8,""html"":""<td>N.A.\n</td>""},{""cell_index"":9,""html"":""<td><a href=\""/wiki/8SP\"" title=\""8SP\"">8SP</a>\n</td>""},{""cell_index"":10,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":11,""html"":""<td>1597\n</td>""},{""cell_index"":12,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/d/d9/BlueFever81Scorchers.jpg/revision/latest?cb=20260706225929\"" class=\""mw-file-description image\""><img alt=\""BlueFever81Scorchers\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""75\"" height=\""56\"" class=\""mw-file-element lazyload\"" data-image-name=\""BlueFever81Scorchers.jpg\"" data-image-key=\""BlueFever81Scorchers.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/d/d9/BlueFever81Scorchers.jpg/revision/latest/scale-to-width-down/75?cb=20260706225929\"" /></a></span>\n</td>""}]","[""1981"",""Blue Fever"",""Scorchers"",""Blue"",""White, yellow and green tampos"",""Black / Plastic"",""Chrome"",""N.A."",""8SP"",""Hong Kong"",""1597"",""""]","<tr>
+<td>1981
+</td>
+<td><a href=""/wiki/Blue_Fever"" title=""Blue Fever"">Blue Fever</a>
+</td>
+<td>Scorchers
+</td>
+<td>Blue
+</td>
+<td>White, yellow and green tampos
+</td>
+<td>Black<br />/<br />Plastic
+</td>
+<td>Chrome
+</td>
+<td>N.A.
+</td>
+<td><a href=""/wiki/8SP"" title=""8SP"">8SP</a>
+</td>
+<td>Hong Kong
+</td>
+<td>1597
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/d/d9/BlueFever81Scorchers.jpg/revision/latest?cb=20260706225929"" class=""mw-file-description image""><img alt=""BlueFever81Scorchers"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""75"" height=""56"" class=""mw-file-element lazyload"" data-image-name=""BlueFever81Scorchers.jpg"" data-image-key=""BlueFever81Scorchers.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/d/d9/BlueFever81Scorchers.jpg/revision/latest/scale-to-width-down/75?cb=20260706225929"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Blue_Fever"",""title"":""Blue Fever"",""text"":""Blue Fever""},{""href"":""/wiki/8SP"",""title"":""8SP"",""text"":""8SP""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/d/d9/BlueFever81Scorchers.jpg/revision/latest?cb=20260706225929"",""title"":"""",""text"":""""}]","[{""alt"":""BlueFever81Scorchers"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/d/d9/BlueFever81Scorchers.jpg/revision/latest/scale-to-width-down/75?cb=20260706225929"",""data_image_name"":""BlueFever81Scorchers.jpg"",""data_image_key"":""BlueFever81Scorchers.jpg"",""width"":""75"",""height"":""56""}]","","","","","",""
+"product_table_row","Early Special Series/Scorchers _ Hot Wheels Wiki _ Fandom.html","dfd9bf51ee5a25c738ed1bb633ce29d441e57140","","364502","788245","","1","23","[""Year"",""Model Name"",""Series"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Country"",""Toy Number"",""Photo""]","[{""cell_index"":1,""html"":""<td>1981\n</td>""},{""cell_index"":2,""html"":""<td><a href=\""/wiki/Blue_Fever\"" title=\""Blue Fever\"">Firebrand</a>\n</td>""},{""cell_index"":3,""html"":""<td>Scorchers\n</td>""},{""cell_index"":4,""html"":""<td>Red\n</td>""},{""cell_index"":5,""html"":""<td>Number '30' on sides and hood, Goodyear, Bell, and Champion logos\n</td>""},{""cell_index"":6,""html"":""<td>Black<br />/<br />Plastic\n</td>""},{""cell_index"":7,""html"":""<td>Chrome\n</td>""},{""cell_index"":8,""html"":""<td>N.A.\n</td>""},{""cell_index"":9,""html"":""<td><a href=\""/wiki/8SP\"" title=\""8SP\"">8SP</a>\n</td>""},{""cell_index"":10,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":11,""html"":""<td>1594\n</td>""},{""cell_index"":12,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428\"" class=\""mw-file-description image\""><img alt=\""Image Not Available\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""75\"" height=\""50\"" class=\""mw-file-element lazyload\"" data-image-name=\""Image Not Available.jpg\"" data-image-key=\""Image_Not_Available.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/75?cb=20151025125428\"" /></a></span>\n</td>""}]","[""1981"",""Firebrand"",""Scorchers"",""Red"",""Number '30' on sides and hood, Goodyear, Bell, and Champion logos"",""Black / Plastic"",""Chrome"",""N.A."",""8SP"",""Hong Kong"",""1594"",""""]","<tr>
+<td>1981
+</td>
+<td><a href=""/wiki/Blue_Fever"" title=""Blue Fever"">Firebrand</a>
+</td>
+<td>Scorchers
+</td>
+<td>Red
+</td>
+<td>Number '30' on sides and hood, Goodyear, Bell, and Champion logos
+</td>
+<td>Black<br />/<br />Plastic
+</td>
+<td>Chrome
+</td>
+<td>N.A.
+</td>
+<td><a href=""/wiki/8SP"" title=""8SP"">8SP</a>
+</td>
+<td>Hong Kong
+</td>
+<td>1594
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"" class=""mw-file-description image""><img alt=""Image Not Available"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""75"" height=""50"" class=""mw-file-element lazyload"" data-image-name=""Image Not Available.jpg"" data-image-key=""Image_Not_Available.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/75?cb=20151025125428"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Blue_Fever"",""title"":""Blue Fever"",""text"":""Firebrand""},{""href"":""/wiki/8SP"",""title"":""8SP"",""text"":""8SP""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"",""title"":"""",""text"":""""}]","[{""alt"":""Image Not Available"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/75?cb=20151025125428"",""data_image_name"":""Image Not Available.jpg"",""data_image_key"":""Image_Not_Available.jpg"",""width"":""75"",""height"":""50""}]","","","","","",""
+"product_table_row","Early Special Series/Scorchers _ Hot Wheels Wiki _ Fandom.html","dfd9bf51ee5a25c738ed1bb633ce29d441e57140","","364502","788245","","1","24","[""Year"",""Model Name"",""Series"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Country"",""Toy Number"",""Photo""]","[{""cell_index"":1,""html"":""<td>1981\n</td>""},{""cell_index"":2,""html"":""<td><a href=\""/wiki/Exploder_(Scorchers)\"" title=\""Exploder (Scorchers)\"">Exploder</a>\n</td>""},{""cell_index"":3,""html"":""<td>Scorchers\n</td>""},{""cell_index"":4,""html"":""<td>White\n</td>""},{""cell_index"":5,""html"":""<td>Orange and purple flames\n</td>""},{""cell_index"":6,""html"":""<td>Black<br />/<br />Plastic\n</td>""},{""cell_index"":7,""html"":""<td>Chrome\n</td>""},{""cell_index"":8,""html"":""<td>N.A.\n</td>""},{""cell_index"":9,""html"":""<td><a href=\""/wiki/8SP\"" title=\""8SP\"">8SP</a>\n</td>""},{""cell_index"":10,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":11,""html"":""<td>1598\n</td>""},{""cell_index"":12,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/8/8c/Sundrifter_White_Exploder.jpg/revision/latest?cb=20220531132431\"" class=\""mw-file-description image\""><img alt=\""Sundrifter White Exploder\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""75\"" height=\""92\"" class=\""mw-file-element lazyload\"" data-image-name=\""Sundrifter White Exploder.jpg\"" data-image-key=\""Sundrifter_White_Exploder.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/8/8c/Sundrifter_White_Exploder.jpg/revision/latest/scale-to-width-down/75?cb=20220531132431\"" /></a></span>\n</td>""}]","[""1981"",""Exploder"",""Scorchers"",""White"",""Orange and purple flames"",""Black / Plastic"",""Chrome"",""N.A."",""8SP"",""Hong Kong"",""1598"",""""]","<tr>
+<td>1981
+</td>
+<td><a href=""/wiki/Exploder_(Scorchers)"" title=""Exploder (Scorchers)"">Exploder</a>
+</td>
+<td>Scorchers
+</td>
+<td>White
+</td>
+<td>Orange and purple flames
+</td>
+<td>Black<br />/<br />Plastic
+</td>
+<td>Chrome
+</td>
+<td>N.A.
+</td>
+<td><a href=""/wiki/8SP"" title=""8SP"">8SP</a>
+</td>
+<td>Hong Kong
+</td>
+<td>1598
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/8/8c/Sundrifter_White_Exploder.jpg/revision/latest?cb=20220531132431"" class=""mw-file-description image""><img alt=""Sundrifter White Exploder"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""75"" height=""92"" class=""mw-file-element lazyload"" data-image-name=""Sundrifter White Exploder.jpg"" data-image-key=""Sundrifter_White_Exploder.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/8/8c/Sundrifter_White_Exploder.jpg/revision/latest/scale-to-width-down/75?cb=20220531132431"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Exploder_(Scorchers)"",""title"":""Exploder (Scorchers)"",""text"":""Exploder""},{""href"":""/wiki/8SP"",""title"":""8SP"",""text"":""8SP""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/8/8c/Sundrifter_White_Exploder.jpg/revision/latest?cb=20220531132431"",""title"":"""",""text"":""""}]","[{""alt"":""Sundrifter White Exploder"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/8/8c/Sundrifter_White_Exploder.jpg/revision/latest/scale-to-width-down/75?cb=20220531132431"",""data_image_name"":""Sundrifter White Exploder.jpg"",""data_image_key"":""Sundrifter_White_Exploder.jpg"",""width"":""75"",""height"":""92""}]","","","","","",""
+"product_table_row","Early Special Series/Scorchers _ Hot Wheels Wiki _ Fandom.html","dfd9bf51ee5a25c738ed1bb633ce29d441e57140","","364502","788245","","1","25","[""Year"",""Model Name"",""Series"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Country"",""Toy Number"",""Photo""]","[{""cell_index"":1,""html"":""<td>1981\n</td>""},{""cell_index"":2,""html"":""<td><a href=\""/wiki/Exploder_(Scorchers)\"" title=\""Exploder (Scorchers)\"">Sundrifter</a>\n</td>""},{""cell_index"":3,""html"":""<td>Scorchers\n</td>""},{""cell_index"":4,""html"":""<td>Orange\n</td>""},{""cell_index"":5,""html"":""<td>'Sundrifter' on sides, yellow, red and brown tampos\n</td>""},{""cell_index"":6,""html"":""<td>Black<br />/<br />Plastic\n</td>""},{""cell_index"":7,""html"":""<td>Chrome\n</td>""},{""cell_index"":8,""html"":""<td>N.A.\n</td>""},{""cell_index"":9,""html"":""<td><a href=\""/wiki/8SP\"" title=\""8SP\"">8SP</a>\n</td>""},{""cell_index"":10,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":11,""html"":""<td>1595\n</td>""},{""cell_index"":12,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428\"" class=\""mw-file-description image\""><img alt=\""Image Not Available\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""75\"" height=\""50\"" class=\""mw-file-element lazyload\"" data-image-name=\""Image Not Available.jpg\"" data-image-key=\""Image_Not_Available.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/75?cb=20151025125428\"" /></a></span>\n</td>""}]","[""1981"",""Sundrifter"",""Scorchers"",""Orange"",""'Sundrifter' on sides, yellow, red and brown tampos"",""Black / Plastic"",""Chrome"",""N.A."",""8SP"",""Hong Kong"",""1595"",""""]","<tr>
+<td>1981
+</td>
+<td><a href=""/wiki/Exploder_(Scorchers)"" title=""Exploder (Scorchers)"">Sundrifter</a>
+</td>
+<td>Scorchers
+</td>
+<td>Orange
+</td>
+<td>'Sundrifter' on sides, yellow, red and brown tampos
+</td>
+<td>Black<br />/<br />Plastic
+</td>
+<td>Chrome
+</td>
+<td>N.A.
+</td>
+<td><a href=""/wiki/8SP"" title=""8SP"">8SP</a>
+</td>
+<td>Hong Kong
+</td>
+<td>1595
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"" class=""mw-file-description image""><img alt=""Image Not Available"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""75"" height=""50"" class=""mw-file-element lazyload"" data-image-name=""Image Not Available.jpg"" data-image-key=""Image_Not_Available.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/75?cb=20151025125428"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Exploder_(Scorchers)"",""title"":""Exploder (Scorchers)"",""text"":""Sundrifter""},{""href"":""/wiki/8SP"",""title"":""8SP"",""text"":""8SP""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"",""title"":"""",""text"":""""}]","[{""alt"":""Image Not Available"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/75?cb=20151025125428"",""data_image_name"":""Image Not Available.jpg"",""data_image_key"":""Image_Not_Available.jpg"",""width"":""75"",""height"":""50""}]","","","","","",""
