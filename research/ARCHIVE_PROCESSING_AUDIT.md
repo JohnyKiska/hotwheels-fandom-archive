@@ -252,3 +252,11 @@ Next: continue with the remaining Early Collections pages in inventory order, re
 - The page contains a visual image/caption grid under The Cars rather than a conventional product-data table: 11 vehicle captions and 11 associated image references. One separate Gallery item is retained.
 - Captions and paired image metadata are exported in source order. No Toy #, casting, release or package facts were inferred.
 - Export: `research/extractions/EARLY-COLLECTIONS-GRAND-PRIX.csv`; QA: `research/extractions/EARLY-COLLECTIONS-GRAND-PRIX-EXTRACTION-QA.md`.
+
+
+### Heavy Chevy extraction checkpoint
+
+- Source: `Early Collections/Heavy Chevy _ Hot Wheels Wiki _ Fandom.html`; Git blob SHA `1b710580762e9947170e92376c9410c4c8683d92`; manifest SHA-256 `8A478082427112ABDCAAF759187D4D4D799973E821ED61DB3F50F96A3A0A1A76`; Fandom revision 808320.
+- Four product tables (Versions, 100% Versions, Retooled Versions, Code 3), 44 product rows, and 33 separate Gallery references.
+- Table schemas, source order, raw cell values, cell-level image metadata and gallery image references are retained. No repeated Toy # rows were merged.
+- Export: `research/extractions/EARLY-COLLECTIONS-HEAVY-CHEVY.csv`; QA: `research/extractions/EARLY-COLLECTIONS-HEAVY-CHEVY-EXTRACTION-QA.md`.
