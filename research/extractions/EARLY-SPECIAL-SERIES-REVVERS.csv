@@ -1,0 +1,944 @@
+record_type,source_file,source_blob_sha,source_sha256,source_size_bytes,fandom_revision_id,source_section,source_table_index,source_row_index,source_headers_json,source_cells_json,source_cell_values_json,raw_row_html,model_links_json,cell_image_metadata_json,gallery_index,gallery_caption,gallery_alt,gallery_filename,gallery_file_link,gallery_image_metadata_json
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","2","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Sidecar\"" title=\""Sidecar\"">Sidecar</a>\n</td>""},{""cell_index"":2,""html"":""<td>Yellow\n</td>""},{""cell_index"":3,""html"":""<td>Red, Yellow &amp; Black Flames with Bright Blue outline\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>None\n</td>""},{""cell_index"":6,""html"":""<td>None\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6984\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td><i>Hooked up with a RRRumblers motorcycle</i>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428\"" class=\""mw-file-description image\""><img alt=\""Image Not Available\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""67\"" class=\""mw-file-element lazyload\"" data-image-name=\""Image Not Available.jpg\"" data-image-key=\""Image_Not_Available.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428\"" /></a></span>\n</td>""}]","[""Sidecar"",""Yellow"",""Red, Yellow & Black Flames with Bright Blue outline"",""Unpainted / Metal"",""None"",""None"",""RL"",""6984"",""Hong Kong"",""Hooked up with a RRRumblers motorcycle"",""""]","<tr>
+<td><a href=""/wiki/Sidecar"" title=""Sidecar"">Sidecar</a>
+</td>
+<td>Yellow
+</td>
+<td>Red, Yellow &amp; Black Flames with Bright Blue outline
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>None
+</td>
+<td>None
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6984
+</td>
+<td>Hong Kong
+</td>
+<td><i>Hooked up with a RRRumblers motorcycle</i>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"" class=""mw-file-description image""><img alt=""Image Not Available"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""67"" class=""mw-file-element lazyload"" data-image-name=""Image Not Available.jpg"" data-image-key=""Image_Not_Available.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Sidecar"",""title"":""Sidecar"",""text"":""Sidecar""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"",""title"":"""",""text"":""""}]","[{""alt"":""Image Not Available"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"",""data_image_name"":""Image Not Available.jpg"",""data_image_key"":""Image_Not_Available.jpg"",""width"":""100"",""height"":""67""}]","","","","","",""
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","3","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Draggin%27_Dagger\"" title=\""Draggin&#39; Dagger\"">Draggin' Dagger</a>\n</td>""},{""cell_index"":2,""html"":""<td>Light Blue\n</td>""},{""cell_index"":3,""html"":""<td>No tampos\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>Black\n</td>""},{""cell_index"":6,""html"":""<td>N/A\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6985\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/9/94/Draggin%27_Dagger_blue.jpg/revision/latest?cb=20210415024106\"" class=\""mw-file-description image\""><img alt=\""Draggin&#39; Dagger blue\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""59\"" class=\""mw-file-element lazyload\"" data-image-name=\""Draggin&#39; Dagger blue.jpg\"" data-image-key=\""Draggin%27_Dagger_blue.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/9/94/Draggin%27_Dagger_blue.jpg/revision/latest/scale-to-width-down/100?cb=20210415024106\"" /></a></span>\n</td>""}]","[""Draggin' Dagger"",""Light Blue"",""No tampos"",""Unpainted / Metal"",""Black"",""N/A"",""RL"",""6985"",""Hong Kong"","""",""""]","<tr>
+<td><a href=""/wiki/Draggin%27_Dagger"" title=""Draggin&#39; Dagger"">Draggin' Dagger</a>
+</td>
+<td>Light Blue
+</td>
+<td>No tampos
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>Black
+</td>
+<td>N/A
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6985
+</td>
+<td>Hong Kong
+</td>
+<td>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/9/94/Draggin%27_Dagger_blue.jpg/revision/latest?cb=20210415024106"" class=""mw-file-description image""><img alt=""Draggin&#39; Dagger blue"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""59"" class=""mw-file-element lazyload"" data-image-name=""Draggin&#39; Dagger blue.jpg"" data-image-key=""Draggin%27_Dagger_blue.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/9/94/Draggin%27_Dagger_blue.jpg/revision/latest/scale-to-width-down/100?cb=20210415024106"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Draggin%27_Dagger"",""title"":""Draggin&#39; Dagger"",""text"":""Draggin' Dagger""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/9/94/Draggin%27_Dagger_blue.jpg/revision/latest?cb=20210415024106"",""title"":"""",""text"":""""}]","[{""alt"":""Draggin&#39; Dagger blue"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/9/94/Draggin%27_Dagger_blue.jpg/revision/latest/scale-to-width-down/100?cb=20210415024106"",""data_image_name"":""Draggin&#39; Dagger blue.jpg"",""data_image_key"":""Draggin%27_Dagger_blue.jpg"",""width"":""100"",""height"":""59""}]","","","","","",""
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","4","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Draggin%27_Dagger\"" title=\""Draggin&#39; Dagger\"">Draggin' Dagger</a>\n</td>""},{""cell_index"":2,""html"":""<td>Dark Blue\n</td>""},{""cell_index"":3,""html"":""<td>No tampos\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>Black\n</td>""},{""cell_index"":6,""html"":""<td>N/A\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6985\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428\"" class=\""mw-file-description image\""><img alt=\""Image Not Available\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""67\"" class=\""mw-file-element lazyload\"" data-image-name=\""Image Not Available.jpg\"" data-image-key=\""Image_Not_Available.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428\"" /></a></span>\n</td>""}]","[""Draggin' Dagger"",""Dark Blue"",""No tampos"",""Unpainted / Metal"",""Black"",""N/A"",""RL"",""6985"",""Hong Kong"","""",""""]","<tr>
+<td><a href=""/wiki/Draggin%27_Dagger"" title=""Draggin&#39; Dagger"">Draggin' Dagger</a>
+</td>
+<td>Dark Blue
+</td>
+<td>No tampos
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>Black
+</td>
+<td>N/A
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6985
+</td>
+<td>Hong Kong
+</td>
+<td>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"" class=""mw-file-description image""><img alt=""Image Not Available"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""67"" class=""mw-file-element lazyload"" data-image-name=""Image Not Available.jpg"" data-image-key=""Image_Not_Available.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Draggin%27_Dagger"",""title"":""Draggin&#39; Dagger"",""text"":""Draggin' Dagger""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"",""title"":"""",""text"":""""}]","[{""alt"":""Image Not Available"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"",""data_image_name"":""Image Not Available.jpg"",""data_image_key"":""Image_Not_Available.jpg"",""width"":""100"",""height"":""67""}]","","","","","",""
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","5","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Draggin%27_Dagger\"" title=\""Draggin&#39; Dagger\"">Draggin' Dagger</a>\n</td>""},{""cell_index"":2,""html"":""<td>Flourescent Green\n</td>""},{""cell_index"":3,""html"":""<td>No tampos\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>Black\n</td>""},{""cell_index"":6,""html"":""<td>N/A\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6985\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/5/59/100_2958.jpg/revision/latest?cb=20150525204636\"" class=\""mw-file-description image\""><img alt=\""100 2958\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""49\"" class=\""mw-file-element lazyload\"" data-image-name=\""100 2958.jpg\"" data-image-key=\""100_2958.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/5/59/100_2958.jpg/revision/latest/scale-to-width-down/100?cb=20150525204636\"" /></a></span>\n</td>""}]","[""Draggin' Dagger"",""Flourescent Green"",""No tampos"",""Unpainted / Metal"",""Black"",""N/A"",""RL"",""6985"",""Hong Kong"","""",""""]","<tr>
+<td><a href=""/wiki/Draggin%27_Dagger"" title=""Draggin&#39; Dagger"">Draggin' Dagger</a>
+</td>
+<td>Flourescent Green
+</td>
+<td>No tampos
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>Black
+</td>
+<td>N/A
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6985
+</td>
+<td>Hong Kong
+</td>
+<td>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/5/59/100_2958.jpg/revision/latest?cb=20150525204636"" class=""mw-file-description image""><img alt=""100 2958"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""49"" class=""mw-file-element lazyload"" data-image-name=""100 2958.jpg"" data-image-key=""100_2958.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/5/59/100_2958.jpg/revision/latest/scale-to-width-down/100?cb=20150525204636"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Draggin%27_Dagger"",""title"":""Draggin&#39; Dagger"",""text"":""Draggin' Dagger""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/5/59/100_2958.jpg/revision/latest?cb=20150525204636"",""title"":"""",""text"":""""}]","[{""alt"":""100 2958"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/5/59/100_2958.jpg/revision/latest/scale-to-width-down/100?cb=20150525204636"",""data_image_name"":""100 2958.jpg"",""data_image_key"":""100_2958.jpg"",""width"":""100"",""height"":""49""}]","","","","","",""
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","6","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Draggin%27_Dagger\"" title=\""Draggin&#39; Dagger\"">Draggin' Dagger</a>\n</td>""},{""cell_index"":2,""html"":""<td>Flourescent Pink\n</td>""},{""cell_index"":3,""html"":""<td>No tampos\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>Black\n</td>""},{""cell_index"":6,""html"":""<td>N/A\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6985\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428\"" class=\""mw-file-description image\""><img alt=\""Image Not Available\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""67\"" class=\""mw-file-element lazyload\"" data-image-name=\""Image Not Available.jpg\"" data-image-key=\""Image_Not_Available.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428\"" /></a></span>\n</td>""}]","[""Draggin' Dagger"",""Flourescent Pink"",""No tampos"",""Unpainted / Metal"",""Black"",""N/A"",""RL"",""6985"",""Hong Kong"","""",""""]","<tr>
+<td><a href=""/wiki/Draggin%27_Dagger"" title=""Draggin&#39; Dagger"">Draggin' Dagger</a>
+</td>
+<td>Flourescent Pink
+</td>
+<td>No tampos
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>Black
+</td>
+<td>N/A
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6985
+</td>
+<td>Hong Kong
+</td>
+<td>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"" class=""mw-file-description image""><img alt=""Image Not Available"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""67"" class=""mw-file-element lazyload"" data-image-name=""Image Not Available.jpg"" data-image-key=""Image_Not_Available.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Draggin%27_Dagger"",""title"":""Draggin&#39; Dagger"",""text"":""Draggin' Dagger""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"",""title"":"""",""text"":""""}]","[{""alt"":""Image Not Available"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"",""data_image_name"":""Image Not Available.jpg"",""data_image_key"":""Image_Not_Available.jpg"",""width"":""100"",""height"":""67""}]","","","","","",""
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","7","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Draggin%27_Dagger\"" title=\""Draggin&#39; Dagger\"">Draggin' Dagger</a>\n</td>""},{""cell_index"":2,""html"":""<td>Yellow\n</td>""},{""cell_index"":3,""html"":""<td>No tampos\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>Black\n</td>""},{""cell_index"":6,""html"":""<td>N/A\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6985\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428\"" class=\""mw-file-description image\""><img alt=\""Image Not Available\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""67\"" class=\""mw-file-element lazyload\"" data-image-name=\""Image Not Available.jpg\"" data-image-key=\""Image_Not_Available.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428\"" /></a></span>\n</td>""}]","[""Draggin' Dagger"",""Yellow"",""No tampos"",""Unpainted / Metal"",""Black"",""N/A"",""RL"",""6985"",""Hong Kong"","""",""""]","<tr>
+<td><a href=""/wiki/Draggin%27_Dagger"" title=""Draggin&#39; Dagger"">Draggin' Dagger</a>
+</td>
+<td>Yellow
+</td>
+<td>No tampos
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>Black
+</td>
+<td>N/A
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6985
+</td>
+<td>Hong Kong
+</td>
+<td>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"" class=""mw-file-description image""><img alt=""Image Not Available"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""67"" class=""mw-file-element lazyload"" data-image-name=""Image Not Available.jpg"" data-image-key=""Image_Not_Available.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Draggin%27_Dagger"",""title"":""Draggin&#39; Dagger"",""text"":""Draggin' Dagger""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"",""title"":"""",""text"":""""}]","[{""alt"":""Image Not Available"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"",""data_image_name"":""Image Not Available.jpg"",""data_image_key"":""Image_Not_Available.jpg"",""width"":""100"",""height"":""67""}]","","","","","",""
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","8","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Draggin%27_Dagger\"" title=\""Draggin&#39; Dagger\"">Draggin' Dagger</a>\n</td>""},{""cell_index"":2,""html"":""<td>Red\n</td>""},{""cell_index"":3,""html"":""<td>No tampos\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>Black\n</td>""},{""cell_index"":6,""html"":""<td>N/A\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6985\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428\"" class=\""mw-file-description image\""><img alt=\""Image Not Available\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""67\"" class=\""mw-file-element lazyload\"" data-image-name=\""Image Not Available.jpg\"" data-image-key=\""Image_Not_Available.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428\"" /></a></span>\n</td>""}]","[""Draggin' Dagger"",""Red"",""No tampos"",""Unpainted / Metal"",""Black"",""N/A"",""RL"",""6985"",""Hong Kong"","""",""""]","<tr>
+<td><a href=""/wiki/Draggin%27_Dagger"" title=""Draggin&#39; Dagger"">Draggin' Dagger</a>
+</td>
+<td>Red
+</td>
+<td>No tampos
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>Black
+</td>
+<td>N/A
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6985
+</td>
+<td>Hong Kong
+</td>
+<td>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"" class=""mw-file-description image""><img alt=""Image Not Available"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""67"" class=""mw-file-element lazyload"" data-image-name=""Image Not Available.jpg"" data-image-key=""Image_Not_Available.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Draggin%27_Dagger"",""title"":""Draggin&#39; Dagger"",""text"":""Draggin' Dagger""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"",""title"":"""",""text"":""""}]","[{""alt"":""Image Not Available"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"",""data_image_name"":""Image Not Available.jpg"",""data_image_key"":""Image_Not_Available.jpg"",""width"":""100"",""height"":""67""}]","","","","","",""
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","9","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Buzzin%27_Bomb\"" title=\""Buzzin&#39; Bomb\"">Buzzin' Bomb</a>\n</td>""},{""cell_index"":2,""html"":""<td>Light Blue\n</td>""},{""cell_index"":3,""html"":""<td>No tampos\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>Black\n</td>""},{""cell_index"":6,""html"":""<td>N/A\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6986\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/b/b3/BuzzinBombRevvers.png/revision/latest?cb=20150527074208\"" class=\""mw-file-description image\""><img alt=\""BuzzinBombRevvers\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""75\"" class=\""mw-file-element lazyload\"" data-image-name=\""BuzzinBombRevvers.png\"" data-image-key=\""BuzzinBombRevvers.png\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/b/b3/BuzzinBombRevvers.png/revision/latest/scale-to-width-down/100?cb=20150527074208\"" /></a></span>\n</td>""}]","[""Buzzin' Bomb"",""Light Blue"",""No tampos"",""Unpainted / Metal"",""Black"",""N/A"",""RL"",""6986"",""Hong Kong"","""",""""]","<tr>
+<td><a href=""/wiki/Buzzin%27_Bomb"" title=""Buzzin&#39; Bomb"">Buzzin' Bomb</a>
+</td>
+<td>Light Blue
+</td>
+<td>No tampos
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>Black
+</td>
+<td>N/A
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6986
+</td>
+<td>Hong Kong
+</td>
+<td>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/b/b3/BuzzinBombRevvers.png/revision/latest?cb=20150527074208"" class=""mw-file-description image""><img alt=""BuzzinBombRevvers"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""75"" class=""mw-file-element lazyload"" data-image-name=""BuzzinBombRevvers.png"" data-image-key=""BuzzinBombRevvers.png"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/b/b3/BuzzinBombRevvers.png/revision/latest/scale-to-width-down/100?cb=20150527074208"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Buzzin%27_Bomb"",""title"":""Buzzin&#39; Bomb"",""text"":""Buzzin' Bomb""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/b/b3/BuzzinBombRevvers.png/revision/latest?cb=20150527074208"",""title"":"""",""text"":""""}]","[{""alt"":""BuzzinBombRevvers"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/b/b3/BuzzinBombRevvers.png/revision/latest/scale-to-width-down/100?cb=20150527074208"",""data_image_name"":""BuzzinBombRevvers.png"",""data_image_key"":""BuzzinBombRevvers.png"",""width"":""100"",""height"":""75""}]","","","","","",""
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","10","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Buzzin%27_Bomb\"" title=\""Buzzin&#39; Bomb\"">Buzzin' Bomb</a>\n</td>""},{""cell_index"":2,""html"":""<td>Dark Blue\n</td>""},{""cell_index"":3,""html"":""<td>No tampos\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>Black\n</td>""},{""cell_index"":6,""html"":""<td>N/A\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6986\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428\"" class=\""mw-file-description image\""><img alt=\""Image Not Available\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""67\"" class=\""mw-file-element lazyload\"" data-image-name=\""Image Not Available.jpg\"" data-image-key=\""Image_Not_Available.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428\"" /></a></span>\n</td>""}]","[""Buzzin' Bomb"",""Dark Blue"",""No tampos"",""Unpainted / Metal"",""Black"",""N/A"",""RL"",""6986"",""Hong Kong"","""",""""]","<tr>
+<td><a href=""/wiki/Buzzin%27_Bomb"" title=""Buzzin&#39; Bomb"">Buzzin' Bomb</a>
+</td>
+<td>Dark Blue
+</td>
+<td>No tampos
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>Black
+</td>
+<td>N/A
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6986
+</td>
+<td>Hong Kong
+</td>
+<td>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"" class=""mw-file-description image""><img alt=""Image Not Available"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""67"" class=""mw-file-element lazyload"" data-image-name=""Image Not Available.jpg"" data-image-key=""Image_Not_Available.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Buzzin%27_Bomb"",""title"":""Buzzin&#39; Bomb"",""text"":""Buzzin' Bomb""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"",""title"":"""",""text"":""""}]","[{""alt"":""Image Not Available"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"",""data_image_name"":""Image Not Available.jpg"",""data_image_key"":""Image_Not_Available.jpg"",""width"":""100"",""height"":""67""}]","","","","","",""
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","11","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Buzzin%27_Bomb\"" title=\""Buzzin&#39; Bomb\"">Buzzin' Bomb</a>\n</td>""},{""cell_index"":2,""html"":""<td>Flourescent Green\n</td>""},{""cell_index"":3,""html"":""<td>No tampos\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>Black\n</td>""},{""cell_index"":6,""html"":""<td>N/A\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6986\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/5/51/HW_Revvers_Green_BuzzinBomb.jpg/revision/latest?cb=20230425024654\"" class=\""mw-file-description image\""><img alt=\""HW Revvers Green BuzzinBomb\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""66\"" class=\""mw-file-element lazyload\"" data-image-name=\""HW Revvers Green BuzzinBomb.jpg\"" data-image-key=\""HW_Revvers_Green_BuzzinBomb.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/5/51/HW_Revvers_Green_BuzzinBomb.jpg/revision/latest/scale-to-width-down/100?cb=20230425024654\"" /></a></span>\n</td>""}]","[""Buzzin' Bomb"",""Flourescent Green"",""No tampos"",""Unpainted / Metal"",""Black"",""N/A"",""RL"",""6986"",""Hong Kong"","""",""""]","<tr>
+<td><a href=""/wiki/Buzzin%27_Bomb"" title=""Buzzin&#39; Bomb"">Buzzin' Bomb</a>
+</td>
+<td>Flourescent Green
+</td>
+<td>No tampos
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>Black
+</td>
+<td>N/A
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6986
+</td>
+<td>Hong Kong
+</td>
+<td>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/5/51/HW_Revvers_Green_BuzzinBomb.jpg/revision/latest?cb=20230425024654"" class=""mw-file-description image""><img alt=""HW Revvers Green BuzzinBomb"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""66"" class=""mw-file-element lazyload"" data-image-name=""HW Revvers Green BuzzinBomb.jpg"" data-image-key=""HW_Revvers_Green_BuzzinBomb.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/5/51/HW_Revvers_Green_BuzzinBomb.jpg/revision/latest/scale-to-width-down/100?cb=20230425024654"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Buzzin%27_Bomb"",""title"":""Buzzin&#39; Bomb"",""text"":""Buzzin' Bomb""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/5/51/HW_Revvers_Green_BuzzinBomb.jpg/revision/latest?cb=20230425024654"",""title"":"""",""text"":""""}]","[{""alt"":""HW Revvers Green BuzzinBomb"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/5/51/HW_Revvers_Green_BuzzinBomb.jpg/revision/latest/scale-to-width-down/100?cb=20230425024654"",""data_image_name"":""HW Revvers Green BuzzinBomb.jpg"",""data_image_key"":""HW_Revvers_Green_BuzzinBomb.jpg"",""width"":""100"",""height"":""66""}]","","","","","",""
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","12","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Buzzin%27_Bomb\"" title=\""Buzzin&#39; Bomb\"">Buzzin' Bomb</a>\n</td>""},{""cell_index"":2,""html"":""<td>Flourescent Pink\n</td>""},{""cell_index"":3,""html"":""<td>No tampos\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>Black\n</td>""},{""cell_index"":6,""html"":""<td>N/A\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6986\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/0/01/100_3761.jpg/revision/latest?cb=20191108185743\"" class=\""mw-file-description image\""><img alt=\""100 3761\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""62\"" class=\""mw-file-element lazyload\"" data-image-name=\""100 3761.jpg\"" data-image-key=\""100_3761.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/0/01/100_3761.jpg/revision/latest/scale-to-width-down/100?cb=20191108185743\"" /></a></span>\n</td>""}]","[""Buzzin' Bomb"",""Flourescent Pink"",""No tampos"",""Unpainted / Metal"",""Black"",""N/A"",""RL"",""6986"",""Hong Kong"","""",""""]","<tr>
+<td><a href=""/wiki/Buzzin%27_Bomb"" title=""Buzzin&#39; Bomb"">Buzzin' Bomb</a>
+</td>
+<td>Flourescent Pink
+</td>
+<td>No tampos
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>Black
+</td>
+<td>N/A
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6986
+</td>
+<td>Hong Kong
+</td>
+<td>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/0/01/100_3761.jpg/revision/latest?cb=20191108185743"" class=""mw-file-description image""><img alt=""100 3761"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""62"" class=""mw-file-element lazyload"" data-image-name=""100 3761.jpg"" data-image-key=""100_3761.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/0/01/100_3761.jpg/revision/latest/scale-to-width-down/100?cb=20191108185743"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Buzzin%27_Bomb"",""title"":""Buzzin&#39; Bomb"",""text"":""Buzzin' Bomb""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/0/01/100_3761.jpg/revision/latest?cb=20191108185743"",""title"":"""",""text"":""""}]","[{""alt"":""100 3761"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/0/01/100_3761.jpg/revision/latest/scale-to-width-down/100?cb=20191108185743"",""data_image_name"":""100 3761.jpg"",""data_image_key"":""100_3761.jpg"",""width"":""100"",""height"":""62""}]","","","","","",""
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","13","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Buzzin%27_Bomb\"" title=\""Buzzin&#39; Bomb\"">Buzzin' Bomb</a>\n</td>""},{""cell_index"":2,""html"":""<td>Yellow\n</td>""},{""cell_index"":3,""html"":""<td>No tampos\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>Black\n</td>""},{""cell_index"":6,""html"":""<td>N/A\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6986\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428\"" class=\""mw-file-description image\""><img alt=\""Image Not Available\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""67\"" class=\""mw-file-element lazyload\"" data-image-name=\""Image Not Available.jpg\"" data-image-key=\""Image_Not_Available.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428\"" /></a></span>\n</td>""}]","[""Buzzin' Bomb"",""Yellow"",""No tampos"",""Unpainted / Metal"",""Black"",""N/A"",""RL"",""6986"",""Hong Kong"","""",""""]","<tr>
+<td><a href=""/wiki/Buzzin%27_Bomb"" title=""Buzzin&#39; Bomb"">Buzzin' Bomb</a>
+</td>
+<td>Yellow
+</td>
+<td>No tampos
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>Black
+</td>
+<td>N/A
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6986
+</td>
+<td>Hong Kong
+</td>
+<td>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"" class=""mw-file-description image""><img alt=""Image Not Available"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""67"" class=""mw-file-element lazyload"" data-image-name=""Image Not Available.jpg"" data-image-key=""Image_Not_Available.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Buzzin%27_Bomb"",""title"":""Buzzin&#39; Bomb"",""text"":""Buzzin' Bomb""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"",""title"":"""",""text"":""""}]","[{""alt"":""Image Not Available"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"",""data_image_name"":""Image Not Available.jpg"",""data_image_key"":""Image_Not_Available.jpg"",""width"":""100"",""height"":""67""}]","","","","","",""
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","14","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Buzzin%27_Bomb\"" title=\""Buzzin&#39; Bomb\"">Buzzin' Bomb</a>\n</td>""},{""cell_index"":2,""html"":""<td>Red\n</td>""},{""cell_index"":3,""html"":""<td>No tampos\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>Black\n</td>""},{""cell_index"":6,""html"":""<td>N/A\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6986\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/e/e2/Buzzin_Bomb_REV.JPG/revision/latest?cb=20091011020531\"" class=\""mw-file-description image\""><img alt=\""Buzzin Bomb REV\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""49\"" class=\""mw-file-element lazyload\"" data-image-name=\""Buzzin Bomb REV.JPG\"" data-image-key=\""Buzzin_Bomb_REV.JPG\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/e/e2/Buzzin_Bomb_REV.JPG/revision/latest/scale-to-width-down/100?cb=20091011020531\"" /></a></span>\n</td>""}]","[""Buzzin' Bomb"",""Red"",""No tampos"",""Unpainted / Metal"",""Black"",""N/A"",""RL"",""6986"",""Hong Kong"","""",""""]","<tr>
+<td><a href=""/wiki/Buzzin%27_Bomb"" title=""Buzzin&#39; Bomb"">Buzzin' Bomb</a>
+</td>
+<td>Red
+</td>
+<td>No tampos
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>Black
+</td>
+<td>N/A
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6986
+</td>
+<td>Hong Kong
+</td>
+<td>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/e/e2/Buzzin_Bomb_REV.JPG/revision/latest?cb=20091011020531"" class=""mw-file-description image""><img alt=""Buzzin Bomb REV"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""49"" class=""mw-file-element lazyload"" data-image-name=""Buzzin Bomb REV.JPG"" data-image-key=""Buzzin_Bomb_REV.JPG"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/e/e2/Buzzin_Bomb_REV.JPG/revision/latest/scale-to-width-down/100?cb=20091011020531"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Buzzin%27_Bomb"",""title"":""Buzzin&#39; Bomb"",""text"":""Buzzin' Bomb""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/e/e2/Buzzin_Bomb_REV.JPG/revision/latest?cb=20091011020531"",""title"":"""",""text"":""""}]","[{""alt"":""Buzzin Bomb REV"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/e/e2/Buzzin_Bomb_REV.JPG/revision/latest/scale-to-width-down/100?cb=20091011020531"",""data_image_name"":""Buzzin Bomb REV.JPG"",""data_image_key"":""Buzzin_Bomb_REV.JPG"",""width"":""100"",""height"":""49""}]","","","","","",""
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","15","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Buzzin%27_Bomb\"" title=\""Buzzin&#39; Bomb\"">Buzzin' Bomb</a>\n</td>""},{""cell_index"":2,""html"":""<td>Fl. orange\n</td>""},{""cell_index"":3,""html"":""<td>No tampos\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>Black\n</td>""},{""cell_index"":6,""html"":""<td>N/A\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6986\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td><i>Catalog color, possible prototype (only a handful known)</i>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/5/5b/Orange_buzzin_bomb.png/revision/latest?cb=20190203045512\"" class=\""mw-file-description image\""><img alt=\""Orange buzzin bomb\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""43\"" class=\""mw-file-element lazyload\"" data-image-name=\""Orange buzzin bomb.png\"" data-image-key=\""Orange_buzzin_bomb.png\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/5/5b/Orange_buzzin_bomb.png/revision/latest/scale-to-width-down/100?cb=20190203045512\"" /></a></span>\n</td>""}]","[""Buzzin' Bomb"",""Fl. orange"",""No tampos"",""Unpainted / Metal"",""Black"",""N/A"",""RL"",""6986"",""Hong Kong"",""Catalog color, possible prototype (only a handful known)"",""""]","<tr>
+<td><a href=""/wiki/Buzzin%27_Bomb"" title=""Buzzin&#39; Bomb"">Buzzin' Bomb</a>
+</td>
+<td>Fl. orange
+</td>
+<td>No tampos
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>Black
+</td>
+<td>N/A
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6986
+</td>
+<td>Hong Kong
+</td>
+<td><i>Catalog color, possible prototype (only a handful known)</i>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/5/5b/Orange_buzzin_bomb.png/revision/latest?cb=20190203045512"" class=""mw-file-description image""><img alt=""Orange buzzin bomb"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""43"" class=""mw-file-element lazyload"" data-image-name=""Orange buzzin bomb.png"" data-image-key=""Orange_buzzin_bomb.png"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/5/5b/Orange_buzzin_bomb.png/revision/latest/scale-to-width-down/100?cb=20190203045512"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Buzzin%27_Bomb"",""title"":""Buzzin&#39; Bomb"",""text"":""Buzzin' Bomb""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/5/5b/Orange_buzzin_bomb.png/revision/latest?cb=20190203045512"",""title"":"""",""text"":""""}]","[{""alt"":""Orange buzzin bomb"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/5/5b/Orange_buzzin_bomb.png/revision/latest/scale-to-width-down/100?cb=20190203045512"",""data_image_name"":""Orange buzzin bomb.png"",""data_image_key"":""Orange_buzzin_bomb.png"",""width"":""100"",""height"":""43""}]","","","","","",""
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","16","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Stingin%27_Thing\"" title=\""Stingin&#39; Thing\"">Stingin' Thing</a>\n</td>""},{""cell_index"":2,""html"":""<td>Light Blue\n</td>""},{""cell_index"":3,""html"":""<td>No tampos\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>Black\n</td>""},{""cell_index"":6,""html"":""<td>N/A\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6987\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428\"" class=\""mw-file-description image\""><img alt=\""Image Not Available\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""67\"" class=\""mw-file-element lazyload\"" data-image-name=\""Image Not Available.jpg\"" data-image-key=\""Image_Not_Available.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428\"" /></a></span>\n</td>""}]","[""Stingin' Thing"",""Light Blue"",""No tampos"",""Unpainted / Metal"",""Black"",""N/A"",""RL"",""6987"",""Hong Kong"","""",""""]","<tr>
+<td><a href=""/wiki/Stingin%27_Thing"" title=""Stingin&#39; Thing"">Stingin' Thing</a>
+</td>
+<td>Light Blue
+</td>
+<td>No tampos
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>Black
+</td>
+<td>N/A
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6987
+</td>
+<td>Hong Kong
+</td>
+<td>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"" class=""mw-file-description image""><img alt=""Image Not Available"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""67"" class=""mw-file-element lazyload"" data-image-name=""Image Not Available.jpg"" data-image-key=""Image_Not_Available.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Stingin%27_Thing"",""title"":""Stingin&#39; Thing"",""text"":""Stingin' Thing""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"",""title"":"""",""text"":""""}]","[{""alt"":""Image Not Available"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"",""data_image_name"":""Image Not Available.jpg"",""data_image_key"":""Image_Not_Available.jpg"",""width"":""100"",""height"":""67""}]","","","","","",""
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","17","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Stingin%27_Thing\"" title=\""Stingin&#39; Thing\"">Stingin' Thing</a>\n</td>""},{""cell_index"":2,""html"":""<td>Dark Blue\n</td>""},{""cell_index"":3,""html"":""<td>No tampos\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>Black\n</td>""},{""cell_index"":6,""html"":""<td>N/A\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6987\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/1/16/Stingin_Thing_REVblu.JPG/revision/latest?cb=20091011020532\"" class=\""mw-file-description image\""><img alt=\""Stingin Thing REVblu\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""52\"" class=\""mw-file-element lazyload\"" data-image-name=\""Stingin Thing REVblu.JPG\"" data-image-key=\""Stingin_Thing_REVblu.JPG\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/1/16/Stingin_Thing_REVblu.JPG/revision/latest/scale-to-width-down/100?cb=20091011020532\"" /></a></span>\n</td>""}]","[""Stingin' Thing"",""Dark Blue"",""No tampos"",""Unpainted / Metal"",""Black"",""N/A"",""RL"",""6987"",""Hong Kong"","""",""""]","<tr>
+<td><a href=""/wiki/Stingin%27_Thing"" title=""Stingin&#39; Thing"">Stingin' Thing</a>
+</td>
+<td>Dark Blue
+</td>
+<td>No tampos
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>Black
+</td>
+<td>N/A
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6987
+</td>
+<td>Hong Kong
+</td>
+<td>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/1/16/Stingin_Thing_REVblu.JPG/revision/latest?cb=20091011020532"" class=""mw-file-description image""><img alt=""Stingin Thing REVblu"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""52"" class=""mw-file-element lazyload"" data-image-name=""Stingin Thing REVblu.JPG"" data-image-key=""Stingin_Thing_REVblu.JPG"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/1/16/Stingin_Thing_REVblu.JPG/revision/latest/scale-to-width-down/100?cb=20091011020532"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Stingin%27_Thing"",""title"":""Stingin&#39; Thing"",""text"":""Stingin' Thing""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/1/16/Stingin_Thing_REVblu.JPG/revision/latest?cb=20091011020532"",""title"":"""",""text"":""""}]","[{""alt"":""Stingin Thing REVblu"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/1/16/Stingin_Thing_REVblu.JPG/revision/latest/scale-to-width-down/100?cb=20091011020532"",""data_image_name"":""Stingin Thing REVblu.JPG"",""data_image_key"":""Stingin_Thing_REVblu.JPG"",""width"":""100"",""height"":""52""}]","","","","","",""
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","18","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Stingin%27_Thing\"" title=\""Stingin&#39; Thing\"">Stingin' Thing</a>\n</td>""},{""cell_index"":2,""html"":""<td>Flourescent Green\n</td>""},{""cell_index"":3,""html"":""<td>No tampos\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>Black\n</td>""},{""cell_index"":6,""html"":""<td>N/A\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6987\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428\"" class=\""mw-file-description image\""><img alt=\""Image Not Available\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""67\"" class=\""mw-file-element lazyload\"" data-image-name=\""Image Not Available.jpg\"" data-image-key=\""Image_Not_Available.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428\"" /></a></span>\n</td>""}]","[""Stingin' Thing"",""Flourescent Green"",""No tampos"",""Unpainted / Metal"",""Black"",""N/A"",""RL"",""6987"",""Hong Kong"","""",""""]","<tr>
+<td><a href=""/wiki/Stingin%27_Thing"" title=""Stingin&#39; Thing"">Stingin' Thing</a>
+</td>
+<td>Flourescent Green
+</td>
+<td>No tampos
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>Black
+</td>
+<td>N/A
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6987
+</td>
+<td>Hong Kong
+</td>
+<td>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"" class=""mw-file-description image""><img alt=""Image Not Available"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""67"" class=""mw-file-element lazyload"" data-image-name=""Image Not Available.jpg"" data-image-key=""Image_Not_Available.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Stingin%27_Thing"",""title"":""Stingin&#39; Thing"",""text"":""Stingin' Thing""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"",""title"":"""",""text"":""""}]","[{""alt"":""Image Not Available"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"",""data_image_name"":""Image Not Available.jpg"",""data_image_key"":""Image_Not_Available.jpg"",""width"":""100"",""height"":""67""}]","","","","","",""
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","19","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Stingin%27_Thing\"" title=\""Stingin&#39; Thing\"">Stingin' Thing</a>\n</td>""},{""cell_index"":2,""html"":""<td>Flourescent Pink\n</td>""},{""cell_index"":3,""html"":""<td>No tampos\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>Black\n</td>""},{""cell_index"":6,""html"":""<td>N/A\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6987\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428\"" class=\""mw-file-description image\""><img alt=\""Image Not Available\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""67\"" class=\""mw-file-element lazyload\"" data-image-name=\""Image Not Available.jpg\"" data-image-key=\""Image_Not_Available.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428\"" /></a></span>\n</td>""}]","[""Stingin' Thing"",""Flourescent Pink"",""No tampos"",""Unpainted / Metal"",""Black"",""N/A"",""RL"",""6987"",""Hong Kong"","""",""""]","<tr>
+<td><a href=""/wiki/Stingin%27_Thing"" title=""Stingin&#39; Thing"">Stingin' Thing</a>
+</td>
+<td>Flourescent Pink
+</td>
+<td>No tampos
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>Black
+</td>
+<td>N/A
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6987
+</td>
+<td>Hong Kong
+</td>
+<td>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"" class=""mw-file-description image""><img alt=""Image Not Available"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""67"" class=""mw-file-element lazyload"" data-image-name=""Image Not Available.jpg"" data-image-key=""Image_Not_Available.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Stingin%27_Thing"",""title"":""Stingin&#39; Thing"",""text"":""Stingin' Thing""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"",""title"":"""",""text"":""""}]","[{""alt"":""Image Not Available"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"",""data_image_name"":""Image Not Available.jpg"",""data_image_key"":""Image_Not_Available.jpg"",""width"":""100"",""height"":""67""}]","","","","","",""
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","20","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Stingin%27_Thing\"" title=\""Stingin&#39; Thing\"">Stingin' Thing</a>\n</td>""},{""cell_index"":2,""html"":""<td>Yellow\n</td>""},{""cell_index"":3,""html"":""<td>No tampos\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>Black\n</td>""},{""cell_index"":6,""html"":""<td>N/A\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6987\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428\"" class=\""mw-file-description image\""><img alt=\""Image Not Available\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""67\"" class=\""mw-file-element lazyload\"" data-image-name=\""Image Not Available.jpg\"" data-image-key=\""Image_Not_Available.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428\"" /></a></span>\n</td>""}]","[""Stingin' Thing"",""Yellow"",""No tampos"",""Unpainted / Metal"",""Black"",""N/A"",""RL"",""6987"",""Hong Kong"","""",""""]","<tr>
+<td><a href=""/wiki/Stingin%27_Thing"" title=""Stingin&#39; Thing"">Stingin' Thing</a>
+</td>
+<td>Yellow
+</td>
+<td>No tampos
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>Black
+</td>
+<td>N/A
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6987
+</td>
+<td>Hong Kong
+</td>
+<td>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"" class=""mw-file-description image""><img alt=""Image Not Available"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""67"" class=""mw-file-element lazyload"" data-image-name=""Image Not Available.jpg"" data-image-key=""Image_Not_Available.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Stingin%27_Thing"",""title"":""Stingin&#39; Thing"",""text"":""Stingin' Thing""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"",""title"":"""",""text"":""""}]","[{""alt"":""Image Not Available"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"",""data_image_name"":""Image Not Available.jpg"",""data_image_key"":""Image_Not_Available.jpg"",""width"":""100"",""height"":""67""}]","","","","","",""
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","21","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Stingin%27_Thing\"" title=\""Stingin&#39; Thing\"">Stingin' Thing</a>\n</td>""},{""cell_index"":2,""html"":""<td>Red\n</td>""},{""cell_index"":3,""html"":""<td>No tampos\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>Black\n</td>""},{""cell_index"":6,""html"":""<td>N/A\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6987\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/3/34/Stingin_Thing_REVred.JPG/revision/latest?cb=20091011020532\"" class=\""mw-file-description image\""><img alt=\""Stingin Thing REVred\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""55\"" class=\""mw-file-element lazyload\"" data-image-name=\""Stingin Thing REVred.JPG\"" data-image-key=\""Stingin_Thing_REVred.JPG\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/3/34/Stingin_Thing_REVred.JPG/revision/latest/scale-to-width-down/100?cb=20091011020532\"" /></a></span>\n</td>""}]","[""Stingin' Thing"",""Red"",""No tampos"",""Unpainted / Metal"",""Black"",""N/A"",""RL"",""6987"",""Hong Kong"","""",""""]","<tr>
+<td><a href=""/wiki/Stingin%27_Thing"" title=""Stingin&#39; Thing"">Stingin' Thing</a>
+</td>
+<td>Red
+</td>
+<td>No tampos
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>Black
+</td>
+<td>N/A
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6987
+</td>
+<td>Hong Kong
+</td>
+<td>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/3/34/Stingin_Thing_REVred.JPG/revision/latest?cb=20091011020532"" class=""mw-file-description image""><img alt=""Stingin Thing REVred"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""55"" class=""mw-file-element lazyload"" data-image-name=""Stingin Thing REVred.JPG"" data-image-key=""Stingin_Thing_REVred.JPG"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/3/34/Stingin_Thing_REVred.JPG/revision/latest/scale-to-width-down/100?cb=20091011020532"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Stingin%27_Thing"",""title"":""Stingin&#39; Thing"",""text"":""Stingin' Thing""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/3/34/Stingin_Thing_REVred.JPG/revision/latest?cb=20091011020532"",""title"":"""",""text"":""""}]","[{""alt"":""Stingin Thing REVred"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/3/34/Stingin_Thing_REVred.JPG/revision/latest/scale-to-width-down/100?cb=20091011020532"",""data_image_name"":""Stingin Thing REVred.JPG"",""data_image_key"":""Stingin_Thing_REVred.JPG"",""width"":""100"",""height"":""55""}]","","","","","",""
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","22","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Haulin%27_Horses\"" title=\""Haulin&#39; Horses\"">Haulin' Horses</a>\n</td>""},{""cell_index"":2,""html"":""<td>Light Blue\n</td>""},{""cell_index"":3,""html"":""<td>No tampos\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>Black\n</td>""},{""cell_index"":6,""html"":""<td>N/A\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6988\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428\"" class=\""mw-file-description image\""><img alt=\""Image Not Available\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""67\"" class=\""mw-file-element lazyload\"" data-image-name=\""Image Not Available.jpg\"" data-image-key=\""Image_Not_Available.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428\"" /></a></span>\n</td>""}]","[""Haulin' Horses"",""Light Blue"",""No tampos"",""Unpainted / Metal"",""Black"",""N/A"",""RL"",""6988"",""Hong Kong"","""",""""]","<tr>
+<td><a href=""/wiki/Haulin%27_Horses"" title=""Haulin&#39; Horses"">Haulin' Horses</a>
+</td>
+<td>Light Blue
+</td>
+<td>No tampos
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>Black
+</td>
+<td>N/A
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6988
+</td>
+<td>Hong Kong
+</td>
+<td>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"" class=""mw-file-description image""><img alt=""Image Not Available"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""67"" class=""mw-file-element lazyload"" data-image-name=""Image Not Available.jpg"" data-image-key=""Image_Not_Available.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Haulin%27_Horses"",""title"":""Haulin&#39; Horses"",""text"":""Haulin' Horses""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"",""title"":"""",""text"":""""}]","[{""alt"":""Image Not Available"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"",""data_image_name"":""Image Not Available.jpg"",""data_image_key"":""Image_Not_Available.jpg"",""width"":""100"",""height"":""67""}]","","","","","",""
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","23","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Haulin%27_Horses\"" title=\""Haulin&#39; Horses\"">Haulin' Horses</a>\n</td>""},{""cell_index"":2,""html"":""<td>Dark Blue\n</td>""},{""cell_index"":3,""html"":""<td>No tampos\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>Black\n</td>""},{""cell_index"":6,""html"":""<td>N/A\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6988\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/0/0f/Haulin_Horses_REVblu.JPG/revision/latest?cb=20091018133417\"" class=\""mw-file-description image\""><img alt=\""Haulin Horses REVblu\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""64\"" class=\""mw-file-element lazyload\"" data-image-name=\""Haulin Horses REVblu.JPG\"" data-image-key=\""Haulin_Horses_REVblu.JPG\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/0/0f/Haulin_Horses_REVblu.JPG/revision/latest/scale-to-width-down/100?cb=20091018133417\"" /></a></span>\n</td>""}]","[""Haulin' Horses"",""Dark Blue"",""No tampos"",""Unpainted / Metal"",""Black"",""N/A"",""RL"",""6988"",""Hong Kong"","""",""""]","<tr>
+<td><a href=""/wiki/Haulin%27_Horses"" title=""Haulin&#39; Horses"">Haulin' Horses</a>
+</td>
+<td>Dark Blue
+</td>
+<td>No tampos
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>Black
+</td>
+<td>N/A
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6988
+</td>
+<td>Hong Kong
+</td>
+<td>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/0/0f/Haulin_Horses_REVblu.JPG/revision/latest?cb=20091018133417"" class=""mw-file-description image""><img alt=""Haulin Horses REVblu"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""64"" class=""mw-file-element lazyload"" data-image-name=""Haulin Horses REVblu.JPG"" data-image-key=""Haulin_Horses_REVblu.JPG"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/0/0f/Haulin_Horses_REVblu.JPG/revision/latest/scale-to-width-down/100?cb=20091018133417"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Haulin%27_Horses"",""title"":""Haulin&#39; Horses"",""text"":""Haulin' Horses""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/0/0f/Haulin_Horses_REVblu.JPG/revision/latest?cb=20091018133417"",""title"":"""",""text"":""""}]","[{""alt"":""Haulin Horses REVblu"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/0/0f/Haulin_Horses_REVblu.JPG/revision/latest/scale-to-width-down/100?cb=20091018133417"",""data_image_name"":""Haulin Horses REVblu.JPG"",""data_image_key"":""Haulin_Horses_REVblu.JPG"",""width"":""100"",""height"":""64""}]","","","","","",""
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","24","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Haulin%27_Horses\"" title=\""Haulin&#39; Horses\"">Haulin' Horses</a>\n</td>""},{""cell_index"":2,""html"":""<td>Flourescent Green\n</td>""},{""cell_index"":3,""html"":""<td>No tampos\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>Black\n</td>""},{""cell_index"":6,""html"":""<td>N/A\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6988\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428\"" class=\""mw-file-description image\""><img alt=\""Image Not Available\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""67\"" class=\""mw-file-element lazyload\"" data-image-name=\""Image Not Available.jpg\"" data-image-key=\""Image_Not_Available.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428\"" /></a></span>\n</td>""}]","[""Haulin' Horses"",""Flourescent Green"",""No tampos"",""Unpainted / Metal"",""Black"",""N/A"",""RL"",""6988"",""Hong Kong"","""",""""]","<tr>
+<td><a href=""/wiki/Haulin%27_Horses"" title=""Haulin&#39; Horses"">Haulin' Horses</a>
+</td>
+<td>Flourescent Green
+</td>
+<td>No tampos
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>Black
+</td>
+<td>N/A
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6988
+</td>
+<td>Hong Kong
+</td>
+<td>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"" class=""mw-file-description image""><img alt=""Image Not Available"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""67"" class=""mw-file-element lazyload"" data-image-name=""Image Not Available.jpg"" data-image-key=""Image_Not_Available.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Haulin%27_Horses"",""title"":""Haulin&#39; Horses"",""text"":""Haulin' Horses""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"",""title"":"""",""text"":""""}]","[{""alt"":""Image Not Available"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"",""data_image_name"":""Image Not Available.jpg"",""data_image_key"":""Image_Not_Available.jpg"",""width"":""100"",""height"":""67""}]","","","","","",""
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","25","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Haulin%27_Horses\"" title=\""Haulin&#39; Horses\"">Haulin' Horses</a>\n</td>""},{""cell_index"":2,""html"":""<td>Yellow\n</td>""},{""cell_index"":3,""html"":""<td>No tampos\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>Black\n</td>""},{""cell_index"":6,""html"":""<td>N/A\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6988\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428\"" class=\""mw-file-description image\""><img alt=\""Image Not Available\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""67\"" class=\""mw-file-element lazyload\"" data-image-name=\""Image Not Available.jpg\"" data-image-key=\""Image_Not_Available.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428\"" /></a></span>\n</td>""}]","[""Haulin' Horses"",""Yellow"",""No tampos"",""Unpainted / Metal"",""Black"",""N/A"",""RL"",""6988"",""Hong Kong"","""",""""]","<tr>
+<td><a href=""/wiki/Haulin%27_Horses"" title=""Haulin&#39; Horses"">Haulin' Horses</a>
+</td>
+<td>Yellow
+</td>
+<td>No tampos
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>Black
+</td>
+<td>N/A
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6988
+</td>
+<td>Hong Kong
+</td>
+<td>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"" class=""mw-file-description image""><img alt=""Image Not Available"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""67"" class=""mw-file-element lazyload"" data-image-name=""Image Not Available.jpg"" data-image-key=""Image_Not_Available.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Haulin%27_Horses"",""title"":""Haulin&#39; Horses"",""text"":""Haulin' Horses""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"",""title"":"""",""text"":""""}]","[{""alt"":""Image Not Available"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"",""data_image_name"":""Image Not Available.jpg"",""data_image_key"":""Image_Not_Available.jpg"",""width"":""100"",""height"":""67""}]","","","","","",""
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","26","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Haulin%27_Horses\"" title=\""Haulin&#39; Horses\"">Haulin' Horses</a>\n</td>""},{""cell_index"":2,""html"":""<td>Red\n</td>""},{""cell_index"":3,""html"":""<td>No tampos\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>Black\n</td>""},{""cell_index"":6,""html"":""<td>N/A\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6988\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/d/d4/Haulin_Horses_REVred.JPG/revision/latest?cb=20091011020531\"" class=\""mw-file-description image\""><img alt=\""Haulin Horses REVred\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""61\"" class=\""mw-file-element lazyload\"" data-image-name=\""Haulin Horses REVred.JPG\"" data-image-key=\""Haulin_Horses_REVred.JPG\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/d/d4/Haulin_Horses_REVred.JPG/revision/latest/scale-to-width-down/100?cb=20091011020531\"" /></a></span>\n</td>""}]","[""Haulin' Horses"",""Red"",""No tampos"",""Unpainted / Metal"",""Black"",""N/A"",""RL"",""6988"",""Hong Kong"","""",""""]","<tr>
+<td><a href=""/wiki/Haulin%27_Horses"" title=""Haulin&#39; Horses"">Haulin' Horses</a>
+</td>
+<td>Red
+</td>
+<td>No tampos
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>Black
+</td>
+<td>N/A
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6988
+</td>
+<td>Hong Kong
+</td>
+<td>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/d/d4/Haulin_Horses_REVred.JPG/revision/latest?cb=20091011020531"" class=""mw-file-description image""><img alt=""Haulin Horses REVred"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""61"" class=""mw-file-element lazyload"" data-image-name=""Haulin Horses REVred.JPG"" data-image-key=""Haulin_Horses_REVred.JPG"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/d/d4/Haulin_Horses_REVred.JPG/revision/latest/scale-to-width-down/100?cb=20091011020531"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Haulin%27_Horses"",""title"":""Haulin&#39; Horses"",""text"":""Haulin' Horses""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/d/d4/Haulin_Horses_REVred.JPG/revision/latest?cb=20091011020531"",""title"":"""",""text"":""""}]","[{""alt"":""Haulin Horses REVred"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/d/d4/Haulin_Horses_REVred.JPG/revision/latest/scale-to-width-down/100?cb=20091011020531"",""data_image_name"":""Haulin Horses REVred.JPG"",""data_image_key"":""Haulin_Horses_REVred.JPG"",""width"":""100"",""height"":""61""}]","","","","","",""
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","27","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Camper\"" title=\""Camper\"">Camper</a>\n</td>""},{""cell_index"":2,""html"":""<td>Yellow\n</td>""},{""cell_index"":3,""html"":""<td>No tampos\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>Blue tint\n</td>""},{""cell_index"":6,""html"":""<td>None\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6993\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td><i>Came with <a href=\""/wiki/Mighty_Maverick\"" title=\""Mighty Maverick\"">Mighty Maverick</a> or <a href=\""/wiki/Classic_Nomad\"" title=\""Classic Nomad\"">Classic Nomad</a></i>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/5/51/Revvers_Camper.JPG/revision/latest?cb=20230109154536\"" class=\""mw-file-description image\""><img alt=\""Revvers Camper\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""47\"" class=\""mw-file-element lazyload\"" data-image-name=\""Revvers Camper.JPG\"" data-image-key=\""Revvers_Camper.JPG\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/5/51/Revvers_Camper.JPG/revision/latest/scale-to-width-down/100?cb=20230109154536\"" /></a></span>\n</td>""}]","[""Camper"",""Yellow"",""No tampos"",""Unpainted / Metal"",""Blue tint"",""None"",""RL"",""6993"",""Hong Kong"",""Came with Mighty Maverick or Classic Nomad"",""""]","<tr>
+<td><a href=""/wiki/Camper"" title=""Camper"">Camper</a>
+</td>
+<td>Yellow
+</td>
+<td>No tampos
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>Blue tint
+</td>
+<td>None
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6993
+</td>
+<td>Hong Kong
+</td>
+<td><i>Came with <a href=""/wiki/Mighty_Maverick"" title=""Mighty Maverick"">Mighty Maverick</a> or <a href=""/wiki/Classic_Nomad"" title=""Classic Nomad"">Classic Nomad</a></i>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/5/51/Revvers_Camper.JPG/revision/latest?cb=20230109154536"" class=""mw-file-description image""><img alt=""Revvers Camper"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""47"" class=""mw-file-element lazyload"" data-image-name=""Revvers Camper.JPG"" data-image-key=""Revvers_Camper.JPG"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/5/51/Revvers_Camper.JPG/revision/latest/scale-to-width-down/100?cb=20230109154536"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Camper"",""title"":""Camper"",""text"":""Camper""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""/wiki/Mighty_Maverick"",""title"":""Mighty Maverick"",""text"":""Mighty Maverick""},{""href"":""/wiki/Classic_Nomad"",""title"":""Classic Nomad"",""text"":""Classic Nomad""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/5/51/Revvers_Camper.JPG/revision/latest?cb=20230109154536"",""title"":"""",""text"":""""}]","[{""alt"":""Revvers Camper"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/5/51/Revvers_Camper.JPG/revision/latest/scale-to-width-down/100?cb=20230109154536"",""data_image_name"":""Revvers Camper.JPG"",""data_image_key"":""Revvers_Camper.JPG"",""width"":""100"",""height"":""47""}]","","","","","",""
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","28","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Burnin%27_Box\"" title=\""Burnin&#39; Box\"">Burnin' Box</a>\n</td>""},{""cell_index"":2,""html"":""<td>Light Blue\n</td>""},{""cell_index"":3,""html"":""<td>No tampos\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>Black\n</td>""},{""cell_index"":6,""html"":""<td>N/A\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6996\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428\"" class=\""mw-file-description image\""><img alt=\""Image Not Available\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""67\"" class=\""mw-file-element lazyload\"" data-image-name=\""Image Not Available.jpg\"" data-image-key=\""Image_Not_Available.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428\"" /></a></span>\n</td>""}]","[""Burnin' Box"",""Light Blue"",""No tampos"",""Unpainted / Metal"",""Black"",""N/A"",""RL"",""6996"",""Hong Kong"","""",""""]","<tr>
+<td><a href=""/wiki/Burnin%27_Box"" title=""Burnin&#39; Box"">Burnin' Box</a>
+</td>
+<td>Light Blue
+</td>
+<td>No tampos
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>Black
+</td>
+<td>N/A
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6996
+</td>
+<td>Hong Kong
+</td>
+<td>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"" class=""mw-file-description image""><img alt=""Image Not Available"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""67"" class=""mw-file-element lazyload"" data-image-name=""Image Not Available.jpg"" data-image-key=""Image_Not_Available.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Burnin%27_Box"",""title"":""Burnin&#39; Box"",""text"":""Burnin' Box""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"",""title"":"""",""text"":""""}]","[{""alt"":""Image Not Available"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"",""data_image_name"":""Image Not Available.jpg"",""data_image_key"":""Image_Not_Available.jpg"",""width"":""100"",""height"":""67""}]","","","","","",""
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","29","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Burnin%27_Box\"" title=\""Burnin&#39; Box\"">Burnin' Box</a>\n</td>""},{""cell_index"":2,""html"":""<td>Dark Blue\n</td>""},{""cell_index"":3,""html"":""<td>No tampos\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>Black\n</td>""},{""cell_index"":6,""html"":""<td>N/A\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6996\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/9/95/BurninBoxRevver.png/revision/latest?cb=20150527073907\"" class=\""mw-file-description image\""><img alt=\""BurninBoxRevver\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""75\"" class=\""mw-file-element lazyload\"" data-image-name=\""BurninBoxRevver.png\"" data-image-key=\""BurninBoxRevver.png\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/9/95/BurninBoxRevver.png/revision/latest/scale-to-width-down/100?cb=20150527073907\"" /></a></span>\n</td>""}]","[""Burnin' Box"",""Dark Blue"",""No tampos"",""Unpainted / Metal"",""Black"",""N/A"",""RL"",""6996"",""Hong Kong"","""",""""]","<tr>
+<td><a href=""/wiki/Burnin%27_Box"" title=""Burnin&#39; Box"">Burnin' Box</a>
+</td>
+<td>Dark Blue
+</td>
+<td>No tampos
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>Black
+</td>
+<td>N/A
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6996
+</td>
+<td>Hong Kong
+</td>
+<td>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/9/95/BurninBoxRevver.png/revision/latest?cb=20150527073907"" class=""mw-file-description image""><img alt=""BurninBoxRevver"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""75"" class=""mw-file-element lazyload"" data-image-name=""BurninBoxRevver.png"" data-image-key=""BurninBoxRevver.png"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/9/95/BurninBoxRevver.png/revision/latest/scale-to-width-down/100?cb=20150527073907"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Burnin%27_Box"",""title"":""Burnin&#39; Box"",""text"":""Burnin' Box""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/9/95/BurninBoxRevver.png/revision/latest?cb=20150527073907"",""title"":"""",""text"":""""}]","[{""alt"":""BurninBoxRevver"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/9/95/BurninBoxRevver.png/revision/latest/scale-to-width-down/100?cb=20150527073907"",""data_image_name"":""BurninBoxRevver.png"",""data_image_key"":""BurninBoxRevver.png"",""width"":""100"",""height"":""75""}]","","","","","",""
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","30","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Burnin%27_Box\"" title=\""Burnin&#39; Box\"">Burnin' Box</a>\n</td>""},{""cell_index"":2,""html"":""<td>Yellow\n</td>""},{""cell_index"":3,""html"":""<td>No tampos\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>Black\n</td>""},{""cell_index"":6,""html"":""<td>N/A\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6996\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428\"" class=\""mw-file-description image\""><img alt=\""Image Not Available\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""67\"" class=\""mw-file-element lazyload\"" data-image-name=\""Image Not Available.jpg\"" data-image-key=\""Image_Not_Available.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428\"" /></a></span>\n</td>""}]","[""Burnin' Box"",""Yellow"",""No tampos"",""Unpainted / Metal"",""Black"",""N/A"",""RL"",""6996"",""Hong Kong"","""",""""]","<tr>
+<td><a href=""/wiki/Burnin%27_Box"" title=""Burnin&#39; Box"">Burnin' Box</a>
+</td>
+<td>Yellow
+</td>
+<td>No tampos
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>Black
+</td>
+<td>N/A
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6996
+</td>
+<td>Hong Kong
+</td>
+<td>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"" class=""mw-file-description image""><img alt=""Image Not Available"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""67"" class=""mw-file-element lazyload"" data-image-name=""Image Not Available.jpg"" data-image-key=""Image_Not_Available.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Burnin%27_Box"",""title"":""Burnin&#39; Box"",""text"":""Burnin' Box""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"",""title"":"""",""text"":""""}]","[{""alt"":""Image Not Available"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"",""data_image_name"":""Image Not Available.jpg"",""data_image_key"":""Image_Not_Available.jpg"",""width"":""100"",""height"":""67""}]","","","","","",""
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","31","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Burnin%27_Box\"" title=\""Burnin&#39; Box\"">Burnin' Box</a>\n</td>""},{""cell_index"":2,""html"":""<td>Red\n</td>""},{""cell_index"":3,""html"":""<td>No tampos\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>Black\n</td>""},{""cell_index"":6,""html"":""<td>N/A\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6996\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/b/bc/Burnin_Box.JPG/revision/latest?cb=20091011020531\"" class=\""mw-file-description image\""><img alt=\""Burnin Box\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""53\"" class=\""mw-file-element lazyload\"" data-image-name=\""Burnin Box.JPG\"" data-image-key=\""Burnin_Box.JPG\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/b/bc/Burnin_Box.JPG/revision/latest/scale-to-width-down/100?cb=20091011020531\"" /></a></span>\n</td>""}]","[""Burnin' Box"",""Red"",""No tampos"",""Unpainted / Metal"",""Black"",""N/A"",""RL"",""6996"",""Hong Kong"","""",""""]","<tr>
+<td><a href=""/wiki/Burnin%27_Box"" title=""Burnin&#39; Box"">Burnin' Box</a>
+</td>
+<td>Red
+</td>
+<td>No tampos
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>Black
+</td>
+<td>N/A
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6996
+</td>
+<td>Hong Kong
+</td>
+<td>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/b/bc/Burnin_Box.JPG/revision/latest?cb=20091011020531"" class=""mw-file-description image""><img alt=""Burnin Box"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""53"" class=""mw-file-element lazyload"" data-image-name=""Burnin Box.JPG"" data-image-key=""Burnin_Box.JPG"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/b/bc/Burnin_Box.JPG/revision/latest/scale-to-width-down/100?cb=20091011020531"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Burnin%27_Box"",""title"":""Burnin&#39; Box"",""text"":""Burnin' Box""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/b/bc/Burnin_Box.JPG/revision/latest?cb=20091011020531"",""title"":"""",""text"":""""}]","[{""alt"":""Burnin Box"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/b/bc/Burnin_Box.JPG/revision/latest/scale-to-width-down/100?cb=20091011020531"",""data_image_name"":""Burnin Box.JPG"",""data_image_key"":""Burnin_Box.JPG"",""width"":""100"",""height"":""53""}]","","","","","",""
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","32","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Jettin%27_Vette\"" title=\""Jettin&#39; Vette\"">Jettin' Vette</a>\n</td>""},{""cell_index"":2,""html"":""<td>Light Blue\n</td>""},{""cell_index"":3,""html"":""<td>No tampos\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>Black\n</td>""},{""cell_index"":6,""html"":""<td>N/A\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6997\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/d/df/JETTIN2.jpg/revision/latest?cb=20131224060751\"" class=\""mw-file-description image\""><img alt=\""JETTIN2\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""63\"" class=\""mw-file-element lazyload\"" data-image-name=\""JETTIN2.jpg\"" data-image-key=\""JETTIN2.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/d/df/JETTIN2.jpg/revision/latest/scale-to-width-down/100?cb=20131224060751\"" /></a></span>\n</td>""}]","[""Jettin' Vette"",""Light Blue"",""No tampos"",""Unpainted / Metal"",""Black"",""N/A"",""RL"",""6997"",""Hong Kong"","""",""""]","<tr>
+<td><a href=""/wiki/Jettin%27_Vette"" title=""Jettin&#39; Vette"">Jettin' Vette</a>
+</td>
+<td>Light Blue
+</td>
+<td>No tampos
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>Black
+</td>
+<td>N/A
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6997
+</td>
+<td>Hong Kong
+</td>
+<td>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/d/df/JETTIN2.jpg/revision/latest?cb=20131224060751"" class=""mw-file-description image""><img alt=""JETTIN2"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""63"" class=""mw-file-element lazyload"" data-image-name=""JETTIN2.jpg"" data-image-key=""JETTIN2.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/d/df/JETTIN2.jpg/revision/latest/scale-to-width-down/100?cb=20131224060751"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Jettin%27_Vette"",""title"":""Jettin&#39; Vette"",""text"":""Jettin' Vette""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/d/df/JETTIN2.jpg/revision/latest?cb=20131224060751"",""title"":"""",""text"":""""}]","[{""alt"":""JETTIN2"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/d/df/JETTIN2.jpg/revision/latest/scale-to-width-down/100?cb=20131224060751"",""data_image_name"":""JETTIN2.jpg"",""data_image_key"":""JETTIN2.jpg"",""width"":""100"",""height"":""63""}]","","","","","",""
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","33","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Jettin%27_Vette\"" title=\""Jettin&#39; Vette\"">Jettin' Vette</a>\n</td>""},{""cell_index"":2,""html"":""<td>Yellow\n</td>""},{""cell_index"":3,""html"":""<td>No tampos\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>Black\n</td>""},{""cell_index"":6,""html"":""<td>N/A\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6997\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428\"" class=\""mw-file-description image\""><img alt=\""Image Not Available\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""67\"" class=\""mw-file-element lazyload\"" data-image-name=\""Image Not Available.jpg\"" data-image-key=\""Image_Not_Available.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428\"" /></a></span>\n</td>""}]","[""Jettin' Vette"",""Yellow"",""No tampos"",""Unpainted / Metal"",""Black"",""N/A"",""RL"",""6997"",""Hong Kong"","""",""""]","<tr>
+<td><a href=""/wiki/Jettin%27_Vette"" title=""Jettin&#39; Vette"">Jettin' Vette</a>
+</td>
+<td>Yellow
+</td>
+<td>No tampos
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>Black
+</td>
+<td>N/A
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6997
+</td>
+<td>Hong Kong
+</td>
+<td>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"" class=""mw-file-description image""><img alt=""Image Not Available"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""67"" class=""mw-file-element lazyload"" data-image-name=""Image Not Available.jpg"" data-image-key=""Image_Not_Available.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Jettin%27_Vette"",""title"":""Jettin&#39; Vette"",""text"":""Jettin' Vette""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"",""title"":"""",""text"":""""}]","[{""alt"":""Image Not Available"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"",""data_image_name"":""Image Not Available.jpg"",""data_image_key"":""Image_Not_Available.jpg"",""width"":""100"",""height"":""67""}]","","","","","",""
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","34","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Jettin%27_Vette\"" title=\""Jettin&#39; Vette\"">Jettin' Vette</a>\n</td>""},{""cell_index"":2,""html"":""<td>Red\n</td>""},{""cell_index"":3,""html"":""<td>No tampos\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>Black\n</td>""},{""cell_index"":6,""html"":""<td>N/A\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6997\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/3/34/100_3402.jpg/revision/latest?cb=20190930185148\"" class=\""mw-file-description image\""><img alt=\""100 3402\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""52\"" class=\""mw-file-element lazyload\"" data-image-name=\""100 3402.jpg\"" data-image-key=\""100_3402.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/3/34/100_3402.jpg/revision/latest/scale-to-width-down/100?cb=20190930185148\"" /></a></span>\n</td>""}]","[""Jettin' Vette"",""Red"",""No tampos"",""Unpainted / Metal"",""Black"",""N/A"",""RL"",""6997"",""Hong Kong"","""",""""]","<tr>
+<td><a href=""/wiki/Jettin%27_Vette"" title=""Jettin&#39; Vette"">Jettin' Vette</a>
+</td>
+<td>Red
+</td>
+<td>No tampos
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>Black
+</td>
+<td>N/A
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6997
+</td>
+<td>Hong Kong
+</td>
+<td>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/3/34/100_3402.jpg/revision/latest?cb=20190930185148"" class=""mw-file-description image""><img alt=""100 3402"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""52"" class=""mw-file-element lazyload"" data-image-name=""100 3402.jpg"" data-image-key=""100_3402.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/3/34/100_3402.jpg/revision/latest/scale-to-width-down/100?cb=20190930185148"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Jettin%27_Vette"",""title"":""Jettin&#39; Vette"",""text"":""Jettin' Vette""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/3/34/100_3402.jpg/revision/latest?cb=20190930185148"",""title"":"""",""text"":""""}]","[{""alt"":""100 3402"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/3/34/100_3402.jpg/revision/latest/scale-to-width-down/100?cb=20190930185148"",""data_image_name"":""100 3402.jpg"",""data_image_key"":""100_3402.jpg"",""width"":""100"",""height"":""52""}]","","","","","",""
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","35","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Jettin%27_Vette\"" title=\""Jettin&#39; Vette\"">Jettin' Vette</a>\n</td>""},{""cell_index"":2,""html"":""<td>Dark Blue\n</td>""},{""cell_index"":3,""html"":""<td>No tampos\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>Black\n</td>""},{""cell_index"":6,""html"":""<td>N/A\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6997\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td><i>Rare, only a handful known to exist.</i>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428\"" class=\""mw-file-description image\""><img alt=\""Image Not Available\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""67\"" class=\""mw-file-element lazyload\"" data-image-name=\""Image Not Available.jpg\"" data-image-key=\""Image_Not_Available.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428\"" /></a></span>\n</td>""}]","[""Jettin' Vette"",""Dark Blue"",""No tampos"",""Unpainted / Metal"",""Black"",""N/A"",""RL"",""6997"",""Hong Kong"",""Rare, only a handful known to exist."",""""]","<tr>
+<td><a href=""/wiki/Jettin%27_Vette"" title=""Jettin&#39; Vette"">Jettin' Vette</a>
+</td>
+<td>Dark Blue
+</td>
+<td>No tampos
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>Black
+</td>
+<td>N/A
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6997
+</td>
+<td>Hong Kong
+</td>
+<td><i>Rare, only a handful known to exist.</i>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"" class=""mw-file-description image""><img alt=""Image Not Available"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""67"" class=""mw-file-element lazyload"" data-image-name=""Image Not Available.jpg"" data-image-key=""Image_Not_Available.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Jettin%27_Vette"",""title"":""Jettin&#39; Vette"",""text"":""Jettin' Vette""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"",""title"":"""",""text"":""""}]","[{""alt"":""Image Not Available"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"",""data_image_name"":""Image Not Available.jpg"",""data_image_key"":""Image_Not_Available.jpg"",""width"":""100"",""height"":""67""}]","","","","","",""
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","36","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Passin%27_Pride\"" title=\""Passin&#39; Pride\"">Passin' Pride</a>\n</td>""},{""cell_index"":2,""html"":""<td>Light Blue\n</td>""},{""cell_index"":3,""html"":""<td>No tampos\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>Black\n</td>""},{""cell_index"":6,""html"":""<td>N/A\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6998\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428\"" class=\""mw-file-description image\""><img alt=\""Image Not Available\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""67\"" class=\""mw-file-element lazyload\"" data-image-name=\""Image Not Available.jpg\"" data-image-key=\""Image_Not_Available.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428\"" /></a></span>\n</td>""}]","[""Passin' Pride"",""Light Blue"",""No tampos"",""Unpainted / Metal"",""Black"",""N/A"",""RL"",""6998"",""Hong Kong"","""",""""]","<tr>
+<td><a href=""/wiki/Passin%27_Pride"" title=""Passin&#39; Pride"">Passin' Pride</a>
+</td>
+<td>Light Blue
+</td>
+<td>No tampos
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>Black
+</td>
+<td>N/A
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6998
+</td>
+<td>Hong Kong
+</td>
+<td>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"" class=""mw-file-description image""><img alt=""Image Not Available"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""67"" class=""mw-file-element lazyload"" data-image-name=""Image Not Available.jpg"" data-image-key=""Image_Not_Available.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Passin%27_Pride"",""title"":""Passin&#39; Pride"",""text"":""Passin' Pride""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"",""title"":"""",""text"":""""}]","[{""alt"":""Image Not Available"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"",""data_image_name"":""Image Not Available.jpg"",""data_image_key"":""Image_Not_Available.jpg"",""width"":""100"",""height"":""67""}]","","","","","",""
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","37","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Passin%27_Pride\"" title=\""Passin&#39; Pride\"">Passin' Pride</a>\n</td>""},{""cell_index"":2,""html"":""<td>Dark Blue\n</td>""},{""cell_index"":3,""html"":""<td>No tampos\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>Black\n</td>""},{""cell_index"":6,""html"":""<td>N/A\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6998\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/a/a0/Passin_Pride.JPG/revision/latest?cb=20091011024221\"" class=\""mw-file-description image\""><img alt=\""Passin Pride\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""53\"" class=\""mw-file-element lazyload\"" data-image-name=\""Passin Pride.JPG\"" data-image-key=\""Passin_Pride.JPG\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/a/a0/Passin_Pride.JPG/revision/latest/scale-to-width-down/100?cb=20091011024221\"" /></a></span>\n</td>""}]","[""Passin' Pride"",""Dark Blue"",""No tampos"",""Unpainted / Metal"",""Black"",""N/A"",""RL"",""6998"",""Hong Kong"","""",""""]","<tr>
+<td><a href=""/wiki/Passin%27_Pride"" title=""Passin&#39; Pride"">Passin' Pride</a>
+</td>
+<td>Dark Blue
+</td>
+<td>No tampos
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>Black
+</td>
+<td>N/A
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6998
+</td>
+<td>Hong Kong
+</td>
+<td>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/a/a0/Passin_Pride.JPG/revision/latest?cb=20091011024221"" class=""mw-file-description image""><img alt=""Passin Pride"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""53"" class=""mw-file-element lazyload"" data-image-name=""Passin Pride.JPG"" data-image-key=""Passin_Pride.JPG"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/a/a0/Passin_Pride.JPG/revision/latest/scale-to-width-down/100?cb=20091011024221"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Passin%27_Pride"",""title"":""Passin&#39; Pride"",""text"":""Passin' Pride""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/a/a0/Passin_Pride.JPG/revision/latest?cb=20091011024221"",""title"":"""",""text"":""""}]","[{""alt"":""Passin Pride"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/a/a0/Passin_Pride.JPG/revision/latest/scale-to-width-down/100?cb=20091011024221"",""data_image_name"":""Passin Pride.JPG"",""data_image_key"":""Passin_Pride.JPG"",""width"":""100"",""height"":""53""}]","","","","","",""
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","38","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Passin%27_Pride\"" title=\""Passin&#39; Pride\"">Passin' Pride</a>\n</td>""},{""cell_index"":2,""html"":""<td>Yellow\n</td>""},{""cell_index"":3,""html"":""<td>No tampos\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>Black\n</td>""},{""cell_index"":6,""html"":""<td>N/A\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6998\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/a/ac/1973Rev-PassinPride_%28Large%29.JPG/revision/latest?cb=20210919014111\"" class=\""mw-file-description image\""><img alt=\""1973Rev-PassinPride (Large)\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""75\"" class=\""mw-file-element lazyload\"" data-image-name=\""1973Rev-PassinPride (Large).JPG\"" data-image-key=\""1973Rev-PassinPride_%28Large%29.JPG\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/a/ac/1973Rev-PassinPride_%28Large%29.JPG/revision/latest/scale-to-width-down/100?cb=20210919014111\"" /></a></span>\n</td>""}]","[""Passin' Pride"",""Yellow"",""No tampos"",""Unpainted / Metal"",""Black"",""N/A"",""RL"",""6998"",""Hong Kong"","""",""""]","<tr>
+<td><a href=""/wiki/Passin%27_Pride"" title=""Passin&#39; Pride"">Passin' Pride</a>
+</td>
+<td>Yellow
+</td>
+<td>No tampos
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>Black
+</td>
+<td>N/A
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6998
+</td>
+<td>Hong Kong
+</td>
+<td>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/a/ac/1973Rev-PassinPride_%28Large%29.JPG/revision/latest?cb=20210919014111"" class=""mw-file-description image""><img alt=""1973Rev-PassinPride (Large)"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""75"" class=""mw-file-element lazyload"" data-image-name=""1973Rev-PassinPride (Large).JPG"" data-image-key=""1973Rev-PassinPride_%28Large%29.JPG"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/a/ac/1973Rev-PassinPride_%28Large%29.JPG/revision/latest/scale-to-width-down/100?cb=20210919014111"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Passin%27_Pride"",""title"":""Passin&#39; Pride"",""text"":""Passin' Pride""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/a/ac/1973Rev-PassinPride_%28Large%29.JPG/revision/latest?cb=20210919014111"",""title"":"""",""text"":""""}]","[{""alt"":""1973Rev-PassinPride (Large)"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/a/ac/1973Rev-PassinPride_%28Large%29.JPG/revision/latest/scale-to-width-down/100?cb=20210919014111"",""data_image_name"":""1973Rev-PassinPride (Large).JPG"",""data_image_key"":""1973Rev-PassinPride_%28Large%29.JPG"",""width"":""100"",""height"":""75""}]","","","","","",""
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","39","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Passin%27_Pride\"" title=\""Passin&#39; Pride\"">Passin' Pride</a>\n</td>""},{""cell_index"":2,""html"":""<td>Red\n</td>""},{""cell_index"":3,""html"":""<td>No tampos\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>Black\n</td>""},{""cell_index"":6,""html"":""<td>N/A\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6998\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428\"" class=\""mw-file-description image\""><img alt=\""Image Not Available\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""67\"" class=\""mw-file-element lazyload\"" data-image-name=\""Image Not Available.jpg\"" data-image-key=\""Image_Not_Available.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428\"" /></a></span>\n</td>""}]","[""Passin' Pride"",""Red"",""No tampos"",""Unpainted / Metal"",""Black"",""N/A"",""RL"",""6998"",""Hong Kong"","""",""""]","<tr>
+<td><a href=""/wiki/Passin%27_Pride"" title=""Passin&#39; Pride"">Passin' Pride</a>
+</td>
+<td>Red
+</td>
+<td>No tampos
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>Black
+</td>
+<td>N/A
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6998
+</td>
+<td>Hong Kong
+</td>
+<td>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"" class=""mw-file-description image""><img alt=""Image Not Available"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""67"" class=""mw-file-element lazyload"" data-image-name=""Image Not Available.jpg"" data-image-key=""Image_Not_Available.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Passin%27_Pride"",""title"":""Passin&#39; Pride"",""text"":""Passin' Pride""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"",""title"":"""",""text"":""""}]","[{""alt"":""Image Not Available"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"",""data_image_name"":""Image Not Available.jpg"",""data_image_key"":""Image_Not_Available.jpg"",""width"":""100"",""height"":""67""}]","","","","","",""
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","40","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Towin%27_Terror\"" title=\""Towin&#39; Terror\"">Towin' Terror</a>\n</td>""},{""cell_index"":2,""html"":""<td>Light Blue\n</td>""},{""cell_index"":3,""html"":""<td>No tampos\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>Black\n</td>""},{""cell_index"":6,""html"":""<td>N/A\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6999\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/5/5a/Towin_Terror_REV.JPG/revision/latest?cb=20091011020532\"" class=\""mw-file-description image\""><img alt=\""Towin Terror REV\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""55\"" class=\""mw-file-element lazyload\"" data-image-name=\""Towin Terror REV.JPG\"" data-image-key=\""Towin_Terror_REV.JPG\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/5/5a/Towin_Terror_REV.JPG/revision/latest/scale-to-width-down/100?cb=20091011020532\"" /></a></span>\n</td>""}]","[""Towin' Terror"",""Light Blue"",""No tampos"",""Unpainted / Metal"",""Black"",""N/A"",""RL"",""6999"",""Hong Kong"","""",""""]","<tr>
+<td><a href=""/wiki/Towin%27_Terror"" title=""Towin&#39; Terror"">Towin' Terror</a>
+</td>
+<td>Light Blue
+</td>
+<td>No tampos
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>Black
+</td>
+<td>N/A
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6999
+</td>
+<td>Hong Kong
+</td>
+<td>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/5/5a/Towin_Terror_REV.JPG/revision/latest?cb=20091011020532"" class=""mw-file-description image""><img alt=""Towin Terror REV"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""55"" class=""mw-file-element lazyload"" data-image-name=""Towin Terror REV.JPG"" data-image-key=""Towin_Terror_REV.JPG"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/5/5a/Towin_Terror_REV.JPG/revision/latest/scale-to-width-down/100?cb=20091011020532"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Towin%27_Terror"",""title"":""Towin&#39; Terror"",""text"":""Towin' Terror""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/5/5a/Towin_Terror_REV.JPG/revision/latest?cb=20091011020532"",""title"":"""",""text"":""""}]","[{""alt"":""Towin Terror REV"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/5/5a/Towin_Terror_REV.JPG/revision/latest/scale-to-width-down/100?cb=20091011020532"",""data_image_name"":""Towin Terror REV.JPG"",""data_image_key"":""Towin_Terror_REV.JPG"",""width"":""100"",""height"":""55""}]","","","","","",""
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","41","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Towin%27_Terror\"" title=\""Towin&#39; Terror\"">Towin' Terror</a>\n</td>""},{""cell_index"":2,""html"":""<td>Dark Blue\n</td>""},{""cell_index"":3,""html"":""<td>No tampos\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>Black\n</td>""},{""cell_index"":6,""html"":""<td>N/A\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6999\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428\"" class=\""mw-file-description image\""><img alt=\""Image Not Available\"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""67\"" class=\""mw-file-element lazyload\"" data-image-name=\""Image Not Available.jpg\"" data-image-key=\""Image_Not_Available.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428\"" /></a></span>\n</td>""}]","[""Towin' Terror"",""Dark Blue"",""No tampos"",""Unpainted / Metal"",""Black"",""N/A"",""RL"",""6999"",""Hong Kong"","""",""""]","<tr>
+<td><a href=""/wiki/Towin%27_Terror"" title=""Towin&#39; Terror"">Towin' Terror</a>
+</td>
+<td>Dark Blue
+</td>
+<td>No tampos
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>Black
+</td>
+<td>N/A
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6999
+</td>
+<td>Hong Kong
+</td>
+<td>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"" class=""mw-file-description image""><img alt=""Image Not Available"" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""67"" class=""mw-file-element lazyload"" data-image-name=""Image Not Available.jpg"" data-image-key=""Image_Not_Available.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Towin%27_Terror"",""title"":""Towin&#39; Terror"",""text"":""Towin' Terror""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"",""title"":"""",""text"":""""}]","[{""alt"":""Image Not Available"",""src"":""https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/100?cb=20151025125428"",""data_image_name"":""Image Not Available.jpg"",""data_image_key"":""Image_Not_Available.jpg"",""width"":""100"",""height"":""67""}]","","","","","",""
+"product_table_row","Early Special Series/Revvers _ Hot Wheels Wiki _ Fandom.html","7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7","","367105","653533","Versions [ ]","1","42","[""Name"",""Color"",""Tampo"",""Base Color / Type"",""Window Color"",""Interior Color"",""Wheel Type"",""Toy #"",""Country"",""Notes / Variations"",""Photo""]","[{""cell_index"":1,""html"":""<td><a href=\""/wiki/Towin%27_Terror\"" title=\""Towin&#39; Terror\"">Towin' Terror</a>\n</td>""},{""cell_index"":2,""html"":""<td>Red\n</td>""},{""cell_index"":3,""html"":""<td>No tampos\n</td>""},{""cell_index"":4,""html"":""<td>Unpainted<br />/<br />Metal\n</td>""},{""cell_index"":5,""html"":""<td>Black\n</td>""},{""cell_index"":6,""html"":""<td>N/A\n</td>""},{""cell_index"":7,""html"":""<td><a href=\""/wiki/RL\"" title=\""RL\"">RL</a>\n</td>""},{""cell_index"":8,""html"":""<td>6999\n</td>""},{""cell_index"":9,""html"":""<td>Hong Kong\n</td>""},{""cell_index"":10,""html"":""<td>\n</td>""},{""cell_index"":11,""html"":""<td><span typeof=\""mw:File\""><a href=\""https://static.wikia.nocookie.net/hotwheels/images/e/e1/Hot_Wheels_Revvers_.jpg/revision/latest?cb=20220806173544\"" class=\""mw-file-description image\""><img alt=\""Hot Wheels Revvers \"" src=\""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\"" decoding=\""async\"" loading=\""lazy\"" width=\""100\"" height=\""62\"" class=\""mw-file-element lazyload\"" data-image-name=\""Hot Wheels Revvers .jpg\"" data-image-key=\""Hot_Wheels_Revvers_.jpg\"" data-relevant=\""1\"" data-src=\""https://static.wikia.nocookie.net/hotwheels/images/e/e1/Hot_Wheels_Revvers_.jpg/revision/latest/scale-to-width-down/100?cb=20220806173544\"" /></a></span>\n</td>""}]","[""Towin' Terror"",""Red"",""No tampos"",""Unpainted / Metal"",""Black"",""N/A"",""RL"",""6999"",""Hong Kong"","""",""""]","<tr>
+<td><a href=""/wiki/Towin%27_Terror"" title=""Towin&#39; Terror"">Towin' Terror</a>
+</td>
+<td>Red
+</td>
+<td>No tampos
+</td>
+<td>Unpainted<br />/<br />Metal
+</td>
+<td>Black
+</td>
+<td>N/A
+</td>
+<td><a href=""/wiki/RL"" title=""RL"">RL</a>
+</td>
+<td>6999
+</td>
+<td>Hong Kong
+</td>
+<td>
+</td>
+<td><span typeof=""mw:File""><a href=""https://static.wikia.nocookie.net/hotwheels/images/e/e1/Hot_Wheels_Revvers_.jpg/revision/latest?cb=20220806173544"" class=""mw-file-description image""><img alt=""Hot Wheels Revvers "" src=""data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"" decoding=""async"" loading=""lazy"" width=""100"" height=""62"" class=""mw-file-element lazyload"" data-image-name=""Hot Wheels Revvers .jpg"" data-image-key=""Hot_Wheels_Revvers_.jpg"" data-relevant=""1"" data-src=""https://static.wikia.nocookie.net/hotwheels/images/e/e1/Hot_Wheels_Revvers_.jpg/revision/latest/scale-to-width-down/100?cb=20220806173544"" /></a></span>
+</td></tr>","[{""href"":""/wiki/Towin%27_Terror"",""title"":""Towin&#39; Terror"",""text"":""Towin' Terror""},{""href"":""/wiki/RL"",""title"":""RL"",""text"":""RL""},{""href"":""https://static.wikia.nocookie.net/hotwheels/images/e/e1/Hot_Wheels_Revvers_.jpg/revision/latest?cb=20220806173544"",""title"":"""",""text"":""""}]","[{""alt"":""Hot Wheels Revvers "",""src"":""https://static.wikia.nocookie.net/hotwheels/images/e/e1/Hot_Wheels_Revvers_.jpg/revision/latest/scale-to-width-down/100?cb=20220806173544"",""data_image_name"":""Hot Wheels Revvers .jpg"",""data_image_key"":""Hot_Wheels_Revvers_.jpg"",""width"":""100"",""height"":""62""}]","","","","","",""
