@@ -5,8 +5,8 @@ Scope: archived source HTML under `Larger Scale/`, including the nested `Hot Whe
 ## Inventory summary
 
 - Source pages: 37
-- Extracted + QA: 25
-- Remaining: 12
+- Extracted + QA: 30
+- Remaining: 7
 
 ## File inventory and processing status
 
@@ -37,11 +37,11 @@ Scope: archived source HTML under `Larger Scale/`, including the nested `Hot Whe
 | `Larger Scale/Hot Wheels Racing Series/Hot Wheels Racing Series (2009) _ Hot Wheels Wiki _ Fandom.html` | 328394 | `B5EC5BEDBFEF8A9B218EAF475983EB86B3B7ABBDE4EEC60D37AEA91E2167E349` | Extracted + QA |
 | `Larger Scale/Hot Wheels Racing Series/HW Racing Series (2010) _ Hot Wheels Wiki _ Fandom.html` | 333118 | `8EC4942512FF40C5A9FC879200D27E11F7E9F7D445460DEF28A5B115A9886EDB` | Extracted + QA |
 | `Larger Scale/Hot Wheels Racing Series/HW Racing Series (2011) _ Hot Wheels Wiki _ Fandom.html` | 333825 | `6B02D2A0EBF1F8CBDF66FE8CDE1DBC9A99022BABCBBA75FB13DAC9700D238F28` | Extracted + QA |
-| `Larger Scale/Hot Wheels Racing Series/HW Racing Series (2012) _ Hot Wheels Wiki _ Fandom.html` | 334961 | `034096C37D0E155C9037D568D76B3C3C422CEEA79CAD35F5BCA02CEF6AFD677E` | Pending |
-| `Larger Scale/Hot Wheels Racing Series/Racing Circuit Series (2017) _ Hot Wheels Wiki _ Fandom.html` | 332441 | `91B991FC7099B3A95DEFCDE2537E3E87F1FBC3B107B517C85A134892BAE3173E` | Pending |
-| `Larger Scale/Hot Wheels Racing Series/Team_ Hot Wheels Racing Series (2008) _ Hot Wheels Wiki _ Fandom.html` | 310677 | `BB68E49B7D5CE934A29840A429E45809E62F51702FF7E6355F99994464680ADD` | Pending |
-| `Larger Scale/Hot Wheels XL _ Hot Wheels Wiki _ Fandom.html` | 464511 | `84A00C0A2E002E554835052DE475302C8EB4C09AA3491AC0E3DE2FD0492EE866` | Pending |
-| `Larger Scale/La Storia _ Hot Wheels Wiki _ Fandom.html` | 350517 | `89886A363968969D2954AE40CCE8682BCC47F9574893A0893DC438F8FA3CDC56` | Pending |
+| `Larger Scale/Hot Wheels Racing Series/HW Racing Series (2012) _ Hot Wheels Wiki _ Fandom.html` | 334961 | `034096C37D0E155C9037D568D76B3C3C422CEEA79CAD35F5BCA02CEF6AFD677E` | Extracted + QA |
+| `Larger Scale/Hot Wheels Racing Series/Racing Circuit Series (2017) _ Hot Wheels Wiki _ Fandom.html` | 332441 | `91B991FC7099B3A95DEFCDE2537E3E87F1FBC3B107B517C85A134892BAE3173E` | Extracted + QA |
+| `Larger Scale/Hot Wheels Racing Series/Team_ Hot Wheels Racing Series (2008) _ Hot Wheels Wiki _ Fandom.html` | 310677 | `BB68E49B7D5CE934A29840A429E45809E62F51702FF7E6355F99994464680ADD` | Extracted + QA |
+| `Larger Scale/Hot Wheels XL _ Hot Wheels Wiki _ Fandom.html` | 464511 | `84A00C0A2E002E554835052DE475302C8EB4C09AA3491AC0E3DE2FD0492EE866` | Extracted + QA |
+| `Larger Scale/La Storia _ Hot Wheels Wiki _ Fandom.html` | 350517 | `89886A363968969D2954AE40CCE8682BCC47F9574893A0893DC438F8FA3CDC56` | Extracted + QA |
 | `Larger Scale/Passione _ Hot Wheels Wiki _ Fandom.html` | 349596 | `2343C58D57D9A84229C2BF648FA24C816DA046308224B9107376601DB715407C` | Pending |
 | `Larger Scale/Premium 1_43 _ Hot Wheels Wiki _ Fandom.html` | 425636 | `CE84F5A2E3BCB477C3B3121B1D5D053F42BDEBA90D17E927DFAFA292B62FE28C` | Pending |
 | `Larger Scale/Pro Racing 1_43 Scale _ Hot Wheels Wiki _ Fandom.html` | 458813 | `6D139E731962E0CB46702A3E679510A3A0DA75974C0B11CA93E21E6AC906C949` | Pending |
@@ -127,3 +127,18 @@ Processed 5 source pages. Product-table extraction totals: **5 product tables an
 | HW Racing Series (2011) | 1 | 22 |
 
 Batch totals: **5 pages, 5 product tables, 70 product rows**. Gallery extraction remains deferred.
+
+
+## Batch 6: HW Racing 2012 through La Storia
+
+Processed 5 source pages. Product-table extraction totals: **6 product tables and 80 product rows**. Each page has a 21-column CSV and QA report. All five CSVs were re-fetched and validated: 21 columns and zero malformed-width rows.
+
+| Page | Product tables | Product rows |
+|---|---:|---:|
+| HW Racing Series (2012) | 1 | 22 |
+| Racing Circuit Series (2017) | 1 | 10 |
+| Team: Hot Wheels Racing Series (2008) | 1 | 4 |
+| Hot Wheels XL | 2 | 39 |
+| La Storia | 1 | 5 |
+
+Batch totals: **5 pages, 6 product tables, 80 product rows**. Gallery extraction remains deferred.
