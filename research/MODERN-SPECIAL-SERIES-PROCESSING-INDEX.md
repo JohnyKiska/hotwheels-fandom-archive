@@ -7,7 +7,7 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 - Source pages: 223
 - Total source size: 92,291,750 bytes (88.02 MiB)
 - Inventory source: repository `MANIFEST.csv` and GitHub directory/tree entries.
-- Extraction status: 27 of 223 source pages extracted and QA-reviewed; remaining pages are marked `Not yet extracted`.
+- Extraction status: 32 of 223 source pages extracted and QA-reviewed; remaining pages are marked `Not yet extracted`.
 - This index is an inventory baseline, not a claim that each file represents one distinct product series.
 
 ## Source folder breakdown
@@ -61,11 +61,11 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 | `Modern Special Series/Boulevard/2012 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html` | `578fd2b49ab50002c5a1cf7e02d3c0fa645b9059` | 462173 | `D86DEE9B64E43332FDB46E5B17DE957C2093269C631083BDE41882C5C2A66253` | Extracted + QA |
 | `Modern Special Series/Boulevard/2013 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html` | `21d59202804f5d16f47fe2ad96ef6156fd45e3be` | 355161 | `18EDAC0F39E0A4F155D97988B6736C1514A16DE2B133EB6352676290B34E576B` | Extracted + QA |
 | `Modern Special Series/Boulevard/2020 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html` | `8c372e0b73b5c0d4120538608b88f6635f8649be` | 359748 | `541482274CE5286EF640115C2EF6461B4FD593C283FF81D65D2E6A4080A7A080` | Extracted + QA |
-| `Modern Special Series/Boulevard/2021 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html` | `0532eec538dd0f297f78fd6982b30a29b1e47d1f` | 355750 | `5AD503CAAFDC2C0966D9DBFA20FAD181274EE388BD295C6A18C1B1E52483C6AA` | Not yet extracted |
-| `Modern Special Series/Boulevard/2022 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html` | `f070ec10768b87105c8d52775dd3f8e4e1e990a0` | 368296 | `26F5D898F609B17D09620401812CDFFF51D8BB31FAB3405092F717227EF7CC7A` | Not yet extracted |
-| `Modern Special Series/Boulevard/2023 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html` | `ff271dd10f1eb750cd35f6c8dd52bb626ca7d05e` | 367967 | `1D5CE544D9F82515B634F65F48266B5702F05953BCE8E9F576A617B5B103343C` | Not yet extracted |
-| `Modern Special Series/Boulevard/2024 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html` | `500f11fcc00b09f60c4de80c25848c913d9ffd01` | 378954 | `F08FC675DDB2B82F0AE3D019648641EBC046D2B8E70EF8A173FA46D68FCE2CDA` | Not yet extracted |
-| `Modern Special Series/Boulevard/2025 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html` | `3c36cc3686cc0483a2f21a7dd275de577ed83b38` | 370973 | `4B6761042F775FC2EC50B02ED0E77A5358F8C9BB16D1ECE4F138F9567304A167` | Not yet extracted |
+| `Modern Special Series/Boulevard/2021 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html` | `0532eec538dd0f297f78fd6982b30a29b1e47d1f` | 355750 | `5AD503CAAFDC2C0966D9DBFA20FAD181274EE388BD295C6A18C1B1E52483C6AA` | Extracted + QA |
+| `Modern Special Series/Boulevard/2022 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html` | `f070ec10768b87105c8d52775dd3f8e4e1e990a0` | 368296 | `26F5D898F609B17D09620401812CDFFF51D8BB31FAB3405092F717227EF7CC7A` | Extracted + QA |
+| `Modern Special Series/Boulevard/2023 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html` | `ff271dd10f1eb750cd35f6c8dd52bb626ca7d05e` | 367967 | `1D5CE544D9F82515B634F65F48266B5702F05953BCE8E9F576A617B5B103343C` | Extracted + QA |
+| `Modern Special Series/Boulevard/2024 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html` | `500f11fcc00b09f60c4de80c25848c913d9ffd01` | 378954 | `F08FC675DDB2B82F0AE3D019648641EBC046D2B8E70EF8A173FA46D68FCE2CDA` | Extracted + QA |
+| `Modern Special Series/Boulevard/2025 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html` | `3c36cc3686cc0483a2f21a7dd275de577ed83b38` | 370973 | `4B6761042F775FC2EC50B02ED0E77A5358F8C9BB16D1ECE4F138F9567304A167` | Extracted + QA |
 | `Modern Special Series/Boulevard/2026 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html` | `840d2602ad8293b959fe335a8ce55e3e3531c9e9` | 382018 | `92721D41B6ED4A069E594D0F576624024D4E8824051AD250A48738C176C7B11C` | Not yet extracted |
 | `Modern Special Series/Camaro Trans-Am _ Hot Wheels Wiki _ Fandom.html` | `63107791327e0c99ee397e3d23c0c3997b577752` | 346339 | `B613D448E8E9AD6E87E41B150BDCD7B43CE6C2EAFDEF9262E26089A101629E71` | Not yet extracted |
 | `Modern Special Series/Car Culture/2016 Car Culture _ Hot Wheels Wiki _ Fandom.html` | `fe7ee9e47aac1718d0ed698a68e6851fc1b67b3c` | 354521 | `479868FBD8BCA90E7FD52A80022EDC329936AAC765AC0E7A2139204CDEC2B6BF` | Not yet extracted |
@@ -399,6 +399,32 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 - Source: `Modern Special Series/Boulevard/2020 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html`; blob SHA `8c372e0b73b5c0d4120538608b88f6635f8649be`; manifest SHA-256 `541482274CE5286EF640115C2EF6461B4FD593C283FF81D65D2E6A4080A7A080`; 359,748 bytes.
 - Five tables, 24 rows, 44 embedded image references. The final table has no detected headers and is retained separately.
 - CSV: `research/extractions/MODERN-SPECIAL-SERIES-2020-HOT-WHEELS-BOULEVARD.csv`; QA: matching `-EXTRACTION-QA.md`.
+
+
+### 2021 Hot Wheels Boulevard
+- Source: `Modern Special Series/Boulevard/2021 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html`; blob SHA `0532eec538dd0f297f78fd6982b30a29b1e47d1f`; manifest SHA-256 `5AD503CAAFDC2C0966D9DBFA20FAD181274EE388BD295C6A18C1B1E52483C6AA`; 355,750 bytes.
+- Five tables, 22 rows, 40 embedded image references. Final unheaded table retained.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-2021-HOT-WHEELS-BOULEVARD.csv`; QA: matching `-EXTRACTION-QA.md`.
+
+### 2022 Hot Wheels Boulevard
+- Source: `Modern Special Series/Boulevard/2022 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html`; blob SHA `f070ec10768b87105c8d52775dd3f8e4e1e990a0`; manifest SHA-256 `26F5D898F609B17D09620401812CDFFF51D8BB31FAB3405092F717227EF7CC7A`; 368,296 bytes.
+- Seven tables, 28 rows, 54 embedded image references. Boxed Set includes a single-row six-column table and an additional unheaded table; both retained.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-2022-HOT-WHEELS-BOULEVARD.csv`; QA: matching `-EXTRACTION-QA.md`.
+
+### 2023 Hot Wheels Boulevard
+- Source: `Modern Special Series/Boulevard/2023 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html`; blob SHA `ff271dd10f1eb750cd35f6c8dd52bb626ca7d05e`; manifest SHA-256 `1D5CE544D9F82515B634F65F48266B5702F05953BCE8E9F576A617B5B103343C`; 367,967 bytes.
+- Seven tables, 28 rows, 54 embedded image references. Boxed Set single-row and unheaded tables retained.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-2023-HOT-WHEELS-BOULEVARD.csv`; QA: matching `-EXTRACTION-QA.md`.
+
+### 2024 Hot Wheels Boulevard
+- Source: `Modern Special Series/Boulevard/2024 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html`; blob SHA `500f11fcc00b09f60c4de80c25848c913d9ffd01`; manifest SHA-256 `F08FC675DDB2B82F0AE3D019648641EBC046D2B8E70EF8A173FA46D68FCE2CDA`; 378,954 bytes.
+- Eight tables, 33 rows, 64 embedded image references. Rerelease Mix included; Boxed Set single-row and unheaded tables retained.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-2024-HOT-WHEELS-BOULEVARD.csv`; QA: matching `-EXTRACTION-QA.md`.
+
+### 2025 Hot Wheels Boulevard
+- Source: `Modern Special Series/Boulevard/2025 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html`; blob SHA `3c36cc3686cc0483a2f21a7dd275de577ed83b38`; manifest SHA-256 `4B6761042F775FC2EC50B02ED0E77A5358F8C9BB16D1ECE4F138F9567304A167`; 370,973 bytes.
+- Seven tables, 28 rows, 54 embedded image references. Boxed Set single-row and unheaded tables retained.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-2025-HOT-WHEELS-BOULEVARD.csv`; QA: matching `-EXTRACTION-QA.md`.
 
 ## Processing rules
 
