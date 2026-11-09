@@ -2,7 +2,7 @@
 
 - Source path: `Notable Modern Themed Assortments/Fire Rods/Fire Rods Series (2000) _ Hot Wheels Wiki _ Fandom.html`
 - Source Git blob SHA: `0c80db5d0787ed33f99be0aa3344b8d7dd59161b`
-- Source size (bytes): 352402
+- Source size (bytes): 352428
 - Manifest SHA-256: `DFF018D64B7944AAC8B47F7C2109C098C8D88AFA53FBD198E8B01BD9568DEBDF`
 - Fandom revision ID: 779199
 - Content area located: yes
