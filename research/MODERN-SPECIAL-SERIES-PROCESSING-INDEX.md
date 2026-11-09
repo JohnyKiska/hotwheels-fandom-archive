@@ -7,7 +7,7 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 - Source pages: 223
 - Total source size: 92,291,750 bytes (88.02 MiB)
 - Inventory source: repository `MANIFEST.csv` and GitHub directory/tree entries.
-- Extraction status: 12 of 223 source pages extracted and QA-reviewed; remaining pages are marked `Not yet extracted`.
+- Extraction status: 17 of 223 source pages extracted and QA-reviewed; remaining pages are marked `Not yet extracted`.
 - This index is an inventory baseline, not a claim that each file represents one distinct product series.
 
 ## Source folder breakdown
@@ -46,11 +46,11 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 | `Modern Special Series/100% Hot Wheels/2005 Showcase Hot Wheels _ Hot Wheels Wiki _ Fandom.html` | `96b9171f49d9e62bcc50f5b4ab6d4e2b2c5cd76d` | 345421 | `7EB666A6DCC9E8A0AB97CDB9FF8A5E47819410F6A0E5A3DE3B0C87B5F79EBA41` | Extracted + QA |
 | `Modern Special Series/100% Hot Wheels/2006 Kalifornia Kustoms _ Hot Wheels Wiki _ Fandom.html` | `9d9d4764837f12d0112f74e45918bb5cc784d69c` | 346642 | `0E883D59F716526AE3DB42FD210077C95AAEC36DA085E2D8DA474391558F615C` | Extracted + QA |
 | `Modern Special Series/100% Hot Wheels/Hot Wheels Collectibles 1_43 Scale _ Hot Wheels Wiki _ Fandom.html` | `3d4675e8c30ed6c8e6cc94153ae1e734a45b82cb` | 361894 | `E8AAF5049F0C4D5BD30D1158A35595BFDCD58E4151576A4603FB4C41125CDB6D` | Extracted + QA |
-| `Modern Special Series/2027 Racing Culture _ Hot Wheels Wiki _ Fandom.html` | `033f3822a0196eab9c53789bcbb8a4a171c704d5` | 335224 | `F3C4C0451E1EFF1CB648872FDCAEDEFE1E3C0DCD4195C6EA2ABE6648EBE0540D` | Not yet extracted |
-| `Modern Special Series/24_Seven _ Hot Wheels Wiki _ Fandom.html` | `19240f0749786c39806ee43656baa529a1dd88d6` | 452231 | `07C89654E74741C9EFBFA1596C08B6A3A4E0FAB914716EF783EA2F4088C0A50A` | Not yet extracted |
-| `Modern Special Series/AcceleRacers/AcceleRacers (figure series) _ Hot Wheels Wiki _ Fandom.html` | `6638f09b27e23377b6fa5f30998ddc2247d0a29f` | 363520 | `1B4BBBCF77AA65447BAB5773FA361A0FB152A26E3C2D7A596292C372271949E9` | Not yet extracted |
-| `Modern Special Series/AcceleRacers/AcceleRacers Coin Bank _ Hot Wheels Wiki _ Fandom.html` | `eb6d29fce3ca814054dd8be274fb71184a8d2252` | 326165 | `18C8FC192C8AC0D34A4779A2CD83A88941AEC3E0589D2406377D5B97E0CD744B` | Not yet extracted |
-| `Modern Special Series/AcceleRacers/AcceleRacers Collectible Card Game _ Hot Wheels Wiki _ Fandom.html` | `b2b64b5ba21cdd4387b21557f345df235c8fb28e` | 721589 | `BACF2491D6BF281774E742BE16BD745ED3193F5DEE3BD54D91A4D9B52F5793EE` | Not yet extracted |
+| `Modern Special Series/2027 Racing Culture _ Hot Wheels Wiki _ Fandom.html` | `033f3822a0196eab9c53789bcbb8a4a171c704d5` | 335224 | `F3C4C0451E1EFF1CB648872FDCAEDEFE1E3C0DCD4195C6EA2ABE6648EBE0540D` | Extracted + QA |
+| `Modern Special Series/24_Seven _ Hot Wheels Wiki _ Fandom.html` | `19240f0749786c39806ee43656baa529a1dd88d6` | 452231 | `07C89654E74741C9EFBFA1596C08B6A3A4E0FAB914716EF783EA2F4088C0A50A` | Extracted + QA |
+| `Modern Special Series/AcceleRacers/AcceleRacers (figure series) _ Hot Wheels Wiki _ Fandom.html` | `6638f09b27e23377b6fa5f30998ddc2247d0a29f` | 363520 | `1B4BBBCF77AA65447BAB5773FA361A0FB152A26E3C2D7A596292C372271949E9` | Extracted + QA |
+| `Modern Special Series/AcceleRacers/AcceleRacers Coin Bank _ Hot Wheels Wiki _ Fandom.html` | `eb6d29fce3ca814054dd8be274fb71184a8d2252` | 326165 | `18C8FC192C8AC0D34A4779A2CD83A88941AEC3E0589D2406377D5B97E0CD744B` | Extracted + QA |
+| `Modern Special Series/AcceleRacers/AcceleRacers Collectible Card Game _ Hot Wheels Wiki _ Fandom.html` | `b2b64b5ba21cdd4387b21557f345df235c8fb28e` | 721589 | `BACF2491D6BF281774E742BE16BD745ED3193F5DEE3BD54D91A4D9B52F5793EE` | Extracted + QA |
 | `Modern Special Series/AcceleRacers/AcceleRacers Series (2005) _ Hot Wheels Wiki _ Fandom.html` | `ce1bf0e245c47ac64918861c1f50bf02aa1d63cc` | 427652 | `E24C3DE51E55CBB0724263CFCC919753CC4327647BF10C1B3D25A68457A8C3A0` | Not yet extracted |
 | `Modern Special Series/AcceleRacers/AcceleRacers Series (2006) _ Hot Wheels Wiki _ Fandom.html` | `8e19bebeb92fbc628403afd0675f7b0e7d5cc65c` | 386330 | `FA544B7417941CD5E258BAB30D28F8C43988AD2EDFACAB3E8CA86A79DC52297A` | Not yet extracted |
 | `Modern Special Series/AcceleRacers/AcceleRacers Series (2025) _ Hot Wheels Wiki _ Fandom.html` | `ff6af962e9009233b1529c0f0e9aee3b58d78bbd` | 363612 | `154F72FB9CEE4FDE786BB1EE066E2B67DC690F216F3487FAD6459D8245312CC7` | Not yet extracted |
@@ -321,6 +321,32 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 - 3 product tables, 23 rows across 1999, 2000, and 2000 Ferrari sections; 46 embedded image references.
 - 23 populated Toy # values, all distinct; 19 distinct casting-name labels with repeated labels retained separately. The 2000 table's Series column is preserved independently.
 - CSV: `research/extractions/MODERN-SPECIAL-SERIES-HOT-WHEELS-COLLECTIBLES-1-43-SCALE.csv`; QA: `research/extractions/MODERN-SPECIAL-SERIES-HOT-WHEELS-COLLECTIBLES-1-43-SCALE-EXTRACTION-QA.md`.
+
+
+### 2027 Racing Culture
+- Source: `Modern Special Series/2027 Racing Culture _ Hot Wheels Wiki _ Fandom.html`; Git blob SHA `033f3822a0196eab9c53789bcbb8a4a171c704d5`; manifest SHA-256 `F3C4C0451E1EFF1CB648872FDCAEDEFE1E3C0DCD4195C6EA2ABE6648EBE0540D`; 335,224 bytes.
+- Four extracted tables, 12 rows, 20 embedded image references. Table 3 has no detected header row and is preserved as source data pending semantic review.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-2027-RACING-CULTURE.csv`; QA: `research/extractions/MODERN-SPECIAL-SERIES-2027-RACING-CULTURE-EXTRACTION-QA.md`.
+
+### 24/Seven
+- Source: `Modern Special Series/24_Seven _ Hot Wheels Wiki _ Fandom.html`; Git blob SHA `19240f0749786c39806ee43656baa529a1dd88d6`; manifest SHA-256 `07C89654E74741C9EFBFA1596C08B6A3A4E0FAB914716EF783EA2F4088C0A50A`; 452,231 bytes.
+- Two extracted tables, 33 rows, 32 embedded image references, and 44 separate Gallery items. The unheaded second table is retained separately for review.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-24-SEVEN.csv`; QA: `research/extractions/MODERN-SPECIAL-SERIES-24-SEVEN-EXTRACTION-QA.md`.
+
+### AcceleRacers (figure series)
+- Source: `Modern Special Series/AcceleRacers/AcceleRacers (figure series) _ Hot Wheels Wiki _ Fandom.html`; Git blob SHA `6638f09b27e23377b6fa5f30998ddc2247d0a29f`; manifest SHA-256 `1B4BBBCF77AA65447BAB5773FA361A0FB152A26E3C2D7A596292C372271949E9`; 363,520 bytes.
+- Four tables, 20 rows, 20 embedded image references, and 8 separate Gallery items.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-ACCELERACERS-FIGURE-SERIES.csv`; QA: `research/extractions/MODERN-SPECIAL-SERIES-ACCELERACERS-FIGURE-SERIES-EXTRACTION-QA.md`.
+
+### AcceleRacers Coin Bank
+- Source: `Modern Special Series/AcceleRacers/AcceleRacers Coin Bank _ Hot Wheels Wiki _ Fandom.html`; Git blob SHA `eb6d29fce3ca814054dd8be274fb71184a8d2252`; manifest SHA-256 `18C8FC192C8AC0D34A4779A2CD83A88941AEC3E0589D2406377D5B97E0CD744B`; 326,165 bytes.
+- One extracted table, 4 rows, 1 embedded image reference. The table has no detected header row and is preserved pending semantic review.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-ACCELERACERS-COIN-BANK.csv`; QA: `research/extractions/MODERN-SPECIAL-SERIES-ACCELERACERS-COIN-BANK-EXTRACTION-QA.md`.
+
+### AcceleRacers Collectible Card Game
+- Source: `Modern Special Series/AcceleRacers/AcceleRacers Collectible Card Game _ Hot Wheels Wiki _ Fandom.html`; Git blob SHA `b2b64b5ba21cdd4387b21557f345df235c8fb28e`; manifest SHA-256 `BACF2491D6BF281774E742BE16BD745ED3193F5DEE3BD54D91A4D9B52F5793EE`; 721,589 bytes.
+- Two tables, 279 rows (Releases: 4; Cards: 275), 554 embedded image references, and 2 separate Gallery items. The card table is retained at full row granularity.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-ACCELERACERS-COLLECTIBLE-CARD-GAME.csv`; QA: `research/extractions/MODERN-SPECIAL-SERIES-ACCELERACERS-COLLECTIBLE-CARD-GAME-EXTRACTION-QA.md`.
 
 ## Processing rules
 
