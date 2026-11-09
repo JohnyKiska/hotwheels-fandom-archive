@@ -7,7 +7,7 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 - Source pages: 223
 - Total source size: 92,291,750 bytes (88.02 MiB)
 - Inventory source: repository `MANIFEST.csv` and GitHub directory/tree entries.
-- Extraction status: 158 of 223 source pages have CSV and QA artifacts confirmed; remaining 65 pages are marked Not yet extracted.
+- Extraction status: 163 of 223 source pages have CSV and QA artifacts confirmed; remaining 60 pages are marked Not yet extracted.
 - This index is an inventory baseline, not a claim that each file represents one distinct product series.
 
 ## Source folder breakdown
