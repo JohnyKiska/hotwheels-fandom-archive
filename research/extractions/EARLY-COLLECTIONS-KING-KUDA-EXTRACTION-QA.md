@@ -10,8 +10,8 @@
   - 100% Versions [ ]: 1 rows, 12 source columns (Year; Series; Color; Stickers; Base Color / / / Type; Window Color; Interior Color; Wheel Type; Toy #; Country; Notes; Photo).
   - Retooled Versions [ ]: 23 rows, 13 source columns (Col #; Year; Series; Color; Tampo; Base Color / / / Type; Window Color; Interior Color; Wheel Type; Toy #; Country; Notes; Photo).
   - Code 3 [ ]: 11 rows, 9 source columns (Year; Series; Body Color; Tampo; Wheel Type; Country; Quantity; Notes; Photo).
-- Separate Gallery section: 0 gallery entries.
-- Total CSV records: 44.
+- Separate Gallery section: 55 gallery entries.
+- Total CSV records: 99.
 
 ## QA observations
 
