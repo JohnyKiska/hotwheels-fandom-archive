@@ -35,7 +35,7 @@ Status labels:
 | Year/source | Archive status | Research status | Audit conclusion |
 |---|---|---|---|
 | 1968–1978 (11 annual pages) | Present | No complete year-by-year extraction/QA documented | Not yet audited as annual Mainline datasets |
-| 1979 | Present | Extracted 51 rows from 6 product tables; 46 unique nonblank Toy #, 4 blank Toy #; 1 repeated Toy # groups and 9 repeated model-name groups. Seven-column? Structural variation retained; no Collector # or Series #. | Extracted + QA |
+| 1979 | Present | Extracted 51 rows from 6 product tables; 46 unique nonblank Toy #, 4 blank Toy #; 1 repeated Toy # groups and 9 repeated model-name groups. Source schemas vary (9–10 columns); no Collector # or Series #. | Extracted + QA |
 | 1980 | Present | 49 rows across 2 product tables; 42 unique nonblank Toy #; 3 blank Toy #; 4 repeated Toy # groups; 3 repeated casting-name groups | Extracted + QA |
 | 1981 | Present | 27 rows across New Castings, Repaints, Scene Machines and Heroes; 23 unique nonblank Toy #; 1 blank Toy #; repeated Toy # and names preserved; no Collector # or Series #; Heroes has Original Casting/Year/Series Rename schema | Extracted + QA; source-specific schema and identifier collision flagged |
 | 1982 | Present | 90 rows across New Castings, Reissues, Megaforce Series, HiRakers and Workhorses; 74 unique nonblank Toy #; 9 blank Toy #; repeated identifiers and names preserved; no Collector # or Series # | Extracted + QA; table schema differences and identifier collisions flagged |
