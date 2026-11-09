@@ -775,3 +775,17 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 - Source: `Modern Special Series/Character Cars/Trolls Band Together Character Cars _ Hot Wheels Wiki _ Fandom.html`; blob SHA `7a192ecfb62ba4211e5433e9a43728aa61b6a59a`; manifest SHA-256 `0C2B58E9CB12AF5FD7717CE82CDC245038DC56A8F9B8BF989FEE8FCE037260E4`; size 348937 bytes; Fandom revision 686999.
 - 1 product tables, 2 product rows, 4 embedded table image references, 8 links in product cells.
 - CSV: `research/extractions/MODERN-SPECIAL-SERIES-TROLLS-BAND-TOGETHER-CHARACTER-CARS.csv`; QA report: `research/extractions/MODERN-SPECIAL-SERIES-TROLLS-BAND-TOGETHER-CHARACTER-CARS-EXTRACTION-QA.md`.
+
+
+## Latest extraction batch: Character Cars (Universal and Warner Bros.)
+
+### Universal Character Cars
+- Source: `Modern Special Series/Character Cars/Universal Character Cars _ Hot Wheels Wiki _ Fandom.html`; blob SHA `494f973b6e33923f5abc75cdb61dc0263346aacd`; manifest SHA-256 `8AD534117C50ACAA5A8E37A692932C030A72D0658A0CFABB2F05BCBB33A9282D`; size 352238 bytes; Fandom revision 638829.
+- 2 product tables, 3 product rows, 6 embedded table image references, 12 links in product cells.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-UNIVERSAL-CHARACTER-CARS.csv`; QA report: `research/extractions/MODERN-SPECIAL-SERIES-UNIVERSAL-CHARACTER-CARS-EXTRACTION-QA.md`.
+
+### Warner Bros. Character Cars
+- Source: `Modern Special Series/Character Cars/Warner Bros. Character Cars _ Hot Wheels Wiki _ Fandom.html`; blob SHA `c9ec6d2a47d1b6882263e1046ff651325adcb685`; manifest SHA-256 `0B40BCBCDECDBC8FA1823A7EA11D3B24BA34D1032A8A1479A09B10F1A039F2C3`; size 369961 bytes; Fandom revision 605652.
+- 3 product tables, 12 product rows, 24 embedded table image references, 48 links in product cells.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-WARNER-BROS-CHARACTER-CARS.csv`; QA report: `research/extractions/MODERN-SPECIAL-SERIES-WARNER-BROS-CHARACTER-CARS-EXTRACTION-QA.md`.
+
