@@ -85,3 +85,27 @@ Sequential CSV validation has advanced to **140 of 633 distinct CSV files**. Mai
 ## Seventh-stage progress update (2026-11-09)
 
 Sequential validation has advanced to **160 of 633 distinct CSV files**. Mainline 1990–1999 (10 files) and 2000–2009 (10 files) passed CSV parsing and row-width validation against each file's own header. No blank data records, exact duplicate rows, malformed quoting, BOM, U+FFFD, or empty/duplicate header labels were detected in these 20 files. Schema widths continue to evolve across the Mainline archive, with 25, 16, 13, 12, 11, and 10-column layouts represented; these differences are retained and not treated as errors without evidence of a row/header mismatch or lost source fields.
+
+
+## Machine-readable audit manifest and next Mainline batch (2026-11-09)
+
+Added `research/CSV-AUDIT-MANIFEST.csv` with one row for each of the 633 CSV exports. It records per-file audit status and structural-check fields. Because the earlier aggregate progress counters (including 160/633) were not backed by a durable per-file manifest, those historical checks are deliberately left as `not_yet_audited` in the new manifest rather than guessed or reconstructed from a count alone. This is a conservative tracking baseline, not a claim that those files were never inspected.
+
+The following ten Mainline exports were newly validated and recorded as `checked` in the manifest:
+
+| CSV | Data rows | Columns | Width errors | Blank rows | Exact duplicate extra rows |
+|---|---:|---:|---:|---:|---:|
+| MAINLINE-2011.csv | 449 | 10 | 0 | 0 | 0 |
+| MAINLINE-2012.csv | 408 | 10 | 0 | 0 | 0 |
+| MAINLINE-2013.csv | 439 | 11 | 0 | 0 | 0 |
+| MAINLINE-2014.csv | 437 | 11 | 0 | 0 | 0 |
+| MAINLINE-2015.csv | 437 | 11 | 0 | 0 | 0 |
+| MAINLINE-2016.csv | 441 | 10 | 0 | 0 | 0 |
+| MAINLINE-2017.csv | 450 | 10 | 0 | 0 | 0 |
+| MAINLINE-2018.csv | 469 | 10 | 0 | 0 | 0 |
+| MAINLINE-2019.csv | 449 | 10 | 0 | 0 | 0 |
+| MAINLINE-2020.csv | 455 | 10 | 0 | 0 | 0 |
+
+All ten files passed CSV-aware parsing, per-file row-width checks, blank-row checks, exact-duplicate-row checks, BOM, U+FFFD, empty/duplicate-header checks, and quote-balance validation. No structural defects were found. Repeated Toy # values or similar-looking source variants were not deduplicated.
+
+Manifest creation commit: `81f9ecfa23434c42ad80f0db1186b67ab2292576`. Manifest provenance update commit: `47b23e9cd2b0e731d4062c6da79ee83019aa16c4`.
