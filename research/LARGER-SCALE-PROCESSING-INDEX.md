@@ -5,8 +5,8 @@ Scope: archived source HTML under `Larger Scale/`, including the nested `Hot Whe
 ## Inventory summary
 
 - Source pages: 37
-- Extracted + QA: 30
-- Remaining: 7
+- Extracted + QA: 35
+- Remaining: 2
 
 ## File inventory and processing status
 
@@ -42,11 +42,11 @@ Scope: archived source HTML under `Larger Scale/`, including the nested `Hot Whe
 | `Larger Scale/Hot Wheels Racing Series/Team_ Hot Wheels Racing Series (2008) _ Hot Wheels Wiki _ Fandom.html` | 310677 | `BB68E49B7D5CE934A29840A429E45809E62F51702FF7E6355F99994464680ADD` | Extracted + QA |
 | `Larger Scale/Hot Wheels XL _ Hot Wheels Wiki _ Fandom.html` | 464511 | `84A00C0A2E002E554835052DE475302C8EB4C09AA3491AC0E3DE2FD0492EE866` | Extracted + QA |
 | `Larger Scale/La Storia _ Hot Wheels Wiki _ Fandom.html` | 350517 | `89886A363968969D2954AE40CCE8682BCC47F9574893A0893DC438F8FA3CDC56` | Extracted + QA |
-| `Larger Scale/Passione _ Hot Wheels Wiki _ Fandom.html` | 349596 | `2343C58D57D9A84229C2BF648FA24C816DA046308224B9107376601DB715407C` | Pending |
-| `Larger Scale/Premium 1_43 _ Hot Wheels Wiki _ Fandom.html` | 425636 | `CE84F5A2E3BCB477C3B3121B1D5D053F42BDEBA90D17E927DFAFA292B62FE28C` | Pending |
-| `Larger Scale/Pro Racing 1_43 Scale _ Hot Wheels Wiki _ Fandom.html` | 458813 | `6D139E731962E0CB46702A3E679510A3A0DA75974C0B11CA93E21E6AC906C949` | Pending |
-| `Larger Scale/Pull-Back Speeders _ Hot Wheels Wiki _ Fandom.html` | 342850 | `8CCFA7FDBA5FEB5259B056428CF35CA9CB85DB72B865A42E3F46D07AAEBA1DB4` | Pending |
-| `Larger Scale/Pullbax _ Hot Wheels Wiki _ Fandom.html` | 358997 | `6F7A01EFB223B7A87C4AB2BED72E04B6103CD611C48F0E2C74F2C18DEDF140E8` | Pending |
+| `Larger Scale/Passione _ Hot Wheels Wiki _ Fandom.html` | 349596 | `2343C58D57D9A84229C2BF648FA24C816DA046308224B9107376601DB715407C` | Extracted + QA |
+| `Larger Scale/Premium 1_43 _ Hot Wheels Wiki _ Fandom.html` | 425636 | `CE84F5A2E3BCB477C3B3121B1D5D053F42BDEBA90D17E927DFAFA292B62FE28C` | Extracted + QA |
+| `Larger Scale/Pro Racing 1_43 Scale _ Hot Wheels Wiki _ Fandom.html` | 458813 | `6D139E731962E0CB46702A3E679510A3A0DA75974C0B11CA93E21E6AC906C949` | Extracted + QA |
+| `Larger Scale/Pull-Back Speeders _ Hot Wheels Wiki _ Fandom.html` | 342850 | `8CCFA7FDBA5FEB5259B056428CF35CA9CB85DB72B865A42E3F46D07AAEBA1DB4` | Extracted + QA |
+| `Larger Scale/Pullbax _ Hot Wheels Wiki _ Fandom.html` | 358997 | `6F7A01EFB223B7A87C4AB2BED72E04B6103CD611C48F0E2C74F2C18DEDF140E8` | Extracted + QA |
 | `Larger Scale/Street Power _ Hot Wheels Wiki _ Fandom.html` | 480963 | `CB13B01A0A3FD20E8A65CBC8FAF5D5E228072E60F22BF760BA9DC323E2BF1464` | Pending |
 | `Larger Scale/Tunerz _ Hot Wheels Wiki _ Fandom.html` | 381382 | `71006133A94B5CFC7C0EA9B8ECD3E98AF27EA1276CF817F68D92032AB314751B` | Pending |
 
@@ -142,3 +142,18 @@ Processed 5 source pages. Product-table extraction totals: **6 product tables an
 | La Storia | 1 | 5 |
 
 Batch totals: **5 pages, 6 product tables, 80 product rows**. Gallery extraction remains deferred.
+
+
+## Batch 7: Passione through Pullbax
+
+Processed 5 source pages. Product-table extraction totals: **12 product tables and 112 product rows**. Each page has a 21-column CSV and QA report. All five CSVs were re-fetched and validated: 21 columns and zero malformed-width rows.
+
+| Page | Product tables | Product rows |
+|---|---:|---:|
+| Passione | 1 | 7 |
+| Premium 1:43 | 5 | 41 |
+| Pro Racing 1:43 Scale | 1 | 41 |
+| Pull-Back Speeders | 0 | 0 |
+| Pullbax | 5 | 23 |
+
+Batch totals: **5 pages, 12 product tables, 112 product rows**. Pull-Back Speeders contains only a collapsible year-navigation table and no product table in this archived page; year-specific linked pages are outside this page's extraction scope. Gallery extraction remains deferred.
