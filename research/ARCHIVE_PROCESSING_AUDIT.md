@@ -197,3 +197,15 @@ Next: continue with the remaining Early Collections pages in inventory order, re
 - Loose/card images and patch-card front/back gallery references retained separately.
 - Export: `research/extractions/EARLY-COLLECTIONS-CLASSY-CUSTOMS.csv`
 - QA: `research/extractions/EARLY-COLLECTIONS-CLASSY-CUSTOMS-EXTRACTION-QA.md`
+
+
+### Drag Strippers extraction checkpoint
+
+- Source: `Early Collections/Drag Strippers _ Hot Wheels Wiki _ Fandom.html`
+- Git blob SHA: `4a562feebe3ee01403ae956cae9ba6757081f205`
+- Manifest SHA-256: `A752A325B728240B9F62AD5139638C51965E6CE8747EFC4D6593B5E7B21E9125`
+- Fandom revision 767718; 1 product table, 17 product rows, 9 source columns, plus 2 gallery entries.
+- 15 distinct Toy # values, 15 distinct Collector # values and 15 vehicle names. Toy # 2508 / Collector # 34 and Toy # 9646 / Collector # 30 each occur twice; all variant rows retained.
+- No Year column exists. Final Vetty Funny carded-image source entry `Image Not Available.jpg` preserved as source data.
+- Export: `research/extractions/EARLY-COLLECTIONS-DRAG-STRIPPERS.csv`
+- QA: `research/extractions/EARLY-COLLECTIONS-DRAG-STRIPPERS-EXTRACTION-QA.md`
