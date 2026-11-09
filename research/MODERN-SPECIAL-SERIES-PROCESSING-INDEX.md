@@ -217,11 +217,11 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 | `Modern Special Series/Pro Racing/1999 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | `77854fc8ea06ec2d09df5ccd1c4c4299b74ddad2` | 676850 | `CCA36FBF3B96EF3BEBFD00F8C801BD544DDE6AD2F262CA9D598995F07B85C7BA` | Extracted + QA |
 | `Modern Special Series/Pro Racing/2000 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | `a3423d040af99c15800343cf6b26781e48dbe352` | 647030 | `CC078290001F2DADA6FAB461822E148A4AB2D1CADA809FE00E437D7867225D15` | Extracted + QA |
 | `Modern Special Series/Pro Racing/2001 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | `9011f6900c3841b1c467b52e7fc1aa0bf7480daa` | 421812 | `8DC58756AA5B046AF4A22B54EE92658E9437321C7D627E715F587AF75D9FDB3B` | Extracted + QA |
-| `Modern Special Series/Pro Racing/2002 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | `241780a762a326f782fc272e5de373fa4e669d62` | 416604 | `6357E9A35A0ED64CCD1BD96B592F87F40A86F0DA195DAE0FDD763255CC4A2125` | Not yet extracted |
-| `Modern Special Series/Pro Racing/2003 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | `79b5c55a7be437c2229f933848e66b400d351db0` | 459507 | `FBBB140D25D21BCA1137969E85155B6642693198ADE2C6CF4889F1040F994809` | Not yet extracted |
-| `Modern Special Series/Pro Racing/2004 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | `e2ed0061bb2b378d92a03eaa18f720d93a688c0b` | 391687 | `6447AAD4B82DE771EB984D50CD76DC4D9EC75116562C2037334869C7EF7A9154` | Not yet extracted |
-| `Modern Special Series/Pro Racing/2005 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | `a2e39220a14c4a97b56cf98098c9416483823703` | 349792 | `C4063C3A6C607085BA7FA4A72F2423248CA301D1174000090570D953E8A0BCCA` | Not yet extracted |
-| `Modern Special Series/Pro Racing/Basic Pro Racing Series _ Hot Wheels Wiki _ Fandom.html` | `0f648e6d901c84a9993e72281d5f48ce6712e6ae` | 572398 | `74F7C91D344834A2A7FE91502F4D02C609FE461868DF95BB869E3D5A334DAA9C` | Not yet extracted |
+| `Modern Special Series/Pro Racing/2002 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | `241780a762a326f782fc272e5de373fa4e669d62` | 416604 | `6357E9A35A0ED64CCD1BD96B592F87F40A86F0DA195DAE0FDD763255CC4A2125` | Extracted + QA |
+| `Modern Special Series/Pro Racing/2003 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | `79b5c55a7be437c2229f933848e66b400d351db0` | 459507 | `FBBB140D25D21BCA1137969E85155B6642693198ADE2C6CF4889F1040F994809` | Extracted + QA |
+| `Modern Special Series/Pro Racing/2004 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | `e2ed0061bb2b378d92a03eaa18f720d93a688c0b` | 391687 | `6447AAD4B82DE771EB984D50CD76DC4D9EC75116562C2037334869C7EF7A9154` | Extracted + QA |
+| `Modern Special Series/Pro Racing/2005 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | `a2e39220a14c4a97b56cf98098c9416483823703` | 349792 | `C4063C3A6C607085BA7FA4A72F2423248CA301D1174000090570D953E8A0BCCA` | Extracted + QA |
+| `Modern Special Series/Pro Racing/Basic Pro Racing Series _ Hot Wheels Wiki _ Fandom.html` | `0f648e6d901c84a9993e72281d5f48ce6712e6ae` | 572398 | `74F7C91D344834A2A7FE91502F4D02C609FE461868DF95BB869E3D5A334DAA9C` | Extracted + QA |
 | `Modern Special Series/Pro Racing/Hot Wheels Racing Selects _ Hot Wheels Wiki _ Fandom.html` | `d96403c01903f921e041994dc792c60437453c16` | 419736 | `51CFCDAC07E3034598DF30FC6DB09FD4642047D6EC1D5F898351B97E5394DF27` | Not yet extracted |
 | `Modern Special Series/Pro Racing/Team Transporter _ Hot Wheels Wiki _ Fandom.html` | `5af769f95fb6c3480edfafb41fd684dab9b0cc30` | 483632 | `FF3AC07568F29F9A14CE990B57E2F77A54E16EB28C89E667332F724552F2893E` | Not yet extracted |
 | `Modern Special Series/Quartett (2006) _ Hot Wheels Wiki _ Fandom.html` | `6d53ccbb62a22cb15401e0a31f54e1fb057050b8` | 371363 | `35DAEB282B7EE963EE150420B25A9B55F18938224347069002B2B46301A96463` | Not yet extracted |
@@ -959,5 +959,20 @@ Five source pages extracted and QA-reviewed. Batch total: 57 retained product ta
 | `Modern Special Series/Pro Racing/2001 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | 792684 | 16 | 93 | 94 | 192 | `research/extractions/MODERN-SPECIAL-SERIES-2001-PRO-RACING.csv` | `research/extractions/MODERN-SPECIAL-SERIES-2001-PRO-RACING-EXTRACTION-QA.md` |
 
 **Batch totals:** 73 product tables, 721 product rows, 1297 embedded image references, 2787 retained links.
+
+Source blob SHAs, manifest SHA-256 values, and byte sizes are retained in each CSV and QA report.
+
+
+## Latest extraction batch: Pro Racing 2002–2005 and Basic Pro Racing Series, 2026-11-09
+
+| Source page | Revision | Tables | Rows | Images | Links | CSV | QA |
+|---|---:|---:|---:|---:|---:|---|---|
+| `Modern Special Series/Pro Racing/2002 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | 765107 | 13 | 93 | 86 | 189 | `research/extractions/MODERN-SPECIAL-SERIES-2002-PRO-RACING.csv` | `research/extractions/MODERN-SPECIAL-SERIES-2002-PRO-RACING-EXTRACTION-QA.md` |
+| `Modern Special Series/Pro Racing/2003 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | 783974 | 16 | 134 | 139 | 268 | `research/extractions/MODERN-SPECIAL-SERIES-2003-PRO-RACING.csv` | `research/extractions/MODERN-SPECIAL-SERIES-2003-PRO-RACING-EXTRACTION-QA.md` |
+| `Modern Special Series/Pro Racing/2004 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | 773614 | 7 | 71 | 70 | 157 | `research/extractions/MODERN-SPECIAL-SERIES-2004-PRO-RACING.csv` | `research/extractions/MODERN-SPECIAL-SERIES-2004-PRO-RACING-EXTRACTION-QA.md` |
+| `Modern Special Series/Pro Racing/2005 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | 801554 | 4 | 21 | 38 | 68 | `research/extractions/MODERN-SPECIAL-SERIES-2005-PRO-RACING.csv` | `research/extractions/MODERN-SPECIAL-SERIES-2005-PRO-RACING-EXTRACTION-QA.md` |
+| `Modern Special Series/Pro Racing/Basic Pro Racing Series _ Hot Wheels Wiki _ Fandom.html` | 815908 | 11 | 124 | 245 | 504 | `research/extractions/MODERN-SPECIAL-SERIES-BASIC-PRO-RACING-SERIES.csv` | `research/extractions/MODERN-SPECIAL-SERIES-BASIC-PRO-RACING-SERIES-EXTRACTION-QA.md` |
+
+**Batch totals:** 51 product tables, 443 product rows, 578 embedded image references, 1186 retained links.
 
 Source blob SHAs, manifest SHA-256 values, and byte sizes are retained in each CSV and QA report.
