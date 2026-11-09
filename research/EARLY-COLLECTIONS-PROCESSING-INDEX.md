@@ -2,7 +2,7 @@
 
 Scope: archived Fandom pages in `Early Collections/` on `main`. This folder name is retained as source provenance only and is not treated as a verified product-hierarchy node.
 
-Inventory: 33 HTML/HTM files, 12834928 bytes total. 23 of 33 pages extracted and QA-reviewed.
+Inventory: 33 HTML/HTM files, 12834928 bytes total. 24 of 33 pages extracted and QA-reviewed.
 
 | Source file | Git blob SHA | Size (bytes) | Processing status |
 |---|---|---:|---|
@@ -29,7 +29,7 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total. 23 of 33 pages extracted and
 | `Speed Demons _ Hot Wheels Wiki _ Fandom.html` | `bf6c7dca8fae920b5c79db2c787fd3f70460b900` | 356322 | Extracted + QA |
 | `Speed Fleet _ Hot Wheels Wiki _ Fandom.html` | `69ab0490c53bcde8ee008ec0c620619a49bf302a` | 445962 | Extracted + QA |
 | `Speed Machines (1983) _ Hot Wheels Wiki _ Fandom.html` | `e449ee168e898686c0bb46fced0b523081bfea47` | 366238 | Extracted and QA-reviewed |
-| `Speedway Specials _ Hot Wheels Wiki _ Fandom.html` | `de473d47ac484f9feb903c8448b23794d6052eaf` | 352847 | Not yet extracted |
+| `Speedway Specials _ Hot Wheels Wiki _ Fandom.html` | `de473d47ac484f9feb903c8448b23794d6052eaf` | 352847 | Extracted + QA |
 | `Sugar Caddy _ Hot Wheels Wiki _ Fandom.html` | `550488166f32055add61cba2d38393306c9b8b62` | 360833 | Not yet extracted |
 | `Super Chromes (1976) _ Hot Wheels Wiki _ Fandom.html` | `658a01422af975de2968285f809f07cbdbc8f272` | 376448 | Not yet extracted |
 | `Super Streeters _ Hot Wheels Wiki _ Fandom.html` | `963b63c8a2df9d844fcc4404df9e7c0c4e5778aa` | 358718 | Not yet extracted |
@@ -257,3 +257,11 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total. 23 of 33 pages extracted and
 - Extracted 27 product rows from one 6-column Versions table and 1 separate Gallery record; total 28 CSV records.
 - Product table does not expose Toy # or Year columns. Original headers, raw cells, links and image metadata retained.
 - Export: `research/extractions/EARLY-COLLECTIONS-SPEED-MACHINES-1983.csv`; QA: `research/extractions/EARLY-COLLECTIONS-SPEED-MACHINES-1983-EXTRACTION-QA.md`.
+
+
+### Speedway Specials
+- Source: `Early Collections/Speedway Specials _ Hot Wheels Wiki _ Fandom.html`; Git blob SHA `de473d47ac484f9feb903c8448b23794d6052eaf`; manifest SHA-256 `E13939B15DA60B1312CF23E964B46B3DD8BCA6636A305CBD5833E719C49EBF0D`; Fandom revision 767746.
+- One 9-column product table with 17 rows, plus 2 separate Gallery items (19 CSV records total). The article describes the Patch Card mail-away program and dates it to 1978–1979; the table has no Year column.
+- 17 Toy # values have 14 distinct values; repeated groups 17, 21 and 38 are preserved. Vehicle-name repeats: Monte Carlo Stocker and Torino Stocker.
+- 34 embedded table-cell image references and 2 unique Gallery image assets. Source row/cell HTML, headers, links and image metadata retained.
+- Export: `research/extractions/EARLY-COLLECTIONS-SPEEDWAY-SPECIALS.csv`; QA: `research/extractions/EARLY-COLLECTIONS-SPEEDWAY-SPECIALS-EXTRACTION-QA.md`.
