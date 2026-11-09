@@ -13,7 +13,7 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total.
 | `Drag Strippers _ Hot Wheels Wiki _ Fandom.html` | `4a562feebe3ee01403ae956cae9ba6757081f205` | 351156 | Extracted + QA |
 | `Evil Weevil _ Hot Wheels Wiki _ Fandom.html` | `1f58c9c929ca5529421d7e689e5fadcf1ce487ec` | 397979 | Extracted + QA |
 | `Extras _ Hot Wheels Wiki _ Fandom.html` | `e2a591a06e8ae39a455dc264e8cb8c6543c6536b` | 332471 | Extracted + QA |
-| `Flying_Colors.htm` | `7416dad03fc92b77384fc132e0001366744148ac` | 779454 | Not yet extracted |
+| `Flying_Colors.htm` | `7416dad03fc92b77384fc132e0001366744148ac` | 779454 | Extracted + QA |
 | `Grand Prix _ Hot Wheels Wiki _ Fandom.html` | `d23ef8f6f24209353e1c8e9af4c8861fd5d7c25a` | 326614 | Not yet extracted |
 | `Heavy Chevy _ Hot Wheels Wiki _ Fandom.html` | `1b710580762e9947170e92376c9410c4c8683d92` | 454373 | Not yet extracted |
 | `Heavyweights _ Hot Wheels Wiki _ Fandom.html` | `03da68718f75d6951cb802b9c3aa11e949a0d89f` | 327948 | Not yet extracted |
@@ -117,3 +117,12 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total.
 - One product table, 9 rows, 11 columns; loose/carded photo references retained separately.
 - Export: `research/extractions/EARLY-COLLECTIONS-EXTRAS.csv`
 - QA: `research/extractions/EARLY-COLLECTIONS-EXTRAS-EXTRACTION-QA.md`
+
+
+### Flying Colors
+- Source: `Early Collections/Flying_Colors.htm`
+- Git blob SHA: `7416dad03fc92b77384fc132e0001366744148ac`
+- Manifest SHA-256: `40EA1A76B9A5C2890E2D6439D2033651EE819CC02C00BA5CB51B9D7E6241EFB2`
+- Five year tables (1974–1978), 212 product rows. Track Sets retained as a separate non-tabular section.
+- Export: `research/extractions/EARLY-COLLECTIONS-FLYING-COLORS.csv`
+- QA: `research/extractions/EARLY-COLLECTIONS-FLYING-COLORS-EXTRACTION-QA.md`
