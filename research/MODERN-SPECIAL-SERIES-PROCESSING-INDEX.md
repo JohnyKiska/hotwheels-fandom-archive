@@ -7,7 +7,7 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 - Source pages: 223
 - Total source size: 92,291,750 bytes (88.02 MiB)
 - Inventory source: repository `MANIFEST.csv` and GitHub directory/tree entries.
-- Extraction status: 7 of 223 source pages extracted and QA-reviewed; remaining pages are marked `Not yet extracted`.
+- Extraction status: 12 of 223 source pages extracted and QA-reviewed; remaining pages are marked `Not yet extracted`.
 - This index is an inventory baseline, not a claim that each file represents one distinct product series.
 
 ## Source folder breakdown
@@ -41,11 +41,11 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 | `Modern Special Series/100% Hot Wheels/2000 Cool Collectibles _ Hot Wheels Wiki _ Fandom.html` | `d9281a2bfb4e390e319e2eeddb375c07dc3469fc` | 410745 | `7CFFE057490F5F5CC2F794FAE6544B44A8A478E2D667B89402F1FA97F4A6790B` | Extracted + QA |
 | `Modern Special Series/100% Hot Wheels/2001 100% Hot Wheels _ Hot Wheels Wiki _ Fandom.html` | `d979f0f8992326f60442681863cfb8a674625f06` | 358800 | `CD2223732B5D2B49AEC6694DA8D95D6AB7F0FEF621FA2D3C7B4F6CA93D0A6FE3` | Extracted + QA |
 | `Modern Special Series/100% Hot Wheels/2002 100% Hot Wheels _ Hot Wheels Wiki _ Fandom.html` | `d1a7e336bb550a098122e207826f998932dd9af6` | 348734 | `25C038B2B88503985E24379498D2B006064B944B73BEE38149FAD21AF9F03E3B` | Extracted + QA |
-| `Modern Special Series/100% Hot Wheels/2003 100% Hot Wheels _ Hot Wheels Wiki _ Fandom.html` | `706d6e41bd9ffaf5202328e28f0018ae9598b8b5` | 345780 | `E5DBCD13C8FEC09C3440F97BF09A67B774A41380AC6FC61909371E76E16FE442` | Not yet extracted |
-| `Modern Special Series/100% Hot Wheels/2004 Showcase Hot Wheels _ Hot Wheels Wiki _ Fandom.html` | `2e4d1711593f511b3c3b60e13bb23d93bcb03536` | 493266 | `26B1796AADFD27DBA2FDDB965E078FD4B0A21D23C49E31B1199E83F913DDFFAC` | Not yet extracted |
-| `Modern Special Series/100% Hot Wheels/2005 Showcase Hot Wheels _ Hot Wheels Wiki _ Fandom.html` | `96b9171f49d9e62bcc50f5b4ab6d4e2b2c5cd76d` | 345421 | `7EB666A6DCC9E8A0AB97CDB9FF8A5E47819410F6A0E5A3DE3B0C87B5F79EBA41` | Not yet extracted |
-| `Modern Special Series/100% Hot Wheels/2006 Kalifornia Kustoms _ Hot Wheels Wiki _ Fandom.html` | `9d9d4764837f12d0112f74e45918bb5cc784d69c` | 346642 | `0E883D59F716526AE3DB42FD210077C95AAEC36DA085E2D8DA474391558F615C` | Not yet extracted |
-| `Modern Special Series/100% Hot Wheels/Hot Wheels Collectibles 1_43 Scale _ Hot Wheels Wiki _ Fandom.html` | `3d4675e8c30ed6c8e6cc94153ae1e734a45b82cb` | 361894 | `E8AAF5049F0C4D5BD30D1158A35595BFDCD58E4151576A4603FB4C41125CDB6D` | Not yet extracted |
+| `Modern Special Series/100% Hot Wheels/2003 100% Hot Wheels _ Hot Wheels Wiki _ Fandom.html` | `706d6e41bd9ffaf5202328e28f0018ae9598b8b5` | 345780 | `E5DBCD13C8FEC09C3440F97BF09A67B774A41380AC6FC61909371E76E16FE442` | Extracted + QA |
+| `Modern Special Series/100% Hot Wheels/2004 Showcase Hot Wheels _ Hot Wheels Wiki _ Fandom.html` | `2e4d1711593f511b3c3b60e13bb23d93bcb03536` | 493266 | `26B1796AADFD27DBA2FDDB965E078FD4B0A21D23C49E31B1199E83F913DDFFAC` | Extracted + QA |
+| `Modern Special Series/100% Hot Wheels/2005 Showcase Hot Wheels _ Hot Wheels Wiki _ Fandom.html` | `96b9171f49d9e62bcc50f5b4ab6d4e2b2c5cd76d` | 345421 | `7EB666A6DCC9E8A0AB97CDB9FF8A5E47819410F6A0E5A3DE3B0C87B5F79EBA41` | Extracted + QA |
+| `Modern Special Series/100% Hot Wheels/2006 Kalifornia Kustoms _ Hot Wheels Wiki _ Fandom.html` | `9d9d4764837f12d0112f74e45918bb5cc784d69c` | 346642 | `0E883D59F716526AE3DB42FD210077C95AAEC36DA085E2D8DA474391558F615C` | Extracted + QA |
+| `Modern Special Series/100% Hot Wheels/Hot Wheels Collectibles 1_43 Scale _ Hot Wheels Wiki _ Fandom.html` | `3d4675e8c30ed6c8e6cc94153ae1e734a45b82cb` | 361894 | `E8AAF5049F0C4D5BD30D1158A35595BFDCD58E4151576A4603FB4C41125CDB6D` | Extracted + QA |
 | `Modern Special Series/2027 Racing Culture _ Hot Wheels Wiki _ Fandom.html` | `033f3822a0196eab9c53789bcbb8a4a171c704d5` | 335224 | `F3C4C0451E1EFF1CB648872FDCAEDEFE1E3C0DCD4195C6EA2ABE6648EBE0540D` | Not yet extracted |
 | `Modern Special Series/24_Seven _ Hot Wheels Wiki _ Fandom.html` | `19240f0749786c39806ee43656baa529a1dd88d6` | 452231 | `07C89654E74741C9EFBFA1596C08B6A3A4E0FAB914716EF783EA2F4088C0A50A` | Not yet extracted |
 | `Modern Special Series/AcceleRacers/AcceleRacers (figure series) _ Hot Wheels Wiki _ Fandom.html` | `6638f09b27e23377b6fa5f30998ddc2247d0a29f` | 363520 | `1B4BBBCF77AA65447BAB5773FA361A0FB152A26E3C2D7A596292C372271949E9` | Not yet extracted |
@@ -288,6 +288,39 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 - One product table, 32 rows, 5 columns, 33 embedded image references. Collector # and Toy # are retained as separate source columns.
 - 32 populated Toy # values, all distinct; 32 distinct casting-name labels.
 - CSV: `research/extractions/MODERN-SPECIAL-SERIES-2002-100-PERCENT-HOT-WHEELS.csv`; QA: `research/extractions/MODERN-SPECIAL-SERIES-2002-100-PERCENT-HOT-WHEELS-EXTRACTION-QA.md`.
+
+
+### 2003 100% Hot Wheels
+- Source: `Modern Special Series/100% Hot Wheels/2003 100% Hot Wheels _ Hot Wheels Wiki _ Fandom.html`; Fandom revision 790775.
+- 1 product table, 33 rows, 5 source columns, and 33 embedded image references.
+- 33 populated Toy # values, all distinct; 33 distinct casting-name labels.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-2003-100-PERCENT-HOT-WHEELS.csv`; QA: `research/extractions/MODERN-SPECIAL-SERIES-2003-100-PERCENT-HOT-WHEELS-EXTRACTION-QA.md`.
+
+### 2004 Showcase Hot Wheels
+- Source: `Modern Special Series/100% Hot Wheels/2004 Showcase Hot Wheels _ Hot Wheels Wiki _ Fandom.html`; Fandom revision 783147.
+- 9 product tables, 70 rows across Hot Rod, Racing, Muscle Car, Truck, High Test, Drop Tops, Designer, Custom Cruiser, and Batman series; 7 source columns per table.
+- 140 embedded product-table image references and 33 separate Gallery items.
+- 70 populated Toy # values, all distinct. Repeated casting-name labels are retained as separate rows.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-2004-SHOWCASE-HOT-WHEELS.csv`; QA: `research/extractions/MODERN-SPECIAL-SERIES-2004-SHOWCASE-HOT-WHEELS-EXTRACTION-QA.md`.
+
+### 2005 Showcase Hot Wheels
+- Source: `Modern Special Series/100% Hot Wheels/2005 Showcase Hot Wheels _ Hot Wheels Wiki _ Fandom.html`; Fandom revision 790777.
+- 4 product tables, 22 rows across Detroit's Finest, Kool & Kustom, Street Rod, and Wagon Wheels series; 6 source columns per table.
+- 22 embedded image references; no separate standard Gallery items.
+- 22 populated Toy # values, all distinct; 13 distinct casting-name labels with repeated labels retained separately.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-2005-SHOWCASE-HOT-WHEELS.csv`; QA: `research/extractions/MODERN-SPECIAL-SERIES-2005-SHOWCASE-HOT-WHEELS-EXTRACTION-QA.md`.
+
+### 2006 Kalifornia Kustoms
+- Source: `Modern Special Series/100% Hot Wheels/2006 Kalifornia Kustoms _ Hot Wheels Wiki _ Fandom.html`; Fandom revision 741013.
+- 1 product table, 12 rows, 5 source columns, 24 embedded image references, and 4 separate Gallery items.
+- 12 populated Toy # values, all distinct; 12 distinct casting-name labels.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-2006-KALIFORNIA-KUSTOMS.csv`; QA: `research/extractions/MODERN-SPECIAL-SERIES-2006-KALIFORNIA-KUSTOMS-EXTRACTION-QA.md`.
+
+### Hot Wheels Collectibles 1:43 Scale
+- Source: `Modern Special Series/100% Hot Wheels/Hot Wheels Collectibles 1_43 Scale _ Hot Wheels Wiki _ Fandom.html`; Fandom revision 812244.
+- 3 product tables, 23 rows across 1999, 2000, and 2000 Ferrari sections; 46 embedded image references.
+- 23 populated Toy # values, all distinct; 19 distinct casting-name labels with repeated labels retained separately. The 2000 table's Series column is preserved independently.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-HOT-WHEELS-COLLECTIBLES-1-43-SCALE.csv`; QA: `research/extractions/MODERN-SPECIAL-SERIES-HOT-WHEELS-COLLECTIBLES-1-43-SCALE-EXTRACTION-QA.md`.
 
 ## Processing rules
 
