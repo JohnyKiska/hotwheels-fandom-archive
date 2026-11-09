@@ -66,3 +66,9 @@ Two structural defects have been corrected during the expanded pass:
 2. `EARLY-COLLECTIONS-30TH-ANNIVERSARY-4-CAR-SET.csv`: each of the four product rows had one surplus empty field before `Photo filename`, shifting photo and provenance columns. Removed only that empty field; all four rows now match the 20-column header. The associated QA report documents the correction and preserves a note about two lazy-load image placeholders whose actual `data-src` URLs remain in raw source HTML.
 
 No other width, blank-record, exact-duplicate, BOM, U+FFFD, header-label, or quote-balance issue was found in the inspected files. Repeated product identifiers and variant records are not deduplicated. Full audit of the remaining 559 CSV files and page-QA output-path reconciliation are still outstanding.
+
+## Fourth-stage progress update (2026-11-09)
+
+Sequential CSV validation has now reached **122 of 633 distinct CSV files**. The additional Larger Scale and Mainline files inspected in this stage showed no malformed quoting, row-width mismatches, blank data records, exact duplicate rows, BOM, U+FFFD, or empty/duplicate header labels. The 19-column Mainline exports continue to validate against their own 19-column headers.
+
+Header-only exports are not automatically defects: the two Exclusives files with zero data rows were matched to their page-level QA reports, which confirm zero product tables/rows and intentional header-only CSV output. Other header-only outputs will be reconciled against their QA reports during the output-path audit.
