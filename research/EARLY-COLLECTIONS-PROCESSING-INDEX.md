@@ -15,7 +15,7 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total.
 | `Extras _ Hot Wheels Wiki _ Fandom.html` | `e2a591a06e8ae39a455dc264e8cb8c6543c6536b` | 332471 | Extracted + QA |
 | `Flying_Colors.htm` | `7416dad03fc92b77384fc132e0001366744148ac` | 779454 | Extracted + QA |
 | `Grand Prix _ Hot Wheels Wiki _ Fandom.html` | `d23ef8f6f24209353e1c8e9af4c8861fd5d7c25a` | 326614 | Extracted + QA |
-| `Heavy Chevy _ Hot Wheels Wiki _ Fandom.html` | `1b710580762e9947170e92376c9410c4c8683d92` | 454373 | Not yet extracted |
+| `Heavy Chevy _ Hot Wheels Wiki _ Fandom.html` | `1b710580762e9947170e92376c9410c4c8683d92` | 454373 | Extracted + QA |
 | `Heavyweights _ Hot Wheels Wiki _ Fandom.html` | `03da68718f75d6951cb802b9c3aa11e949a0d89f` | 327948 | Not yet extracted |
 | `HiRakers _ Hot Wheels Wiki _ Fandom.html` | `15ce02f85796913b6b1cd9f27b66348f9416e18e` | 354036 | Not yet extracted |
 | `Hot Wheels 30th Anniversary 4-Car Set _ Hot Wheels Wiki _ Fandom.html` | `b278df831c1539c16f123cf442511afe4892015e` | 326597 | Not yet extracted |
@@ -137,3 +137,11 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total.
 - The page has no conventional product-data table. Captions are retained as source labels, with no inferred Toy # or structured release/package data.
 - Export: `research/extractions/EARLY-COLLECTIONS-GRAND-PRIX.csv`
 - QA: `research/extractions/EARLY-COLLECTIONS-GRAND-PRIX-EXTRACTION-QA.md`
+
+
+### Heavy Chevy
+- Source: `Early Collections/Heavy Chevy _ Hot Wheels Wiki _ Fandom.html`
+- Git blob SHA: `1b710580762e9947170e92376c9410c4c8683d92`; manifest SHA-256: `8A478082427112ABDCAAF759187D4D4D799973E821ED61DB3F50F96A3A0A1A76`; Fandom revision 808320.
+- Four product tables (Versions, 100% Versions, Retooled Versions, Code 3), 44 product rows, and 33 separate Gallery references.
+- Repeated Toy # values remain separate rows. Original table schemas, cell values and image metadata are preserved.
+- Export: `research/extractions/EARLY-COLLECTIONS-HEAVY-CHEVY.csv`; QA: `research/extractions/EARLY-COLLECTIONS-HEAVY-CHEVY-EXTRACTION-QA.md`.
