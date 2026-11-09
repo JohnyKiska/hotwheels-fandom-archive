@@ -5,8 +5,8 @@ Scope: archived source HTML under `Other Modern Series/`, including all nested f
 ## Inventory summary
 
 - Source pages: 83
-- Extracted + QA: 71
-- Remaining: 12
+- Extracted + QA: 76
+- Remaining: 7
 
 ## File inventory and processing status
 
@@ -83,11 +83,11 @@ Scope: archived source HTML under `Other Modern Series/`, including all nested f
 | `Other Modern Series/Shogun Racers _ Hot Wheels Wiki _ Fandom.html` | 348114 | `5091246F97933528C9383E8078ADD4C0FC6847AD3F72CF8D336A49BB56C38019` | Extracted + QA |
 | `Other Modern Series/Skate Freaks _ Hot Wheels Wiki _ Fandom.html` | 373678 | `F29CCDA489AE5BB7C149048F0229C092635C75DE7AAD5845E418DD55DCF31C6E` | Extracted + QA |
 | `Other Modern Series/Sky Busters _ Hot Wheels Wiki _ Fandom.html` | 494120 | `3AA4866CD387B12C771F8E222A6FF13E0B3D8B8954FFD896FB81575F40E06F95` | Extracted + QA |
-| `Other Modern Series/Snap Rides _ Hot Wheels Wiki _ Fandom.html` | 341225 | `DE90E0B6197D80F0A8B5C7BBBA232D784CC20EA32FB495AD30BFF1ED94FD519A` | Pending |
-| `Other Modern Series/Speed Cycles _ Hot Wheels Wiki _ Fandom.html` | 408126 | `4AFCCEA67940FEA92D78BC2AF5A7BAD052E6742E10AC3E3925EE05E7E7ACAAD3` | Pending |
-| `Other Modern Series/Speed Demons Series (2003) _ Hot Wheels Wiki _ Fandom.html` | 463633 | `8C479DD670A5E7CF12EC558F86FC078CB80A7295A51A4181E50C08C4514EC123` | Pending |
-| `Other Modern Series/Star Wars Starships _ Hot Wheels Wiki _ Fandom.html` | 803817 | `0E20004D878135BBEF98D5BC577CD4D34636DB393DF8092D3C494B94B854C680` | Pending |
-| `Other Modern Series/Star Wars Starships Select _ Hot Wheels Wiki _ Fandom.html` | 476397 | `024046D5FB018479068668638432D6DECBF53A8C555B4FD619E00C43BDD2737D` | Pending |
+| `Other Modern Series/Snap Rides _ Hot Wheels Wiki _ Fandom.html` | 341225 | `DE90E0B6197D80F0A8B5C7BBBA232D784CC20EA32FB495AD30BFF1ED94FD519A` | Extracted + QA |
+| `Other Modern Series/Speed Cycles _ Hot Wheels Wiki _ Fandom.html` | 408126 | `4AFCCEA67940FEA92D78BC2AF5A7BAD052E6742E10AC3E3925EE05E7E7ACAAD3` | Extracted + QA |
+| `Other Modern Series/Speed Demons Series (2003) _ Hot Wheels Wiki _ Fandom.html` | 463633 | `8C479DD670A5E7CF12EC558F86FC078CB80A7295A51A4181E50C08C4514EC123` | Extracted + QA |
+| `Other Modern Series/Star Wars Starships _ Hot Wheels Wiki _ Fandom.html` | 803817 | `0E20004D878135BBEF98D5BC577CD4D34636DB393DF8092D3C494B94B854C680` | Extracted + QA |
+| `Other Modern Series/Star Wars Starships Select _ Hot Wheels Wiki _ Fandom.html` | 476397 | `024046D5FB018479068668638432D6DECBF53A8C555B4FD619E00C43BDD2737D` | Extracted + QA |
 | `Other Modern Series/Thunder Cycles _ Hot Wheels Wiki _ Fandom.html` | 376762 | `7D8FD03C891611FDC7A00C17D54408BC84B5AC49788A2EDFE5CF4E6E6926C7DD` | Pending |
 | `Other Modern Series/Track Fleet _ Hot Wheels Wiki _ Fandom.html` | 420273 | `E124F875E89AA497A40504796799BE6C4BDC25E875C85C24492534EB45E123F3` | Pending |
 | `Other Modern Series/Track Stars Haulers _ Hot Wheels Wiki _ Fandom.html` | 490764 | `5339CC7D2FE3D3BE547725B6AC4C4C4A15FBBCE4B4D7E3CA46F788C53502EA38` | Pending |
@@ -253,3 +253,18 @@ Processed 5 source pages. Product-table extraction totals: **14 product tables a
 | Sky Busters | 8 | 89 |
 
 Batch totals: **5 pages, 14 product tables, 176 product rows**. Gallery extraction remains deferred.
+
+
+## Batch 10: Snap Rides, Speed Cycles, Speed Demons, and Star Wars Starships
+
+Processed 5 source pages. Product-table extraction totals: **29 product tables and 555 product rows**. Each page has a 21-column CSV and QA report. All five CSVs were re-fetched and validated: 21 columns and zero malformed-width rows. Star Wars Starships QA manifest SHA was cross-checked and corrected against the index before completion.
+
+| Page | Product tables | Product rows |
+|---|---:|---:|
+| Snap Rides | 1 | 22 |
+| Speed Cycles | 1 | 93 |
+| Speed Demons Series (2003) | 6 | 108 |
+| Star Wars Starships | 16 | 256 |
+| Star Wars Starships Select | 5 | 76 |
+
+Batch totals: **5 pages, 29 product tables, 555 product rows**. Gallery extraction remains deferred.
