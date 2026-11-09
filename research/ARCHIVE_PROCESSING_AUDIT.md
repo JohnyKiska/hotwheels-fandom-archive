@@ -185,3 +185,15 @@ Next: continue with the remaining Early Collections pages in inventory order, re
 - Loose and carded photo filenames and alt labels extracted separately. No separate gallery section was detected.
 - Export: `research/extractions/EARLY-COLLECTIONS-CLASSICS.csv`
 - QA: `research/extractions/EARLY-COLLECTIONS-CLASSICS-EXTRACTION-QA.md`
+
+
+### Classy Customs extraction checkpoint
+
+- Source: `Early Collections/Classy Customs _ Hot Wheels Wiki _ Fandom.html`
+- Git blob SHA: `e6abb91ef7ee6140ac65220a5aaef8b33a07f72a`
+- Manifest SHA-256: `07E1C1AF03D7D807AD4CD5BB1B0C00F2BC638F79F4BDCC3C1BAE80B9662CACF7`
+- 1 product table, 12 product rows, 9 source columns, plus 2 separate gallery entries. Fandom revision 767675.
+- 12 distinct Toy # values and 12 distinct Collector # values. Source page contains no Year column; none was inferred.
+- Loose/card images and patch-card front/back gallery references retained separately.
+- Export: `research/extractions/EARLY-COLLECTIONS-CLASSY-CUSTOMS.csv`
+- QA: `research/extractions/EARLY-COLLECTIONS-CLASSY-CUSTOMS-EXTRACTION-QA.md`
