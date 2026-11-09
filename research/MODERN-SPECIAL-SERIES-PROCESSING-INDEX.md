@@ -7,7 +7,7 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 - Source pages: 223
 - Total source size: 92,291,750 bytes (88.02 MiB)
 - Inventory source: repository `MANIFEST.csv` and GitHub directory/tree entries.
-- Extraction status: 168 of 223 source pages have CSV and QA artifacts confirmed; remaining 55 pages are marked Not yet extracted.
+- Extraction status: 173 of 223 source pages have CSV and QA artifacts confirmed; remaining 50 pages are marked Not yet extracted.
 - This index is an inventory baseline, not a claim that each file represents one distinct product series.
 
 ## Source folder breakdown
@@ -242,11 +242,11 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 | `Modern Special Series/Retro Style Series (2016) _ Hot Wheels Wiki _ Fandom.html` | `3997d51257d4cfe45d481c3f0b5eda6545cba533` | 379239 | `3D15F1E7F1020CC89B9CD93179B7FE123179F0589FDADD9F8097DC59732D284C` | Extracted + QA |
 | `Modern Special Series/Short Fuse _ Hot Wheels Wiki _ Fandom.html` | `acec941afe0d399a1ca22d6dddcaae44ef5026f6` | 335313 | `D07EDE5BC8E5547F9005E64C8C1A9A7E0066663D726BC37053C8D9815841D635` | Extracted + QA |
 | `Modern Special Series/Side-Burn _ Hot Wheels Wiki _ Fandom.html` | `87688d2b9e417f0d7a9dc2e1492bd4959364a61a` | 348532 | `A4F48BEF69D41C8BEDA9FD4AA6D680D81F7E5756CACFC65DE0F5B294466391B4` | Extracted + QA |
-| `Modern Special Series/Since '68 Series _ Hot Wheels Wiki _ Fandom.html` | `7cd3e8b70d2ad93ccc1e466ae4a87e9ad1b25bd4` | 504686 | `547F5D492DCFEE2DFEA007FE4D7927BD52EA5D2187C08EC03FEC97D41520B6B5` | Not yet extracted |
-| `Modern Special Series/Speed Machines (2010) _ Hot Wheels Wiki _ Fandom.html` | `38e9cf00d45e2fb36c8775bead38d5d3c5be4af0` | 465055 | `FAC235C5A6564DE23EAD2EB3917BD9D28A3ABB594EB626C09FA409C4E679498D` | Not yet extracted |
-| `Modern Special Series/Spine Buster (Crashers) _ Hot Wheels Wiki _ Fandom.html` | `9665eaf62e7409a2bf57a4637dc392e6d449b3f2` | 327651 | `A4D6B02F388006AEF93CF091E45011A666B4D2B70718BA9E3F611FA0084DE016` | Not yet extracted |
-| `Modern Special Series/Super Chromes Series (2006) _ Hot Wheels Wiki _ Fandom.html` | `63046520e09475e771ff1ca191f9198e89941947` | 374744 | `C1721178F55CA19EA4D78FADBDE190BA758BA7E75C24DB387229C3088BCBFDBB` | Not yet extracted |
-| `Modern Special Series/Team Hot Wheels High-Speed Wheel Series _ Hot Wheels Wiki _ Fandom.html` | `1376e17d37ab1924772deea1a742bfd49bda3438` | 349519 | `4926AD6CDA6D823D48D8B8357A1076385D70D7455D6F26442A7A016063D023A8` | Not yet extracted |
+| `Modern Special Series/Since '68 Series _ Hot Wheels Wiki _ Fandom.html` | `7cd3e8b70d2ad93ccc1e466ae4a87e9ad1b25bd4` | 504686 | `547F5D492DCFEE2DFEA007FE4D7927BD52EA5D2187C08EC03FEC97D41520B6B5` | Extracted + QA |
+| `Modern Special Series/Speed Machines (2010) _ Hot Wheels Wiki _ Fandom.html` | `38e9cf00d45e2fb36c8775bead38d5d3c5be4af0` | 465055 | `FAC235C5A6564DE23EAD2EB3917BD9D28A3ABB594EB626C09FA409C4E679498D` | Extracted + QA |
+| `Modern Special Series/Spine Buster (Crashers) _ Hot Wheels Wiki _ Fandom.html` | `9665eaf62e7409a2bf57a4637dc392e6d449b3f2` | 327651 | `A4D6B02F388006AEF93CF091E45011A666B4D2B70718BA9E3F611FA0084DE016` | Extracted + QA |
+| `Modern Special Series/Super Chromes Series (2006) _ Hot Wheels Wiki _ Fandom.html` | `63046520e09475e771ff1ca191f9198e89941947` | 374744 | `C1721178F55CA19EA4D78FADBDE190BA758BA7E75C24DB387229C3088BCBFDBB` | Extracted + QA |
+| `Modern Special Series/Team Hot Wheels High-Speed Wheel Series _ Hot Wheels Wiki _ Fandom.html` | `1376e17d37ab1924772deea1a742bfd49bda3438` | 349519 | `4926AD6CDA6D823D48D8B8357A1076385D70D7455D6F26442A7A016063D023A8` | Extracted + QA |
 | `Modern Special Series/The Hot Ones/The Hot Ones (2011) _ Hot Wheels Wiki _ Fandom.html` | `39c4c5a795266997aeb0b07565686926629ef320` | 652694 | `FE88FB9C927D557183A9BC05B4AA3BCF8563FFFF4BB9397C52F67AA4FD97AFDC` | Not yet extracted |
 | `Modern Special Series/The Hot Ones/The Hot Ones (2025) _ Hot Wheels Wiki _ Fandom.html` | `32d2320530c24fb7c73838fb686ad07cf65da436` | 417259 | `FA8DC43FE4735BFC4376C5DD9F3F733A740F9F365CA17A6D3F93D476FC960964` | Not yet extracted |
 | `Modern Special Series/The Vantom _ Hot Wheels Wiki _ Fandom.html` | `f36c736720b50d2157544d7a320aea5b6d11410f` | 325971 | `934623769CA0D2C6F0C5D3BE5E43AC0A0198E06DB63843B3AAD694338B922D92` | Not yet extracted |
@@ -1038,5 +1038,20 @@ Five source pages extracted and QA-reviewed. Batch total: 21 product tables, 109
 | `Modern Special Series/Side-Burn _ Hot Wheels Wiki _ Fandom.html` | 792585 | 1 | 10 | 10 | 46 | `research/extractions/MODERN-SPECIAL-SERIES-SIDE-BURN.csv` | `research/extractions/MODERN-SPECIAL-SERIES-SIDE-BURN-EXTRACTION-QA.md` |
 
 **Batch totals:** 21 product tables, 109 product rows, 197 embedded image references, 398 retained links.
+
+Source blob SHAs, manifest SHA-256 values, and byte sizes are retained in each CSV and QA report.
+
+
+## Latest extraction batch: Since '68 Series through Team Hot Wheels High-Speed Wheel Series, 2026-11-09
+
+Five source pages extracted and QA-reviewed. Batch total: 16 retained product tables, 282 product rows, 460 embedded table image references, and 867 links in product cells. Each page has a 21-column CSV and individual QA report. Separate Gallery items have not been independently extracted in this pass.
+
+| Source page | Revision | Tables | Rows | Images | Links | CSV | QA |
+|---|---:|---:|---:|---:|---:|---|---|
+| `Since '68 Series` | 800502 | 9 | 126 | 202 | 328 | `research/extractions/MODERN-SPECIAL-SERIES-SINCE-68-SERIES.csv` | `research/extractions/MODERN-SPECIAL-SERIES-SINCE-68-SERIES-EXTRACTION-QA.md` |
+| `Speed Machines (2010)` | 771230 | 2 | 90 | 169 | 349 | `research/extractions/MODERN-SPECIAL-SERIES-SPEED-MACHINES-2010.csv` | `research/extractions/MODERN-SPECIAL-SERIES-SPEED-MACHINES-2010-EXTRACTION-QA.md` |
+| `Spine Buster (Crashers)` | 612503 | 1 | 1 | 1 | 4 | `research/extractions/MODERN-SPECIAL-SERIES-SPINE-BUSTER-CRASHERS.csv` | `research/extractions/MODERN-SPECIAL-SERIES-SPINE-BUSTER-CRASHERS-EXTRACTION-QA.md` |
+| `Super Chromes Series (2006)` | 714375 | 3 | 32 | 55 | 87 | `research/extractions/MODERN-SPECIAL-SERIES-SUPER-CHROMES-SERIES-2006.csv` | `research/extractions/MODERN-SPECIAL-SERIES-SUPER-CHROMES-SERIES-2006-EXTRACTION-QA.md` |
+| `Team Hot Wheels High-Speed Wheel Series` | 757115 | 1 | 33 | 33 | 99 | `research/extractions/MODERN-SPECIAL-SERIES-TEAM-HOT-WHEELS-HIGH-SPEED-WHEEL-SERIES.csv` | `research/extractions/MODERN-SPECIAL-SERIES-TEAM-HOT-WHEELS-HIGH-SPEED-WHEEL-SERIES-EXTRACTION-QA.md` |
 
 Source blob SHAs, manifest SHA-256 values, and byte sizes are retained in each CSV and QA report.
