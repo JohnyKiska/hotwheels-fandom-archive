@@ -221,3 +221,11 @@ Next: continue with the remaining Early Collections pages in inventory order, re
 - Original Versions `Stickers` and Retooled Versions `Tampo` are preserved as separate fields. Years are 1971, 2004, 2005, 2006, 2008 and 2009.
 - Export: `research/extractions/EARLY-COLLECTIONS-EVIL-WEEVIL.csv`
 - QA: `research/extractions/EARLY-COLLECTIONS-EVIL-WEEVIL-EXTRACTION-QA.md`
+
+
+### Extras extraction checkpoint
+
+- Source: `Early Collections/Extras _ Hot Wheels Wiki _ Fandom.html`; Git blob SHA `e2a591a06e8ae39a455dc264e8cb8c6543c6536b`; manifest SHA-256 `D348DC5A136C715B5C5DE7DE3289ECDCAE3DEEE91DE49523B4FF8005F4F65A66`; Fandom revision 765024.
+- One product table, 9 rows and 11 source columns. Loose and carded photo references were retained separately.
+- Repeated Toy # groups: [["4342",2],["5905",2]]. All source rows remain distinct.
+- Export: `research/extractions/EARLY-COLLECTIONS-EXTRAS.csv`; QA: `research/extractions/EARLY-COLLECTIONS-EXTRAS-EXTRACTION-QA.md`.
