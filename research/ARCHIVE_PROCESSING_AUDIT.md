@@ -326,3 +326,11 @@ Next: continue with the remaining Early Collections pages in inventory order, re
 - Extracted 8 product rows from one 9-column source table and 2 separate Gallery records, for 10 CSV records. All eight Toy # values are populated and distinct.
 - Preserved source headers/cells, raw cell HTML, links, cell-level image metadata, and the separate patch/card gallery references. No rows were deduplicated and no identity relationships inferred.
 - Export: `research/extractions/EARLY-COLLECTIONS-OLDIES-BUT-GOODIES.csv`; QA: `research/extractions/EARLY-COLLECTIONS-OLDIES-BUT-GOODIES-EXTRACTION-QA.md`.
+
+
+### Real Riders extraction checkpoint
+
+- Source: `Early Collections/Real Riders _ Hot Wheels Wiki _ Fandom.html`; Git blob SHA `f5da19e889612b3922c10500d86640aa2b17071f`; manifest SHA-256 `599AB0B87CF730E3F5158F7417819B206302C59C5DA3B51DCB61BE2C39E09891`; Fandom revision 813974.
+- The page has no product tables and no standard Wikia gallery. Extracted 5 article-text records, 13 linked references, 1 prototype-tire illustration, and all 12 slideshow images (31 records total).
+- Images and links are preserved as source references, not converted into release records. No casting, release, package or wheel variant identities were inferred.
+- Export: `research/extractions/EARLY-COLLECTIONS-REAL-RIDERS.csv`; QA: `research/extractions/EARLY-COLLECTIONS-REAL-RIDERS-EXTRACTION-QA.md`.
