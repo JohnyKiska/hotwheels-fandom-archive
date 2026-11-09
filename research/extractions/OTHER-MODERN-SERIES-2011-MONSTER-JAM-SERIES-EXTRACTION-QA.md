@@ -10,10 +10,10 @@
 - Extraction date: 2026-11-09
 
 ## Extraction results
-- Product tables: 9
-- Product rows: 126
+- Product tables: 8
+- Product rows: 125
 - Export columns: 21
-- Excluded tables: 0 (navigation/collapsible)
+- Excluded tables: 1 (navigation/collapsible)
 
 ## Product tables
 - Trucks [ ]: 81 rows, 4 source columns. Headers: # | Truck Name | Subset | Photo
@@ -24,7 +24,6 @@
 - Heavy Duty Haulers [ ]: 4 rows, 5 source columns. Headers: Toy # | Name | Contents | Notes | Photo
 - Multipacks [ ]: 7 rows, 5 source columns. Headers: Toy # | Name | Contents | Notes | Photo
 - Playset [ ]: 5 rows, 5 source columns. Headers: Toy # | Name | Contents | Notes | Photo
-- Table 9: 1 rows, 1 source columns. Headers: Hot Wheels Monster Jam
 
 ## QA notes
 - Source table and row order retained.
