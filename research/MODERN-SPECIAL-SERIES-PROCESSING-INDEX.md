@@ -90,11 +90,11 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 | `Modern Special Series/Car Culture/2026 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html` | `ff6d183ebaff537f020fb65c66c3c6186caec2b5` | 366209 | `FD6DDDB67C62D13A5E2B8A2622DEAF72AC0BDC45492F43B9CBA4288F044A4985` | Extracted + QA |
 | `Modern Special Series/Car Culture/Car Culture 2-Packs _ Hot Wheels Wiki _ Fandom.html` | `5e5d6c6bf83317654a235ebb85e89a1d0253b6f6` | 614021 | `13E873073B42A09C27BFB20775B2025ED7CB31B88A1BB4FCF5F7B9B2835695C3` | Extracted + QA |
 | `Modern Special Series/Car Culture/Car Culture Factory Set _ Hot Wheels Wiki _ Fandom.html` | `db9b81e7b301b005e2d381dbbf23162c3b040621` | 347681 | `BA56053706903323A5649535F76CB5C4B095FCD7B2580C4EDFAED7824ADED577` | Extracted + QA |
-| `Modern Special Series/Character Cars/Activision Character Cars _ Hot Wheels Wiki _ Fandom.html` | `c5fd6a09142c3b862cea66dec020e40a0ea7fec7` | 357229 | `52D2E866966A29F73D049226E58DDC3282F84FD1D5942FC8B61C6900C043AC12` | Not yet extracted |
-| `Modern Special Series/Character Cars/Avatar_ The Last Airbender Character Cars _ Hot Wheels Wiki _ Fandom.html` | `ad00de04be3f78ce0c5173107c5615c35258a226` | 363723 | `97C9BACFA7D49C3F577CB59A0EA21A73837F2DB77BE1CE42BBFADDDD870BC193` | Not yet extracted |
-| `Modern Special Series/Character Cars/DC Character Cars _ Hot Wheels Wiki _ Fandom.html` | `b4080ceff464506538f94188019519a674eb479f` | 684688 | `1CBB5A4B6C4F6F41DAFD1C2D9763E5C859B2644881CBD26D8F1044289AFAED0F` | Not yet extracted |
-| `Modern Special Series/Character Cars/DC Teen Titans Go! Character Cars _ Hot Wheels Wiki _ Fandom.html` | `f9fe1ec6a5714bab2d98848e44a186da649bc3f9` | 362813 | `CE64B6819CB4B7935AB69B7C55623466E1558926291EBE7987350C8AD717C684` | Not yet extracted |
-| `Modern Special Series/Character Cars/Despicable Me 3 Character Cars _ Hot Wheels Wiki _ Fandom.html` | `a729f03e2331f900ccd62c03e37edc3c6b9e1a67` | 339100 | `95768CDD3D7BC3169B6C1539DD7B34F6821D120118EC227B0DE7F2EAE1F57644` | Not yet extracted |
+| `Modern Special Series/Character Cars/Activision Character Cars _ Hot Wheels Wiki _ Fandom.html` | `c5fd6a09142c3b862cea66dec020e40a0ea7fec7` | 357229 | `52D2E866966A29F73D049226E58DDC3282F84FD1D5942FC8B61C6900C043AC12` | Extracted + QA |
+| `Modern Special Series/Character Cars/Avatar_ The Last Airbender Character Cars _ Hot Wheels Wiki _ Fandom.html` | `ad00de04be3f78ce0c5173107c5615c35258a226` | 363723 | `97C9BACFA7D49C3F577CB59A0EA21A73837F2DB77BE1CE42BBFADDDD870BC193` | Extracted + QA |
+| `Modern Special Series/Character Cars/DC Character Cars _ Hot Wheels Wiki _ Fandom.html` | `b4080ceff464506538f94188019519a674eb479f` | 684688 | `1CBB5A4B6C4F6F41DAFD1C2D9763E5C859B2644881CBD26D8F1044289AFAED0F` | Extracted + QA |
+| `Modern Special Series/Character Cars/DC Teen Titans Go! Character Cars _ Hot Wheels Wiki _ Fandom.html` | `f9fe1ec6a5714bab2d98848e44a186da649bc3f9` | 362813 | `CE64B6819CB4B7935AB69B7C55623466E1558926291EBE7987350C8AD717C684` | Extracted + QA |
+| `Modern Special Series/Character Cars/Despicable Me 3 Character Cars _ Hot Wheels Wiki _ Fandom.html` | `a729f03e2331f900ccd62c03e37edc3c6b9e1a67` | 339100 | `95768CDD3D7BC3169B6C1539DD7B34F6821D120118EC227B0DE7F2EAE1F57644` | Extracted + QA |
 | `Modern Special Series/Character Cars/Disney Character Cars _ Hot Wheels Wiki _ Fandom.html` | `76428a8f14b805bdfaa2d7790e3decae76dfd675` | 681917 | `C07AFC0DF36D53F632BA0CC48FCEB99EC166820B85E22FDA44D6C4A887258839` | Not yet extracted |
 | `Modern Special Series/Character Cars/DreamWorks Character Cars _ Hot Wheels Wiki _ Fandom.html` | `e1602d0b0dfd35c5f9d8db37721d5c1e6549eedc` | 373623 | `B0693EC66545809C321080B04D2D39A787CE3589DCCCCF19D2E6C156E39C7B3C` | Not yet extracted |
 | `Modern Special Series/Character Cars/Godzilla Character Cars _ Hot Wheels Wiki _ Fandom.html` | `cad502a944c63a7bc9104060dcd7b7485c57469a` | 350279 | `22DD51CED40523BBBFE36A2E38D201D137B9592FF275C57610B62D441BF40CF5` | Not yet extracted |
@@ -603,3 +603,35 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 - Source: `Modern Special Series/Car Culture/Car Culture Factory Set _ Hot Wheels Wiki _ Fandom.html`; blob SHA `db9b81e7b301b005e2d381dbbf23162c3b040621`; manifest SHA-256 `BA56053706903323A5649535F76CB5C4B095FCD7B2580C4EDFAED7824ADED577`.
 - 6 tables, 21 rows, 19 embedded image references.
 - CSV: `research/extractions/MODERN-SPECIAL-SERIES-CAR-CULTURE-FACTORY-SET.csv`; QA report: matching `-EXTRACTION-QA.md`.
+
+
+## Latest extraction batch: Character Cars (first five pages)
+
+### Activision Character Cars
+- Source: `Modern Special Series/Character Cars/Activision Character Cars _ Hot Wheels Wiki _ Fandom.html`; blob SHA `c5fd6a09142c3b862cea66dec020e40a0ea7fec7`; manifest SHA-256 `52D2E866966A29F73D049226E58DDC3282F84FD1D5942FC8B61C6900C043AC12`.
+- 3 tables, 6 rows, 8 embedded image references.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-ACTIVISION-CHARACTER-CARS.csv`; QA report: matching `-EXTRACTION-QA.md`.
+
+
+### Avatar: The Last Airbender Character Cars
+- Source: `Modern Special Series/Character Cars/Avatar_ The Last Airbender Character Cars _ Hot Wheels Wiki _ Fandom.html`; blob SHA `ad00de04be3f78ce0c5173107c5615c35258a226`; manifest SHA-256 `97C9BACFA7D49C3F577CB59A0EA21A73837F2DB77BE1CE42BBFADDDD870BC193`.
+- 4 tables, 9 rows, 14 embedded image references.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-AVATAR-THE-LAST-AIRBENDER-CHARACTER-CARS.csv`; QA report: matching `-EXTRACTION-QA.md`.
+
+
+### DC Character Cars
+- Source: `Modern Special Series/Character Cars/DC Character Cars _ Hot Wheels Wiki _ Fandom.html`; blob SHA `b4080ceff464506538f94188019519a674eb479f`; manifest SHA-256 `1CBB5A4B6C4F6F41DAFD1C2D9763E5C859B2644881CBD26D8F1044289AFAED0F`.
+- 22 tables, 188 rows, 352 embedded image references, 4 separate Gallery items; CSV split into six ordered parts.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-DC-CHARACTER-CARS.csv`; QA report: matching `-EXTRACTION-QA.md`.
+
+
+### DC Teen Titans Go! Character Cars
+- Source: `Modern Special Series/Character Cars/DC Teen Titans Go! Character Cars _ Hot Wheels Wiki _ Fandom.html`; blob SHA `f9fe1ec6a5714bab2d98848e44a186da649bc3f9`; manifest SHA-256 `CE64B6819CB4B7935AB69B7C55623466E1558926291EBE7987350C8AD717C684`.
+- 3 tables, 9 rows, 14 embedded image references.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-DC-TEEN-TITANS-GO-CHARACTER-CARS.csv`; QA report: matching `-EXTRACTION-QA.md`.
+
+
+### Despicable Me 3 Character Cars
+- Source: `Modern Special Series/Character Cars/Despicable Me 3 Character Cars _ Hot Wheels Wiki _ Fandom.html`; blob SHA `a729f03e2331f900ccd62c03e37edc3c6b9e1a67`; manifest SHA-256 `95768CDD3D7BC3169B6C1539DD7B34F6821D120118EC227B0DE7F2EAE1F57644`.
+- 2 tables, 8 rows, 12 embedded image references.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-DESPICABLE-ME-3-CHARACTER-CARS.csv`; QA report: matching `-EXTRACTION-QA.md`.
