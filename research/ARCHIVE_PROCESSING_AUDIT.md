@@ -293,3 +293,12 @@ Next: continue with the remaining Early Collections pages in inventory order, re
 - The table schemas differ; Stickers, Tampo, Body Color and Quantity remain source-specific fields. 33 populated Toy # cells have 22 distinct values; repeated Toy # groups 6190 (8 rows) and L0738 (5 rows) were retained without deduplication.
 - Source order, raw headers/cells, row HTML, per-cell image metadata and gallery file references are retained.
 - Export: `research/extractions/EARLY-COLLECTIONS-KING-KUDA.csv`; QA: `research/extractions/EARLY-COLLECTIONS-KING-KUDA-EXTRACTION-QA.md`.
+
+
+### Light My Firebird extraction checkpoint
+
+- Source: `Early Collections/Light My Firebird _ Hot Wheels Wiki _ Fandom.html`; Git blob SHA `49971146f54ec92309098b45b9d807ab13d94ff4`; manifest SHA-256 `2FC6D29B2DA88A39FB0238B613C787726AC3B8854A21DEB64AF156481CB82412`; Fandom revision 801165.
+- Extracted 20 product rows from three tables (Original Versions 10, 100% Versions 6, Retooled Versions 4), plus 13 separate Gallery references.
+- 20 populated Toy # cells have 9 distinct values. Repeated groups 6408 (10 rows), 22055 (2), and 56579 (2) were retained separately.
+- Source schemas, raw row data, image metadata, gallery captions and file links preserved.
+- Export: `research/extractions/EARLY-COLLECTIONS-LIGHT-MY-FIREBIRD.csv`; QA: `research/extractions/EARLY-COLLECTIONS-LIGHT-MY-FIREBIRD-EXTRACTION-QA.md`.
