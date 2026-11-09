@@ -14,7 +14,7 @@
 - Separate standard Wikia gallery items: 4.
 - Total CSV records: 20.
 - Embedded product-table image references: 17; unique gallery assets: 4.
-- Toy # is present in 0 product rows; 0 distinct populated values. Repeated Toy # groups: none.
+- Toy # is present in 13 product rows across Original Versions and Retooled Versions; 2 distinct populated values. `6418` appears 12 times and `P2141` once. CIPSA Versions has no Toy # column.
 - Table schemas differ by section: Original Versions and Retooled Versions have 12 columns, while CIPSA Versions has 9. Fields are retained as published, with no schema normalization or row deduplication.
 - Raw source headers, cell values and HTML, source order, model links, and per-cell image metadata (alt, filename, image key, src/data-src and dimensions) retained.
 
