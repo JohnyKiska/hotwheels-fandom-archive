@@ -158,3 +158,25 @@ Ten Early Collections CSV exports were re-fetched and parsed with CSV-aware quot
 | EARLY-COLLECTIONS-GRAND-PRIX.csv | 12 | 26 | 0 | 0 | 0 |
 
 All ten also passed balanced-quote, BOM, U+FFFD, empty-header and duplicate-header checks. No exact duplicate data rows were found. Source rows and repeated Toy # values were not deduplicated or otherwise altered. The manifest records these ten files as checked. Manifest update commit: `f78593385de3eb7c1660271e3bc4e626b347d8a7`.
+
+
+## Early Collections structural audit batch 2 (2026-11-09)
+
+Ten further Early Collections CSV exports were parsed with CSV-aware quote handling and checked against their individual headers.
+
+| CSV | Data rows | Header columns | Width errors | Blank rows | Exact duplicate extra rows |
+|---|---:|---:|---:|---:|---:|
+| EARLY-COLLECTIONS-HEAVY-CHEVY.csv | 77 | 23 | 0 | 0 | 0 |
+| EARLY-COLLECTIONS-HEAVYWEIGHTS.csv | 13 | 11 | 0 | 0 | 0 |
+| EARLY-COLLECTIONS-HIRAKERS.csv | 18 | 17 | 0 | 0 | 0 |
+| EARLY-COLLECTIONS-KING-KUDA.csv | 99 | 17 | 0 | 0 | 0 |
+| EARLY-COLLECTIONS-LIGHT-MY-FIREBIRD.csv | 33 | 17 | 0 | 0 | 0 |
+| EARLY-COLLECTIONS-MEGAFORCE-SERIES.csv | 7 | 9 | 0 | 0 | 0 |
+| EARLY-COLLECTIONS-NITTY-GRITTY-KITTY.csv | 42 | 14 | 0 | 0 | 0 |
+| EARLY-COLLECTIONS-OLDIES-BUT-GOODIES.csv | 10 | 14 | 0 | 0 | 0 |
+| EARLY-COLLECTIONS-REAL-RIDERS.csv | 31 | 8 | 0 | 0 | 0 |
+| EARLY-COLLECTIONS-RESCUE-TEAM.csv | 8 | 14 | 0 | 0 | 0 |
+
+All ten files passed malformed-quote, BOM, U+FFFD, empty-header and duplicate-header checks. No blank data rows, exact duplicate data rows, or row-width mismatches were found. Different header widths are intentional and validated per file. No source rows were removed or normalized.
+
+Manifest update commit: `df1a9d2191d75ec77590384c4559d1de81dca859`.
