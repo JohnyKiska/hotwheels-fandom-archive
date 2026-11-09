@@ -459,7 +459,7 @@ The archived `Early Collections/` inventory contains 33 HTML/HTM pages. 32 of 33
 
 - Initial inventory completed: 223 archived HTML pages, 92,291,750 bytes total (88.02 MiB).
 - Sources are distributed across 151 immediate source folders, including several large multi-year families. Folder names are retained as provenance and are not canonical product taxonomy.
-- No page-level extraction is marked complete in the new index yet. Processing will proceed in small batches with per-page extraction and QA.
+- Seven of 223 pages have now been extracted and QA-reviewed. Processing proceeds in batches with per-page extraction and QA.
 - Detailed inventory: `research/MODERN-SPECIAL-SERIES-PROCESSING-INDEX.md`.
 
 
@@ -473,3 +473,14 @@ The archived `Early Collections/` inventory contains 33 HTML/HTM pages. 32 of 33
 - Page extracted and QA-reviewed: 10 product tables, 39 product rows, 58 embedded image references.
 - Named Single Cars and 2-Car Set sections retained as separate source tables; navigation tables excluded.
 - Outputs: `research/extractions/MODERN-SPECIAL-SERIES-100-PERCENT-HOT-WHEELS-40TH-ANNIVERSARY.csv` and `research/extractions/MODERN-SPECIAL-SERIES-100-PERCENT-HOT-WHEELS-40TH-ANNIVERSARY-EXTRACTION-QA.md`.
+
+
+### Modern Special Series batch: 100% Preferred and 1999-2002
+- Five additional pages extracted and QA-reviewed, bringing Modern Special Series progress to 7 of 223 pages.
+- 100% Preferred: 17 product tables, 127 rows, 254 embedded image references, and 23 separate Gallery items. 67 distinct Toy # values; repeated values and repeated casting labels remain separate source rows.
+- 1999 Cool Collectibles: 1 table, 16 rows, 16 image references; 8 distinct Toy # values.
+- 2000 Cool Collectibles: 1 table, 61 rows, 122 image references; 32 distinct Toy # values.
+- 2001 100% Hot Wheels: 1 table, 49 rows, 49 image references; 37 distinct Toy # values.
+- 2002 100% Hot Wheels: 1 table, 32 rows, 33 image references; Collector # and Toy # retained separately.
+- All ten CSV and QA outputs were re-fetched from GitHub and verified for non-empty content and expected structure.
+- Detailed source-level counts and links are recorded in `research/MODERN-SPECIAL-SERIES-PROCESSING-INDEX.md`.
