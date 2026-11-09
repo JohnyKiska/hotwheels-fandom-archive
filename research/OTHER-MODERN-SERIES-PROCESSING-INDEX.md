@@ -22,11 +22,11 @@ Scope: archived source HTML under `Other Modern Series/`, including all nested f
 | `Other Modern Series/Extreme Shoxx _ Hot Wheels Wiki _ Fandom.html` | 350432 | `581FCC80F2E14A0437F08A08E0F74F6641619B0AF524CAEEA9731C94FCCCBD90` | Extracted + QA |
 | `Other Modern Series/Ferrari X-V _ Hot Wheels Wiki _ Fandom.html` | 345365 | `408B88361CCE4FB3EEDEA828B9B6DB35807065633E134E96E32157366E2035DC` | Extracted + QA |
 | `Other Modern Series/G-Machines _ Hot Wheels Wiki _ Fandom.html` | 498506 | `5B6B1F97959E57B6ECC0816FF9EDC71AEF05BC924042F57EA47B50485C955F5C` | Extracted + QA |
-| `Other Modern Series/Hot Import Nights _ Hot Wheels Wiki _ Fandom.html` | 373518 | `D0C5D0F0C57EE1B6EE6155795293AE159FA053C58E17A25635D7407B84BE7C2E` | Pending |
-| `Other Modern Series/Hot Tunerz _ Hot Wheels Wiki _ Fandom.html` | 398149 | `803D3F34D2741BE8AE514161970B14D469EA0FF07337DB1826716624E2122A4B` | Pending |
+| `Other Modern Series/Hot Import Nights _ Hot Wheels Wiki _ Fandom.html` | 373518 | `D0C5D0F0C57EE1B6EE6155795293AE159FA053C58E17A25635D7407B84BE7C2E` | Extracted + QA |
+| `Other Modern Series/Hot Tunerz _ Hot Wheels Wiki _ Fandom.html` | 398149 | `803D3F34D2741BE8AE514161970B14D469EA0FF07337DB1826716624E2122A4B` | Extracted + QA |
 | `Other Modern Series/Hot Wheels 1_87 Scale Series _ Hot Wheels Wiki _ Fandom.html` | 424346 | `AC3D63F481E6DE68A68B983B16543A62AAF862D5620FC9B4E5BDE086786AA165` | Pending |
-| `Other Modern Series/Hot Wheels Haulers _ Hot Wheels Wiki _ Fandom.html` | 673268 | `65006A2FD7C7DF9E141AE845F9AE3E793AAB1BEA906079A8C91DDE4293E3C554` | Pending |
-| `Other Modern Series/Hot Wheels Monster Jam/2000 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 331441 | `57952EBAB44708ED4B644C486C5A244ED0660D79DB04EEABB6EFBAE9F5F6AA86` | Pending |
+| `Other Modern Series/Hot Wheels Haulers _ Hot Wheels Wiki _ Fandom.html` | 673268 | `65006A2FD7C7DF9E141AE845F9AE3E793AAB1BEA906079A8C91DDE4293E3C554` | Extracted + QA |
+| `Other Modern Series/Hot Wheels Monster Jam/2000 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 331441 | `57952EBAB44708ED4B644C486C5A244ED0660D79DB04EEABB6EFBAE9F5F6AA86` | Extracted + QA |
 | `Other Modern Series/Hot Wheels Monster Jam/2001 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 332194 | `3E83AF505845167A7DC121DB73553D3430B43CFDE27DF85924A11D59B312D6E2` | Pending |
 | `Other Modern Series/Hot Wheels Monster Jam/2002 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 365494 | `739F896BEDFB56903A68325747C63B62631BC1E840447503E2322CE401C19E71` | Pending |
 | `Other Modern Series/Hot Wheels Monster Jam/2003 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 378354 | `1BD2E90B65644A80CCA5B11CFA99D303A50B088F9C8C99852982F3C142A57603` | Pending |
@@ -119,3 +119,18 @@ Processed 10 source HTML pages in manifest order. Product-table extraction total
 | G-Machines | 21 | 157 |
 
 **Custom Motors:** archived HTML contains no `<table>` elements, so its valid CSV contains only the 21-column header. No product rows were available to extract.
+
+
+## Batch 2: Next 5 Other Modern Series pages
+
+Processed 5 source HTML pages in manifest order after the initial 10. Product-table extraction totals: **29 product tables and 405 product rows**. Each page has a 21-column CSV and a QA report. The HTML blob SHA values were recorded in the QA reports; source manifest SHA-256 values were cross-referenced against this index.
+
+| Page | Product tables | Product rows | Excluded tables |
+|---|---:|---:|---:|
+| Hot Import Nights | 2 | 32 | 0 |
+| Hot Tunerz | 4 | 68 | 0 |
+| Hot Wheels 1:87 Scale Series | 4 | 59 | 0 |
+| Hot Wheels Haulers | 18 | 242 | 0 |
+| 2000 Monster Jam Series | 1 | 4 | 1 |
+
+Batch totals: **5 pages, 29 product tables, 405 product rows**. Gallery extraction remains deferred.
