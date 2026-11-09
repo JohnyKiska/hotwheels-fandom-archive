@@ -310,3 +310,11 @@ Next: continue with the remaining Early Collections pages in inventory order, re
 - Extracted 7 product rows from one 8-column table. Toy # 5270 appears twice for Personnel Carrier variants and both rows are preserved separately.
 - Photo Loose and Photo Carded image metadata, original headers, raw cells, cell HTML and model links are retained. No separate standard Fandom gallery items were present.
 - Export: `research/extractions/EARLY-COLLECTIONS-MEGAFORCE-SERIES.csv`; QA: `research/extractions/EARLY-COLLECTIONS-MEGAFORCE-SERIES-EXTRACTION-QA.md`.
+
+
+### Nitty Gritty Kitty extraction checkpoint
+
+- Source: `Early Collections/Nitty Gritty Kitty _ Hot Wheels Wiki _ Fandom.html`; Git blob SHA `fe1c9f1b2220692cd1c0f08cac45d1e698742831`; manifest SHA-256 `763DEED3E9D77A620457B20C02E82066BE2B5496831BAEF6776BADC73604EA1C`; Fandom revision 813920.
+- Extracted 18 product rows across 3 tables, plus 24 Gallery items. Combined CSV records: 42.
+- Preserved table-specific source schemas, source order, raw cells, links and per-cell image metadata; Gallery captions, image filenames and file links are separate records.
+- Export: `research/extractions/EARLY-COLLECTIONS-NITTY-GRITTY-KITTY.csv`; QA: `research/extractions/EARLY-COLLECTIONS-NITTY-GRITTY-KITTY-EXTRACTION-QA.md`.
