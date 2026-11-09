@@ -360,3 +360,34 @@ Twenty CSV exports spanning the final Larger Scale files and Mainline 1968–198
 All twenty files have consistent row widths, no blank/whitespace-only rows, no exact duplicate full rows, no malformed quotes, no BOM, no U+FFFD, and no empty or duplicate headers. QA inventory counts reconcile across all twenty files. The 34 trailing delimiters in `MAINLINE-1973.csv` are intentional empty final fields in the exported raw-source metadata; each row still has exactly 19 fields matching its 19-column header. They are not malformed rows or width errors. The 1968–1973 exports include gallery inventory rows as specified by their QA reports; these rows are retained as source records and not reclassified as product-table castings. CSV source values were not normalized, deduplicated, or modified.
 
 Total data rows inspected in this batch: **945**. Manifest update commit: `304a9f963e4300f7ac95b0786a51bbe1abc293bf`. The manifest records the branch HEAD before this audit update: `49a8e3a4b2cdd9cbd04d31dcd4a68e4ba83ed449`.
+
+## CSV structural audit batch 9 (2026-11-09)
+
+Twenty Mainline CSV exports for 1985–2004 were fetched from `main`, parsed with CSV-aware quoting rules, and checked against their individual headers. The corresponding QA report for every export was fetched using the exact `qa_report_path` in the manifest. QA source-row totals reconcile with all 20 CSV data-row counts, including multi-table and multi-scope years; the CSV row total is not reduced to annual numbered-list counts where the export also retains separate source scopes.
+
+| CSV | Data rows | Columns | Width errors | Blank rows | Exact duplicate extra rows |
+|---|---:|---:|---:|---:|---:|
+| MAINLINE-1985.csv | 38 | 18 | 0 | 0 | 0 |
+| MAINLINE-1986.csv | 26 | 18 | 0 | 0 | 0 |
+| MAINLINE-1987.csv | 23 | 17 | 0 | 0 | 0 |
+| MAINLINE-1988.csv | 27 | 17 | 0 | 0 | 0 |
+| MAINLINE-1989.csv | 76 | 9 | 0 | 0 | 0 |
+| MAINLINE-1990.csv | 87 | 18 | 0 | 0 | 0 |
+| MAINLINE-1991.csv | 62 | 18 | 0 | 0 | 0 |
+| MAINLINE-1992.csv | 24 | 18 | 0 | 0 | 0 |
+| MAINLINE-1993.csv | 72 | 25 | 0 | 0 | 0 |
+| MAINLINE-1994.csv | 14 | 16 | 0 | 0 | 0 |
+| MAINLINE-1995.csv | 97 | 13 | 0 | 0 | 0 |
+| MAINLINE-1996.csv | 141 | 11 | 0 | 0 | 0 |
+| MAINLINE-1997.csv | 151 | 12 | 0 | 0 | 0 |
+| MAINLINE-1998.csv | 189 | 13 | 0 | 0 | 0 |
+| MAINLINE-1999.csv | 212 | 11 | 0 | 0 | 0 |
+| MAINLINE-2000.csv | 249 | 11 | 0 | 0 | 0 |
+| MAINLINE-2001.csv | 256 | 11 | 0 | 0 | 0 |
+| MAINLINE-2002.csv | 243 | 10 | 0 | 0 | 0 |
+| MAINLINE-2003.csv | 222 | 11 | 0 | 0 | 0 |
+| MAINLINE-2004.csv | 268 | 11 | 0 | 0 | 0 |
+
+All twenty files passed the structural checks: no row-width errors, physical blank/whitespace-only rows, exact duplicate full rows, malformed quotes, BOM, U+FFFD, empty headers, duplicate headers, or trailing delimiters. The differing column counts reflect the preserved source/export schemas, including the compact five-column annual tables in 1989 and later years, rather than structural defects. QA reconciliation was checked against each report's complete source-row scope: for example, 1997 retains the numbered list, Bonus Cars and other series (151 rows total); 1999 retains the annual list, Final Run and Bonus Cars (212 total); and 2004 retains all 16 product tables (268 total). CSV source values were not normalized, deduplicated, or modified.
+
+Total data rows inspected in this batch: **2,477**. Manifest update commit: `c02a4d842ad6825a166983b8a9e3201bae692d5e`. The manifest records the branch HEAD before this audit update: `cc8df64c2668158a147c173d73cb3ddb568b0ef0`.
