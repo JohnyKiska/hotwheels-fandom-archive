@@ -346,7 +346,7 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 ### AcceleRacers Collectible Card Game
 - Source: `Modern Special Series/AcceleRacers/AcceleRacers Collectible Card Game _ Hot Wheels Wiki _ Fandom.html`; Git blob SHA `b2b64b5ba21cdd4387b21557f345df235c8fb28e`; manifest SHA-256 `BACF2491D6BF281774E742BE16BD745ED3193F5DEE3BD54D91A4D9B52F5793EE`; 721,589 bytes.
 - Two tables, 279 rows (Releases: 4; Cards: 275), 554 embedded image references, and 2 separate Gallery items. The card table is retained at full row granularity.
-- CSV: `research/extractions/MODERN-SPECIAL-SERIES-ACCELERACERS-COLLECTIBLE-CARD-GAME.csv`; QA: `research/extractions/MODERN-SPECIAL-SERIES-ACCELERACERS-COLLECTIBLE-CARD-GAME-EXTRACTION-QA.md`.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-ACCELERACERS-COLLECTIBLE-CARD-GAME.csv` plus five ordered `-PART-02.csv` through `-PART-06.csv` files (281 total records); QA: `research/extractions/MODERN-SPECIAL-SERIES-ACCELERACERS-COLLECTIBLE-CARD-GAME-EXTRACTION-QA.md`.
 
 ## Processing rules
 
