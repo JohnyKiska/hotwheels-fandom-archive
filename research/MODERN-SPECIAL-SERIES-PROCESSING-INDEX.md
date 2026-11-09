@@ -747,3 +747,31 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 - Source: `Modern Special Series/Character Cars/Street Fighter V Character Cars _ Hot Wheels Wiki _ Fandom.html`; blob SHA `a40e3c20b066c9c36bb7b4be06c386c1ecf22e06`; manifest SHA-256 `1C724D568AE53D6AA32888BBF904DC20F2B002D308A9255017419D2E92C8BD72`; size 352966 bytes; Fandom revision 655518.
 - 1 product tables, 5 product rows, 10 embedded table image references, 20 links in product cells.
 - CSV: `research/extractions/MODERN-SPECIAL-SERIES-STREET-FIGHTER-V-CHARACTER-CARS.csv`; QA report: `research/extractions/MODERN-SPECIAL-SERIES-STREET-FIGHTER-V-CHARACTER-CARS-EXTRACTION-QA.md`.
+
+
+## Latest extraction batch: Character Cars (Super Mario through Trolls Band Together)
+
+### Super Mario Character Cars
+- Source: `Modern Special Series/Character Cars/Super Mario Character Cars _ Hot Wheels Wiki _ Fandom.html`; blob SHA `a20f62788fef8c33e99ca068051cd780858036f3`; manifest SHA-256 `2EFFAD309E57B458466975593A384B338001ED03077097EAD028855FC836886C`; size 444414 bytes; Fandom revision 641313.
+- 8 product tables, 49 product rows, 94 embedded table image references, 192 links in product cells.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-SUPER-MARIO-CHARACTER-CARS.csv`; QA report: `research/extractions/MODERN-SPECIAL-SERIES-SUPER-MARIO-CHARACTER-CARS-EXTRACTION-QA.md`.
+
+### Teenage Mutant Ninja Turtles Character Cars
+- Source: `Modern Special Series/Character Cars/Teenage Mutant Ninja Turtles Character Cars _ Hot Wheels Wiki _ Fandom.html`; blob SHA `33d48afb99d0e96d8484ca4d149d8386bde0ce48`; manifest SHA-256 `CC3EE425993B09DC90D1D8471BE028A2C4A138DD247BBA7CF223CF6C121BF79E`; size 357027 bytes; Fandom revision 649579.
+- 6 product tables, 17 product rows, 34 embedded table image references, 68 links in product cells.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-TEENAGE-MUTANT-NINJA-TURTLES-CHARACTER-CARS.csv`; QA report: `research/extractions/MODERN-SPECIAL-SERIES-TEENAGE-MUTANT-NINJA-TURTLES-CHARACTER-CARS-EXTRACTION-QA.md`.
+
+### The Muppets Character Cars
+- Source: `Modern Special Series/Character Cars/The Muppets Character Cars _ Hot Wheels Wiki _ Fandom.html`; blob SHA `b61e1c104ebd671fe34343f4c922dd497e53fdf9`; manifest SHA-256 `EFABB8AD70C4541F51185C76B0721CE0FEBCC466D656BF21A0F91C5586A766EC`; size 356088 bytes; Fandom revision 759440.
+- 1 product tables, 6 product rows, 12 embedded table image references, 26 links in product cells.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-THE-MUPPETS-CHARACTER-CARS.csv`; QA report: `research/extractions/MODERN-SPECIAL-SERIES-THE-MUPPETS-CHARACTER-CARS-EXTRACTION-QA.md`.
+
+### Toy Story Character Cars
+- Source: `Modern Special Series/Character Cars/Toy Story Character Cars _ Hot Wheels Wiki _ Fandom.html`; blob SHA `d2097ae3a5c79657ce84a4daad58c90d838d526d`; manifest SHA-256 `795266E1898C68639DBA92AAB3CCB746FC825E76865CCC3DB7D01A3486C611C4`; size 423899 bytes; Fandom revision 709115.
+- 3 product tables, 31 product rows, 57 embedded table image references, 123 links in product cells.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-TOY-STORY-CHARACTER-CARS.csv`; QA report: `research/extractions/MODERN-SPECIAL-SERIES-TOY-STORY-CHARACTER-CARS-EXTRACTION-QA.md`.
+
+### Trolls Band Together Character Cars
+- Source: `Modern Special Series/Character Cars/Trolls Band Together Character Cars _ Hot Wheels Wiki _ Fandom.html`; blob SHA `7a192ecfb62ba4211e5433e9a43728aa61b6a59a`; manifest SHA-256 `0C2B58E9CB12AF5FD7717CE82CDC245038DC56A8F9B8BF989FEE8FCE037260E4`; size 348937 bytes; Fandom revision 686999.
+- 1 product tables, 2 product rows, 4 embedded table image references, 8 links in product cells.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-TROLLS-BAND-TOGETHER-CHARACTER-CARS.csv`; QA report: `research/extractions/MODERN-SPECIAL-SERIES-TROLLS-BAND-TOGETHER-CHARACTER-CARS-EXTRACTION-QA.md`.
