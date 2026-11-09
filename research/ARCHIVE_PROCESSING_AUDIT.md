@@ -334,3 +334,12 @@ Next: continue with the remaining Early Collections pages in inventory order, re
 - The page has no product tables and no standard Wikia gallery. Extracted 5 article-text records, 13 linked references, 1 prototype-tire illustration, and all 12 slideshow images (31 records total).
 - Images and links are preserved as source references, not converted into release records. No casting, release, package or wheel variant identities were inferred.
 - Export: `research/extractions/EARLY-COLLECTIONS-REAL-RIDERS.csv`; QA: `research/extractions/EARLY-COLLECTIONS-REAL-RIDERS-EXTRACTION-QA.md`.
+
+
+### Rescue Team extraction checkpoint
+
+- Source: `Early Collections/Rescue Team _ Hot Wheels Wiki _ Fandom.html`; Git blob SHA `e131d541f95be40ae587be0c90596a18faaf62c9`; manifest SHA-256 `E3181E548EBF2A393DF6191CC983C6C6FF23431572633BFA1BF339F0C499588C`; Fandom revision 767735.
+- Extracted 6 product rows from one 9-column table and 2 separate Gallery references (8 CSV records total).
+- All six Toy # values are populated and unique: 7665, 7650, 2639, 9640, 2019, 7661. Six distinct vehicle-name labels; Toy # and Collector # retained as separate fields.
+- Source headers, raw cells, cell HTML, model links, loose/carded image metadata, gallery captions and file links preserved. No product rows merged and no product identities inferred from images.
+- Export: `research/extractions/EARLY-COLLECTIONS-RESCUE-TEAM.csv`; QA: `research/extractions/EARLY-COLLECTIONS-RESCUE-TEAM-EXTRACTION-QA.md`.
