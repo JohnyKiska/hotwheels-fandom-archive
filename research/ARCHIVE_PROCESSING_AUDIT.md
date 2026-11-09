@@ -442,3 +442,14 @@ The archived `Early Collections/` inventory contains 33 HTML/HTM pages. 32 of 33
 - Output: `research/extractions/EARLY-COLLECTIONS-ULTRA-HOTS-SERIES-1984.csv` (26 records).
 - QA: `research/extractions/EARLY-COLLECTIONS-ULTRA-HOTS-SERIES-1984-EXTRACTION-QA.md`.
 - One Early Collections page remains unprocessed: Workhorses.
+
+
+### Workhorses
+- Processing status: 33 of 33 Early Collections pages extracted and QA-reviewed. This completes the archived Early Collections page set.
+- Source: `Early Collections/Workhorses _ Hot Wheels Wiki _ Fandom.html`; Fandom revision 767851; source size 485,493 bytes.
+- Two source product tables: Original Card (37 rows) and 87-89 Card (49 rows), 86 product rows total.
+- 86 populated Toy # cells across 40 distinct values; 27 repeated Toy # groups preserved individually. 34 distinct model-name labels.
+- 172 embedded image references retained in source cells; no separate standard Gallery items detected. Original table schemas and raw row/cell evidence retained.
+- Output: `research/extractions/EARLY-COLLECTIONS-WORKHORSES.csv` (86 records).
+- QA: `research/extractions/EARLY-COLLECTIONS-WORKHORSES-EXTRACTION-QA.md`.
+- Early Collections archive extraction is now complete: 33/33 pages.
