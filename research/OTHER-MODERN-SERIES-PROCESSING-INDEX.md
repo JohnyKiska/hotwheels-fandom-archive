@@ -5,8 +5,8 @@ Scope: archived source HTML under `Other Modern Series/`, including all nested f
 ## Inventory summary
 
 - Source pages: 83
-- Extracted + QA: 15
-- Remaining: 68
+- Extracted + QA: 25
+- Remaining: 58
 
 ## File inventory and processing status
 
@@ -27,16 +27,16 @@ Scope: archived source HTML under `Other Modern Series/`, including all nested f
 | `Other Modern Series/Hot Wheels 1_87 Scale Series _ Hot Wheels Wiki _ Fandom.html` | 424346 | `AC3D63F481E6DE68A68B983B16543A62AAF862D5620FC9B4E5BDE086786AA165` | Extracted + QA |
 | `Other Modern Series/Hot Wheels Haulers _ Hot Wheels Wiki _ Fandom.html` | 673268 | `65006A2FD7C7DF9E141AE845F9AE3E793AAB1BEA906079A8C91DDE4293E3C554` | Extracted + QA |
 | `Other Modern Series/Hot Wheels Monster Jam/2000 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 331441 | `57952EBAB44708ED4B644C486C5A244ED0660D79DB04EEABB6EFBAE9F5F6AA86` | Extracted + QA |
-| `Other Modern Series/Hot Wheels Monster Jam/2001 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 332194 | `3E83AF505845167A7DC121DB73553D3430B43CFDE27DF85924A11D59B312D6E2` | Pending |
-| `Other Modern Series/Hot Wheels Monster Jam/2002 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 365494 | `739F896BEDFB56903A68325747C63B62631BC1E840447503E2322CE401C19E71` | Pending |
-| `Other Modern Series/Hot Wheels Monster Jam/2003 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 378354 | `1BD2E90B65644A80CCA5B11CFA99D303A50B088F9C8C99852982F3C142A57603` | Pending |
-| `Other Modern Series/Hot Wheels Monster Jam/2004 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 415133 | `7C402127E30F3981B95A51978C36DFE61ABA93D2B439929EBE3A98B17F3CB29A` | Pending |
-| `Other Modern Series/Hot Wheels Monster Jam/2005 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 380053 | `76E0D2B4900C5C8E96EE6F5A2B4CA96B538E742AD778FC876AEFC9F704B232C8` | Pending |
-| `Other Modern Series/Hot Wheels Monster Jam/2006 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 377353 | `2234F0274E5F4D4D1BE39FCB89587796E770EB64045524C61B691980A70398AD` | Pending |
-| `Other Modern Series/Hot Wheels Monster Jam/2007 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 403448 | `A0C89F2B300114404DE573B47E8349DBEF57E961F146B9AB8B1FDD466F3DFB72` | Pending |
-| `Other Modern Series/Hot Wheels Monster Jam/2008 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 391568 | `E652D86492E182D1734E4AF0FA4EE92D224A7B92950DF3515ADF32ABFE813340` | Pending |
-| `Other Modern Series/Hot Wheels Monster Jam/2009 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 409400 | `AB3D3D001AAFE10D37B814868FC84229FB948089C5D522A8AB324FFA5DE931A0` | Pending |
-| `Other Modern Series/Hot Wheels Monster Jam/2010 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 521565 | `A8BA4393623D976F9711D0D017D81FEA0D30C9C87B8E80304807F4D50AF2F719` | Pending |
+| `Other Modern Series/Hot Wheels Monster Jam/2001 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 332194 | `3E83AF505845167A7DC121DB73553D3430B43CFDE27DF85924A11D59B312D6E2` | Extracted + QA |
+| `Other Modern Series/Hot Wheels Monster Jam/2002 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 365494 | `739F896BEDFB56903A68325747C63B62631BC1E840447503E2322CE401C19E71` | Extracted + QA |
+| `Other Modern Series/Hot Wheels Monster Jam/2003 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 378354 | `1BD2E90B65644A80CCA5B11CFA99D303A50B088F9C8C99852982F3C142A57603` | Extracted + QA |
+| `Other Modern Series/Hot Wheels Monster Jam/2004 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 415133 | `7C402127E30F3981B95A51978C36DFE61ABA93D2B439929EBE3A98B17F3CB29A` | Extracted + QA |
+| `Other Modern Series/Hot Wheels Monster Jam/2005 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 380053 | `76E0D2B4900C5C8E96EE6F5A2B4CA96B538E742AD778FC876AEFC9F704B232C8` | Extracted + QA |
+| `Other Modern Series/Hot Wheels Monster Jam/2006 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 377353 | `2234F0274E5F4D4D1BE39FCB89587796E770EB64045524C61B691980A70398AD` | Extracted + QA |
+| `Other Modern Series/Hot Wheels Monster Jam/2007 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 403448 | `A0C89F2B300114404DE573B47E8349DBEF57E961F146B9AB8B1FDD466F3DFB72` | Extracted + QA |
+| `Other Modern Series/Hot Wheels Monster Jam/2008 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 391568 | `E652D86492E182D1734E4AF0FA4EE92D224A7B92950DF3515ADF32ABFE813340` | Extracted + QA |
+| `Other Modern Series/Hot Wheels Monster Jam/2009 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 409400 | `AB3D3D001AAFE10D37B814868FC84229FB948089C5D522A8AB324FFA5DE931A0` | Extracted + QA |
+| `Other Modern Series/Hot Wheels Monster Jam/2010 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 521565 | `A8BA4393623D976F9711D0D017D81FEA0D30C9C87B8E80304807F4D50AF2F719` | Extracted + QA |
 | `Other Modern Series/Hot Wheels Monster Jam/2011 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 456743 | `0D4B875ED2C9384F1AD833C546C3656AE6E60F42C9B33D4BCC294CB597FF1C79` | Pending |
 | `Other Modern Series/Hot Wheels Monster Jam/2012 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 453323 | `E8C7D4F982F278741ECBDB1CE16D33B3FAAB3E299CA66517E87FB17486EAFCEA` | Pending |
 | `Other Modern Series/Hot Wheels Monster Jam/2013 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 421568 | `DAA24386E1AE29D866EA5C9AEE96513DCC0746517830758AAF0312132AC937F6` | Pending |
@@ -134,3 +134,23 @@ Processed 5 source HTML pages in manifest order after the initial 10. Product-ta
 | 2000 Monster Jam Series | 1 | 4 | 1 |
 
 Batch totals: **5 pages, 29 product tables, 405 product rows**. Gallery extraction remains deferred.
+
+
+## Batch 3: Monster Jam 2001–2010
+
+Processed 10 nested Hot Wheels Monster Jam source pages. Product-table extraction totals: **34 product tables and 648 product rows**. Each page has a 21-column CSV and a QA report. All ten exports were re-fetched and checked for 21 columns with zero malformed-width rows.
+
+| Year | Product tables | Product rows |
+|---|---:|---:|
+| 2001 | 1 | 15 |
+| 2002 | 3 | 33 |
+| 2003 | 2 | 47 |
+| 2004 | 5 | 67 |
+| 2005 | 2 | 62 |
+| 2006 | 3 | 57 |
+| 2007 | 4 | 82 |
+| 2008 | 4 | 83 |
+| 2009 | 5 | 105 |
+| 2010 | 5 | 97 |
+
+Batch totals: **10 pages, 34 product tables, 648 product rows**. One collapsible navigation table per page was excluded. Gallery extraction remains deferred.
