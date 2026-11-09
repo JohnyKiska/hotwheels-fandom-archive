@@ -651,3 +651,18 @@ Five additional Character Cars source pages were extracted and QA-documented. Th
 Batch total: 14 product tables, 63 product rows, 116 embedded table image references, and 244 links retained from product cells. Five CSV files and five QA reports were committed. Product rows retain source order, table/row indices, headers, raw row HTML, cell HTML/text, links, and embedded image metadata. Navigation/year-index tables and header-only rows are excluded. Separate Gallery items have not been independently extracted in this pass and remain a follow-up task.
 
 Detailed source metadata and extraction paths: `research/MODERN-SPECIAL-SERIES-PROCESSING-INDEX.md`.
+
+
+## Fandom archive extraction progress update (2026-11-09): Character Cars, Sonic through Street Fighter V
+
+Five additional Character Cars source pages were extracted and QA-documented. The total processed-page count is now 76 of 223.
+
+- Sonic the Hedgehog Character Cars: 2 product tables, 4 product rows, 8 embedded table image references.
+- Space Jam: A New Legacy Character Cars: 1 product table, 7 product rows, 14 embedded table image references.
+- SpongeBob SquarePants Character Cars: 7 product tables, 25 product rows, 50 embedded table image references.
+- Star Wars Character Cars: 33 product tables, 317 product rows, 582 embedded table image references.
+- Street Fighter V Character Cars: 1 product table, 5 product rows, 10 embedded table image references.
+
+Batch total: 44 product tables, 358 product rows, 664 embedded table image references, and 1,377 links retained from product cells. Five QA reports and six CSV files/parts were committed. Star Wars CSV is stored as two ordered parts due to file size. Product rows retain source order, table/row indices, headers, raw row HTML, cell HTML/text, links, and embedded image metadata. Navigation/year-index tables and header-only rows are excluded. Separate Gallery items have not been independently extracted in this pass and remain a follow-up task.
+
+Detailed source metadata and extraction paths: `research/MODERN-SPECIAL-SERIES-PROCESSING-INDEX.md`.
