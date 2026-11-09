@@ -7,7 +7,7 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 - Source pages: 223
 - Total source size: 92,291,750 bytes (88.02 MiB)
 - Inventory source: repository `MANIFEST.csv` and GitHub directory/tree entries.
-- Extraction status: 22 of 223 source pages extracted and QA-reviewed; remaining pages are marked `Not yet extracted`.
+- Extraction status: 27 of 223 source pages extracted and QA-reviewed; remaining pages are marked `Not yet extracted`.
 - This index is an inventory baseline, not a claim that each file represents one distinct product series.
 
 ## Source folder breakdown
@@ -56,11 +56,11 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 | `Modern Special Series/AcceleRacers/AcceleRacers Series (2025) _ Hot Wheels Wiki _ Fandom.html` | `ff6af962e9009233b1529c0f0e9aee3b58d78bbd` | 363612 | `154F72FB9CEE4FDE786BB1EE066E2B67DC690F216F3487FAD6459D8245312CC7` | Extracted + QA |
 | `Modern Special Series/Airy 8 _ Hot Wheels Wiki _ Fandom.html` | `7761967d1ce33ce04002e6fd6e3e87b1663b17b2` | 363684 | `80CAE83E3378DCD66960067FD38A28DD69305F67B33216F8E7DE090B81FC6BDF` | Extracted + QA |
 | `Modern Special Series/Anteater _ Hot Wheels Wiki _ Fandom.html` | `8ed6f7d953eae6d3f4af09431561069b158f0dc8` | 337048 | `14E6AD85F54B0C65A0D56F5D71B292794F295F688D95A7C2043807D5CDBB5D65` | Extracted + QA |
-| `Modern Special Series/Auto Affinity _ Hot Wheels Wiki _ Fandom.html` | `f49f5e2822b1f92788fad0a027ba0c40f6b3e6d7` | 464159 | `41C00CE86D22E1167F6CFB035A80E35A4519CFA8DA7F976DCA9E097BA8C29568` | Not yet extracted |
-| `Modern Special Series/Bassline (Crashers) _ Hot Wheels Wiki _ Fandom.html` | `f8871f16c2146fe8128c87916dda1998fc89766d` | 331234 | `2C0EEA32DA19C0D4B985F2C782735D5DF3F270B655A9DF74A01A9C9E0030983B` | Not yet extracted |
-| `Modern Special Series/Boulevard/2012 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html` | `578fd2b49ab50002c5a1cf7e02d3c0fa645b9059` | 462173 | `D86DEE9B64E43332FDB46E5B17DE957C2093269C631083BDE41882C5C2A66253` | Not yet extracted |
-| `Modern Special Series/Boulevard/2013 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html` | `21d59202804f5d16f47fe2ad96ef6156fd45e3be` | 355161 | `18EDAC0F39E0A4F155D97988B6736C1514A16DE2B133EB6352676290B34E576B` | Not yet extracted |
-| `Modern Special Series/Boulevard/2020 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html` | `8c372e0b73b5c0d4120538608b88f6635f8649be` | 359748 | `541482274CE5286EF640115C2EF6461B4FD593C283FF81D65D2E6A4080A7A080` | Not yet extracted |
+| `Modern Special Series/Auto Affinity _ Hot Wheels Wiki _ Fandom.html` | `f49f5e2822b1f92788fad0a027ba0c40f6b3e6d7` | 464159 | `41C00CE86D22E1167F6CFB035A80E35A4519CFA8DA7F976DCA9E097BA8C29568` | Extracted + QA |
+| `Modern Special Series/Bassline (Crashers) _ Hot Wheels Wiki _ Fandom.html` | `f8871f16c2146fe8128c87916dda1998fc89766d` | 331234 | `2C0EEA32DA19C0D4B985F2C782735D5DF3F270B655A9DF74A01A9C9E0030983B` | Extracted + QA |
+| `Modern Special Series/Boulevard/2012 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html` | `578fd2b49ab50002c5a1cf7e02d3c0fa645b9059` | 462173 | `D86DEE9B64E43332FDB46E5B17DE957C2093269C631083BDE41882C5C2A66253` | Extracted + QA |
+| `Modern Special Series/Boulevard/2013 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html` | `21d59202804f5d16f47fe2ad96ef6156fd45e3be` | 355161 | `18EDAC0F39E0A4F155D97988B6736C1514A16DE2B133EB6352676290B34E576B` | Extracted + QA |
+| `Modern Special Series/Boulevard/2020 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html` | `8c372e0b73b5c0d4120538608b88f6635f8649be` | 359748 | `541482274CE5286EF640115C2EF6461B4FD593C283FF81D65D2E6A4080A7A080` | Extracted + QA |
 | `Modern Special Series/Boulevard/2021 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html` | `0532eec538dd0f297f78fd6982b30a29b1e47d1f` | 355750 | `5AD503CAAFDC2C0966D9DBFA20FAD181274EE388BD295C6A18C1B1E52483C6AA` | Not yet extracted |
 | `Modern Special Series/Boulevard/2022 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html` | `f070ec10768b87105c8d52775dd3f8e4e1e990a0` | 368296 | `26F5D898F609B17D09620401812CDFFF51D8BB31FAB3405092F717227EF7CC7A` | Not yet extracted |
 | `Modern Special Series/Boulevard/2023 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html` | `ff271dd10f1eb750cd35f6c8dd52bb626ca7d05e` | 367967 | `1D5CE544D9F82515B634F65F48266B5702F05953BCE8E9F576A617B5B103343C` | Not yet extracted |
@@ -373,6 +373,32 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 - Source: `Modern Special Series/Anteater _ Hot Wheels Wiki _ Fandom.html`; blob SHA `8ed6f7d953eae6d3f4af09431561069b158f0dc8`; manifest SHA-256 `14E6AD85F54B0C65A0D56F5D71B292794F295F688D95A7C2043807D5CDBB5D65`; 337,048 bytes.
 - One table, 9 rows, 9 embedded image references; no separate Gallery items detected.
 - CSV: `research/extractions/MODERN-SPECIAL-SERIES-ANTEATER.csv`; QA: matching `-EXTRACTION-QA.md`.
+
+
+### Auto Affinity
+- Source: `Modern Special Series/Auto Affinity _ Hot Wheels Wiki _ Fandom.html`; blob SHA `f49f5e2822b1f92788fad0a027ba0c40f6b3e6d7`; manifest SHA-256 `41C00CE86D22E1167F6CFB035A80E35A4519CFA8DA7F976DCA9E097BA8C29568`; 464,159 bytes.
+- Ten tables, 73 rows, 146 embedded image references. CSV split into three ordered parts.
+- CSV base: `research/extractions/MODERN-SPECIAL-SERIES-AUTO-AFFINITY.csv`; QA: matching `-EXTRACTION-QA.md`.
+
+### Bassline (Crashers)
+- Source: `Modern Special Series/Bassline (Crashers) _ Hot Wheels Wiki _ Fandom.html`; blob SHA `f8871f16c2146fe8128c87916dda1998fc89766d`; manifest SHA-256 `2C0EEA32DA19C0D4B985F2C782735D5DF3F270B655A9DF74A01A9C9E0030983B`; 331,234 bytes.
+- One valid single-row Versions table (11 columns), 1 embedded image reference, and 1 separate Gallery item. The single-row product table was initially missed by the minimum-row filter and has been restored in the corrected CSV/QA.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-BASSLINE-CRASHERS.csv`; QA: matching `-EXTRACTION-QA.md`.
+
+### 2012 Hot Wheels Boulevard
+- Source: `Modern Special Series/Boulevard/2012 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html`; blob SHA `578fd2b49ab50002c5a1cf7e02d3c0fa645b9059`; manifest SHA-256 `D86DEE9B64E43332FDB46E5B17DE957C2093269C631083BDE41882C5C2A66253`; 462,173 bytes.
+- Eight tables, 78 rows, 151 embedded image references, 2 Gallery items. CSV split into three ordered parts. The final table has no detected headers and is retained for review.
+- CSV base: `research/extractions/MODERN-SPECIAL-SERIES-2012-HOT-WHEELS-BOULEVARD.csv`; QA: matching `-EXTRACTION-QA.md`.
+
+### 2013 Hot Wheels Boulevard
+- Source: `Modern Special Series/Boulevard/2013 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html`; blob SHA `21d59202804f5d16f47fe2ad96ef6156fd45e3be`; manifest SHA-256 `18EDAC0F39E0A4F155D97988B6736C1514A16DE2B133EB6352676290B34E576B`; 355,161 bytes.
+- Five tables, 22 rows, 40 embedded image references. The final table has no detected headers and is retained separately.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-2013-HOT-WHEELS-BOULEVARD.csv`; QA: matching `-EXTRACTION-QA.md`.
+
+### 2020 Hot Wheels Boulevard
+- Source: `Modern Special Series/Boulevard/2020 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html`; blob SHA `8c372e0b73b5c0d4120538608b88f6635f8649be`; manifest SHA-256 `541482274CE5286EF640115C2EF6461B4FD593C283FF81D65D2E6A4080A7A080`; 359,748 bytes.
+- Five tables, 24 rows, 44 embedded image references. The final table has no detected headers and is retained separately.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-2020-HOT-WHEELS-BOULEVARD.csv`; QA: matching `-EXTRACTION-QA.md`.
 
 ## Processing rules
 
