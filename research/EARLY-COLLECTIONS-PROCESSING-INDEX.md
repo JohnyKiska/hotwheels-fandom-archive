@@ -2,7 +2,7 @@
 
 Scope: archived Fandom pages in `Early Collections/` on `main`. This folder name is retained as source provenance only and is not treated as a verified product-hierarchy node.
 
-Inventory: 33 HTML/HTM files, 12834928 bytes total. 20 of 33 pages extracted and QA-reviewed.
+Inventory: 33 HTML/HTM files, 12834928 bytes total. 21 of 33 pages extracted and QA-reviewed.
 
 | Source file | Git blob SHA | Size (bytes) | Processing status |
 |---|---|---:|---|
@@ -26,7 +26,7 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total. 20 of 33 pages extracted and
 | `Oldies But Goodies _ Hot Wheels Wiki _ Fandom.html` | `d8bac5f967b3a4dd0b0baf79c8708414318fac53` | 336554 | Extracted + QA |
 | `Real Riders _ Hot Wheels Wiki _ Fandom.html` | `f5da19e889612b3922c10500d86640aa2b17071f` | 324388 | Extracted + QA |
 | `Rescue Team _ Hot Wheels Wiki _ Fandom.html` | `e131d541f95be40ae587be0c90596a18faaf62c9` | 331442 | Extracted + QA |
-| `Speed Demons _ Hot Wheels Wiki _ Fandom.html` | `bf6c7dca8fae920b5c79db2c787fd3f70460b900` | 356322 | Not yet extracted |
+| `Speed Demons _ Hot Wheels Wiki _ Fandom.html` | `bf6c7dca8fae920b5c79db2c787fd3f70460b900` | 356322 | Extracted + QA |
 | `Speed Fleet _ Hot Wheels Wiki _ Fandom.html` | `69ab0490c53bcde8ee008ec0c620619a49bf302a` | 445962 | Not yet extracted |
 | `Speed Machines (1983) _ Hot Wheels Wiki _ Fandom.html` | `e449ee168e898686c0bb46fced0b523081bfea47` | 366238 | Not yet extracted |
 | `Speedway Specials _ Hot Wheels Wiki _ Fandom.html` | `de473d47ac484f9feb903c8448b23794d6052eaf` | 352847 | Not yet extracted |
@@ -234,3 +234,11 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total. 20 of 33 pages extracted and
 - Six populated and unique Toy # values (7665, 7650, 2639, 9640, 2019, 7661); six distinct vehicle-name labels. Toy # and Collector # retained independently.
 - Loose and carded photo cell HTML, image filenames, links and image metadata retained; gallery references remain separate from product rows.
 - Export: `research/extractions/EARLY-COLLECTIONS-RESCUE-TEAM.csv`; QA: `research/extractions/EARLY-COLLECTIONS-RESCUE-TEAM-EXTRACTION-QA.md`.
+
+
+### Speed Demons
+- Source: `Early Collections/Speed Demons _ Hot Wheels Wiki _ Fandom.html`; Git blob SHA `bf6c7dca8fae920b5c79db2c787fd3f70460b900`; manifest SHA-256 `6AB1727440FE886C5BAD79754FB86AFF03AE691F9C1E61851544F0C4E5746898`; Fandom revision 726384.
+- Extracted 22 product rows across two tables: 1986 Original Card (6 rows, 9 columns) and 1987–1989 Card (16 rows, 10 columns). The later table includes a Year field.
+- All 22 Toy # cells are populated; 11 distinct Toy # values and 11 model-name labels. Repeated identifiers/name groups are preserved without deduplication.
+- No standard Wikia gallery items. Loose and carded photos are embedded in table cells; image metadata, links, source headers, raw cells and cell HTML retained.
+- Export: `research/extractions/EARLY-COLLECTIONS-SPEED-DEMONS.csv`; QA: `research/extractions/EARLY-COLLECTIONS-SPEED-DEMONS-EXTRACTION-QA.md`.
