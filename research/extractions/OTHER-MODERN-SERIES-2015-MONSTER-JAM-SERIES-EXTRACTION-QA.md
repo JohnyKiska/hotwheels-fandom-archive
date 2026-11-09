@@ -10,10 +10,10 @@
 - Extraction date: 2026-11-09
 
 ## Extraction results
-- Product tables: 7
-- Product rows: 113
+- Product tables: 6
+- Product rows: 112
 - Export columns: 21
-- Excluded tables: 0 (navigation/collapsible)
+- Excluded tables: 1 (navigation/collapsible)
 
 ## Product tables
 - Trucks [ ]: 67 rows, 4 source columns. Headers: # | Truck Name | Subset | Photo
@@ -22,7 +22,6 @@
 - Walmart Exclusive Holiday Editions [ ]: 7 rows, 1 source columns. Headers: 2015 Walmart Exclusive Holiday Editions
 - Multipacks [ ]: 14 rows, 5 source columns. Headers: Toy # | Name | Contents | Notes | Photo
 - Playset [ ]: 13 rows, 5 source columns. Headers: Toy # | Name | Contents | Notes | Photo
-- Table 7: 1 rows, 1 source columns. Headers: Hot Wheels Monster Jam
 
 ## QA notes
 - Source table and row order retained.
