@@ -116,4 +116,4 @@ Each page has a 21-column source-preserving CSV and a per-page QA report. Source
 
 ## Next batch
 
-Continue with the next five unprocessed pages in inventory order: Batman Series (2023), Batman Series (2024), Batman Series (2025), Batman Vehicles Then and Now Series (2012), and Cars of the Decades Series only if already marked unprocessed (otherwise continue in listed inventory order).
+Continue with the next five unprocessed pages in inventory order: Batman Series (2023), Batman Series (2024), Batman Series (2025), Batman Vehicles Then and Now Series (2012), and Easter Eggsclusives.
