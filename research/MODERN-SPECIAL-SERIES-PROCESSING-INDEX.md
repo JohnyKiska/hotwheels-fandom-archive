@@ -222,11 +222,11 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 | `Modern Special Series/Pro Racing/2004 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | `e2ed0061bb2b378d92a03eaa18f720d93a688c0b` | 391687 | `6447AAD4B82DE771EB984D50CD76DC4D9EC75116562C2037334869C7EF7A9154` | Extracted + QA |
 | `Modern Special Series/Pro Racing/2005 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | `a2e39220a14c4a97b56cf98098c9416483823703` | 349792 | `C4063C3A6C607085BA7FA4A72F2423248CA301D1174000090570D953E8A0BCCA` | Extracted + QA |
 | `Modern Special Series/Pro Racing/Basic Pro Racing Series _ Hot Wheels Wiki _ Fandom.html` | `0f648e6d901c84a9993e72281d5f48ce6712e6ae` | 572398 | `74F7C91D344834A2A7FE91502F4D02C609FE461868DF95BB869E3D5A334DAA9C` | Extracted + QA |
-| `Modern Special Series/Pro Racing/Hot Wheels Racing Selects _ Hot Wheels Wiki _ Fandom.html` | `d96403c01903f921e041994dc792c60437453c16` | 419736 | `51CFCDAC07E3034598DF30FC6DB09FD4642047D6EC1D5F898351B97E5394DF27` | Not yet extracted |
-| `Modern Special Series/Pro Racing/Team Transporter _ Hot Wheels Wiki _ Fandom.html` | `5af769f95fb6c3480edfafb41fd684dab9b0cc30` | 483632 | `FF3AC07568F29F9A14CE990B57E2F77A54E16EB28C89E667332F724552F2893E` | Not yet extracted |
-| `Modern Special Series/Quartett (2006) _ Hot Wheels Wiki _ Fandom.html` | `6d53ccbb62a22cb15401e0a31f54e1fb057050b8` | 371363 | `35DAEB282B7EE963EE150420B25A9B55F18938224347069002B2B46301A96463` | Not yet extracted |
-| `Modern Special Series/Racing Rigs _ Hot Wheels Wiki _ Fandom.html` | `eec28042b3dc1fb31efdb69c4a3eaa0fa1316964` | 449841 | `5C3B44E7FB8E8610AC068BC307DF594A3419735954067C2054FF81CCBC5E9364` | Not yet extracted |
-| `Modern Special Series/RD-05 _ Hot Wheels Wiki _ Fandom.html` | `b3bb8e5b5cae6f7f294cc9e1e70b6bdac7d3917a` | 381980 | `40A23451D85AAE11418802E91DA174DA8A06946DB7000BF11FAAF6F83D0F7A2F` | Not yet extracted |
+| `Modern Special Series/Pro Racing/Hot Wheels Racing Selects _ Hot Wheels Wiki _ Fandom.html` | `d96403c01903f921e041994dc792c60437453c16` | 419736 | `51CFCDAC07E3034598DF30FC6DB09FD4642047D6EC1D5F898351B97E5394DF27` | Extracted + QA |
+| `Modern Special Series/Pro Racing/Team Transporter _ Hot Wheels Wiki _ Fandom.html` | `5af769f95fb6c3480edfafb41fd684dab9b0cc30` | 483632 | `FF3AC07568F29F9A14CE990B57E2F77A54E16EB28C89E667332F724552F2893E` | Extracted + QA |
+| `Modern Special Series/Quartett (2006) _ Hot Wheels Wiki _ Fandom.html` | `6d53ccbb62a22cb15401e0a31f54e1fb057050b8` | 371363 | `35DAEB282B7EE963EE150420B25A9B55F18938224347069002B2B46301A96463` | Extracted + QA |
+| `Modern Special Series/Racing Rigs _ Hot Wheels Wiki _ Fandom.html` | `eec28042b3dc1fb31efdb69c4a3eaa0fa1316964` | 449841 | `5C3B44E7FB8E8610AC068BC307DF594A3419735954067C2054FF81CCBC5E9364` | Extracted + QA |
+| `Modern Special Series/RD-05 _ Hot Wheels Wiki _ Fandom.html` | `b3bb8e5b5cae6f7f294cc9e1e70b6bdac7d3917a` | 381980 | `40A23451D85AAE11418802E91DA174DA8A06946DB7000BF11FAAF6F83D0F7A2F` | Extracted + QA |
 | `Modern Special Series/RD-06 _ Hot Wheels Wiki _ Fandom.html` | `731c2d7e9824ba803ebb3aad09ebb1310f3bfb0e` | 382086 | `E7C454B6E95AC1228A513E8B71F090D109A1182CC3277A9B4D00F97AF1D26897` | Not yet extracted |
 | `Modern Special Series/Replica Entertainment/2013 Retro Entertainment _ Hot Wheels Wiki _ Fandom.html` | `372cd410b7f74462dbb02ab5728e2118f84d9393` | 391708 | `577C052A6A63CD5DD48E69E28BA2C8BA233C35DC30E0439CCA64D2A5144A7392` | Not yet extracted |
 | `Modern Special Series/Replica Entertainment/2014 Hot Wheels Entertainment _ Hot Wheels Wiki _ Fandom.html` | `d31f042748a8c90c86421609e429734a832fbe13` | 382410 | `388342CF83E8E9DFED955D92328FB1E9CEE3B8DF15B57E269110C434D2C82903` | Not yet extracted |
@@ -974,5 +974,20 @@ Source blob SHAs, manifest SHA-256 values, and byte sizes are retained in each C
 | `Modern Special Series/Pro Racing/Basic Pro Racing Series _ Hot Wheels Wiki _ Fandom.html` | 815908 | 11 | 124 | 245 | 504 | `research/extractions/MODERN-SPECIAL-SERIES-BASIC-PRO-RACING-SERIES.csv` | `research/extractions/MODERN-SPECIAL-SERIES-BASIC-PRO-RACING-SERIES-EXTRACTION-QA.md` |
 
 **Batch totals:** 51 product tables, 443 product rows, 578 embedded image references, 1186 retained links.
+
+Source blob SHAs, manifest SHA-256 values, and byte sizes are retained in each CSV and QA report.
+
+
+## Latest extraction batch: Pro Racing extensions and adjacent series, 2026-11-09
+
+| Source page | Revision | Tables | Rows | Images | Links | CSV | QA |
+|---|---:|---:|---:|---:|---:|---|---|
+| `Modern Special Series/Pro Racing/Hot Wheels Racing Selects _ Hot Wheels Wiki _ Fandom.html` | 763674 | 2 | 55 | 110 | 155 | `research/extractions/MODERN-SPECIAL-SERIES-HOT-WHEELS-RACING-SELECTS.csv` | `research/extractions/MODERN-SPECIAL-SERIES-HOT-WHEELS-RACING-SELECTS-EXTRACTION-QA.md` |
+| `Modern Special Series/Pro Racing/Team Transporter _ Hot Wheels Wiki _ Fandom.html` | 783311 | 4 | 144 | 140 | 761 | `research/extractions/MODERN-SPECIAL-SERIES-TEAM-TRANSPORTER.csv` | `research/extractions/MODERN-SPECIAL-SERIES-TEAM-TRANSPORTER-EXTRACTION-QA.md` |
+| `Modern Special Series/Quartett (2006) _ Hot Wheels Wiki _ Fandom.html` | 667574 | 2 | 35 | 67 | 101 | `research/extractions/MODERN-SPECIAL-SERIES-QUARTETT-2006.csv` | `research/extractions/MODERN-SPECIAL-SERIES-QUARTETT-2006-EXTRACTION-QA.md` |
+| `Modern Special Series/Racing Rigs _ Hot Wheels Wiki _ Fandom.html` | 803735 | 4 | 95 | 142 | 239 | `research/extractions/MODERN-SPECIAL-SERIES-RACING-RIGS.csv` | `research/extractions/MODERN-SPECIAL-SERIES-RACING-RIGS-EXTRACTION-QA.md` |
+| `Modern Special Series/RD-05 _ Hot Wheels Wiki _ Fandom.html` | 805217 | 1 | 22 | 22 | 86 | `research/extractions/MODERN-SPECIAL-SERIES-RD-05.csv` | `research/extractions/MODERN-SPECIAL-SERIES-RD-05-EXTRACTION-QA.md` |
+
+**Batch totals:** 13 product tables, 351 product rows, 481 embedded image references, 1342 retained links.
 
 Source blob SHAs, manifest SHA-256 values, and byte sizes are retained in each CSV and QA report.
