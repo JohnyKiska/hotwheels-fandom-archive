@@ -227,11 +227,11 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 | `Modern Special Series/Quartett (2006) _ Hot Wheels Wiki _ Fandom.html` | `6d53ccbb62a22cb15401e0a31f54e1fb057050b8` | 371363 | `35DAEB282B7EE963EE150420B25A9B55F18938224347069002B2B46301A96463` | Extracted + QA |
 | `Modern Special Series/Racing Rigs _ Hot Wheels Wiki _ Fandom.html` | `eec28042b3dc1fb31efdb69c4a3eaa0fa1316964` | 449841 | `5C3B44E7FB8E8610AC068BC307DF594A3419735954067C2054FF81CCBC5E9364` | Extracted + QA |
 | `Modern Special Series/RD-05 _ Hot Wheels Wiki _ Fandom.html` | `b3bb8e5b5cae6f7f294cc9e1e70b6bdac7d3917a` | 381980 | `40A23451D85AAE11418802E91DA174DA8A06946DB7000BF11FAAF6F83D0F7A2F` | Extracted + QA |
-| `Modern Special Series/RD-06 _ Hot Wheels Wiki _ Fandom.html` | `731c2d7e9824ba803ebb3aad09ebb1310f3bfb0e` | 382086 | `E7C454B6E95AC1228A513E8B71F090D109A1182CC3277A9B4D00F97AF1D26897` | Not yet extracted |
-| `Modern Special Series/Replica Entertainment/2013 Retro Entertainment _ Hot Wheels Wiki _ Fandom.html` | `372cd410b7f74462dbb02ab5728e2118f84d9393` | 391708 | `577C052A6A63CD5DD48E69E28BA2C8BA233C35DC30E0439CCA64D2A5144A7392` | Not yet extracted |
-| `Modern Special Series/Replica Entertainment/2014 Hot Wheels Entertainment _ Hot Wheels Wiki _ Fandom.html` | `d31f042748a8c90c86421609e429734a832fbe13` | 382410 | `388342CF83E8E9DFED955D92328FB1E9CEE3B8DF15B57E269110C434D2C82903` | Not yet extracted |
-| `Modern Special Series/Replica Entertainment/2015 Hot Wheels Entertainment _ Hot Wheels Wiki _ Fandom.html` | `183088cdd69b78f85e8979b2f403ba9697194634` | 362322 | `510421F9317B72EC12B6BF153D8C7E5CF247C06E90D103244678F4A4591AC556` | Not yet extracted |
-| `Modern Special Series/Replica Entertainment/2016 Hot Wheels Entertainment _ Hot Wheels Wiki _ Fandom.html` | `90acdb93b2e435d789a851316d2926ce2758f2a2` | 361533 | `B5E5FA3AFB5F53FBF22852B2749690D71F93DD72F31EF80F7CA99775BD4F0C20` | Not yet extracted |
+| `Modern Special Series/RD-06 _ Hot Wheels Wiki _ Fandom.html` | `731c2d7e9824ba803ebb3aad09ebb1310f3bfb0e` | 382086 | `E7C454B6E95AC1228A513E8B71F090D109A1182CC3277A9B4D00F97AF1D26897` | Extracted + QA |
+| `Modern Special Series/Replica Entertainment/2013 Retro Entertainment _ Hot Wheels Wiki _ Fandom.html` | `372cd410b7f74462dbb02ab5728e2118f84d9393` | 391708 | `577C052A6A63CD5DD48E69E28BA2C8BA233C35DC30E0439CCA64D2A5144A7392` | Extracted + QA |
+| `Modern Special Series/Replica Entertainment/2014 Hot Wheels Entertainment _ Hot Wheels Wiki _ Fandom.html` | `d31f042748a8c90c86421609e429734a832fbe13` | 382410 | `388342CF83E8E9DFED955D92328FB1E9CEE3B8DF15B57E269110C434D2C82903` | Extracted + QA |
+| `Modern Special Series/Replica Entertainment/2015 Hot Wheels Entertainment _ Hot Wheels Wiki _ Fandom.html` | `183088cdd69b78f85e8979b2f403ba9697194634` | 362322 | `510421F9317B72EC12B6BF153D8C7E5CF247C06E90D103244678F4A4591AC556` | Extracted + QA |
+| `Modern Special Series/Replica Entertainment/2016 Hot Wheels Entertainment _ Hot Wheels Wiki _ Fandom.html` | `90acdb93b2e435d789a851316d2926ce2758f2a2` | 361533 | `B5E5FA3AFB5F53FBF22852B2749690D71F93DD72F31EF80F7CA99775BD4F0C20` | Extracted + QA |
 | `Modern Special Series/Replica Entertainment/2017 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html` | `0f3d57aa1626e5f5447a82818e10edbd0edbcfb0` | 369836 | `DF6547E16F256617C8A6FFC1C4F3BC776AC11570154DA1091C7F8E374F068D87` | Not yet extracted |
 | `Modern Special Series/Replica Entertainment/2018 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html` | `333306777b5e037c77fb540b53176642be4c2bb4` | 353525 | `5660507C4BB0E50D182EEDA78D98604F3E8D30DB3EB393DCA7754D0FF8941890` | Not yet extracted |
 | `Modern Special Series/Replica Entertainment/2019 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html` | `03eba840da7a72df3cbea40eea6533f89528d8c3` | 358504 | `881B58DFF1F3149DBDBB6A00AFC1B4F034186FA6E404C09D0E0DFD23043C9CAC` | Not yet extracted |
@@ -989,5 +989,20 @@ Source blob SHAs, manifest SHA-256 values, and byte sizes are retained in each C
 | `Modern Special Series/RD-05 _ Hot Wheels Wiki _ Fandom.html` | 805217 | 1 | 22 | 22 | 86 | `research/extractions/MODERN-SPECIAL-SERIES-RD-05.csv` | `research/extractions/MODERN-SPECIAL-SERIES-RD-05-EXTRACTION-QA.md` |
 
 **Batch totals:** 13 product tables, 351 product rows, 481 embedded image references, 1342 retained links.
+
+Source blob SHAs, manifest SHA-256 values, and byte sizes are retained in each CSV and QA report.
+
+
+## Latest extraction batch: RD-06 and Replica Entertainment 2013–2016, 2026-11-09
+
+| Source page | Revision | Tables | Rows | Images | Links | CSV | QA |
+|---|---:|---:|---:|---:|---:|---|---|
+| `Modern Special Series/RD-06 _ Hot Wheels Wiki _ Fandom.html` | 812741 | 1 | 19 | 19 | 84 | `research/extractions/MODERN-SPECIAL-SERIES-RD-06.csv` | `research/extractions/MODERN-SPECIAL-SERIES-RD-06-EXTRACTION-QA.md` |
+| `Modern Special Series/Replica Entertainment/2013 Retro Entertainment _ Hot Wheels Wiki _ Fandom.html` | 810765 | 8 | 37 | 70 | 147 | `research/extractions/MODERN-SPECIAL-SERIES-2013-RETRO-ENTERTAINMENT.csv` | `research/extractions/MODERN-SPECIAL-SERIES-2013-RETRO-ENTERTAINMENT-EXTRACTION-QA.md` |
+| `Modern Special Series/Replica Entertainment/2014 Hot Wheels Entertainment _ Hot Wheels Wiki _ Fandom.html` | 710426 | 7 | 32 | 60 | 132 | `research/extractions/MODERN-SPECIAL-SERIES-2014-HOT-WHEELS-ENTERTAINMENT.csv` | `research/extractions/MODERN-SPECIAL-SERIES-2014-HOT-WHEELS-ENTERTAINMENT-EXTRACTION-QA.md` |
+| `Modern Special Series/Replica Entertainment/2015 Hot Wheels Entertainment _ Hot Wheels Wiki _ Fandom.html` | 792501 | 5 | 21 | 38 | 87 | `research/extractions/MODERN-SPECIAL-SERIES-2015-HOT-WHEELS-ENTERTAINMENT.csv` | `research/extractions/MODERN-SPECIAL-SERIES-2015-HOT-WHEELS-ENTERTAINMENT-EXTRACTION-QA.md` |
+| `Modern Special Series/Replica Entertainment/2016 Hot Wheels Entertainment _ Hot Wheels Wiki _ Fandom.html` | 693906 | 5 | 22 | 40 | 89 | `research/extractions/MODERN-SPECIAL-SERIES-2016-HOT-WHEELS-ENTERTAINMENT.csv` | `research/extractions/MODERN-SPECIAL-SERIES-2016-HOT-WHEELS-ENTERTAINMENT-EXTRACTION-QA.md` |
+
+**Batch totals:** 26 product tables, 131 product rows, 227 embedded image references, 539 retained links.
 
 Source blob SHAs, manifest SHA-256 values, and byte sizes are retained in each CSV and QA report.
