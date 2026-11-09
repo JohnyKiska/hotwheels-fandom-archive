@@ -8,8 +8,8 @@
 
 ## Extraction
 - Conventional product tables: 2.
-- Table 1, section **Speed Fleet Blue Card [ ]**: 80 product rows; 9 columns (Toy #, Model Name, Color, Year, Wheel Type, Country, Notes, Photo Loose, Photo Carded).
-- Table 2, section **Speed Fleet Rainbow Card [ ]**: 72 product rows; 9 columns (Toy #, Model Name, Color, Year, Wheel Type, Country, Notes, Photo Loose, Photo Carded).
+- Table 1, section **Speed Fleet Blue Card [ ]**: 40 product rows; 9 columns (Toy #, Model Name, Color, Year, Wheel Type, Country, Notes, Photo Loose, Photo Carded).
+- Table 2, section **Speed Fleet Rainbow Card [ ]**: 36 product rows; 9 columns (Toy #, Model Name, Color, Year, Wheel Type, Country, Notes, Photo Loose, Photo Carded).
 - Total product rows: 76.
 - Standard Wikia gallery items: 0.
 - Images embedded in table cells: 152 total references (76 in Photo Loose cells; 76 in Photo Carded cells). Lazy-loaded image URLs and filenames retained.
