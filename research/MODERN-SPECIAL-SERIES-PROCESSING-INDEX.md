@@ -7,7 +7,7 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 - Source pages: 223
 - Total source size: 92,291,750 bytes (88.02 MiB)
 - Inventory source: repository `MANIFEST.csv` and GitHub directory/tree entries.
-- Extraction status: 128 of 223 source pages have CSV and QA artifacts confirmed; remaining 95 pages are marked Not yet extracted.
+- Extraction status: 135 of 223 source pages have CSV and QA artifacts confirmed; remaining 88 pages are marked Not yet extracted.
 - This index is an inventory baseline, not a claim that each file represents one distinct product series.
 
 ## Source folder breakdown
@@ -162,13 +162,13 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 | `Modern Special Series/Flying Customs/Flying Customs Series (2013) _ Hot Wheels Wiki _ Fandom.html` | `78cbf5e8c286b728938f40769a839029dc15684f` | 372985 | `EB015686421892A2CC02DA80E2D4B32B719C2D9B18A96C9A4442A214930F59D1` | Extracted + QA |
 | `Modern Special Series/Flying Customs/Flying Customs Series (2020) _ Hot Wheels Wiki _ Fandom.html` | `5723c6e4183f27f66ea168c022e33456a1ff02b2` | 398310 | `856B663B1B3682467F26EE9DDF1757ECDECC73C6781E7D7F718255D3A55E06B2` | Extracted + QA |
 | `Modern Special Series/Formula One Collection/2025 Formula One Collection _ Hot Wheels Wiki _ Fandom.html` | `cdee0e721320db0e68d84771e174bc6fad42fb42` | 351079 | `91189BB8B1609C3B398259501B73A352A63C9EAD2E3DEB0E47DB7B026F3335B6` | Extracted + QA |
-| `Modern Special Series/Formula One Collection/2026 Formula One Collection _ Hot Wheels Wiki _ Fandom.html` | `556c57913522b2197e96b76a501ac1f2051f9470` | 403482 | `CD2EBA75F27A1E06BA38EDB153747445F3F4E41EC924AF580325BF53FD4D96FE` | Not yet extracted |
-| `Modern Special Series/Garage Series _ Hot Wheels Wiki _ Fandom.html` | `c604c03bc80576d01019e6d0b2f1737f9d059589` | 429285 | `9B9D82DF9D525A35F2EFBCD9717E57E6CB33E6E55050A1DDB9FEE9B973DA4A7B` | Not yet extracted |
-| `Modern Special Series/Global Technology Summit 2005 _ Hot Wheels Wiki _ Fandom.html` | `8945fbef8474f2def5f27d0e94695e15fdb65ee9` | 328294 | `9ADEC2790F5C4BBC4D02C72BCBD7E1E323E954A867061033B4C73A5D6275169F` | Not yet extracted |
-| `Modern Special Series/Hall of Fame _ Hot Wheels Wiki _ Fandom.html` | `c0b5a1d2bea35efa99c2e732fd928a5d041310e6` | 463527 | `BF4F7E0491F33562F1BE3A84187175FB5DDEC9568F58F2CEF07E9B254F35B670` | Not yet extracted |
-| `Modern Special Series/Hammer Sled _ Hot Wheels Wiki _ Fandom.html` | `d0248d2ab1a180ec7bb46572b2a248d836825189` | 381011 | `142ECC553DDE870DF64E4456179D1F08D8B4F66F429BB5AED46DA7B4EF28444B` | Not yet extracted |
-| `Modern Special Series/High Speed Racing Wheels Series _ Hot Wheels Wiki _ Fandom.html` | `9647463c91f86ff95956578092c37259765cf2c0` | 371484 | `97FE882E0D6798EFA98FCE20A1C32F2D09E1159B4C8FEEE2086A92D07C00D37E` | Not yet extracted |
-| `Modern Special Series/Highway 35 World Race _ Hot Wheels Wiki _ Fandom.html` | `2c75b3ad07b7a831235558c4d9cb847ec52d59be` | 433423 | `ED8E0ACC981BE7151C1256E7A7F3EA6F67B69EEBDF650154395267B8FC77C0AD` | Not yet extracted |
+| `Modern Special Series/Formula One Collection/2026 Formula One Collection _ Hot Wheels Wiki _ Fandom.html` | `556c57913522b2197e96b76a501ac1f2051f9470` | 403482 | `CD2EBA75F27A1E06BA38EDB153747445F3F4E41EC924AF580325BF53FD4D96FE` | Extracted + QA |
+| `Modern Special Series/Garage Series _ Hot Wheels Wiki _ Fandom.html` | `c604c03bc80576d01019e6d0b2f1737f9d059589` | 429285 | `9B9D82DF9D525A35F2EFBCD9717E57E6CB33E6E55050A1DDB9FEE9B973DA4A7B` | Extracted + QA |
+| `Modern Special Series/Global Technology Summit 2005 _ Hot Wheels Wiki _ Fandom.html` | `8945fbef8474f2def5f27d0e94695e15fdb65ee9` | 328294 | `9ADEC2790F5C4BBC4D02C72BCBD7E1E323E954A867061033B4C73A5D6275169F` | Extracted + QA |
+| `Modern Special Series/Hall of Fame _ Hot Wheels Wiki _ Fandom.html` | `c0b5a1d2bea35efa99c2e732fd928a5d041310e6` | 463527 | `BF4F7E0491F33562F1BE3A84187175FB5DDEC9568F58F2CEF07E9B254F35B670` | Extracted + QA |
+| `Modern Special Series/Hammer Sled _ Hot Wheels Wiki _ Fandom.html` | `d0248d2ab1a180ec7bb46572b2a248d836825189` | 381011 | `142ECC553DDE870DF64E4456179D1F08D8B4F66F429BB5AED46DA7B4EF28444B` | Extracted + QA |
+| `Modern Special Series/High Speed Racing Wheels Series _ Hot Wheels Wiki _ Fandom.html` | `9647463c91f86ff95956578092c37259765cf2c0` | 371484 | `97FE882E0D6798EFA98FCE20A1C32F2D09E1159B4C8FEEE2086A92D07C00D37E` | Extracted + QA |
+| `Modern Special Series/Highway 35 World Race _ Hot Wheels Wiki _ Fandom.html` | `2c75b3ad07b7a831235558c4d9cb847ec52d59be` | 433423 | `ED8E0ACC981BE7151C1256E7A7F3EA6F67B69EEBDF650154395267B8FC77C0AD` | Extracted + QA |
 | `Modern Special Series/Hot Wheels Classics _ Hot Wheels Wiki _ Fandom.html` | `70d9be50320809395b6a4d7fd220dd96a5ac9ad2` | 1450750 | `E5E6C93B6FEE715198BD785FAA826E591D2E870C1354A88BA5CC8A975BDC9F48` | Not yet extracted |
 | `Modern Special Series/Hot Wheels Delivery _ Hot Wheels Wiki _ Fandom.html` | `ae2b7769f6038d52e3d5a5471f2536a50d673490` | 486192 | `D2E211771F7F018E386AA29748AF4C7C7F0F654CB01C66E4C39F030CD3E9E9FC` | Not yet extracted |
 | `Modern Special Series/Hot Wheels Garage (2010) _ Hot Wheels Wiki _ Fandom.html` | `c2c66e2e7aadaa417a42ed09b8484dacd8139622` | 562456 | `0AF78A8EB81436997A1B21928D0A89F372149A045788CBF70B2BA5BCBC25509A` | Not yet extracted |
@@ -794,4 +794,10 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 ## Extraction batch: Color Reveal and Color Shifters (2008–2011), 2026-11-09
 
 Five source pages extracted and QA-reviewed. Batch total: 14 retained product tables, 280 product rows, 700 embedded table image references, and 1,175 links. Color Reveal CSV is split into two ordered parts due to file size; the other four pages each have one CSV. All five pages have individual QA reports. Source order, table/row indices, headers, raw row HTML, cell HTML/text, links, and embedded image metadata are retained. Separate Gallery items have not been independently extracted in this pass and remain a follow-up task.
+
+
+
+## Latest extraction batch: Modern Special Series (Formula One Collection 2026 through Highway 35 World Race), 2026-11-09
+
+Seven source pages extracted and QA-reviewed. Batch total: 32 retained product tables, 280 product rows, 428 embedded table image references, and 965 links in product cells. Each page has a 21-column CSV and individual QA report. CSV row counts and column counts were rechecked against all seven QA reports. Gallery-only items were not independently extracted in this pass.
 
