@@ -7,7 +7,7 @@ Scope: archived HTML/HTM source pages under `Notable Modern Themed Assortments/`
 - Source pages: 57
 - Total source size: 20,744,066 bytes
 - Inventory source: recursive Git tree and repository `MANIFEST.csv`.
-- Extraction status: 55 of 57 pages extracted and QA-reviewed; 2 remaining.
+- Extraction status: 57 of 57 pages extracted and QA-reviewed; all source pages complete.
 - Source SHA-256 values are copied from the repository manifest. Git blob SHAs identify the exact archived HTML blobs.
 
 ## File inventory and processing status
@@ -69,8 +69,8 @@ Scope: archived HTML/HTM source pages under `Notable Modern Themed Assortments/`
 | `Notable Modern Themed Assortments/Stars & Stripes Series _ Hot Wheels Wiki _ Fandom.html` | `5790a34a116c5c947f5948cd57ea0356c929ff3f` | 409491 | `B92B99FE989D5CEB3D2B580190F03882D797D8D9B2AD38323C040C444C556CAF` | Extracted + QA |
 | `Notable Modern Themed Assortments/The Beatles Yellow Submarine Series (2016) _ Hot Wheels Wiki _ Fandom.html` | `1cfdd62641d417836ecaf4a025b5988b4e4377cf` | 328533 | `5834E4EEB0BC5EBB365C9F6D3A5B666045FF8BDCBD8FB1CD3CA7D9C765EE0A94` | Extracted + QA |
 | `Notable Modern Themed Assortments/Throwback Series (2019) _ Hot Wheels Wiki _ Fandom.html` | `502409247d6d811dd078f1afa82b7b92652591d8` | 390387 | `4A104CFC7F7AE6A0985ECB2FEAFCCA8363D4AE94CB7D929B2009615986635B8F` | Extracted + QA |
-| `Notable Modern Themed Assortments/Ultra Hots Series (2022) _ Hot Wheels Wiki _ Fandom.html` | `40c6e33df132857c77bf63be494d7b7692edfc3c` | 440544 | `3465481AC7F538994752E872D9139C909B4BC9699624AE086A268B71FD012CCA` | Not yet extracted |
-| `Notable Modern Themed Assortments/Vintage Racing Club Series (2024) _ Hot Wheels Wiki _ Fandom.html` | `971866a237b0f9cb4e16b46fdf9a5fa752c5dff9` | 345162 | `94C21E95BEBD14AF50D162533F86C9423C3CD237752626278527F42F63630DAC` | Not yet extracted |
+| `Notable Modern Themed Assortments/Ultra Hots Series (2022) _ Hot Wheels Wiki _ Fandom.html` | `40c6e33df132857c77bf63be494d7b7692edfc3c` | 440544 | `3465481AC7F538994752E872D9139C909B4BC9699624AE086A268B71FD012CCA` | Extracted + QA |
+| `Notable Modern Themed Assortments/Vintage Racing Club Series (2024) _ Hot Wheels Wiki _ Fandom.html` | `971866a237b0f9cb4e16b46fdf9a5fa752c5dff9` | 345162 | `94C21E95BEBD14AF50D162533F86C9423C3CD237752626278527F42F63630DAC` | Extracted + QA |
 
 ## Extraction rules
 
@@ -95,9 +95,7 @@ Five pages extracted and QA-reviewed. Corrected batch total: 9 product tables, 1
 
 Each page has a 21-column source-preserving CSV and a per-page QA report in `research/extractions/`. Source blob SHA, size, revision ID (where present in the HTML), and manifest SHA-256 are recorded in the artifacts. Fandom revision IDs are recorded from each archived HTML page's `wgCurRevisionId`: 741838, 754145, 787291, 808133, and 786125, respectively. The CSVs and QA reports were corrected to include these IDs. The third Cop Rods table is an ancillary navigation index (Yearly Lists of Basic Line and Other collections), not a product table, and is excluded.
 
-## Completion
 
-This category is not yet complete. Continue with the next unprocessed source page in inventory order: `Easter Eggsclusives _ Hot Wheels Wiki _ Fandom.html`.
 
 
 ## Batch 2: Batman Series (2015) through Batman Series (2022), 2026-11-09
@@ -287,3 +285,19 @@ Each page has a 21-column source-preserving CSV and an individual QA report. Sou
 ## Next batch
 
 Continue with the final two unprocessed pages in inventory order: Ultra Hots Series (2022) and Vintage Racing Club Series (2024).
+
+
+## Batch 12: Final pages, Ultra Hots and Vintage Racing Club, 2026-11-09
+
+The final two source pages were extracted and QA-reviewed. Batch total: 8 product tables, 59 product rows, 118 embedded table image references, and 287 links retained from product cells. One ancillary packaging-component table in Ultra Hots Series (2022) was excluded from product extraction.
+
+| Source page | Revision | Product tables | Product rows | Images | Links | CSV | QA |
+|---|---:|---:|---:|---:|---:|---|---|
+| Ultra Hots Series (2022) | 815791 | 6 | 48 | 96 | 243 | `NOTABLE-MODERN-THEMED-ASSORTMENTS-ULTRA-HOTS-SERIES-2022.csv` | `NOTABLE-MODERN-THEMED-ASSORTMENTS-ULTRA-HOTS-SERIES-2022-EXTRACTION-QA.md` |
+| Vintage Racing Club Series (2024) | 703020 | 2 | 11 | 22 | 44 | `NOTABLE-MODERN-THEMED-ASSORTMENTS-VINTAGE-RACING-CLUB-SERIES-2024.csv` | `NOTABLE-MODERN-THEMED-ASSORTMENTS-VINTAGE-RACING-CLUB-SERIES-2024-EXTRACTION-QA.md` |
+
+Each page has a 21-column source-preserving CSV and an individual QA report. Source blob SHA, manifest SHA-256, source size, and Fandom revision ID are retained in the artifacts. Ultra Hots table 2 (Toy #, Notes, Cover, Inside Cover, Display, Back) is a packaging-component inventory, not a vehicle product table, and is documented as excluded.
+
+## Completion
+
+**All 57 of 57 source pages in Notable Modern Themed Assortments are now extracted and QA-reviewed.** All source inventory entries are marked complete. Separate gallery extraction and any future semantic review of excluded ancillary tables remain outside this extraction pass.
