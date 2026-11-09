@@ -528,3 +528,15 @@ The archived `Early Collections/` inventory contains 33 HTML/HTM pages. 32 of 33
 - 2020 Boulevard: 5 tables, 24 rows, 44 embedded image references; one unheaded table retained.
 - All CSV and QA outputs were re-fetched and verified non-empty. The corrected Bassline CSV and QA were also compared against the complete expected contents.
 - Detailed source-level records: `research/MODERN-SPECIAL-SERIES-PROCESSING-INDEX.md`.
+
+
+### Modern Special Series batch: Boulevard 2021–2025
+- Five annual pages extracted and QA-reviewed; total progress is now 32 of 223.
+- 32 source tables, 139 product rows, and 266 embedded image references.
+- 2021: 5 tables / 22 rows / 40 images.
+- 2022: 7 tables / 28 rows / 54 images.
+- 2023: 7 tables / 28 rows / 54 images.
+- 2024: 8 tables / 33 rows / 64 images.
+- 2025: 7 tables / 28 rows / 54 images.
+- All five CSV files and QA reports were re-fetched and verified non-empty. Single-row product tables and unheaded tables were retained rather than discarded.
+- Detailed source-level records: `research/MODERN-SPECIAL-SERIES-PROCESSING-INDEX.md`.
