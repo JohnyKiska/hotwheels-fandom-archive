@@ -691,3 +691,31 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 - Source: `Modern Special Series/Character Cars/Minecraft Character Cars _ Hot Wheels Wiki _ Fandom.html`; blob SHA `bbc10c09af097f398558b8209b4c5443a2a1c985`; manifest SHA-256 `3257DCEAFFE0A5FFF80A49CAFCD0FE0E117FE1B85131392F67EEB6CAF1F23569`; size 396289 bytes; Fandom revision 678323.
 - 4 product tables, 24 product rows, 48 embedded table image references, 96 links in product cells.
 - CSV: `research/extractions/MODERN-SPECIAL-SERIES-MINECRAFT-CHARACTER-CARS.csv`; QA report: `research/extractions/MODERN-SPECIAL-SERIES-MINECRAFT-CHARACTER-CARS-EXTRACTION-QA.md`.
+
+
+## Latest extraction batch: Character Cars (Minions through Sanrio)
+
+### Minions Character Cars
+- Source: `Modern Special Series/Character Cars/Minions Character Cars _ Hot Wheels Wiki _ Fandom.html`; blob SHA `af61bccc5d0616a9cdf35244b5c4c598a454a659`; manifest SHA-256 `A2638AD0D73FC98E749303F84B784F3F80210265F1B75A6798F666615993344C`; size 384672 bytes; Fandom revision 687208.
+- 4 product tables, 19 product rows, 36 embedded table image references, 75 links in product cells.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-MINIONS-CHARACTER-CARS.csv`; QA report: `research/extractions/MODERN-SPECIAL-SERIES-MINIONS-CHARACTER-CARS-EXTRACTION-QA.md`.
+
+### Overwatch Character Cars
+- Source: `Modern Special Series/Character Cars/Overwatch Character Cars _ Hot Wheels Wiki _ Fandom.html`; blob SHA `58dd862846e24c575d14a4ee283ce71d0f735339`; manifest SHA-256 `EC8E531F5438E9F4BF282DE048C159E55472BC83AC98B2A51735D834531198E0`; size 363567 bytes; Fandom revision 814295.
+- 2 product tables, 11 product rows, 22 embedded table image references, 44 links in product cells.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-OVERWATCH-CHARACTER-CARS.csv`; QA report: `research/extractions/MODERN-SPECIAL-SERIES-OVERWATCH-CHARACTER-CARS-EXTRACTION-QA.md`.
+
+### Power Rangers Megaforce
+- Source: `Modern Special Series/Character Cars/Power Rangers Megaforce _ Hot Wheels Wiki _ Fandom.html`; blob SHA `0f7be6cad8f86a917c4b3866b7f2b1794c9b07ed`; manifest SHA-256 `4C7DEE569DE0F1AD6897B1E65B0A5D33A09E9F02C5C72A82F08F97DC55C7AC05`; size 345514 bytes; Fandom revision 803198.
+- 2 product tables, 13 product rows, 22 embedded table image references, 49 links in product cells.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-POWER-RANGERS-MEGAFORCE-CHARACTER-CARS.csv`; QA report: `research/extractions/MODERN-SPECIAL-SERIES-POWER-RANGERS-MEGAFORCE-CHARACTER-CARS-EXTRACTION-QA.md`.
+
+### Rugrats Character Cars
+- Source: `Modern Special Series/Character Cars/Rugrats Character Cars _ Hot Wheels Wiki _ Fandom.html`; blob SHA `ebe7d2c673dbd0e41b5d4ee89fa1ad7722902bf4`; manifest SHA-256 `C066325EE99D0093448BA5134A11995FD3D40865EF14CCA74AFCDED51A111927`; size 326127 bytes; Fandom revision 687008.
+- 2 product tables, 5 product rows, 10 embedded table image references, 20 links in product cells.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-RUGRATS-CHARACTER-CARS.csv`; QA report: `research/extractions/MODERN-SPECIAL-SERIES-RUGRATS-CHARACTER-CARS-EXTRACTION-QA.md`.
+
+### Sanrio Character Cars
+- Source: `Modern Special Series/Character Cars/Sanrio Character Cars _ Hot Wheels Wiki _ Fandom.html`; blob SHA `a97d4cc212c10ae38ed7306d64ac6556ec0bf2ea`; manifest SHA-256 `A4B82D7E5E1CD90F15B675EA01B625F16E155F1A9FFBBFA8206D0273DF18E3CD`; size 375508 bytes; Fandom revision 512364.
+- 4 product tables, 15 product rows, 26 embedded table image references, 56 links in product cells.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-SANRIO-CHARACTER-CARS.csv`; QA report: `research/extractions/MODERN-SPECIAL-SERIES-SANRIO-CHARACTER-CARS-EXTRACTION-QA.md`.
