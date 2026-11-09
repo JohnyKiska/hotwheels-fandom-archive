@@ -228,3 +228,8 @@
 
 
 - 2026-11-09: извлечена четвёртая партия Notable Modern Themed Assortments: Easter Series (2013), Easter Series (2014), Easter Series (2015), Easter Series (2017), Fast & Furious Series. Итого 13 таблиц, 90 строк, 118 image tags, 306 ссылок. Созданы 5 CSV и 5 QA; processing index обновлён.
+
+
+## Notable Modern Themed Assortments: Batch 5
+
+Five additional pages extracted and QA-reviewed: Fast & Furious Spy Racers Series, Fire Rods Series (2000), Fire Rods Series (2009), Fright Cars Series, and HW Road Trippin' Series (2014). Batch totals: 32 tables, 276 product rows, 399 embedded image references, and 890 cell links. Artifacts are stored under `research/extractions/NOTABLE-MODERN-THEMED-ASSORTMENTS-*`.
