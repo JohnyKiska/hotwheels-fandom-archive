@@ -144,3 +144,19 @@ Both 2010 pages have been independently extracted and QA-checked. The exports pr
 ## 5. Archive-wide inventory checkpoint
 
 The Fandom archive tree currently contains 530 HTML/HTM files and 2 CSV files. This audit does not yet assign a final processing status to every Fandom HTML page. That is the next inventory phase, after Mainline. The planned next scope is Early Collections, Early Special Series, Other Early Series, then the remaining modern categories. Folder taxonomy is an archival organization, not a verified product hierarchy.
+
+
+## 6. Early Collections processing checkpoint
+
+The Early Collections archive folder has been inventoried: 33 HTML/HTM pages totaling 12,834,928 bytes. The per-file inventory, Git blob SHAs, sizes, and processing states are tracked in `research/EARLY-COLLECTIONS-PROCESSING-INDEX.md`. The folder label is treated as archival provenance, not a verified product hierarchy.
+
+The first page, Action Command, has been fully extracted and structurally QA-checked:
+- Source: `Early Collections/Action Command _ Hot Wheels Wiki _ Fandom.html`
+- Git blob SHA: `aac8bef248329166dd47ca7387d31dd6a89c3b1d`
+- Manifest SHA-256: `85E2322618CE94656A090644CD477C0613E2931791FEC17479155CD2DF2B4F85`
+- 2 source tables and 38 product rows: Original Card (8), 1987-1989 Card (30).
+- Export: `research/extractions/EARLY-COLLECTIONS-ACTION-COMMAND.csv`
+- QA: `research/extractions/EARLY-COLLECTIONS-ACTION-COMMAND-EXTRACTION-QA.md`
+- Repeated Toy # groups are preserved as separate rows; no automatic identity or release merging was performed.
+
+Next: continue with the remaining Early Collections pages in inventory order, recording each page's source structure and QA before drawing any cross-page conclusions.
