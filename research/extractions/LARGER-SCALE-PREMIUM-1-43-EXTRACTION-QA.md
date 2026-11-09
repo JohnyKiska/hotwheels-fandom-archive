@@ -17,11 +17,11 @@
 - Other HTML tables excluded: 1
 
 ## Product tables
-- 2023 [ ]: 6 rows, 7 source columns. Headers: Toy # | Series # | Casting Name | Body Color | Notes | Photo Loose | Photo Carded
-- 2024 [ ]: 11 rows, 7 source columns. Headers: Toy # | Series # | Casting Name | Body Color | Notes | Photo Loose | Photo Carded
-- 2025 [ ]: 12 rows, 7 source columns. Headers: Toy # | Series # | Casting Name | Body Color | Notes | Photo Loose | Photo Carded
-- 2026 [ ]: 4 rows, 7 source columns. Headers: Toy # | Series # | Casting Name | Body Color | Notes | Photo Loose | Photo Carded
-- 2026 [ ]: 8 rows, 8 source columns. Headers: Toy # | Pack name | Casting | Body Color | Wheel Type | Notes | Photo Loose | Photo Carded
+- 2023: 6 rows, 7 source columns. Headers: Toy # | Series # | Casting Name | Body Color | Notes | Photo Loose | Photo Carded
+- 2024: 11 rows, 7 source columns. Headers: Toy # | Series # | Casting Name | Body Color | Notes | Photo Loose | Photo Carded
+- 2025: 12 rows, 7 source columns. Headers: Toy # | Series # | Casting Name | Body Color | Notes | Photo Loose | Photo Carded
+- 2026: 4 rows, 7 source columns. Headers: Toy # | Series # | Casting Name | Body Color | Notes | Photo Loose | Photo Carded
+- 2026: 8 rows, 8 source columns. Headers: Toy # | Pack name | Casting | Body Color | Wheel Type | Notes | Photo Loose | Photo Carded
 
 ## QA notes
 - Product tables identified by toy-number and casting/model/name headers; navigation and collapsible gallery tables excluded.
