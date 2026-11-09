@@ -517,3 +517,14 @@ The archived `Early Collections/` inventory contains 33 HTML/HTM pages. 32 of 33
 - Anteater: 1 table, 9 rows, 9 embedded image references.
 - All ten CSV and QA files were re-fetched from GitHub and verified non-empty.
 - Detailed source-level counts and output paths are recorded in `research/MODERN-SPECIAL-SERIES-PROCESSING-INDEX.md`.
+
+
+### Modern Special Series batch: Auto Affinity, Bassline, Boulevard 2012/2013/2020
+- Five pages extracted and QA-reviewed; total progress is now 27 of 223.
+- Auto Affinity: 10 tables, 73 rows, 146 embedded image references; CSV in three parts.
+- Bassline (Crashers): one valid single-row Versions table (11 columns), one embedded image reference, one Gallery item. The single data row was retained after correcting an initial overly strict two-row filter.
+- 2012 Boulevard: 8 tables, 78 rows, 151 embedded image references, 2 Gallery items; CSV in three parts. One unheaded table is retained.
+- 2013 Boulevard: 5 tables, 22 rows, 40 embedded image references; one unheaded table retained.
+- 2020 Boulevard: 5 tables, 24 rows, 44 embedded image references; one unheaded table retained.
+- All CSV and QA outputs were re-fetched and verified non-empty. The corrected Bassline CSV and QA were also compared against the complete expected contents.
+- Detailed source-level records: `research/MODERN-SPECIAL-SERIES-PROCESSING-INDEX.md`.
