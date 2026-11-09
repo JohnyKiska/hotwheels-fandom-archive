@@ -2,7 +2,7 @@
 
 - Source path: `Notable Modern Themed Assortments/HW Road Trippin' Series (2014) _ Hot Wheels Wiki _ Fandom.html`
 - Source Git blob SHA: `d6b486f5255e5cbcb186a296e5a2c7f1137a674a`
-- Source size (bytes): 409180
+- Source size (bytes): 409320
 - Manifest SHA-256: `6ADFF03D155005CA1345EA1D5893C2485CBD3361C880364639CAC37885EA8E49`
 - Fandom revision ID: 815751
 - Content area located: yes
