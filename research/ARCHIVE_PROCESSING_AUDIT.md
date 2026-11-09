@@ -593,3 +593,15 @@ The archived `Early Collections/` inventory contains 33 HTML/HTM pages. 32 of 33
 - Car Culture Factory Set: 6 tables / 21 rows / 19 images.
 - All nine CSV files/parts and six QA reports were re-fetched and verified non-empty. Unheaded tables and gallery-related source data were retained.
 - Detailed records and source inventory: `research/MODERN-SPECIAL-SERIES-PROCESSING-INDEX.md`.
+
+
+### Modern Special Series batch: Character Cars (first five pages)
+- Five source pages extracted and QA-reviewed; total progress is now 61 of 223.
+- 34 product tables, 220 product rows, 400 embedded image references, and 4 separate Gallery items.
+- Activision Character Cars: 3 tables / 6 rows / 8 images.
+- Avatar: The Last Airbender Character Cars: 4 tables / 9 rows / 14 images.
+- DC Character Cars: 22 tables / 188 rows / 352 images / 4 Gallery items; CSV split into six ordered parts.
+- DC Teen Titans Go! Character Cars: 3 tables / 9 rows / 14 images.
+- Despicable Me 3 Character Cars: 2 tables / 8 rows / 12 images.
+- All ten CSV files/parts and five QA reports were re-fetched and verified non-empty. Unheaded and single-row tables retained.
+- Detailed records and source inventory: `research/MODERN-SPECIAL-SERIES-PROCESSING-INDEX.md`.
