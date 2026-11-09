@@ -2,7 +2,7 @@
 
 Scope: archived Fandom pages in `Early Collections/` on `main`. This folder name is retained as source provenance only and is not treated as a verified product-hierarchy node.
 
-Inventory: 33 HTML/HTM files, 12834928 bytes total. 29 of 33 pages extracted and QA-reviewed.
+Inventory: 33 HTML/HTM files, 12834928 bytes total. 30 of 33 pages extracted and QA-reviewed.
 
 | Source file | Git blob SHA | Size (bytes) | Processing status |
 |---|---|---:|---|
@@ -35,7 +35,7 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total. 29 of 33 pages extracted and
 | `Super Streeters _ Hot Wheels Wiki _ Fandom.html` | `963b63c8a2df9d844fcc4404df9e7c0c4e5778aa` | 358718 | Extracted + QA |
 | `TNT-Bird _ Hot Wheels Wiki _ Fandom.html` | `fc25ac24e5f93d71789f2649de64a304f70db561` | 360478 | Extracted + QA |
 | `The Heavies _ Hot Wheels Wiki _ Fandom.html` | `44d592cfc35a9c1c747410900307c127172d776a` | 333247 | Extracted + QA |
-| `The Hot Ones (1981) _ Hot Wheels Wiki _ Fandom.html` | `4daab13e074187fcc2dece60a0ab5add4968a53e` | 559506 | Not yet extracted |
+| `The Hot Ones (1981) _ Hot Wheels Wiki _ Fandom.html` | `4daab13e074187fcc2dece60a0ab5add4968a53e` | 559506 | Extracted + QA |
 | `Trailbusters _ Hot Wheels Wiki _ Fandom.html` | `f35ce4e7cbf57e651d6fa0badfa56f4ae9872811` | 395265 | Not yet extracted |
 | `Ultra Hots Series (1984) _ Hot Wheels Wiki _ Fandom.html` | `63c0056a0bdfeb092efbc49ae1fa5fc1c9e42b73` | 366058 | Not yet extracted |
 | `Workhorses _ Hot Wheels Wiki _ Fandom.html` | `e0e72cc553f2b6eedf235cf863801f0346f76a27` | 485493 | Not yet extracted |
@@ -309,3 +309,16 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total. 29 of 33 pages extracted and
 - 14 embedded product-table image references are retained in Photo Loose and Photo Carded cells (two per product row). Gallery images remain independent from product-table photo fields.
 - Raw source headers, cell values and HTML, row order, links, and image metadata retained.
 - Export: `research/extractions/EARLY-COLLECTIONS-THE-HEAVIES.csv`; QA: `research/extractions/EARLY-COLLECTIONS-THE-HEAVIES-EXTRACTION-QA.md`.
+
+
+### The Hot Ones (1981)
+- Source: `Early Collections/The Hot Ones (1981) _ Hot Wheels Wiki _ Fandom.html`
+- Git blob SHA: `4daab13e074187fcc2dece60a0ab5add4968a53e`
+- Manifest SHA-256: `9E915185F1FEB1F1437CE4B6B3F1B4EB1CE0A89780B036B49ECDFF7C4385F1E5`
+- Fandom revision ID: 811612.
+- Three product tables: Vehicles (90 rows, 9 columns), Patch Card 3-Pack (3 rows, 6 columns), and Stamper 3-Pack (4 rows, 6 columns), for 97 product rows.
+- Vehicles table has 90 populated Toy # cells, 38 distinct values and 27 repeated Toy # groups. Country-specific rows remain separate; no deduplication.
+- 20 separate Gallery items. Total CSV records: 117.
+- 189 embedded product-table image references (180 in Vehicles, 4 in Patch Card 3-Pack, 5 in Stamper 3-Pack).
+- Source-specific table schemas, row order, raw cells/HTML, links, and cell image metadata retained.
+- Export: `research/extractions/EARLY-COLLECTIONS-THE-HOT-ONES-1981.csv`; QA: `research/extractions/EARLY-COLLECTIONS-THE-HOT-ONES-1981-EXTRACTION-QA.md`.
