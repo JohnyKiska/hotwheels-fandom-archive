@@ -2,8 +2,8 @@
 
 - Source: `Modern Special Series/Side-Burn _ Hot Wheels Wiki _ Fandom.html`
 - Source blob SHA: `87688d2b9e417f0d7a9dc2e1492bd4959364a61a`
-- Source manifest SHA-256: `undefined`
-- Source size (bytes): NaN
+- Source manifest SHA-256: `A4F48BEF69D41C8BEDA9FD4AA6D680D81F7E5756CACFC65DE0F5B294466391B4`
+- Source size (bytes): 348532
 - Fandom revision ID: 792585
 - Product tables extracted: 1
 - Product rows extracted: 10
