@@ -17,7 +17,7 @@
 - Other HTML tables excluded: 1
 
 ## Product tables
-- 2001 [ ]: 7 rows, 5 source columns. Headers: Toy # | Casting Name | Color | Notes | Photo
+- 2001: 7 rows, 5 source columns. Headers: Toy # | Casting Name | Color | Notes | Photo
 
 ## QA notes
 - Product tables identified by toy-number and casting/model/name headers; navigation and collapsible gallery tables excluded.
