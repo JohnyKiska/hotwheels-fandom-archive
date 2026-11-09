@@ -681,3 +681,15 @@ Five additional Character Cars source pages were extracted and QA-documented. Th
 Batch total: 19 product tables, 105 product rows, 201 embedded table image references, and 417 links retained from product cells. Five CSV files and five QA reports were committed. Product rows retain source order, table/row indices, headers, raw row HTML, cell HTML/text, links, and embedded image metadata. Navigation/year-index tables and header-only rows are excluded. Separate Gallery items have not been independently extracted in this pass and remain a follow-up task.
 
 Detailed source metadata and extraction paths: `research/MODERN-SPECIAL-SERIES-PROCESSING-INDEX.md`.
+
+
+## Fandom archive extraction progress update (2026-11-09): Character Cars completed
+
+The final two Character Cars source pages were extracted and QA-documented. The total processed-page count is now 83 of 223.
+
+- Universal Character Cars: 2 product tables, 3 product rows, 6 embedded table image references, 12 links.
+- Warner Bros. Character Cars: 3 product tables, 12 product rows, 24 embedded table image references, 48 links.
+
+Batch total: 5 product tables, 15 product rows, 30 embedded table image references, and 60 links retained from product cells. Two CSV files and two QA reports were committed. The Character Cars category is now fully processed (all 32 source pages in this archive category have extraction records and QA reports). Product rows retain source order, table/row indices, headers, raw row HTML, cell HTML/text, links, and embedded image metadata. Navigation/year-index tables and header-only rows are excluded. Separate Gallery items have not been independently extracted in this pass and remain a follow-up task.
+
+Detailed source metadata and extraction paths: `research/MODERN-SPECIAL-SERIES-PROCESSING-INDEX.md`.
