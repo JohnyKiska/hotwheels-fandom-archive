@@ -413,7 +413,7 @@ The archived `Early Collections/` inventory contains 33 HTML/HTM source pages. A
 
 ## 7. Early Collections extraction progress update
 
-The archived `Early Collections/` inventory contains 33 HTML/HTM pages. 31 of 33 pages have now been extracted and QA-reviewed.
+The archived `Early Collections/` inventory contains 33 HTML/HTM pages. 32 of 33 pages have now been extracted and QA-reviewed.
 
 ### The Hot Ones (1981)
 - One archived source page, Fandom revision 811612.
@@ -423,7 +423,7 @@ The archived `Early Collections/` inventory contains 33 HTML/HTM pages. 31 of 33
 - Total extraction output: 117 CSV records.
 - Output: `research/extractions/EARLY-COLLECTIONS-THE-HOT-ONES-1981.csv`.
 - QA: `research/extractions/EARLY-COLLECTIONS-THE-HOT-ONES-1981-EXTRACTION-QA.md`.
-- Two Early Collections pages remain unprocessed. Continue from the processing index; preserve each source table and gallery as separate evidence.
+- One Early Collections page remains unprocessed. Continue from the processing index; preserve each source table and gallery as separate evidence.
 
 
 ### Trailbusters
@@ -433,3 +433,12 @@ The archived `Early Collections/` inventory contains 33 HTML/HTM pages. 31 of 33
 - Output: `research/extractions/EARLY-COLLECTIONS-TRAILBUSTERS.csv` (49 records).
 - QA: `research/extractions/EARLY-COLLECTIONS-TRAILBUSTERS-EXTRACTION-QA.md`.
 - Two Early Collections pages remain unprocessed: Ultra Hots Series (1984) and Workhorses.
+
+
+### Ultra Hots Series (1984)
+- Processing status: 32 of 33 Early Collections pages extracted and QA-reviewed.
+- Six source product tables (1984, 1985, 1986, Stamper 3-Pack, 4-Pack, Gift Pack), 26 product rows total. 44 embedded image references retained at cell level; no separate standard Gallery items detected.
+- Table schemas remain distinct; source-specific pack fields and variable row cell counts are preserved without inferred padding.
+- Output: `research/extractions/EARLY-COLLECTIONS-ULTRA-HOTS-SERIES-1984.csv` (26 records).
+- QA: `research/extractions/EARLY-COLLECTIONS-ULTRA-HOTS-SERIES-1984-EXTRACTION-QA.md`.
+- One Early Collections page remains unprocessed: Workhorses.
