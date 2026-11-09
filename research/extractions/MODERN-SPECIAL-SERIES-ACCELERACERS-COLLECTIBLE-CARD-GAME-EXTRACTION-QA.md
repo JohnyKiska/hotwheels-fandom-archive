@@ -22,3 +22,8 @@
 - Original headers, cell HTML, cell text, row HTML, links, and image metadata are retained.
 - Repeated labels and identifiers are not merged.
 - Tables with fewer than two data rows or navigation-class tables were excluded from product-table extraction; review the source if additional one-off product evidence is present.
+
+
+## Large-file handling
+
+The complete source extraction is split into six ordered CSV parts to keep each file independently retrievable. Part 01 is the base CSV path; parts 02-06 use the `-PART-NN.csv` suffix. Together they contain all 279 product-table rows and 2 Gallery records in source order.
