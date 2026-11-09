@@ -34,7 +34,8 @@ Status labels:
 
 | Year/source | Archive status | Research status | Audit conclusion |
 |---|---|---|---|
-| 1968–1971 (4 annual pages) | Present | No complete year-by-year extraction/QA documented | Not yet audited as annual Mainline datasets |
+| 1968–1970 (3 annual pages) | Present | No complete year-by-year extraction/QA documented | Not yet audited as annual Mainline datasets |
+| 1971 | Present | No annual product table; extracted 39 gallery entries across Hot Wheels Series (21), Heavyweights (7), Mongoose vs Snake (4), Spoilers (3), and Gallery (4). Image filenames, alt labels and links preserved; two catalog-gallery captions blank; structured release identifiers/attributes absent. | Gallery inventory extracted + QA; not a structured annual product-table extraction |
 | 1972 | Present | No annual product table; extracted 7 gallery entries under New Castings. Image filenames, alt labels, file links and model-page links preserved; Toy # and structured release attributes absent. | Gallery inventory extracted + QA; not a structured annual product-table extraction |
 | 1973 | Present | Archived page has no annual product table; extracted 34 gallery entries across New Release (3), Hot Wheels Series (21), and Shell Promo (10). Image filenames, alt labels, file links, and model-page links preserved; Toy # and other structured release attributes absent. | Gallery inventory extracted + QA; not a structured annual product-table extraction |
 | 1974 | Present | Extracted 25 rows from 1 product table; 25 unique nonblank Toy #; no repeated Toy # or casting-name groups. Six-column source schema; Wheel Type and Photo metadata recovered from image alt labels / filenames; 24 rows assigned to 1974 Flying Colors and 1 to Mountain Mining Set; no Collector # or Series #. | Extracted + QA |
@@ -116,7 +117,7 @@ The 2024 annual list has now been re-extracted from the canonical archive branch
 
 Priority order:
 
-1. Continue annual Mainline source review and extraction for 1968–1971; 1972 and 1973 are gallery-only and need cross-source enrichment if structured release data is required. The 1997–2026 annual sources have been extracted/QA-checked; 2010 ordinary and International lists are separate, independently processed datasets.
+1. Continue annual Mainline source review and extraction for 1968–1970; 1971, 1972 and 1973 are gallery-only and need cross-source enrichment if structured release data is required. The 1997–2026 annual sources have been extracted/QA-checked; 2010 ordinary and International lists are separate, independently processed datasets.
 2. Adjudicate the 2010 USA/International comparison: investigate 21 shared-Toy# model-name discrepancies, 13 International-only and 39 USA-only Toy # values, and the 18 USA tire-exclusive section rows.
 3. Resolve year-specific anomalies already recorded for 1997–2009 (sparse Collector # ranges, repeated Toy #/Collector # values, separate program scopes, blank identifiers and schema differences).
 4. Adjudicate the existing 49 Car Culture ↔ Mainline 2024 name-match candidates against the canonical 2024 extraction. Preserve the comparison as a separate run; name matches are not casting/tooling proof.
