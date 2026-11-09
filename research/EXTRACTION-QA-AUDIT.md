@@ -65,7 +65,7 @@ Two structural defects have been corrected during the expanded pass:
 1. `EARLY-COLLECTIONS-FLYING-COLORS.csv`: one ancillary `section_reference` row had a surplus empty field (23 fields vs. 22-column header); removed the surplus empty field and updated its QA report.
 2. `EARLY-COLLECTIONS-30TH-ANNIVERSARY-4-CAR-SET.csv`: each of the four product rows had one surplus empty field before `Photo filename`, shifting photo and provenance columns. Removed only that empty field; all four rows now match the 20-column header. The associated QA report documents the correction and preserves a note about two lazy-load image placeholders whose actual `data-src` URLs remain in raw source HTML.
 
-No other width, blank-record, exact-duplicate, BOM, U+FFFD, header-label, or quote-balance issue was found in the inspected files. Repeated product identifiers and variant records are not deduplicated. Full audit of the remaining 559 CSV files and page-QA output-path reconciliation are still outstanding.
+No other width, blank-record, exact-duplicate, BOM, U+FFFD, header-label, or quote-balance issue was found in the inspected files. Repeated product identifiers and variant records are not deduplicated. Full audit of the remaining CSV files and page-QA output-path reconciliation are still outstanding.
 
 ## Fourth-stage progress update (2026-11-09)
 
@@ -76,3 +76,8 @@ Header-only exports are not automatically defects: the two Exclusives files with
 ## Fifth-stage progress update (2026-11-09)
 
 Sequential validation has advanced to **130 of 633 distinct CSV files**. The latest eight Mainline exports (1972–1979) all passed CSV parsing and per-file schema-width checks; no blank data records, exact duplicate rows, malformed quoting, BOM, U+FFFD, or empty/duplicate header labels were found. The 19-column schema remains internally consistent for these years.
+
+
+## Sixth-stage progress update (2026-11-09)
+
+Sequential CSV validation has advanced to **140 of 633 distinct CSV files**. Mainline years 1980–1989 all passed CSV parsing and per-file row-width checks, with no blank data records, exact duplicate rows, malformed quoting, BOM, U+FFFD, or empty/duplicate header labels. Mainline schema widths legitimately vary by period (19, 18, 17, and 9 columns in this batch); validation is therefore always performed against each individual file's own header, not a fixed global width. The narrower 1989 schema is recorded for later semantic/provenance reconciliation rather than treated as a defect based on width alone.
