@@ -663,3 +663,31 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 - 7 product tables, 25 rows, 44 embedded table image references.
 - CSV: `research/extractions/MODERN-SPECIAL-SERIES-JURASSIC-WORLD-CHARACTER-CARS.csv`; QA report: matching `-EXTRACTION-QA.md`.
 
+
+
+## Latest extraction batch: Character Cars (Lightyear through Minecraft)
+
+### Lightyear Character Cars
+- Source: `Modern Special Series/Character Cars/Lightyear Character Cars _ Hot Wheels Wiki _ Fandom.html`; blob SHA `2ae665b19a51b6ad539e3429cc55b4e5aecce395`; manifest SHA-256 `210E91D4983CA129DCC246841652DF288C96035EAC9E925FF83615E795F38AC5`; size 369028 bytes; Fandom revision 590764.
+- 3 product tables, 12 product rows, 22 embedded table image references, 47 links in product cells.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-LIGHTYEAR-CHARACTER-CARS.csv`; QA report: `research/extractions/MODERN-SPECIAL-SERIES-LIGHTYEAR-CHARACTER-CARS-EXTRACTION-QA.md`.
+
+### Looney Tunes Character Cars
+- Source: `Modern Special Series/Character Cars/Looney Tunes Character Cars _ Hot Wheels Wiki _ Fandom.html`; blob SHA `c86b1e77f4ca120e27fbae3fbf1d9cfd472a2c1d`; manifest SHA-256 `C9CAD8D9CA093C543A86A2A27CD8176BEFC4CCA70DE3E796E84A5EECA57E5421`; size 359340 bytes; Fandom revision 768719.
+- 3 product tables, 14 product rows, 28 embedded table image references, 56 links in product cells.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-LOONEY-TUNES-CHARACTER-CARS.csv`; QA report: `research/extractions/MODERN-SPECIAL-SERIES-LOONEY-TUNES-CHARACTER-CARS-EXTRACTION-QA.md`.
+
+### Marvel Character Cars
+- Source: `Modern Special Series/Character Cars/Marvel Character Cars _ Hot Wheels Wiki _ Fandom.html`; blob SHA `85aa6572f0f636a6af26c400a6a0617d7d1ea5e2`; manifest SHA-256 `A65BDA74B60B511104DF722E2D45E644B0A730A96D1F0CFC116D6A9D0659D114`; size 775918 bytes; Fandom revision 702958.
+- 27 product tables, 246 product rows, 456 embedded table image references, 955 links in product cells.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-MARVEL-CHARACTER-CARS.csv` and `research/extractions/MODERN-SPECIAL-SERIES-MARVEL-CHARACTER-CARS-PART-02.csv` (two ordered parts); QA report: `research/extractions/MODERN-SPECIAL-SERIES-MARVEL-CHARACTER-CARS-EXTRACTION-QA.md`.
+
+### Masters of the Universe Character Cars
+- Source: `Modern Special Series/Character Cars/Masters of the Universe Character Cars _ Hot Wheels Wiki _ Fandom.html`; blob SHA `2b5bb7cc178b401b1a1a13c0500621be9e3b105a`; manifest SHA-256 `089F68896BFC284EAFDCA7AB7B66885DF14A4FAD26287CB47A74CD76CC6D6571`; size 376818 bytes; Fandom revision 617659.
+- 4 product tables, 13 product rows, 25 embedded table image references, 51 links in product cells.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-MASTERS-OF-THE-UNIVERSE-CHARACTER-CARS.csv`; QA report: `research/extractions/MODERN-SPECIAL-SERIES-MASTERS-OF-THE-UNIVERSE-CHARACTER-CARS-EXTRACTION-QA.md`.
+
+### Minecraft Character Cars
+- Source: `Modern Special Series/Character Cars/Minecraft Character Cars _ Hot Wheels Wiki _ Fandom.html`; blob SHA `bbc10c09af097f398558b8209b4c5443a2a1c985`; manifest SHA-256 `3257DCEAFFE0A5FFF80A49CAFCD0FE0E117FE1B85131392F67EEB6CAF1F23569`; size 396289 bytes; Fandom revision 678323.
+- 4 product tables, 24 product rows, 48 embedded table image references, 96 links in product cells.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-MINECRAFT-CHARACTER-CARS.csv`; QA report: `research/extractions/MODERN-SPECIAL-SERIES-MINECRAFT-CHARACTER-CARS-EXTRACTION-QA.md`.
