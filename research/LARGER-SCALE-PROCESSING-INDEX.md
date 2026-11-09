@@ -5,8 +5,8 @@ Scope: archived source HTML under `Larger Scale/`, including the nested `Hot Whe
 ## Inventory summary
 
 - Source pages: 37
-- Extracted + QA: 5
-- Remaining: 32
+- Extracted + QA: 10
+- Remaining: 27
 
 ## File inventory and processing status
 
@@ -17,11 +17,11 @@ Scope: archived source HTML under `Larger Scale/`, including the nested `Hot Whe
 | `Larger Scale/1_43 Turbos Collection _ Hot Wheels Wiki _ Fandom.html` | 344685 | `C848F78AD1C72312C3AA3B7FEDCABAC6817A64DC2160BBEE7E20BC0944ED4401` | Extracted + QA |
 | `Larger Scale/100% Hot Wheels 1_18 Scale _ Hot Wheels Wiki _ Fandom.html` | 521278 | `9F656CBF43BCCF6D1B14B0F7366B797F850BF3A6FB4E270104C1EDD3D621C601` | Extracted + QA |
 | `Larger Scale/Batman 1_50 Scale Series _ Hot Wheels Wiki _ Fandom.html` | 551083 | `269B87CB87B3EEB9B28AF016AE7F038C3C232610121A55368DBAF1A0BA61C1FA` | Extracted + QA |
-| `Larger Scale/Ferrari 1_18 Scale Series _ Hot Wheels Wiki _ Fandom.html` | 376132 | `66B758280C73AF6D25CDFAA1053CDFB73291E98E0E0718F393BE9C7515C68DE2` | Pending |
-| `Larger Scale/Ferrari 1_24 Scale Series _ Hot Wheels Wiki _ Fandom.html` | 352999 | `D05810592AAD27D2E88CC0ECA5DD6190318D472122CCF104D02BDBDB9298639E` | Pending |
-| `Larger Scale/Ferrari 1_43 Scale Series _ Hot Wheels Wiki _ Fandom.html` | 372628 | `F6FC868438F2568AFA1CFABE1764F3AD4A127A0FFFCC7B9A5FC898E9DDA702AF` | Pending |
-| `Larger Scale/Formula Fuelers _ Hot Wheels Wiki _ Fandom.html` | 381071 | `3EBEF514C43564FCF6CA41932E72E80B4323C63FCC916DA13D91D6E8811D7D36` | Pending |
-| `Larger Scale/Hot Wheels 1_18 Scale Series _ Hot Wheels Wiki _ Fandom.html` | 533770 | `AA34C8501B2B7577639CCD3F04385BCC8D35F1BE3D579140F24FCF747F298103` | Pending |
+| `Larger Scale/Ferrari 1_18 Scale Series _ Hot Wheels Wiki _ Fandom.html` | 376132 | `66B758280C73AF6D25CDFAA1053CDFB73291E98E0E0718F393BE9C7515C68DE2` | Extracted + QA |
+| `Larger Scale/Ferrari 1_24 Scale Series _ Hot Wheels Wiki _ Fandom.html` | 352999 | `D05810592AAD27D2E88CC0ECA5DD6190318D472122CCF104D02BDBDB9298639E` | Extracted + QA |
+| `Larger Scale/Ferrari 1_43 Scale Series _ Hot Wheels Wiki _ Fandom.html` | 372628 | `F6FC868438F2568AFA1CFABE1764F3AD4A127A0FFFCC7B9A5FC898E9DDA702AF` | Extracted + QA |
+| `Larger Scale/Formula Fuelers _ Hot Wheels Wiki _ Fandom.html` | 381071 | `3EBEF514C43564FCF6CA41932E72E80B4323C63FCC916DA13D91D6E8811D7D36` | Extracted + QA |
+| `Larger Scale/Hot Wheels 1_18 Scale Series _ Hot Wheels Wiki _ Fandom.html` | 533770 | `AA34C8501B2B7577639CCD3F04385BCC8D35F1BE3D579140F24FCF747F298103` | Extracted + QA |
 | `Larger Scale/Hot Wheels 1_24 Scale Series _ Hot Wheels Wiki _ Fandom.html` | 349322 | `EA8E13978D3FAD2F0C9C658FB712AEBC35D0306EAC118AF53928484D97CA2041` | Pending |
 | `Larger Scale/Hot Wheels Classics 1_18 Scale _ Hot Wheels Wiki _ Fandom.html` | 400994 | `797AA54E2F84469844633BBD06F2BB3A0663434B049A7C24D85CFAD0F19F08A7` | Pending |
 | `Larger Scale/Hot Wheels Collectibles 1_18 Scale _ Hot Wheels Wiki _ Fandom.html` | 366217 | `C7F24EE80880E0226AB3980573B4350A82A59F19EF48A2D27E3D0F17FA16CCDC` | Pending |
@@ -68,3 +68,18 @@ Processed 5 source pages. Product-table extraction totals: **29 product tables a
 | Batman 1:50 Scale Series | 16 | 115 |
 
 Batch totals: **5 pages, 29 product tables, 284 product rows**. Gallery extraction remains deferred.
+
+
+## Batch 2: Ferrari 1:18–1:43, Formula Fuelers, and Hot Wheels 1:18
+
+Processed 5 source pages. Product-table extraction totals: **23 product tables and 245 product rows**. Each page has a 21-column CSV and QA report. All five CSVs were re-fetched and validated: 21 columns and zero malformed-width rows.
+
+| Page | Product tables | Product rows |
+|---|---:|---:|
+| Ferrari 1:18 Scale Series | 4 | 27 |
+| Ferrari 1:24 Scale Series | 1 | 9 |
+| Ferrari 1:43 Scale Series | 4 | 23 |
+| Formula Fuelers | 4 | 26 |
+| Hot Wheels 1:18 Scale Series | 10 | 160 |
+
+Batch totals: **5 pages, 23 product tables, 245 product rows**. Gallery extraction remains deferred.
