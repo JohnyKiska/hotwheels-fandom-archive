@@ -2,8 +2,8 @@
 
 - Source: `Modern Special Series/Retro Style Series (2016) _ Hot Wheels Wiki _ Fandom.html`
 - Source blob SHA: `3997d51257d4cfe45d481c3f0b5eda6545cba533`
-- Source manifest SHA-256: `undefined`
-- Source size (bytes): NaN
+- Source manifest SHA-256: `3D15F1E7F1020CC89B9CD93179B7FE123179F0589FDADD9F8097DC59732D284C`
+- Source size (bytes): 379239
 - Fandom revision ID: 808184
 - Product tables extracted: 5
 - Product rows extracted: 31
