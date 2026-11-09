@@ -13,6 +13,7 @@
 Для каждого содержательного вывода указывать источник (путь в архиве или внешний URL), область проверки и статус. Не повышать статус автоматически. Сохранять исходные значения и формулировки источника.
 
 ## Документы
+- [Early Special Series processing index](EARLY-SPECIAL-SERIES-PROCESSING-INDEX.md): source inventory and row-preserving CSV/QA extraction status for the early special-series pages.
 
 | Документ | Назначение |
 |---|---|
