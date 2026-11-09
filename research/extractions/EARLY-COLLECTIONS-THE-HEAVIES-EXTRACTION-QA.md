@@ -15,7 +15,7 @@
 - Vehicle-name labels: '56 Hi-Tail Hauler; Funny Money; Geoffrey's Pick Up; GMC Motor Home; Letter Getter; Maxi Taxi; Ramblin' Wrecker.
 - Separate standard Wikia gallery items: 2.
 - Total CSV records: 9.
-- Embedded product-table image references: 14. Photo Loose and Photo Carded source cells are empty in all product rows.
+- Embedded product-table image references: 14. Photo Loose and Photo Carded contain image references in every product row; 14 embedded image references are retained separately in cell metadata.
 - Raw source headers, cell values and HTML, source order, links and per-cell image metadata retained. Gallery caption, alt text, filename, file link and image metadata retained independently.
 
 ## Gallery
