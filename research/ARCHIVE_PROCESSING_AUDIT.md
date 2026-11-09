@@ -621,3 +621,18 @@ Batch total: 36 product tables, 206 product rows, 389 embedded table image refer
 
 
 Disney Character Cars CSV handling note: the 165-row extraction exceeds a practical single-file review size and is stored as two ordered CSV parts. The QA report and processing index identify both parts.
+
+
+## Fandom archive extraction progress update (2026-11-09): Character Cars, Lightyear through Minecraft
+
+Five additional Character Cars source pages were extracted and QA-documented. The total processed-page count is now 66 of 223.
+
+- Lightyear Character Cars: 3 product tables, 12 product rows, 22 embedded table image references.
+- Looney Tunes Character Cars: 3 product tables, 14 product rows, 28 embedded table image references.
+- Marvel Character Cars: 27 product tables, 246 product rows, 456 embedded table image references.
+- Masters of the Universe Character Cars: 4 product tables, 13 product rows, 25 embedded table image references.
+- Minecraft Character Cars: 4 product tables, 24 product rows, 48 embedded table image references.
+
+Batch total: 41 product tables, 309 product rows, 579 embedded table image references, and 1,205 links retained from product cells. Five QA reports and six CSV files/parts were committed. Marvel CSV is stored as two ordered parts due to file size. Product rows retain source order, table/row indices, headers, raw row HTML, cell HTML/text, links, and embedded image metadata. Navigation/year-index tables and header-only rows are excluded. Separate Gallery items have not been independently extracted in this pass and remain a follow-up task.
+
+Detailed source metadata and extraction paths: `research/MODERN-SPECIAL-SERIES-PROCESSING-INDEX.md`.
