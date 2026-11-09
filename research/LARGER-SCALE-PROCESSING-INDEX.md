@@ -5,8 +5,8 @@ Scope: archived source HTML under `Larger Scale/`, including the nested `Hot Whe
 ## Inventory summary
 
 - Source pages: 37
-- Extracted + QA: 10
-- Remaining: 27
+- Extracted + QA: 15
+- Remaining: 22
 
 ## File inventory and processing status
 
@@ -22,11 +22,11 @@ Scope: archived source HTML under `Larger Scale/`, including the nested `Hot Whe
 | `Larger Scale/Ferrari 1_43 Scale Series _ Hot Wheels Wiki _ Fandom.html` | 372628 | `F6FC868438F2568AFA1CFABE1764F3AD4A127A0FFFCC7B9A5FC898E9DDA702AF` | Extracted + QA |
 | `Larger Scale/Formula Fuelers _ Hot Wheels Wiki _ Fandom.html` | 381071 | `3EBEF514C43564FCF6CA41932E72E80B4323C63FCC916DA13D91D6E8811D7D36` | Extracted + QA |
 | `Larger Scale/Hot Wheels 1_18 Scale Series _ Hot Wheels Wiki _ Fandom.html` | 533770 | `AA34C8501B2B7577639CCD3F04385BCC8D35F1BE3D579140F24FCF747F298103` | Extracted + QA |
-| `Larger Scale/Hot Wheels 1_24 Scale Series _ Hot Wheels Wiki _ Fandom.html` | 349322 | `EA8E13978D3FAD2F0C9C658FB712AEBC35D0306EAC118AF53928484D97CA2041` | Pending |
-| `Larger Scale/Hot Wheels Classics 1_18 Scale _ Hot Wheels Wiki _ Fandom.html` | 400994 | `797AA54E2F84469844633BBD06F2BB3A0663434B049A7C24D85CFAD0F19F08A7` | Pending |
-| `Larger Scale/Hot Wheels Collectibles 1_18 Scale _ Hot Wheels Wiki _ Fandom.html` | 366217 | `C7F24EE80880E0226AB3980573B4350A82A59F19EF48A2D27E3D0F17FA16CCDC` | Pending |
-| `Larger Scale/Hot Wheels Elite 1_18 Scale _ Hot Wheels Wiki _ Fandom.html` | 563961 | `025BF167C02968453198024BF8238BD3661E52AD796658811E6AEDCE8AD83254` | Pending |
-| `Larger Scale/Hot Wheels Elite 1_43 Scale _ Hot Wheels Wiki _ Fandom.html` | 528816 | `637992244140E5AA72EDF06EDD87218F529472AE2251AF856D9A3B323C5ADC53` | Pending |
+| `Larger Scale/Hot Wheels 1_24 Scale Series _ Hot Wheels Wiki _ Fandom.html` | 349322 | `EA8E13978D3FAD2F0C9C658FB712AEBC35D0306EAC118AF53928484D97CA2041` | Extracted + QA |
+| `Larger Scale/Hot Wheels Classics 1_18 Scale _ Hot Wheels Wiki _ Fandom.html` | 400994 | `797AA54E2F84469844633BBD06F2BB3A0663434B049A7C24D85CFAD0F19F08A7` | Extracted + QA |
+| `Larger Scale/Hot Wheels Collectibles 1_18 Scale _ Hot Wheels Wiki _ Fandom.html` | 366217 | `C7F24EE80880E0226AB3980573B4350A82A59F19EF48A2D27E3D0F17FA16CCDC` | Extracted + QA |
+| `Larger Scale/Hot Wheels Elite 1_18 Scale _ Hot Wheels Wiki _ Fandom.html` | 563961 | `025BF167C02968453198024BF8238BD3661E52AD796658811E6AEDCE8AD83254` | Extracted + QA |
+| `Larger Scale/Hot Wheels Elite 1_43 Scale _ Hot Wheels Wiki _ Fandom.html` | 528816 | `637992244140E5AA72EDF06EDD87218F529472AE2251AF856D9A3B323C5ADC53` | Extracted + QA |
 | `Larger Scale/Hot Wheels Elite One _ Hot Wheels Wiki _ Fandom.html` | 372241 | `9B3DD081D1F7CDA19D29C21D8CB138955B7A3067DA3216FA945781F37B5A2D89` | Pending |
 | `Larger Scale/Hot Wheels Let's Race_ Activate! _ Hot Wheels Wiki _ Fandom.html` | 367158 | `C7AFE000626F2AE4E954823349BDE46AB5A365D67CCC79EAED5BBD73F0F27523` | Pending |
 | `Larger Scale/Hot Wheels Racing 1_18 Scale _ Hot Wheels Wiki _ Fandom.html` | 523076 | `4213AFE04D51028E9680391016138911176900D613A753219B905472F7C470E1` | Pending |
@@ -83,3 +83,18 @@ Processed 5 source pages. Product-table extraction totals: **23 product tables a
 | Hot Wheels 1:18 Scale Series | 10 | 160 |
 
 Batch totals: **5 pages, 23 product tables, 245 product rows**. Gallery extraction remains deferred.
+
+
+## Batch 3: Hot Wheels 1:24, Classics, Collectibles, and Elite
+
+Processed 5 source pages. Product-table extraction totals: **21 product tables and 440 product rows**. Each page has a 21-column CSV and QA report. All five CSVs were re-fetched and validated: 21 columns and zero malformed-width rows.
+
+| Page | Product tables | Product rows |
+|---|---:|---:|
+| Hot Wheels 1:24 Scale Series | 1 | 1 |
+| Hot Wheels Classics 1:18 Scale | 1 | 31 |
+| Hot Wheels Collectibles 1:18 Scale | 2 | 23 |
+| Hot Wheels Elite 1:18 Scale | 10 | 208 |
+| Hot Wheels Elite 1:43 Scale | 7 | 177 |
+
+Batch totals: **5 pages, 21 product tables, 440 product rows**. Gallery extraction remains deferred.
