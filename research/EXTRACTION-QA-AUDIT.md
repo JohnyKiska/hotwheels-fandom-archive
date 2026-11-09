@@ -465,3 +465,49 @@ The next 25 pending exports in the manifest were audited: Miscellaneous / Multip
 All 25 CSVs passed every structural check: zero row-width errors, physical blank rows, exact duplicate full rows, malformed quotes, BOMs, U+FFFD characters, empty headers, duplicate headers, or trailing delimiters. All 25 row counts matched their corresponding QA reports, including the two Multi-Pack Exclusives exports (22 and 68 product rows respectively). The ancillary/navigation tables documented in those QA reports remain excluded from the product CSVs by design. No CSV source values were normalized, deduplicated, or modified.
 
 Total data rows inspected in this batch: **491**. Manifest update commit records pre-audit branch HEAD: `bcb18810b882cb17d4380323bc2355de73cfa61c`.
+
+## CSV structural audit batch 12 (2026-11-09)
+
+The audit batch was increased to **35 CSV files**. The next 35 pending exports were checked in manifest order, covering Miscellaneous multipacks, collector-number records, and Modern Special Series through 2013 Boulevard. All files were parsed with CSV-aware quoting rules and checked for consistent row width, physical blank/whitespace-only lines, exact duplicate full rows, malformed quotes, BOM, U+FFFD, empty/duplicate headers, and trailing delimiters. Exact QA report paths from the manifest were used.
+
+| CSV | Data records | Columns | Width errors | Blank rows | Exact duplicate extra rows |
+|---|---:|---:|---:|---:|---:|
+| MISCELLANEOUS-2025-5-PACKS-PRODUCT-TABLES.csv | 18 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-2026-5-PACKS-PRODUCT-TABLES.csv | 17 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-3-PACK-PRODUCT-TABLES.csv | 13 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-4-PACK-PRODUCT-TABLES.csv | 27 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-6-PACK-PRODUCT-TABLES.csv | 71 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-HOT-WHEELS-BY-COLLECTOR-NUMBER-PRODUCT-TABLES.csv | 1065 | 21 | 0 | 0 | 0 |
+| MODERN-SPECIAL-SERIES-100-PERCENT-HOT-WHEELS-1-43-SCALE.csv | 13 | 21 | 0 | 0 | 0 |
+| MODERN-SPECIAL-SERIES-100-PERCENT-HOT-WHEELS-40TH-ANNIVERSARY.csv | 39 | 21 | 0 | 0 | 0 |
+| MODERN-SPECIAL-SERIES-100-PERCENT-PREFERRED.csv | 150 | 21 | 0 | 0 | 0 |
+| MODERN-SPECIAL-SERIES-1997-PRO-RACING.csv | 83 | 21 | 0 | 0 | 0 |
+| MODERN-SPECIAL-SERIES-1998-PRO-RACING.csv | 205 | 21 | 0 | 0 | 0 |
+| MODERN-SPECIAL-SERIES-1999-COOL-COLLECTIBLES.csv | 16 | 21 | 0 | 0 | 0 |
+| MODERN-SPECIAL-SERIES-1999-PRO-RACING.csv | 185 | 21 | 0 | 0 | 0 |
+| MODERN-SPECIAL-SERIES-2000-COOL-COLLECTIBLES.csv | 61 | 21 | 0 | 0 | 0 |
+| MODERN-SPECIAL-SERIES-2000-PRO-RACING.csv | 155 | 21 | 0 | 0 | 0 |
+| MODERN-SPECIAL-SERIES-2001-100-PERCENT-HOT-WHEELS.csv | 49 | 21 | 0 | 0 | 0 |
+| MODERN-SPECIAL-SERIES-2001-PRO-RACING.csv | 93 | 21 | 0 | 0 | 0 |
+| MODERN-SPECIAL-SERIES-2002-100-PERCENT-HOT-WHEELS.csv | 32 | 21 | 0 | 0 | 0 |
+| MODERN-SPECIAL-SERIES-2002-PRO-RACING.csv | 93 | 21 | 0 | 0 | 0 |
+| MODERN-SPECIAL-SERIES-2003-100-PERCENT-HOT-WHEELS.csv | 33 | 21 | 0 | 0 | 0 |
+| MODERN-SPECIAL-SERIES-2003-PRO-RACING.csv | 134 | 21 | 0 | 0 | 0 |
+| MODERN-SPECIAL-SERIES-2004-PRO-RACING.csv | 71 | 21 | 0 | 0 | 0 |
+| MODERN-SPECIAL-SERIES-2004-SHOWCASE-HOT-WHEELS.csv | 103 | 21 | 0 | 0 | 0 |
+| MODERN-SPECIAL-SERIES-2005-PRO-RACING.csv | 21 | 21 | 0 | 0 | 0 |
+| MODERN-SPECIAL-SERIES-2005-SHOWCASE-HOT-WHEELS.csv | 22 | 21 | 0 | 0 | 0 |
+| MODERN-SPECIAL-SERIES-2006-KALIFORNIA-KUSTOMS.csv | 16 | 21 | 0 | 0 | 0 |
+| MODERN-SPECIAL-SERIES-2008-COLOR-SHIFTERS.csv | 33 | 21 | 0 | 0 | 0 |
+| MODERN-SPECIAL-SERIES-2009-COLOR-SHIFTERS.csv | 32 | 21 | 0 | 0 | 0 |
+| MODERN-SPECIAL-SERIES-2010-COLOR-SHIFTERS.csv | 50 | 21 | 0 | 0 | 0 |
+| MODERN-SPECIAL-SERIES-2011-COLOR-SHIFTERS.csv | 41 | 21 | 0 | 0 | 0 |
+| MODERN-SPECIAL-SERIES-2012-COLOR-SHIFTERS.csv | 16 | 21 | 0 | 0 | 0 |
+| MODERN-SPECIAL-SERIES-2012-HOT-WHEELS-BOULEVARD-PART-02.csv | 35 | 21 | 0 | 0 | 0 |
+| MODERN-SPECIAL-SERIES-2012-HOT-WHEELS-BOULEVARD-PART-03.csv | 10 | 21 | 0 | 0 | 0 |
+| MODERN-SPECIAL-SERIES-2012-HOT-WHEELS-BOULEVARD.csv | 35 | 21 | 0 | 0 | 0 |
+| MODERN-SPECIAL-SERIES-2013-HOT-WHEELS-BOULEVARD.csv | 22 | 21 | 0 | 0 | 0 |
+
+All 35 CSVs passed every structural check: zero width errors, blank rows, exact duplicate rows, malformed quotes, BOMs, replacement characters, empty headers, duplicate headers, or trailing delimiters. QA reconciliation was performed using the correct record scope: **100% Preferred** contains 127 product rows plus 23 separate gallery records (150 CSV records); **2004 Showcase Hot Wheels** contains 70 product rows plus 33 gallery records (103); **2006 Kalifornia Kustoms** contains 12 product rows plus 4 gallery records (16). The three 2012 Boulevard CSV parts were checked individually and collectively: 35 + 35 + 10 = 80 records, matching 78 product rows plus 2 gallery records in QA. The 3.15 MB Collector Number CSV and 1998 Pro Racing CSV were retrieved by Git blob SHA after the file-content endpoint returned empty bodies; full contents were parsed and validated (1,065 and 205 rows respectively). No source CSV values were changed.
+
+Total CSV data records inspected in this batch: **3059**. Manifest provenance records pre-audit branch HEAD: `0f10ff5bf8d9352072cce885c562a931b1a9aafd`.
