@@ -6,7 +6,7 @@
 - Source path: `Other Modern Series/Star Wars Starships _ Hot Wheels Wiki _ Fandom.html`
 - Git blob SHA: `959d472537d0049df0bb3fccf9535acb7c0aa164`
 - Manifest file size: 803,817 bytes
-- Manifest SHA-256: `0E20004D878135BBEF98D5BC577836DBB1A8A8B1F??`
+- Manifest SHA-256: `0E20004D878135BBEF98D5BC577CD4D34636DB393DF8092D3C494B94B854C680`
 - Extraction date: 2026-11-09
 
 ## Extraction results
