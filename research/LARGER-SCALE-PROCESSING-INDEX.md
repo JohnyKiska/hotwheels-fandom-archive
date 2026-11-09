@@ -5,18 +5,18 @@ Scope: archived source HTML under `Larger Scale/`, including the nested `Hot Whe
 ## Inventory summary
 
 - Source pages: 37
-- Extracted + QA: 0
-- Remaining: 37
+- Extracted + QA: 5
+- Remaining: 32
 
 ## File inventory and processing status
 
 | Source file | Size (bytes) | Manifest SHA-256 | Processing status |
 |---|---:|---|---|
-| `Larger Scale/1_43 Battle Vehicles _ Hot Wheels Wiki _ Fandom.html` | 347905 | `7F8345C1BA7E98BDDC27B2CE5E449053FCE1D33B0F7C957FC48CCB0C237BB729` | Pending |
-| `Larger Scale/1_43 Pull-Backs _ Hot Wheels Wiki _ Fandom.html` | 354946 | `0F2485764A0C9DF7076E8157574A7EDC3D8AF7661906C97318B813D2B92D86C9` | Pending |
-| `Larger Scale/1_43 Turbos Collection _ Hot Wheels Wiki _ Fandom.html` | 344685 | `C848F78AD1C72312C3AA3B7FEDCABAC6817A64DC2160BBEE7E20BC0944ED4401` | Pending |
-| `Larger Scale/100% Hot Wheels 1_18 Scale _ Hot Wheels Wiki _ Fandom.html` | 521278 | `9F656CBF43BCCF6D1B14B0F7366B797F850BF3A6FB4E270104C1EDD3D621C601` | Pending |
-| `Larger Scale/Batman 1_50 Scale Series _ Hot Wheels Wiki _ Fandom.html` | 551083 | `269B87CB87B3EEB9B28AF016AE7F038C3C232610121A55368DBAF1A0BA61C1FA` | Pending |
+| `Larger Scale/1_43 Battle Vehicles _ Hot Wheels Wiki _ Fandom.html` | 347905 | `7F8345C1BA7E98BDDC27B2CE5E449053FCE1D33B0F7C957FC48CCB0C237BB729` | Extracted + QA |
+| `Larger Scale/1_43 Pull-Backs _ Hot Wheels Wiki _ Fandom.html` | 354946 | `0F2485764A0C9DF7076E8157574A7EDC3D8AF7661906C97318B813D2B92D86C9` | Extracted + QA |
+| `Larger Scale/1_43 Turbos Collection _ Hot Wheels Wiki _ Fandom.html` | 344685 | `C848F78AD1C72312C3AA3B7FEDCABAC6817A64DC2160BBEE7E20BC0944ED4401` | Extracted + QA |
+| `Larger Scale/100% Hot Wheels 1_18 Scale _ Hot Wheels Wiki _ Fandom.html` | 521278 | `9F656CBF43BCCF6D1B14B0F7366B797F850BF3A6FB4E270104C1EDD3D621C601` | Extracted + QA |
+| `Larger Scale/Batman 1_50 Scale Series _ Hot Wheels Wiki _ Fandom.html` | 551083 | `269B87CB87B3EEB9B28AF016AE7F038C3C232610121A55368DBAF1A0BA61C1FA` | Extracted + QA |
 | `Larger Scale/Ferrari 1_18 Scale Series _ Hot Wheels Wiki _ Fandom.html` | 376132 | `66B758280C73AF6D25CDFAA1053CDFB73291E98E0E0718F393BE9C7515C68DE2` | Pending |
 | `Larger Scale/Ferrari 1_24 Scale Series _ Hot Wheels Wiki _ Fandom.html` | 352999 | `D05810592AAD27D2E88CC0ECA5DD6190318D472122CCF104D02BDBDB9298639E` | Pending |
 | `Larger Scale/Ferrari 1_43 Scale Series _ Hot Wheels Wiki _ Fandom.html` | 372628 | `F6FC868438F2568AFA1CFABE1764F3AD4A127A0FFFCC7B9A5FC898E9DDA702AF` | Pending |
@@ -53,3 +53,18 @@ Scope: archived source HTML under `Larger Scale/`, including the nested `Hot Whe
 ## Processing batches
 
 Extraction follows the project 21-column product-table CSV schema. Each page receives a QA report; ancillary/navigation tables are excluded and documented. CSVs are re-fetched and checked for 21 columns and malformed rows. Gallery extraction is deferred until all HTML categories are processed.
+
+
+## Batch 1: 1:43 Battle Vehicles through Batman 1:50 Scale Series
+
+Processed 5 source pages. Product-table extraction totals: **29 product tables and 284 product rows**. Each page has a 21-column CSV and QA report. All five CSVs were re-fetched and validated: 21 columns and zero malformed-width rows.
+
+| Page | Product tables | Product rows |
+|---|---:|---:|
+| 1:43 Battle Vehicles | 2 | 13 |
+| 1:43 Pull-Backs | 1 | 23 |
+| 1:43 Turbos Collection | 1 | 8 |
+| 100% Hot Wheels 1:18 Scale | 9 | 125 |
+| Batman 1:50 Scale Series | 16 | 115 |
+
+Batch totals: **5 pages, 29 product tables, 284 product rows**. Gallery extraction remains deferred.
