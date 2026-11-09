@@ -461,3 +461,9 @@ The archived `Early Collections/` inventory contains 33 HTML/HTM pages. 32 of 33
 - Sources are distributed across 151 immediate source folders, including several large multi-year families. Folder names are retained as provenance and are not canonical product taxonomy.
 - No page-level extraction is marked complete in the new index yet. Processing will proceed in small batches with per-page extraction and QA.
 - Detailed inventory: `research/MODERN-SPECIAL-SERIES-PROCESSING-INDEX.md`.
+
+
+### Modern Special Series: 100% Hot Wheels 1:43 Scale
+- First page extracted and QA-reviewed: one product table, 13 rows, 6 columns, 26 embedded image references.
+- Output: `research/extractions/MODERN-SPECIAL-SERIES-100-PERCENT-HOT-WHEELS-1-43-SCALE.csv`; QA: `research/extractions/MODERN-SPECIAL-SERIES-100-PERCENT-HOT-WHEELS-1-43-SCALE-EXTRACTION-QA.md`.
+- Modern Special Series index: `research/MODERN-SPECIAL-SERIES-PROCESSING-INDEX.md`.
