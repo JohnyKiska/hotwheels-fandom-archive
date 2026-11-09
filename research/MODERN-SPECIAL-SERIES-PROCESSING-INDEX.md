@@ -1085,3 +1085,20 @@ Five final source pages extracted and QA-reviewed. Batch total: 41 product table
 | `X-cceleron` | 814789 | 1 | 2 | 2 | 12 | `research/extractions/MODERN-SPECIAL-SERIES-X-CCELERON.csv` | `research/extractions/MODERN-SPECIAL-SERIES-X-CCELERON-EXTRACTION-QA.md` |
 
 Source blob SHAs, manifest SHA-256 values, and byte sizes are retained in each CSV and QA report.
+
+
+## Gallery extraction batch 1: opening 100% Hot Wheels inventory, 2026-11-09
+
+Five source pages were scanned in inventory order. Gallery extraction is tracked separately from the 21-column product-table extraction. The gallery CSV schema has 15 columns and retains each item's raw HTML, filename, alt text, caption HTML/text, file-page link, image URL, source blob SHA, source size, and Fandom revision ID.
+
+| Source page | Gallery containers | Gallery items | Result |
+|---|---:|---:|---|
+| 100% Hot Wheels 1:43 Scale | 0 | 0 | Explicit zero-item CSV and QA |
+| 100% Hot Wheels 40th Anniversary | 0 | 0 | Explicit zero-item CSV and QA |
+| 100% Preferred | 1 | 23 | Extracted |
+| 1999 Cool Collectibles | 0 | 0 | Explicit zero-item CSV and QA |
+| 2000 Cool Collectibles | 0 | 0 | Explicit zero-item CSV and QA |
+
+**Batch total:** 1 gallery containers and 23 gallery items across 5 source pages; 1 pages contained Gallery content. All five source blob SHAs matched the current inventory. Gallery assets are recorded as source URLs and file-page links; binaries are not downloaded in this pass.
+
+Next gallery batch: continue with the next five source pages in Modern Special Series inventory order.
