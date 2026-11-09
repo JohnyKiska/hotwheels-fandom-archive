@@ -20,3 +20,5 @@
 - Navigation/ancillary tables without column headers excluded.
 - Raw row HTML, normalized cell values, source headers, model links, and image metadata retained.
 - Gallery data intentionally deferred.
+
+- CSV parse validation: 4 data records parsed; all records have exactly 21 columns; 0 malformed records.
