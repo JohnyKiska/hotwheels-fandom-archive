@@ -124,3 +124,17 @@ Five further Mainline exports passed the same CSV-aware structural checks and we
 | MAINLINE-2026.csv | 440 | 6 | 0 | 0 | 0 |
 
 All five files had balanced quoting, no BOM/U+FFFD, no blank rows, no exact duplicate rows, and no empty or duplicate header labels. The schema change from 10 to 6 columns is retained as represented by each file's own header; it is not treated as a defect. The repository contains no `MAINLINE-2025.csv`, so no file for that year was assumed or created. Manifest update commit: `96500c84c5b10190caae4e06ef6683ac59c033c8`.
+
+
+## CSV-to-QA filename reconciliation (2026-11-09)
+
+A repository-tree reconciliation found 633 CSV exports, 530 page-level extraction QA reports under `research/extractions/`, and 63 additional QA reports under `research/qa/` (593 QA documents total). The audit manifest now includes `qa_report_path` and `qa_reconciliation_status` for every CSV.
+
+- 632 of 633 CSVs map to a QA report by the repository's filename conventions, including split exports mapped to their parent page report and product-table exports mapped to the corresponding report under `research/qa/`.
+- One CSV remains without a standalone QA report: `research/extractions/MAINLINE-2010-USA.csv`. The repository contains `MAINLINE-2010-INTERNATIONAL-EXTRACTION-QA.md` and a comparison note at `research/comparisons/MAINLINE-2010-USA-INTERNATIONAL.md`, but no dedicated USA extraction QA report. Treat this as an unresolved documentation gap, not as evidence that the CSV itself is invalid.
+- The six modern-series reports with non-matching report/export stems were inspected and their split CSV parts were confirmed from the QA text: Color Reveal (2 parts), Hot Wheels Classics (6), List of 2010 Hot Wheels (2), List of 2013 Hot Wheels (2), List of 2014 Hot Wheels (2), and Mario Kart (2).
+- Sampled direct-output and legacy `research/qa/` reports confirm the established filename mapping pattern. The manifest deliberately labels the broader mapping `matched_by_filename_convention`; it does not overstate every mapping as an individually inspected explicit output declaration.
+
+Manifest reconciliation commit: `0ebeb79cdf691277efd687de34cfc30123376b90`.
+
+This is a filename-level reconciliation milestone, not completion of the full CSV structural audit or the entire 530-report content review. The unresolved USA QA gap and full declared-output review remain open. Gallery extraction remains blocked until all 633 CSVs have passed the full audit and the QA/output-path reconciliation is closed.
