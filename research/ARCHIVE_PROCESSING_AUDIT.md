@@ -268,3 +268,11 @@ Next: continue with the remaining Early Collections pages in inventory order, re
 - The page has no conventional product table; 13 gallery references were extracted. Six appear under Castings In Series without an explicit year heading; seven appear under 1971.
 - Image metadata, links and source order are retained. No missing product facts or years were inferred.
 - Export: `research/extractions/EARLY-COLLECTIONS-HEAVYWEIGHTS.csv`; QA: `research/extractions/EARLY-COLLECTIONS-HEAVYWEIGHTS-EXTRACTION-QA.md`.
+
+
+### HiRakers extraction checkpoint
+
+- Source blob SHA `15ce02f85796913b6b1cd9f27b66348f9416e18e`; manifest SHA-256 `071EB7131AACB81DEE42E1AFF777F64D523B1C516810A751885B1AA82CAD5D9A`; Fandom revision 798213.
+- Extracted 16 product rows from one 10-column table and 2 separate gallery references. Years: 1980, 1981, 1982, 1983, 1984.
+- Repeated Toy # records, raw cells, image metadata and links preserved without deduplication.
+- Export: `research/extractions/EARLY-COLLECTIONS-HIRAKERS.csv`; QA: `research/extractions/EARLY-COLLECTIONS-HIRAKERS-EXTRACTION-QA.md`.
