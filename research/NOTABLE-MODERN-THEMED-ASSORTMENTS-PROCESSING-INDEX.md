@@ -83,7 +83,7 @@ Scope: archived HTML/HTM source pages under `Notable Modern Themed Assortments/`
 
 ## Batch 1: 50th Anniversary Favorites through Cop Rods Series (1999)
 
-Five pages extracted and QA-reviewed. Batch total: 10 product tables, 143 product rows, 282 embedded table image references, and 865 links retained from product cells.
+Five pages extracted and QA-reviewed. Corrected batch total: 9 product tables, 142 product rows, 282 embedded table image references, and 541 links retained from product cells. An ancillary navigation table in Cop Rods Series (1999) was excluded.
 
 | Source page | Tables | Product rows | Images | Links |
 |---|---:|---:|---:|---:|
@@ -91,9 +91,9 @@ Five pages extracted and QA-reviewed. Batch total: 10 product tables, 143 produc
 | 50th Anniversary Originals Series | 1 | 5 | 15 | 31 |
 | 50th Anniversary Throwback Series | 3 | 30 | 53 | 113 |
 | Cars of the Decades Series | 2 | 64 | 128 | 255 |
-| Cop Rods Series (1999) | 3 | 33 | 64 | 420 |
+| Cop Rods Series (1999) | 2 | 32 | 64 | 96 |
 
-Each page has a 21-column source-preserving CSV and a per-page QA report in `research/extractions/`. Source blob SHA, size, revision ID (where present in the HTML), and manifest SHA-256 are recorded in the artifacts. Fandom revision IDs were not detected in these five HTML files and are explicitly left unavailable in QA.
+Each page has a 21-column source-preserving CSV and a per-page QA report in `research/extractions/`. Source blob SHA, size, revision ID (where present in the HTML), and manifest SHA-256 are recorded in the artifacts. Fandom revision IDs are recorded from each archived HTML page's `wgCurRevisionId`: 741838, 754145, 787291, 808133, and 786125, respectively. The CSVs and QA reports were corrected to include these IDs. The third Cop Rods table is an ancillary navigation index (Yearly Lists of Basic Line and Other collections), not a product table, and is excluded.
 
 ## Completion
 
