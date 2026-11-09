@@ -2,7 +2,7 @@
 
 Scope: archived Fandom pages in `Early Collections/` on `main`. This folder name is retained as source provenance only and is not treated as a verified product-hierarchy node.
 
-Inventory: 33 HTML/HTM files, 12834928 bytes total. 27 of 33 pages extracted and QA-reviewed.
+Inventory: 33 HTML/HTM files, 12834928 bytes total. 28 of 33 pages extracted and QA-reviewed.
 
 | Source file | Git blob SHA | Size (bytes) | Processing status |
 |---|---|---:|---|
@@ -34,7 +34,7 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total. 27 of 33 pages extracted and
 | `Super Chromes (1976) _ Hot Wheels Wiki _ Fandom.html` | `658a01422af975de2968285f809f07cbdbc8f272` | 376448 | Extracted + QA |
 | `Super Streeters _ Hot Wheels Wiki _ Fandom.html` | `963b63c8a2df9d844fcc4404df9e7c0c4e5778aa` | 358718 | Extracted + QA |
 | `TNT-Bird _ Hot Wheels Wiki _ Fandom.html` | `fc25ac24e5f93d71789f2649de64a304f70db561` | 360478 | Extracted + QA |
-| `The Heavies _ Hot Wheels Wiki _ Fandom.html` | `44d592cfc35a9c1c747410900307c127172d776a` | 333247 | Not yet extracted |
+| `The Heavies _ Hot Wheels Wiki _ Fandom.html` | `44d592cfc35a9c1c747410900307c127172d776a` | 333247 | Extracted + QA |
 | `The Hot Ones (1981) _ Hot Wheels Wiki _ Fandom.html` | `4daab13e074187fcc2dece60a0ab5add4968a53e` | 559506 | Not yet extracted |
 | `Trailbusters _ Hot Wheels Wiki _ Fandom.html` | `f35ce4e7cbf57e651d6fa0badfa56f4ae9872811` | 395265 | Not yet extracted |
 | `Ultra Hots Series (1984) _ Hot Wheels Wiki _ Fandom.html` | `63c0056a0bdfeb092efbc49ae1fa5fc1c9e42b73` | 366058 | Not yet extracted |
@@ -297,3 +297,15 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total. 27 of 33 pages extracted and
 - Both tables preserve Year, Series, Color, Tampo, base/window/interior colors, Wheel Type, Toy #, Country, Notes and Photo. Re-Tooled rows remain distinct from Original Versions.
 - Eight gallery assets retained with file links, captions/alt text and image metadata. Article-level headings (Debut series, Produced, Designer, Number, Contents, Description) remain article context rather than being invented as product columns.
 - Export: `research/extractions/EARLY-COLLECTIONS-TNT-BIRD.csv`; QA: `research/extractions/EARLY-COLLECTIONS-TNT-BIRD-EXTRACTION-QA.md`.
+
+
+### The Heavies
+- Source: `Early Collections/The Heavies _ Hot Wheels Wiki _ Fandom.html`
+- Git blob SHA: `44d592cfc35a9c1c747410900307c127172d776a`
+- Manifest SHA-256: `D8478C5D6ADCA735AD7157850F29C66B10FB8282935CA15C1A2C03B5D916DF67`
+- Fandom revision ID: 767755.
+- One product table, 7 product rows, 9 source columns. All 7 Toy # and all 7 Collector # values are populated and unique.
+- Separate Gallery: 2 image references. Total CSV records: 9.
+- 14 embedded product-table image references are retained; Photo Loose and Photo Carded cells are empty in all rows. Gallery images remain independent from product-table photo fields.
+- Raw source headers, cell values and HTML, row order, links, and image metadata retained.
+- Export: `research/extractions/EARLY-COLLECTIONS-THE-HEAVIES.csv`; QA: `research/extractions/EARLY-COLLECTIONS-THE-HEAVIES-EXTRACTION-QA.md`.
