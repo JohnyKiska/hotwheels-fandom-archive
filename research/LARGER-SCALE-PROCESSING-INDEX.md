@@ -5,8 +5,8 @@ Scope: archived source HTML under `Larger Scale/`, including the nested `Hot Whe
 ## Inventory summary
 
 - Source pages: 37
-- Extracted + QA: 35
-- Remaining: 2
+- Extracted + QA: 37
+- Remaining: 0
 
 ## File inventory and processing status
 
@@ -47,8 +47,8 @@ Scope: archived source HTML under `Larger Scale/`, including the nested `Hot Whe
 | `Larger Scale/Pro Racing 1_43 Scale _ Hot Wheels Wiki _ Fandom.html` | 458813 | `6D139E731962E0CB46702A3E679510A3A0DA75974C0B11CA93E21E6AC906C949` | Extracted + QA |
 | `Larger Scale/Pull-Back Speeders _ Hot Wheels Wiki _ Fandom.html` | 342850 | `8CCFA7FDBA5FEB5259B056428CF35CA9CB85DB72B865A42E3F46D07AAEBA1DB4` | Extracted + QA |
 | `Larger Scale/Pullbax _ Hot Wheels Wiki _ Fandom.html` | 358997 | `6F7A01EFB223B7A87C4AB2BED72E04B6103CD611C48F0E2C74F2C18DEDF140E8` | Extracted + QA |
-| `Larger Scale/Street Power _ Hot Wheels Wiki _ Fandom.html` | 480963 | `CB13B01A0A3FD20E8A65CBC8FAF5D5E228072E60F22BF760BA9DC323E2BF1464` | Pending |
-| `Larger Scale/Tunerz _ Hot Wheels Wiki _ Fandom.html` | 381382 | `71006133A94B5CFC7C0EA9B8ECD3E98AF27EA1276CF817F68D92032AB314751B` | Pending |
+| `Larger Scale/Street Power _ Hot Wheels Wiki _ Fandom.html` | 480963 | `CB13B01A0A3FD20E8A65CBC8FAF5D5E228072E60F22BF760BA9DC323E2BF1464` | Extracted + QA |
+| `Larger Scale/Tunerz _ Hot Wheels Wiki _ Fandom.html` | 381382 | `71006133A94B5CFC7C0EA9B8ECD3E98AF27EA1276CF817F68D92032AB314751B` | Extracted + QA |
 
 ## Processing batches
 
@@ -157,3 +157,19 @@ Processed 5 source pages. Product-table extraction totals: **12 product tables a
 | Pullbax | 5 | 23 |
 
 Batch totals: **5 pages, 12 product tables, 112 product rows**. Pull-Back Speeders contains only a collapsible year-navigation table and no product table in this archived page; year-specific linked pages are outside this page's extraction scope. Gallery extraction remains deferred.
+
+
+## Batch 8: Street Power and Tunerz
+
+Processed the final 2 source pages in the Larger Scale inventory. Product-table extraction totals: **15 product tables and 184 product rows**. Each page has a 21-column CSV and QA report. Both CSVs were re-fetched and validated: 21 columns and zero malformed-width rows.
+
+| Page | Product tables | Product rows |
+|---|---:|---:|
+| Street Power | 14 | 163 |
+| Tunerz | 1 | 21 |
+
+Batch totals: **2 pages, 15 product tables, 184 product rows**. Gallery extraction remains deferred.
+
+## Larger Scale HTML extraction complete
+
+All **37 of 37** inventoried source HTML pages now have extraction CSV and QA reports. Combined across all eight batches: **159 product tables and 1,884 product rows**. Every CSV was re-fetched and validated against the 21-column schema with zero malformed-width rows. Pull-Back Speeders is represented by an empty, schema-correct CSV and QA note because its archived page contains only a year-navigation table, not a product table. Gallery extraction remains deferred.
