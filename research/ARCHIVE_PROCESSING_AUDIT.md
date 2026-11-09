@@ -302,3 +302,11 @@ Next: continue with the remaining Early Collections pages in inventory order, re
 - 20 populated Toy # cells have 9 distinct values. Repeated groups 6408 (10 rows), 22055 (2), and 56579 (2) were retained separately.
 - Source schemas, raw row data, image metadata, gallery captions and file links preserved.
 - Export: `research/extractions/EARLY-COLLECTIONS-LIGHT-MY-FIREBIRD.csv`; QA: `research/extractions/EARLY-COLLECTIONS-LIGHT-MY-FIREBIRD-EXTRACTION-QA.md`.
+
+
+### Megaforce Series extraction checkpoint
+
+- Source: `Early Collections/Megaforce_Series.htm`; Git blob SHA `ddf69edec1c115ae4079644863a6f461814d6f98`; manifest SHA-256 `690A77F696BFA4E38BA07B8022117EA3F727EE7AFFA1266D780D2F8D65C5006D`; Fandom revision 714197.
+- Extracted 7 product rows from one 8-column table. Toy # 5270 appears twice for Personnel Carrier variants and both rows are preserved separately.
+- Photo Loose and Photo Carded image metadata, original headers, raw cells, cell HTML and model links are retained. No separate standard Fandom gallery items were present.
+- Export: `research/extractions/EARLY-COLLECTIONS-MEGAFORCE-SERIES.csv`; QA: `research/extractions/EARLY-COLLECTIONS-MEGAFORCE-SERIES-EXTRACTION-QA.md`.
