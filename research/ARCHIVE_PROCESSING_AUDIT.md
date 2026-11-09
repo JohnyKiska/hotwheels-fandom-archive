@@ -618,3 +618,6 @@ The Character Cars batch now has five additional table extractions and QA report
 
 Batch total: 36 product tables, 206 product rows, 389 embedded table image references. Each page has a CSV and a corresponding extraction QA report. Source order, source table/row indices, source headers, raw cell HTML, cell text, links, and embedded image metadata are retained. Navigation/year-index tables are excluded. Separate gallery records have not yet been independently extracted for this batch and remain a follow-up task.
 
+
+
+Disney Character Cars CSV handling note: the 165-row extraction exceeds a practical single-file review size and is stored as two ordered CSV parts. The QA report and processing index identify both parts.
