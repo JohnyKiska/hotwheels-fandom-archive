@@ -5,8 +5,8 @@ Scope: archived source HTML under `Other Modern Series/`, including all nested f
 ## Inventory summary
 
 - Source pages: 83
-- Extracted + QA: 10
-- Remaining: 73
+- Extracted + QA: 15
+- Remaining: 68
 
 ## File inventory and processing status
 
@@ -24,7 +24,7 @@ Scope: archived source HTML under `Other Modern Series/`, including all nested f
 | `Other Modern Series/G-Machines _ Hot Wheels Wiki _ Fandom.html` | 498506 | `5B6B1F97959E57B6ECC0816FF9EDC71AEF05BC924042F57EA47B50485C955F5C` | Extracted + QA |
 | `Other Modern Series/Hot Import Nights _ Hot Wheels Wiki _ Fandom.html` | 373518 | `D0C5D0F0C57EE1B6EE6155795293AE159FA053C58E17A25635D7407B84BE7C2E` | Extracted + QA |
 | `Other Modern Series/Hot Tunerz _ Hot Wheels Wiki _ Fandom.html` | 398149 | `803D3F34D2741BE8AE514161970B14D469EA0FF07337DB1826716624E2122A4B` | Extracted + QA |
-| `Other Modern Series/Hot Wheels 1_87 Scale Series _ Hot Wheels Wiki _ Fandom.html` | 424346 | `AC3D63F481E6DE68A68B983B16543A62AAF862D5620FC9B4E5BDE086786AA165` | Pending |
+| `Other Modern Series/Hot Wheels 1_87 Scale Series _ Hot Wheels Wiki _ Fandom.html` | 424346 | `AC3D63F481E6DE68A68B983B16543A62AAF862D5620FC9B4E5BDE086786AA165` | Extracted + QA |
 | `Other Modern Series/Hot Wheels Haulers _ Hot Wheels Wiki _ Fandom.html` | 673268 | `65006A2FD7C7DF9E141AE845F9AE3E793AAB1BEA906079A8C91DDE4293E3C554` | Extracted + QA |
 | `Other Modern Series/Hot Wheels Monster Jam/2000 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 331441 | `57952EBAB44708ED4B644C486C5A244ED0660D79DB04EEABB6EFBAE9F5F6AA86` | Extracted + QA |
 | `Other Modern Series/Hot Wheels Monster Jam/2001 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 332194 | `3E83AF505845167A7DC121DB73553D3430B43CFDE27DF85924A11D59B312D6E2` | Pending |
