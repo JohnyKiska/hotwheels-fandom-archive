@@ -5,8 +5,8 @@ Scope: archived source HTML under `Other Modern Series/`, including all nested f
 ## Inventory summary
 
 - Source pages: 83
-- Extracted + QA: 81
-- Remaining: 2
+- Extracted + QA: 83
+- Remaining: 0
 
 ## File inventory and processing status
 
@@ -93,8 +93,8 @@ Scope: archived source HTML under `Other Modern Series/`, including all nested f
 | `Other Modern Series/Track Stars Haulers _ Hot Wheels Wiki _ Fandom.html` | 490764 | `5339CC7D2FE3D3BE547725B6AC4C4C4A15FBBCE4B4D7E3CA46F788C53502EA38` | Extracted + QA |
 | `Other Modern Series/Trackin' Trucks _ Hot Wheels Wiki _ Fandom.html` | 379604 | `C13C04C0EBC9B4B3FAF70AB30C3D2DBFD31035EA02C0174309572934F56FFDCA` | Extracted + QA |
 | `Other Modern Series/Truckin' Transporters _ Hot Wheels Wiki _ Fandom.html` | 488101 | `09B11B44204B317DE5A0E8047DF48DCA4B9233941D98D239FA2C6F60F104BB99` | Extracted + QA |
-| `Other Modern Series/Twisted Tredz _ Hot Wheels Wiki _ Fandom.html` | 322310 | `0EF2EF2E8D1430906CB267B6C3AC78BC6CC6791BE1799D6D881CBB615E2A6215` | Pending |
-| `Other Modern Series/Volkswagen 1_50 Scale Series _ Hot Wheels Wiki _ Fandom.html` | 700639 | `3C9344267991482DFD68E08414CC5D7BF7EC60A04A9B66EEA83AE69F3B3741A1` | Pending |
+| `Other Modern Series/Twisted Tredz _ Hot Wheels Wiki _ Fandom.html` | 322310 | `0EF2EF2E8D1430906CB267B6C3AC78BC6CC6791BE1799D6D881CBB615E2A6215` | Extracted + QA |
+| `Other Modern Series/Volkswagen 1_50 Scale Series _ Hot Wheels Wiki _ Fandom.html` | 700639 | `3C9344267991482DFD68E08414CC5D7BF7EC60A04A9B66EEA83AE69F3B3741A1` | Extracted + QA |
 
 ## Processing batches
 
@@ -283,3 +283,15 @@ Processed 5 source pages. Product-table extraction totals: **21 product tables a
 | Truckin' Transporters | 5 | 96 |
 
 Batch totals: **5 pages, 21 product tables, 292 product rows**. Gallery extraction remains deferred.
+
+
+## Batch 12: Twisted Tredz and Volkswagen 1:50 Scale Series
+
+Processed the final 2 source pages. Product-table extraction totals: **4 product tables and 39 product rows**. Both pages have a 21-column CSV and QA report. Both CSVs were re-fetched and validated: 21 columns and zero malformed-width rows.
+
+| Page | Product tables | Product rows |
+|---|---:|---:|
+| Twisted Tredz | 1 | 10 |
+| Volkswagen 1:50 Scale Series | 3 | 29 |
+
+Batch totals: **2 pages, 4 product tables, 39 product rows**. Gallery extraction remains deferred.
