@@ -7,7 +7,7 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 - Source pages: 223
 - Total source size: 92,291,750 bytes (88.02 MiB)
 - Inventory source: repository `MANIFEST.csv` and GitHub directory/tree entries.
-- Extraction status: 117 of 223 source pages extracted and QA-reviewed; remaining pages are marked `Not yet extracted`.
+- Extraction status: 122 of 223 source pages extracted and QA-reviewed; remaining pages are marked `Not yet extracted`.
 - This index is an inventory baseline, not a claim that each file represents one distinct product series.
 
 ## Source folder breakdown
@@ -110,11 +110,11 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 | `Modern Special Series/Character Cars/Power Rangers Megaforce _ Hot Wheels Wiki _ Fandom.html` | `0f7be6cad8f86a917c4b3866b7f2b1794c9b07ed` | 345514 | `4C7DEE569DE0F1AD6897B1E65B0A5D33A09E9F02C5C72A82F08F97DC55C7AC05` | Extracted + QA |
 | `Modern Special Series/Character Cars/Rugrats Character Cars _ Hot Wheels Wiki _ Fandom.html` | `ebe7d2c673dbd0e41b5d4ee89fa1ad7722902bf4` | 326127 | `C066325EE99D0093448BA5134A11995FD3D40865EF14CCA74AFCDED51A111927` | Extracted + QA |
 | `Modern Special Series/Character Cars/Sanrio Character Cars _ Hot Wheels Wiki _ Fandom.html` | `a97d4cc212c10ae38ed7306d64ac6556ec0bf2ea` | 375508 | `A4B82D7E5E1CD90F15B675EA01B625F16E155F1A9FFBBFA8206D0273DF18E3CD` | Extracted + QA |
-| `Modern Special Series/Character Cars/Sonic the Hedgehog Character Cars _ Hot Wheels Wiki _ Fandom.html` | `39854e3dd5aef78722bde9930bcca5e541bb6e07` | 356852 | `7A52D11A2CE5AFCACAC329413DA61606BCC2A29EC088492905F7B64CEAB1C30A` | Not yet extracted |
-| `Modern Special Series/Character Cars/Space Jam_ A New Legacy Character Cars _ Hot Wheels Wiki _ Fandom.html` | `093da4b7b9ba0a96986f0e804786ae7eaaaf24ff` | 357360 | `D62E37D13141F80A825101F86F121F11DF5A14324DBE86F4BC1244B3F97DCBA2` | Not yet extracted |
-| `Modern Special Series/Character Cars/SpongeBob SquarePants Character Cars _ Hot Wheels Wiki _ Fandom.html` | `99e5d1aa85a35956f6a393798e9de45a31179886` | 373240 | `ED05C8AEC5823D80E4FACC640D799A57BCF0DD652CD8219098200971291CE147` | Not yet extracted |
-| `Modern Special Series/Character Cars/Star Wars Character Cars _ Hot Wheels Wiki _ Fandom.html` | `e1a71f27cfe72e51eecc6d58b8ed3c60d81390d1` | 887617 | `DBA8B280814373986DAB14AB82AB77724AD4CD73E9B9EA459B4C89CB0D8FE944` | Not yet extracted |
-| `Modern Special Series/Character Cars/Street Fighter V Character Cars _ Hot Wheels Wiki _ Fandom.html` | `a40e3c20b066c9c36bb7b4be06c386c1ecf22e06` | 352966 | `1C724D568AE53D6AA32888BBF904DC20F2B002D308A9255017419D2E92C8BD72` | Not yet extracted |
+| `Modern Special Series/Character Cars/Sonic the Hedgehog Character Cars _ Hot Wheels Wiki _ Fandom.html` | `39854e3dd5aef78722bde9930bcca5e541bb6e07` | 356852 | `7A52D11A2CE5AFCACAC329413DA61606BCC2A29EC088492905F7B64CEAB1C30A` | Extracted + QA |
+| `Modern Special Series/Character Cars/Space Jam_ A New Legacy Character Cars _ Hot Wheels Wiki _ Fandom.html` | `093da4b7b9ba0a96986f0e804786ae7eaaaf24ff` | 357360 | `D62E37D13141F80A825101F86F121F11DF5A14324DBE86F4BC1244B3F97DCBA2` | Extracted + QA |
+| `Modern Special Series/Character Cars/SpongeBob SquarePants Character Cars _ Hot Wheels Wiki _ Fandom.html` | `99e5d1aa85a35956f6a393798e9de45a31179886` | 373240 | `ED05C8AEC5823D80E4FACC640D799A57BCF0DD652CD8219098200971291CE147` | Extracted + QA |
+| `Modern Special Series/Character Cars/Star Wars Character Cars _ Hot Wheels Wiki _ Fandom.html` | `e1a71f27cfe72e51eecc6d58b8ed3c60d81390d1` | 887617 | `DBA8B280814373986DAB14AB82AB77724AD4CD73E9B9EA459B4C89CB0D8FE944` | Extracted + QA |
+| `Modern Special Series/Character Cars/Street Fighter V Character Cars _ Hot Wheels Wiki _ Fandom.html` | `a40e3c20b066c9c36bb7b4be06c386c1ecf22e06` | 352966 | `1C724D568AE53D6AA32888BBF904DC20F2B002D308A9255017419D2E92C8BD72` | Extracted + QA |
 | `Modern Special Series/Character Cars/Super Mario Character Cars _ Hot Wheels Wiki _ Fandom.html` | `a20f62788fef8c33e99ca068051cd780858036f3` | 444414 | `2EFFAD309E57B458466975593A384B338001ED03077097EAD028855FC836886C` | Not yet extracted |
 | `Modern Special Series/Character Cars/Teenage Mutant Ninja Turtles Character Cars _ Hot Wheels Wiki _ Fandom.html` | `33d48afb99d0e96d8484ca4d149d8386bde0ce48` | 357027 | `CC3EE425993B09DC90D1D8471BE028A2C4A138DD247BBA7CF223CF6C121BF79E` | Not yet extracted |
 | `Modern Special Series/Character Cars/The Muppets Character Cars _ Hot Wheels Wiki _ Fandom.html` | `b61e1c104ebd671fe34343f4c922dd497e53fdf9` | 356088 | `EFABB8AD70C4541F51185C76B0721CE0FEBCC466D656BF21A0F91C5586A766EC` | Not yet extracted |
