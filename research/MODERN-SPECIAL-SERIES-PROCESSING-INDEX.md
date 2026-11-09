@@ -1,0 +1,407 @@
+# Modern Special Series archive processing index
+
+Scope: archived source files under `Modern Special Series/` in the `main` branch of `hotwheels-fandom-archive`. Folder names are preserved as source provenance only; they are not treated as canonical product taxonomy.
+
+## Inventory
+
+- Source pages: 223
+- Total source size: 92,291,750 bytes (88.02 MiB)
+- Inventory source: repository `MANIFEST.csv` and GitHub directory/tree entries.
+- Extraction status: 0 extracted in this processing index; all pages begin as `Not yet extracted`.
+- This index is an inventory baseline, not a claim that each file represents one distinct product series.
+
+## Source folder breakdown
+
+| Source folder | Pages | Size (bytes) |
+|---|---:|---:|
+| (root) | 73 | 32,369,419 |
+| 100% Hot Wheels 1_43 Scale _ Hot Wheels Wiki _ Fandom.html | 1 | 328,283 |
+| 100% Hot Wheels 40th Anniversary _ Hot Wheels Wiki _ Fandom.html | 1 | 396,986 |
+| 100% Preferred _ Hot Wheels Wiki _ Fandom.html | 1 | 606,374 |
+| 1997 Pro Racing _ Hot Wheels Wiki _ Fandom.html | 1 | 479,062 |
+| 1998 Pro Racing _ Hot Wheels Wiki _ Fandom.html | 1 | 704,612 |
+| 1999 Cool Collectibles _ Hot Wheels Wiki _ Fandom.html | 1 | 332,528 |
+| 1999 Pro Racing _ Hot Wheels Wiki _ Fandom.html | 1 | 676,850 |
+| 2000 Cool Collectibles _ Hot Wheels Wiki _ Fandom.html | 1 | 410,745 |
+| 2000 Pro Racing _ Hot Wheels Wiki _ Fandom.html | 1 | 647,030 |
+| 2001 100% Hot Wheels _ Hot Wheels Wiki _ Fandom.html | 1 | 358,800 |
+| 2001 Pro Racing _ Hot Wheels Wiki _ Fandom.html | 1 | 421,812 |
+| 2002 100% Hot Wheels _ Hot Wheels Wiki _ Fandom.html | 1 | 348,734 |
+| 2002 Pro Racing _ Hot Wheels Wiki _ Fandom.html | 1 | 416,604 |
+| 2003 100% Hot Wheels _ Hot Wheels Wiki _ Fandom.html | 1 | 345,780 |
+| 2003 Pro Racing _ Hot Wheels Wiki _ Fandom.html | 1 | 459,507 |
+| 2004 Pro Racing _ Hot Wheels Wiki _ Fandom.html | 1 | 391,687 |
+| 2004 Showcase Hot Wheels _ Hot Wheels Wiki _ Fandom.html | 1 | 493,266 |
+| 2005 Pro Racing _ Hot Wheels Wiki _ Fandom.html | 1 | 349,792 |
+| 2005 Showcase Hot Wheels _ Hot Wheels Wiki _ Fandom.html | 1 | 345,421 |
+| 2006 Kalifornia Kustoms _ Hot Wheels Wiki _ Fandom.html | 1 | 346,642 |
+| 2008 Color Shifters _ Hot Wheels Wiki _ Fandom.html | 1 | 380,174 |
+| 2009 Color Shifters _ Hot Wheels Wiki _ Fandom.html | 1 | 376,832 |
+| 2010 Color Shifters _ Hot Wheels Wiki _ Fandom.html | 1 | 413,338 |
+| 2011 Color Shifters _ Hot Wheels Wiki _ Fandom.html | 1 | 383,081 |
+| 2012 Color Shifters _ Hot Wheels Wiki _ Fandom.html | 1 | 329,617 |
+| 2012 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html | 1 | 462,173 |
+| 2013 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html | 1 | 355,161 |
+| 2013 Pop Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 436,063 |
+| 2013 Retro Entertainment _ Hot Wheels Wiki _ Fandom.html | 1 | 391,708 |
+| 2014 Color Shifters _ Hot Wheels Wiki _ Fandom.html | 1 | 398,483 |
+| 2014 Hot Wheels Entertainment _ Hot Wheels Wiki _ Fandom.html | 1 | 382,410 |
+| 2014 Pop Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 428,661 |
+| 2015 Color Shifters _ Hot Wheels Wiki _ Fandom.html | 1 | 377,506 |
+| 2015 Hot Wheels Entertainment _ Hot Wheels Wiki _ Fandom.html | 1 | 362,322 |
+| 2015 Pop Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 393,780 |
+| 2016 Car Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 354,521 |
+| 2016 Color Shifters _ Hot Wheels Wiki _ Fandom.html | 1 | 352,171 |
+| 2016 Hot Wheels Entertainment _ Hot Wheels Wiki _ Fandom.html | 1 | 361,533 |
+| 2016 Pop Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 387,973 |
+| 2017 Car Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 380,892 |
+| 2017 Color Shifters _ Hot Wheels Wiki _ Fandom.html | 1 | 350,539 |
+| 2017 Pop Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 380,856 |
+| 2017 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html | 1 | 369,836 |
+| 2018 Car Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 380,948 |
+| 2018 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html | 1 | 335,093 |
+| 2018 Color Shifters _ Hot Wheels Wiki _ Fandom.html | 1 | 345,871 |
+| 2018 Pop Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 369,491 |
+| 2018 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html | 1 | 353,525 |
+| 2019 Car Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 377,142 |
+| 2019 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html | 1 | 351,611 |
+| 2019 Color Shifters _ Hot Wheels Wiki _ Fandom.html | 1 | 355,555 |
+| 2019 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html | 1 | 374,889 |
+| 2019 Pop Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 357,120 |
+| 2019 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html | 1 | 358,504 |
+| 2020 Car Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 375,589 |
+| 2020 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html | 1 | 345,700 |
+| 2020 Color Shifters _ Hot Wheels Wiki _ Fandom.html | 1 | 357,231 |
+| 2020 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html | 1 | 362,086 |
+| 2020 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html | 1 | 359,748 |
+| 2020 Pop Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 358,339 |
+| 2020 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html | 1 | 357,680 |
+| 2021 Car Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 395,551 |
+| 2021 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html | 1 | 360,055 |
+| 2021 Color Shifters _ Hot Wheels Wiki _ Fandom.html | 1 | 319,581 |
+| 2021 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html | 1 | 356,404 |
+| 2021 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html | 1 | 355,750 |
+| 2021 Pop Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 353,782 |
+| 2021 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html | 1 | 355,855 |
+| 2022 Car Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 420,206 |
+| 2022 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html | 1 | 359,664 |
+| 2022 Color Shifters _ Hot Wheels Wiki _ Fandom.html | 1 | 351,635 |
+| 2022 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html | 1 | 368,296 |
+| 2022 Pop Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 356,080 |
+| 2022 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html | 1 | 415,746 |
+| 2023 Car Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 388,800 |
+| 2023 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html | 1 | 364,502 |
+| 2023 Color Shifters _ Hot Wheels Wiki _ Fandom.html | 1 | 346,310 |
+| 2023 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html | 1 | 387,858 |
+| 2023 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html | 1 | 367,967 |
+| 2023 Pop Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 356,459 |
+| 2023 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html | 1 | 353,528 |
+| 2024 Car Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 396,633 |
+| 2024 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html | 1 | 361,327 |
+| 2024 Color Shifters _ Hot Wheels Wiki _ Fandom.html | 1 | 331,441 |
+| 2024 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html | 1 | 354,910 |
+| 2024 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html | 1 | 378,954 |
+| 2024 Pop Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 382,411 |
+| 2025 Car Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 410,735 |
+| 2025 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html | 1 | 381,495 |
+| 2025 Color Shifters _ Hot Wheels Wiki _ Fandom.html | 1 | 363,239 |
+| 2025 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html | 1 | 367,067 |
+| 2025 Formula One Collection _ Hot Wheels Wiki _ Fandom.html | 1 | 351,079 |
+| 2025 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html | 1 | 370,973 |
+| 2025 Pop Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 376,749 |
+| 2026 Car Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 421,138 |
+| 2026 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html | 1 | 366,209 |
+| 2026 Color Shifters _ Hot Wheels Wiki _ Fandom.html | 1 | 368,276 |
+| 2026 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html | 1 | 373,639 |
+| 2026 Formula One Collection _ Hot Wheels Wiki _ Fandom.html | 1 | 403,482 |
+| 2026 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html | 1 | 382,018 |
+| 2026 Pop Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 388,929 |
+| AcceleRacers (figure series) _ Hot Wheels Wiki _ Fandom.html | 1 | 363,520 |
+| AcceleRacers Coin Bank _ Hot Wheels Wiki _ Fandom.html | 1 | 326,165 |
+| AcceleRacers Collectible Card Game _ Hot Wheels Wiki _ Fandom.html | 1 | 721,589 |
+| AcceleRacers Series (2005) _ Hot Wheels Wiki _ Fandom.html | 1 | 427,652 |
+| AcceleRacers Series (2006) _ Hot Wheels Wiki _ Fandom.html | 1 | 386,330 |
+| AcceleRacers Series (2025) _ Hot Wheels Wiki _ Fandom.html | 1 | 363,612 |
+| Activision Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 357,229 |
+| Avatar_ The Last Airbender Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 363,723 |
+| Basic Pro Racing Series _ Hot Wheels Wiki _ Fandom.html | 1 | 572,398 |
+| Car Culture 2-Packs _ Hot Wheels Wiki _ Fandom.html | 1 | 614,021 |
+| Car Culture Factory Set _ Hot Wheels Wiki _ Fandom.html | 1 | 347,681 |
+| DC Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 684,688 |
+| DC Teen Titans Go! Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 362,813 |
+| Despicable Me 3 Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 339,100 |
+| Disney Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 681,917 |
+| DreamWorks Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 373,623 |
+| Flying Customs Series (2006) _ Hot Wheels Wiki _ Fandom.html | 1 | 366,928 |
+| Flying Customs Series (2013) _ Hot Wheels Wiki _ Fandom.html | 1 | 372,985 |
+| Flying Customs Series (2020) _ Hot Wheels Wiki _ Fandom.html | 1 | 398,310 |
+| Godzilla Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 350,279 |
+| Good Luck Trolls Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 348,675 |
+| Hot Wheels Collectibles 1_43 Scale _ Hot Wheels Wiki _ Fandom.html | 1 | 361,894 |
+| Hot Wheels Racing Selects _ Hot Wheels Wiki _ Fandom.html | 1 | 419,736 |
+| Jurassic World Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 399,498 |
+| Lightyear Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 369,028 |
+| Looney Tunes Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 359,340 |
+| Marvel Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 775,918 |
+| Masters of the Universe Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 376,818 |
+| Minecraft Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 396,289 |
+| Minions Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 384,672 |
+| Overwatch Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 363,567 |
+| Power Rangers Megaforce _ Hot Wheels Wiki _ Fandom.html | 1 | 345,514 |
+| Rugrats Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 326,127 |
+| Sanrio Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 375,508 |
+| Sonic the Hedgehog Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 356,852 |
+| Space Jam_ A New Legacy Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 357,360 |
+| SpongeBob SquarePants Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 373,240 |
+| Star Wars Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 887,617 |
+| Street Fighter V Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 352,966 |
+| Super Mario Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 444,414 |
+| Team Transporter _ Hot Wheels Wiki _ Fandom.html | 1 | 483,632 |
+| Teenage Mutant Ninja Turtles Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 357,027 |
+| The Hot Ones (2011) _ Hot Wheels Wiki _ Fandom.html | 1 | 652,694 |
+| The Hot Ones (2025) _ Hot Wheels Wiki _ Fandom.html | 1 | 417,259 |
+| The Muppets Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 356,088 |
+| Toy Story Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 423,899 |
+| Trolls Band Together Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 348,937 |
+| Universal Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 352,238 |
+| Warner Bros. Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 369,961 |
+| **Total** | **223** | **92,291,750** |
+
+## File inventory and processing status
+
+| Source file | Git blob SHA | Size (bytes) | Manifest SHA-256 | Processing status |
+|---|---|---:|---|---|
+| `Modern Special Series/100% Hot Wheels/100% Hot Wheels 1_43 Scale _ Hot Wheels Wiki _ Fandom.html` | `1a35ab14174d248b1c2aaa68ce2fe28b12ad9e0b` | 328283 | `AE2961F1F4B3A6A4E5F3CF89B7C9C65B60B59F3A924415B9C277418CA6914046` | Not yet extracted |
+| `Modern Special Series/100% Hot Wheels/100% Hot Wheels 40th Anniversary _ Hot Wheels Wiki _ Fandom.html` | `ecf952b0e06c79c1f2a6b30feef3a9d25dd273f0` | 396986 | `421A637A37D12968DA905EDDE3776864F302279808826E306518A3B38E22E57C` | Not yet extracted |
+| `Modern Special Series/100% Hot Wheels/100% Preferred _ Hot Wheels Wiki _ Fandom.html` | `260c9fc19cbeae63cac3c7c42cb6f402085cc210` | 606374 | `CD40A4359A40CD93F368B4A7699171AC5F9FDE3ABF39963655BC5D032E34975D` | Not yet extracted |
+| `Modern Special Series/100% Hot Wheels/1999 Cool Collectibles _ Hot Wheels Wiki _ Fandom.html` | `41e99d8650a0ec143cdef5a79388ddc13f56f01b` | 332528 | `CD9956B25AA111AD0E17414EF27457039A9BF3F82F2D4371BB356DD294EEB52D` | Not yet extracted |
+| `Modern Special Series/100% Hot Wheels/2000 Cool Collectibles _ Hot Wheels Wiki _ Fandom.html` | `d9281a2bfb4e390e319e2eeddb375c07dc3469fc` | 410745 | `7CFFE057490F5F5CC2F794FAE6544B44A8A478E2D667B89402F1FA97F4A6790B` | Not yet extracted |
+| `Modern Special Series/100% Hot Wheels/2001 100% Hot Wheels _ Hot Wheels Wiki _ Fandom.html` | `d979f0f8992326f60442681863cfb8a674625f06` | 358800 | `CD2223732B5D2B49AEC6694DA8D95D6AB7F0FEF621FA2D3C7B4F6CA93D0A6FE3` | Not yet extracted |
+| `Modern Special Series/100% Hot Wheels/2002 100% Hot Wheels _ Hot Wheels Wiki _ Fandom.html` | `d1a7e336bb550a098122e207826f998932dd9af6` | 348734 | `25C038B2B88503985E24379498D2B006064B944B73BEE38149FAD21AF9F03E3B` | Not yet extracted |
+| `Modern Special Series/100% Hot Wheels/2003 100% Hot Wheels _ Hot Wheels Wiki _ Fandom.html` | `706d6e41bd9ffaf5202328e28f0018ae9598b8b5` | 345780 | `E5DBCD13C8FEC09C3440F97BF09A67B774A41380AC6FC61909371E76E16FE442` | Not yet extracted |
+| `Modern Special Series/100% Hot Wheels/2004 Showcase Hot Wheels _ Hot Wheels Wiki _ Fandom.html` | `2e4d1711593f511b3c3b60e13bb23d93bcb03536` | 493266 | `26B1796AADFD27DBA2FDDB965E078FD4B0A21D23C49E31B1199E83F913DDFFAC` | Not yet extracted |
+| `Modern Special Series/100% Hot Wheels/2005 Showcase Hot Wheels _ Hot Wheels Wiki _ Fandom.html` | `96b9171f49d9e62bcc50f5b4ab6d4e2b2c5cd76d` | 345421 | `7EB666A6DCC9E8A0AB97CDB9FF8A5E47819410F6A0E5A3DE3B0C87B5F79EBA41` | Not yet extracted |
+| `Modern Special Series/100% Hot Wheels/2006 Kalifornia Kustoms _ Hot Wheels Wiki _ Fandom.html` | `9d9d4764837f12d0112f74e45918bb5cc784d69c` | 346642 | `0E883D59F716526AE3DB42FD210077C95AAEC36DA085E2D8DA474391558F615C` | Not yet extracted |
+| `Modern Special Series/100% Hot Wheels/Hot Wheels Collectibles 1_43 Scale _ Hot Wheels Wiki _ Fandom.html` | `3d4675e8c30ed6c8e6cc94153ae1e734a45b82cb` | 361894 | `E8AAF5049F0C4D5BD30D1158A35595BFDCD58E4151576A4603FB4C41125CDB6D` | Not yet extracted |
+| `Modern Special Series/2027 Racing Culture _ Hot Wheels Wiki _ Fandom.html` | `033f3822a0196eab9c53789bcbb8a4a171c704d5` | 335224 | `F3C4C0451E1EFF1CB648872FDCAEDEFE1E3C0DCD4195C6EA2ABE6648EBE0540D` | Not yet extracted |
+| `Modern Special Series/24_Seven _ Hot Wheels Wiki _ Fandom.html` | `19240f0749786c39806ee43656baa529a1dd88d6` | 452231 | `07C89654E74741C9EFBFA1596C08B6A3A4E0FAB914716EF783EA2F4088C0A50A` | Not yet extracted |
+| `Modern Special Series/AcceleRacers/AcceleRacers (figure series) _ Hot Wheels Wiki _ Fandom.html` | `6638f09b27e23377b6fa5f30998ddc2247d0a29f` | 363520 | `1B4BBBCF77AA65447BAB5773FA361A0FB152A26E3C2D7A596292C372271949E9` | Not yet extracted |
+| `Modern Special Series/AcceleRacers/AcceleRacers Coin Bank _ Hot Wheels Wiki _ Fandom.html` | `eb6d29fce3ca814054dd8be274fb71184a8d2252` | 326165 | `18C8FC192C8AC0D34A4779A2CD83A88941AEC3E0589D2406377D5B97E0CD744B` | Not yet extracted |
+| `Modern Special Series/AcceleRacers/AcceleRacers Collectible Card Game _ Hot Wheels Wiki _ Fandom.html` | `b2b64b5ba21cdd4387b21557f345df235c8fb28e` | 721589 | `BACF2491D6BF281774E742BE16BD745ED3193F5DEE3BD54D91A4D9B52F5793EE` | Not yet extracted |
+| `Modern Special Series/AcceleRacers/AcceleRacers Series (2005) _ Hot Wheels Wiki _ Fandom.html` | `ce1bf0e245c47ac64918861c1f50bf02aa1d63cc` | 427652 | `E24C3DE51E55CBB0724263CFCC919753CC4327647BF10C1B3D25A68457A8C3A0` | Not yet extracted |
+| `Modern Special Series/AcceleRacers/AcceleRacers Series (2006) _ Hot Wheels Wiki _ Fandom.html` | `8e19bebeb92fbc628403afd0675f7b0e7d5cc65c` | 386330 | `FA544B7417941CD5E258BAB30D28F8C43988AD2EDFACAB3E8CA86A79DC52297A` | Not yet extracted |
+| `Modern Special Series/AcceleRacers/AcceleRacers Series (2025) _ Hot Wheels Wiki _ Fandom.html` | `ff6af962e9009233b1529c0f0e9aee3b58d78bbd` | 363612 | `154F72FB9CEE4FDE786BB1EE066E2B67DC690F216F3487FAD6459D8245312CC7` | Not yet extracted |
+| `Modern Special Series/Airy 8 _ Hot Wheels Wiki _ Fandom.html` | `7761967d1ce33ce04002e6fd6e3e87b1663b17b2` | 363684 | `80CAE83E3378DCD66960067FD38A28DD69305F67B33216F8E7DE090B81FC6BDF` | Not yet extracted |
+| `Modern Special Series/Anteater _ Hot Wheels Wiki _ Fandom.html` | `8ed6f7d953eae6d3f4af09431561069b158f0dc8` | 337048 | `14E6AD85F54B0C65A0D56F5D71B292794F295F688D95A7C2043807D5CDBB5D65` | Not yet extracted |
+| `Modern Special Series/Auto Affinity _ Hot Wheels Wiki _ Fandom.html` | `f49f5e2822b1f92788fad0a027ba0c40f6b3e6d7` | 464159 | `41C00CE86D22E1167F6CFB035A80E35A4519CFA8DA7F976DCA9E097BA8C29568` | Not yet extracted |
+| `Modern Special Series/Bassline (Crashers) _ Hot Wheels Wiki _ Fandom.html` | `f8871f16c2146fe8128c87916dda1998fc89766d` | 331234 | `2C0EEA32DA19C0D4B985F2C782735D5DF3F270B655A9DF74A01A9C9E0030983B` | Not yet extracted |
+| `Modern Special Series/Boulevard/2012 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html` | `578fd2b49ab50002c5a1cf7e02d3c0fa645b9059` | 462173 | `D86DEE9B64E43332FDB46E5B17DE957C2093269C631083BDE41882C5C2A66253` | Not yet extracted |
+| `Modern Special Series/Boulevard/2013 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html` | `21d59202804f5d16f47fe2ad96ef6156fd45e3be` | 355161 | `18EDAC0F39E0A4F155D97988B6736C1514A16DE2B133EB6352676290B34E576B` | Not yet extracted |
+| `Modern Special Series/Boulevard/2020 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html` | `8c372e0b73b5c0d4120538608b88f6635f8649be` | 359748 | `541482274CE5286EF640115C2EF6461B4FD593C283FF81D65D2E6A4080A7A080` | Not yet extracted |
+| `Modern Special Series/Boulevard/2021 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html` | `0532eec538dd0f297f78fd6982b30a29b1e47d1f` | 355750 | `5AD503CAAFDC2C0966D9DBFA20FAD181274EE388BD295C6A18C1B1E52483C6AA` | Not yet extracted |
+| `Modern Special Series/Boulevard/2022 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html` | `f070ec10768b87105c8d52775dd3f8e4e1e990a0` | 368296 | `26F5D898F609B17D09620401812CDFFF51D8BB31FAB3405092F717227EF7CC7A` | Not yet extracted |
+| `Modern Special Series/Boulevard/2023 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html` | `ff271dd10f1eb750cd35f6c8dd52bb626ca7d05e` | 367967 | `1D5CE544D9F82515B634F65F48266B5702F05953BCE8E9F576A617B5B103343C` | Not yet extracted |
+| `Modern Special Series/Boulevard/2024 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html` | `500f11fcc00b09f60c4de80c25848c913d9ffd01` | 378954 | `F08FC675DDB2B82F0AE3D019648641EBC046D2B8E70EF8A173FA46D68FCE2CDA` | Not yet extracted |
+| `Modern Special Series/Boulevard/2025 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html` | `3c36cc3686cc0483a2f21a7dd275de577ed83b38` | 370973 | `4B6761042F775FC2EC50B02ED0E77A5358F8C9BB16D1ECE4F138F9567304A167` | Not yet extracted |
+| `Modern Special Series/Boulevard/2026 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html` | `840d2602ad8293b959fe335a8ce55e3e3531c9e9` | 382018 | `92721D41B6ED4A069E594D0F576624024D4E8824051AD250A48738C176C7B11C` | Not yet extracted |
+| `Modern Special Series/Camaro Trans-Am _ Hot Wheels Wiki _ Fandom.html` | `63107791327e0c99ee397e3d23c0c3997b577752` | 346339 | `B613D448E8E9AD6E87E41B150BDCD7B43CE6C2EAFDEF9262E26089A101629E71` | Not yet extracted |
+| `Modern Special Series/Car Culture/2016 Car Culture _ Hot Wheels Wiki _ Fandom.html` | `fe7ee9e47aac1718d0ed698a68e6851fc1b67b3c` | 354521 | `479868FBD8BCA90E7FD52A80022EDC329936AAC765AC0E7A2139204CDEC2B6BF` | Not yet extracted |
+| `Modern Special Series/Car Culture/2017 Car Culture _ Hot Wheels Wiki _ Fandom.html` | `85a1ffd6e76ba243c4931d6823c59a790ba794d7` | 380892 | `1F943A9C1C4B32108E948FA309BB551D42344B0130131C15058266076EFBD732` | Not yet extracted |
+| `Modern Special Series/Car Culture/2018 Car Culture _ Hot Wheels Wiki _ Fandom.html` | `79e35d44e82ae13b12646816728e105d22302346` | 380948 | `BFD595EEB2CA9EC5E83CEBDE862229F8E4BF3B2DE9CD7BBD19029FA43D4A850F` | Not yet extracted |
+| `Modern Special Series/Car Culture/2018 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html` | `4107c87414516fbb40dd7ede6d1fdfa6f68f06b7` | 335093 | `0D73ABF15CE65400BBE51304A3F3513E2B880723328763E1D0571A136C0B4F83` | Not yet extracted |
+| `Modern Special Series/Car Culture/2019 Car Culture _ Hot Wheels Wiki _ Fandom.html` | `4bcec775fb7e8759392c624284455903e3225f81` | 377142 | `DF3CAA5CFBBB4E15C50EFF971E77EAF2E5DCA9DF755A2315C4414F46661E5E7E` | Not yet extracted |
+| `Modern Special Series/Car Culture/2019 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html` | `36356c38a85d0aa58ab9dac3a9880a3dc67e7ecc` | 351611 | `23CD61B64DEEE712AD2004AEBF29F2B2F32E9DE89DAA0224149CB8F8D0950719` | Not yet extracted |
+| `Modern Special Series/Car Culture/2020 Car Culture _ Hot Wheels Wiki _ Fandom.html` | `e1a1aa81a94b5735a340b3e19cf987c2ad2d8cb6` | 375589 | `B05C2AC0CA93773A7330D46BDBAC3D741F197BF1586BD0934998201EE60B8A7F` | Not yet extracted |
+| `Modern Special Series/Car Culture/2020 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html` | `e850d893953588ecfb6e3572999d30ec412779b2` | 345700 | `3E5F069175C57AA0C5AD22A12AF87D85B88FF3FEB5ADCA6CE93BCDCB5446D872` | Not yet extracted |
+| `Modern Special Series/Car Culture/2021 Car Culture _ Hot Wheels Wiki _ Fandom.html` | `a0faac22afdf9114745102403d37788ab8d20813` | 395551 | `C666768826B97AED86C82CCED63CB085A575C8596DD40DF8912D77E7919F2DA4` | Not yet extracted |
+| `Modern Special Series/Car Culture/2021 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html` | `41fd63bde255812ce5ca2226ec63a572b7987cb2` | 360055 | `827F7E98E526621B21BACE2FE07B6C568BA194FE454BA53B01E6F1DEC78D5A94` | Not yet extracted |
+| `Modern Special Series/Car Culture/2022 Car Culture _ Hot Wheels Wiki _ Fandom.html` | `ecf0f06ec64e9cc0297bfdf131f5df783df821cf` | 420206 | `6D69869C5585F8EC076089584991880CC9FDC2D8AD89AB6ADD5703398A0D28D3` | Not yet extracted |
+| `Modern Special Series/Car Culture/2022 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html` | `2df8459d20bcd1fc2b9f57d03835114755297861` | 359664 | `9DC492AD33B39080A6CAE82A21226D208571C474817FEA635B50A76E07BAB435` | Not yet extracted |
+| `Modern Special Series/Car Culture/2023 Car Culture _ Hot Wheels Wiki _ Fandom.html` | `a315bb3b06ca8961a6521fcdc753718e77a62218` | 388800 | `F1EA1AFFFAADAD95A61D049D13BEFC5F3CFFEC2A75E7284D69A4D7A9B33D7BA5` | Not yet extracted |
+| `Modern Special Series/Car Culture/2023 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html` | `ff3c5f848f88f57a812e751ea3e1ad4e349b27a0` | 364502 | `192FFBB940287BB3525DB652BD0C4AED1AC1A5F6D45CAD86C0D7379DE203F67A` | Not yet extracted |
+| `Modern Special Series/Car Culture/2024 Car Culture _ Hot Wheels Wiki _ Fandom.html` | `ffcb6e13130d611b61c23242bde6e3838b979425` | 396633 | `49292BB0760DB00214C78216D6982DE3AD2101DB1B174719EF4A5C012B2A3C41` | Not yet extracted |
+| `Modern Special Series/Car Culture/2024 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html` | `a5ec5e975586328e943757ffe0a67ef07fb69680` | 361327 | `AC5A5CA7DD9EBED2E21C8C000DE75BAC24A24B068BEAE193073401C942F03F1B` | Not yet extracted |
+| `Modern Special Series/Car Culture/2025 Car Culture _ Hot Wheels Wiki _ Fandom.html` | `ea4d1a0dbf111f28e1c60a6a6e4d6f183481b6dc` | 410735 | `D075C1D2096DB2F5B8F515A7C0244DB7AD55EFB97FBA93673ED2FF20A952FECB` | Not yet extracted |
+| `Modern Special Series/Car Culture/2025 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html` | `ab7a0ec32ccdd994a25bfb87ebf2b824094abcc4` | 381495 | `0CD3C271E8EEB8F63713D6ABC40E90CF95E6DCE51E7C92FE0364B41B61DD11DC` | Not yet extracted |
+| `Modern Special Series/Car Culture/2026 Car Culture _ Hot Wheels Wiki _ Fandom.html` | `d490701910c61a37f8f07ade6ad69018d8aa48b3` | 421138 | `967670E3C0CC7E292B313115CEB78BF3C60CAD2AF8E5EF278FD4B06B7336DC3A` | Not yet extracted |
+| `Modern Special Series/Car Culture/2026 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html` | `ff6d183ebaff537f020fb65c66c3c6186caec2b5` | 366209 | `FD6DDDB67C62D13A5E2B8A2622DEAF72AC0BDC45492F43B9CBA4288F044A4985` | Not yet extracted |
+| `Modern Special Series/Car Culture/Car Culture 2-Packs _ Hot Wheels Wiki _ Fandom.html` | `5e5d6c6bf83317654a235ebb85e89a1d0253b6f6` | 614021 | `13E873073B42A09C27BFB20775B2025ED7CB31B88A1BB4FCF5F7B9B2835695C3` | Not yet extracted |
+| `Modern Special Series/Car Culture/Car Culture Factory Set _ Hot Wheels Wiki _ Fandom.html` | `db9b81e7b301b005e2d381dbbf23162c3b040621` | 347681 | `BA56053706903323A5649535F76CB5C4B095FCD7B2580C4EDFAED7824ADED577` | Not yet extracted |
+| `Modern Special Series/Character Cars/Activision Character Cars _ Hot Wheels Wiki _ Fandom.html` | `c5fd6a09142c3b862cea66dec020e40a0ea7fec7` | 357229 | `52D2E866966A29F73D049226E58DDC3282F84FD1D5942FC8B61C6900C043AC12` | Not yet extracted |
+| `Modern Special Series/Character Cars/Avatar_ The Last Airbender Character Cars _ Hot Wheels Wiki _ Fandom.html` | `ad00de04be3f78ce0c5173107c5615c35258a226` | 363723 | `97C9BACFA7D49C3F577CB59A0EA21A73837F2DB77BE1CE42BBFADDDD870BC193` | Not yet extracted |
+| `Modern Special Series/Character Cars/DC Character Cars _ Hot Wheels Wiki _ Fandom.html` | `b4080ceff464506538f94188019519a674eb479f` | 684688 | `1CBB5A4B6C4F6F41DAFD1C2D9763E5C859B2644881CBD26D8F1044289AFAED0F` | Not yet extracted |
+| `Modern Special Series/Character Cars/DC Teen Titans Go! Character Cars _ Hot Wheels Wiki _ Fandom.html` | `f9fe1ec6a5714bab2d98848e44a186da649bc3f9` | 362813 | `CE64B6819CB4B7935AB69B7C55623466E1558926291EBE7987350C8AD717C684` | Not yet extracted |
+| `Modern Special Series/Character Cars/Despicable Me 3 Character Cars _ Hot Wheels Wiki _ Fandom.html` | `a729f03e2331f900ccd62c03e37edc3c6b9e1a67` | 339100 | `95768CDD3D7BC3169B6C1539DD7B34F6821D120118EC227B0DE7F2EAE1F57644` | Not yet extracted |
+| `Modern Special Series/Character Cars/Disney Character Cars _ Hot Wheels Wiki _ Fandom.html` | `76428a8f14b805bdfaa2d7790e3decae76dfd675` | 681917 | `C07AFC0DF36D53F632BA0CC48FCEB99EC166820B85E22FDA44D6C4A887258839` | Not yet extracted |
+| `Modern Special Series/Character Cars/DreamWorks Character Cars _ Hot Wheels Wiki _ Fandom.html` | `e1602d0b0dfd35c5f9d8db37721d5c1e6549eedc` | 373623 | `B0693EC66545809C321080B04D2D39A787CE3589DCCCCF19D2E6C156E39C7B3C` | Not yet extracted |
+| `Modern Special Series/Character Cars/Godzilla Character Cars _ Hot Wheels Wiki _ Fandom.html` | `cad502a944c63a7bc9104060dcd7b7485c57469a` | 350279 | `22DD51CED40523BBBFE36A2E38D201D137B9592FF275C57610B62D441BF40CF5` | Not yet extracted |
+| `Modern Special Series/Character Cars/Good Luck Trolls Character Cars _ Hot Wheels Wiki _ Fandom.html` | `abb57d9390cab73dc3697b4ba882c865987132c6` | 348675 | `786F05F918542215F70DDF419921BDBF92C8FD968512B4619E1E124009246B25` | Not yet extracted |
+| `Modern Special Series/Character Cars/Jurassic World Character Cars _ Hot Wheels Wiki _ Fandom.html` | `8dd42f0c56fa9b2a55e1be3cb99b4375193ba355` | 399498 | `523764535333F78918A91D82BC67F34322184D3AA921BE2982BA3D416CE37881` | Not yet extracted |
+| `Modern Special Series/Character Cars/Lightyear Character Cars _ Hot Wheels Wiki _ Fandom.html` | `2ae665b19a51b6ad539e3429cc55b4e5aecce395` | 369028 | `210E91D4983CA129DCC246841652DF288C96035EAC9E925FF83615E795F38AC5` | Not yet extracted |
+| `Modern Special Series/Character Cars/Looney Tunes Character Cars _ Hot Wheels Wiki _ Fandom.html` | `c86b1e77f4ca120e27fbae3fbf1d9cfd472a2c1d` | 359340 | `C9CAD8D9CA093C543A86A2A27CD8176BEFC4CCA70DE3E796E84A5EECA57E5421` | Not yet extracted |
+| `Modern Special Series/Character Cars/Marvel Character Cars _ Hot Wheels Wiki _ Fandom.html` | `85aa6572f0f636a6af26c400a6a0617d7d1ea5e2` | 775918 | `A65BDA74B60B511104DF722E2D45E644B0A730A96D1F0CFC116D6A9D0659D114` | Not yet extracted |
+| `Modern Special Series/Character Cars/Masters of the Universe Character Cars _ Hot Wheels Wiki _ Fandom.html` | `2b5bb7cc178b401b1a1a13c0500621be9e3b105a` | 376818 | `089F68896BFC284EAFDCA7AB7B66885DF14A4FAD26287CB47A74CD76CC6D6571` | Not yet extracted |
+| `Modern Special Series/Character Cars/Minecraft Character Cars _ Hot Wheels Wiki _ Fandom.html` | `bbc10c09af097f398558b8209b4c5443a2a1c985` | 396289 | `3257DCEAFFE0A5FFF80A49CAFCD0FE0E117FE1B85131392F67EEB6CAF1F23569` | Not yet extracted |
+| `Modern Special Series/Character Cars/Minions Character Cars _ Hot Wheels Wiki _ Fandom.html` | `af61bccc5d0616a9cdf35244b5c4c598a454a659` | 384672 | `A2638AD0D73FC98E749303F84B784F3F80210265F1B75A6798F666615993344C` | Not yet extracted |
+| `Modern Special Series/Character Cars/Overwatch Character Cars _ Hot Wheels Wiki _ Fandom.html` | `58dd862846e24c575d14a4ee283ce71d0f735339` | 363567 | `EC8E531F5438E9F4BF282DE048C159E55472BC83AC98B2A51735D834531198E0` | Not yet extracted |
+| `Modern Special Series/Character Cars/Power Rangers Megaforce _ Hot Wheels Wiki _ Fandom.html` | `0f7be6cad8f86a917c4b3866b7f2b1794c9b07ed` | 345514 | `4C7DEE569DE0F1AD6897B1E65B0A5D33A09E9F02C5C72A82F08F97DC55C7AC05` | Not yet extracted |
+| `Modern Special Series/Character Cars/Rugrats Character Cars _ Hot Wheels Wiki _ Fandom.html` | `ebe7d2c673dbd0e41b5d4ee89fa1ad7722902bf4` | 326127 | `C066325EE99D0093448BA5134A11995FD3D40865EF14CCA74AFCDED51A111927` | Not yet extracted |
+| `Modern Special Series/Character Cars/Sanrio Character Cars _ Hot Wheels Wiki _ Fandom.html` | `a97d4cc212c10ae38ed7306d64ac6556ec0bf2ea` | 375508 | `A4B82D7E5E1CD90F15B675EA01B625F16E155F1A9FFBBFA8206D0273DF18E3CD` | Not yet extracted |
+| `Modern Special Series/Character Cars/Sonic the Hedgehog Character Cars _ Hot Wheels Wiki _ Fandom.html` | `39854e3dd5aef78722bde9930bcca5e541bb6e07` | 356852 | `7A52D11A2CE5AFCACAC329413DA61606BCC2A29EC088492905F7B64CEAB1C30A` | Not yet extracted |
+| `Modern Special Series/Character Cars/Space Jam_ A New Legacy Character Cars _ Hot Wheels Wiki _ Fandom.html` | `093da4b7b9ba0a96986f0e804786ae7eaaaf24ff` | 357360 | `D62E37D13141F80A825101F86F121F11DF5A14324DBE86F4BC1244B3F97DCBA2` | Not yet extracted |
+| `Modern Special Series/Character Cars/SpongeBob SquarePants Character Cars _ Hot Wheels Wiki _ Fandom.html` | `99e5d1aa85a35956f6a393798e9de45a31179886` | 373240 | `ED05C8AEC5823D80E4FACC640D799A57BCF0DD652CD8219098200971291CE147` | Not yet extracted |
+| `Modern Special Series/Character Cars/Star Wars Character Cars _ Hot Wheels Wiki _ Fandom.html` | `e1a71f27cfe72e51eecc6d58b8ed3c60d81390d1` | 887617 | `DBA8B280814373986DAB14AB82AB77724AD4CD73E9B9EA459B4C89CB0D8FE944` | Not yet extracted |
+| `Modern Special Series/Character Cars/Street Fighter V Character Cars _ Hot Wheels Wiki _ Fandom.html` | `a40e3c20b066c9c36bb7b4be06c386c1ecf22e06` | 352966 | `1C724D568AE53D6AA32888BBF904DC20F2B002D308A9255017419D2E92C8BD72` | Not yet extracted |
+| `Modern Special Series/Character Cars/Super Mario Character Cars _ Hot Wheels Wiki _ Fandom.html` | `a20f62788fef8c33e99ca068051cd780858036f3` | 444414 | `2EFFAD309E57B458466975593A384B338001ED03077097EAD028855FC836886C` | Not yet extracted |
+| `Modern Special Series/Character Cars/Teenage Mutant Ninja Turtles Character Cars _ Hot Wheels Wiki _ Fandom.html` | `33d48afb99d0e96d8484ca4d149d8386bde0ce48` | 357027 | `CC3EE425993B09DC90D1D8471BE028A2C4A138DD247BBA7CF223CF6C121BF79E` | Not yet extracted |
+| `Modern Special Series/Character Cars/The Muppets Character Cars _ Hot Wheels Wiki _ Fandom.html` | `b61e1c104ebd671fe34343f4c922dd497e53fdf9` | 356088 | `EFABB8AD70C4541F51185C76B0721CE0FEBCC466D656BF21A0F91C5586A766EC` | Not yet extracted |
+| `Modern Special Series/Character Cars/Toy Story Character Cars _ Hot Wheels Wiki _ Fandom.html` | `d2097ae3a5c79657ce84a4daad58c90d838d526d` | 423899 | `795266E1898C68639DBA92AAB3CCB746FC825E76865CCC3DB7D01A3486C611C4` | Not yet extracted |
+| `Modern Special Series/Character Cars/Trolls Band Together Character Cars _ Hot Wheels Wiki _ Fandom.html` | `7a192ecfb62ba4211e5433e9a43728aa61b6a59a` | 348937 | `0C2B58E9CB12AF5FD7717CE82CDC245038DC56A8F9B8BF989FEE8FCE037260E4` | Not yet extracted |
+| `Modern Special Series/Character Cars/Universal Character Cars _ Hot Wheels Wiki _ Fandom.html` | `494f973b6e33923f5abc75cdb61dc0263346aacd` | 352238 | `8AD534117C50ACAA5A8E37A692932C030A72D0658A0CFABB2F05BCBB33A9282D` | Not yet extracted |
+| `Modern Special Series/Character Cars/Warner Bros. Character Cars _ Hot Wheels Wiki _ Fandom.html` | `c9ec6d2a47d1b6882263e1046ff651325adcb685` | 369961 | `0B40BCBCDECDBC8FA1823A7EA11D3B24BA34D1032A8A1479A09B10F1A039F2C3` | Not yet extracted |
+| `Modern Special Series/Color Reveal _ Hot Wheels Wiki _ Fandom.html` | `b3a7ec89b6923d3a7649fa2a9d8f9447d6d8b4b6` | 630782 | `7D8FE5280A2646745E1A326E277CE035F1F74FAF93919C92E084D1423581251F` | Not yet extracted |
+| `Modern Special Series/Color Shifters/2008 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `b575a231218961c30b14c1a834e13a63f4f53f8d` | 380174 | `FE04F5652B3988B920D3DB9022CCE911C3497899C7EC34E0BEEBA2FF41F28DAC` | Not yet extracted |
+| `Modern Special Series/Color Shifters/2009 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `871aaf68ad5d08f17d0938f4fbd59e6c5f869a95` | 376832 | `9126070C189CF49A44C925C2785FF0C7A648BDE6957B2477764E481DE34B2A5F` | Not yet extracted |
+| `Modern Special Series/Color Shifters/2010 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `2615cc724eb41cb38a763316ee97a5454facb377` | 413338 | `C265C25633D964BE14FCB0369B59F0929078BE66CA4CE44DCE31C5400C33A241` | Not yet extracted |
+| `Modern Special Series/Color Shifters/2011 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `91f2e4f99e8b0fdcf6406a8b8a80702fb3863c07` | 383081 | `ADCD6D695431EC2DECA34F2C1DA564A191FFEE9B698D49C0C44A15BD9E4F0121` | Not yet extracted |
+| `Modern Special Series/Color Shifters/2012 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `95826a9a58ddb91d03ee1f6bd184b073552b32b6` | 329617 | `AF2F14971EBFD5546D0CDA0D33BBC7C4871A1E3DE77A92C8DAF09F49E835639A` | Not yet extracted |
+| `Modern Special Series/Color Shifters/2014 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `fd50836048c8bec875c51e275f03a9db26e82587` | 398483 | `4C0B0EBA1B23CD8AB24DB340F6D2228D8F74B69F830A282A5532CDA4A3DEB310` | Not yet extracted |
+| `Modern Special Series/Color Shifters/2015 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `9972a6776c46c7d34a39fc0e671916132745f414` | 377506 | `504543F6B58A6AE02116C37CA82963693C62F223ADD02BD8EFA718E74FCFB4E9` | Not yet extracted |
+| `Modern Special Series/Color Shifters/2016 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `74acb7bdc7a5c44a7b43e06106f50486838dbaf7` | 352171 | `037A18D9DB2E44C585AA9D13068711BA4FE3F4B7CC81FF11E286CE9FE5D95E84` | Not yet extracted |
+| `Modern Special Series/Color Shifters/2017 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `281f8d5ad792220735436298a958cb6cde8c4f63` | 350539 | `4C2527EE58DD453E670E0F399B13969DD1F687C677E85C751032226CF14FB96F` | Not yet extracted |
+| `Modern Special Series/Color Shifters/2018 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `84f4fe9170931f6a9d8245382e785e558d475996` | 345871 | `B0870FC20C6412EEF56680C8596D1405054CE57A1387A8DD22F1337C59327E66` | Not yet extracted |
+| `Modern Special Series/Color Shifters/2019 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `1de18d35e81b3dc02c0ab2adeccbf570240e44d7` | 355555 | `AB3DF4B418A5B12ED59C82120F9257054045635EF05CEF2C19E0BB6CCDCB4E64` | Not yet extracted |
+| `Modern Special Series/Color Shifters/2020 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `bc2e213310fb4d0f48d367b2a5030d4ec137de36` | 357231 | `435186783367DB55FADB37DA45D47C09124D16AF2F6A9653A89BCC850E5AF236` | Not yet extracted |
+| `Modern Special Series/Color Shifters/2021 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `a7558bff165e04f0643d0d468378db2b1d701bfe` | 319581 | `29BD0D4DAB5E10842CA273182B67BAB0BEF5545C6E62388FC0F7C51515B2AC64` | Not yet extracted |
+| `Modern Special Series/Color Shifters/2022 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `35fe9fbcd5dba4623d1990c478ab6fedd9fa9dff` | 351635 | `056178C433B62540C06C5DBC42FCC71E42B1FBD165ECCE472327359791C2BAE9` | Not yet extracted |
+| `Modern Special Series/Color Shifters/2023 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `d33b643b9081f913a0aaacbf91c3caa1a6568165` | 346310 | `43AF27A2F652BD264221193C36E23CE1E0C9013D61F9B96F5EEA86896E0BFF8F` | Not yet extracted |
+| `Modern Special Series/Color Shifters/2024 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `bffecf415edd9d1f5e59c3e2fcab106da8da7a2f` | 331441 | `49B9F8E95594F8E6583B0F4A30C8CAEFC76AB988B1A638A01DD1F894B588A136` | Not yet extracted |
+| `Modern Special Series/Color Shifters/2025 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `22308b1c1dc35bd04d947be744bf3d8198af06c7` | 363239 | `EE4C375003C61BA54D41E7B73D23B6C314FB02023B939BE534B6D00BDEE70F93` | Not yet extracted |
+| `Modern Special Series/Color Shifters/2026 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `4c34c8390f06fcedafd0c006f2fad94af995aa85` | 368276 | `FFF72AAD51E2B971D8B455E772C025A73376BAB6B0809CA87A6492C417A29A22` | Not yet extracted |
+| `Modern Special Series/Cool Classics _ Hot Wheels Wiki _ Fandom.html` | `fa8644151d5641c63087cfcca6f034330631392c` | 423606 | `5461808915A500B5DB9CEF694132397E8C922B745C91AD807CE99FEF47A6756A` | Not yet extracted |
+| `Modern Special Series/Corvette 4-Rotor _ Hot Wheels Wiki _ Fandom.html` | `da08319e73900886655cae46d21d52452552b163` | 340971 | `9DA31200D46190289FA38C7E298B55A54089310488EE09D007D95FB7459A2DCB` | Not yet extracted |
+| `Modern Special Series/Crashers (2007) _ Hot Wheels Wiki _ Fandom.html` | `2cc9b0d21683dbe60541452c73fa92375128a4b7` | 416496 | `4E9B9C69034E5D247423D0A8B39B8CAEA27E666C10362E8377CD5197924C5D62` | Not yet extracted |
+| `Modern Special Series/Dark Shadow _ Hot Wheels Wiki _ Fandom.html` | `4cfa7685d41261940f32ec982166fb17c7eb46b2` | 328393 | `4C64F61DBAB3BF7433078DA01A496FF30748A0642CBC4C6E9CB954867B6C44CF` | Not yet extracted |
+| `Modern Special Series/Deora II _ Hot Wheels Wiki _ Fandom.html` | `fb1d9200675f564445d1daa944a3548aea720482` | 661888 | `9E45D94F410AB47CCBCC0C73A31271FF9352D69B630EDF7F267DC700F9F39394` | Not yet extracted |
+| `Modern Special Series/Deora III _ Hot Wheels Wiki _ Fandom.html` | `8ceab7c798a0f96e1a1bbe7277ac1248774498fd` | 377963 | `1E431E30C25990B0C43DBDAF1C6E1B69B414E31D72B4C35DF88E0C4788D979CE` | Not yet extracted |
+| `Modern Special Series/Dragstrip Demons _ Hot Wheels Wiki _ Fandom.html` | `6b601e241572f98ed44728e7f5bf3e0021eef027` | 497132 | `5E8CC60B4F4559FBD73A2FF16FAFC2F7537377D43D3751778D9F11E9812393B9` | Not yet extracted |
+| `Modern Special Series/Dream Garage _ Hot Wheels Wiki _ Fandom.html` | `6c538fbd1c96a9e2b57cf138660de72b4b04269e` | 442174 | `3A914BD4307BFD6465ADBBBBA6C23318695352AD6BA6D2A5B9D2447ED9424F83` | Not yet extracted |
+| `Modern Special Series/Duracell _ Hot Wheels Wiki _ Fandom.html` | `d4ca52d27510bceb088c62ec27b5461a580129fb` | 353827 | `D6E0EB7D4E34ABECBBECF1DEE6D20989C6434F83479334D93BE4B73F11A97B70` | Not yet extracted |
+| `Modern Special Series/Eggshelleracer _ Hot Wheels Wiki _ Fandom.html` | `002c2ad1a179a3b4a4f6208d16ef065cc11a4dc3` | 347409 | `B62CA31231DC723828ECBCDCE56D79ACCB52C44B5028C51C3E4DFE8E89D3796A` | Not yet extracted |
+| `Modern Special Series/Fast & Furious Premium Series/2019 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html` | `75a1405a3183a70830640c112de34e671fbd1638` | 374889 | `4C0D634B199B038C4F9F501E59D5F06D291BD9816A79729C6ACD1718AE3ADEDB` | Not yet extracted |
+| `Modern Special Series/Fast & Furious Premium Series/2020 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html` | `9118f65579c4c741ecb83647c5dd955d99cb03d1` | 362086 | `06E14189243B0EB1FDAEBFD66A50A7194522DA9F83E3D2F32F0A940DEE4535D0` | Not yet extracted |
+| `Modern Special Series/Fast & Furious Premium Series/2021 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html` | `9fc816bed1b164bbabf2ef8257cef6e34a8f4b3f` | 356404 | `71497AB5735CF2B752B2C37F997272DD34244F804568F9BF7B972AE8A1B64EEF` | Not yet extracted |
+| `Modern Special Series/Fast & Furious Premium Series/2023 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html` | `5a3e839e670a870448defe6630bfe5feacb641b5` | 387858 | `193D9862E08DEBA801C8E739E7DC911EECD5F7B0759B81CDFDE5E7FA4A983743` | Not yet extracted |
+| `Modern Special Series/Fast & Furious Premium Series/2024 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html` | `08f278713133dd43b6679d9618eb1dc01245ecd2` | 354910 | `AB3394378BD3795D17D873FC5CBC33543B51BE7F4F5C0545C85D1E6AA03D770B` | Not yet extracted |
+| `Modern Special Series/Fast & Furious Premium Series/2025 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html` | `6862d9d14244965682573931811141903d734093` | 367067 | `6AF6F898703D3204A30A16D019A4C13B7F11D8880401F844ED23CB8E4A78AD92` | Not yet extracted |
+| `Modern Special Series/Fast & Furious Premium Series/2026 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html` | `445e2b518c580ef9d20f610a035a9871f8352bfa` | 373639 | `735FE10CB656DB9263540D7B069AC3ADADF1C16C2490887ED199166514971406` | Not yet extracted |
+| `Modern Special Series/Flying Customs/Flying Customs Series (2006) _ Hot Wheels Wiki _ Fandom.html` | `ec222b9a851d226e5041bb5d9a9ae828252577cc` | 366928 | `060CB10A9CD28C313BD5807DA7D639A39E6135CE54BF7DAE8EBE18C010F74FE9` | Not yet extracted |
+| `Modern Special Series/Flying Customs/Flying Customs Series (2013) _ Hot Wheels Wiki _ Fandom.html` | `78cbf5e8c286b728938f40769a839029dc15684f` | 372985 | `EB015686421892A2CC02DA80E2D4B32B719C2D9B18A96C9A4442A214930F59D1` | Not yet extracted |
+| `Modern Special Series/Flying Customs/Flying Customs Series (2020) _ Hot Wheels Wiki _ Fandom.html` | `5723c6e4183f27f66ea168c022e33456a1ff02b2` | 398310 | `856B663B1B3682467F26EE9DDF1757ECDECC73C6781E7D7F718255D3A55E06B2` | Not yet extracted |
+| `Modern Special Series/Formula One Collection/2025 Formula One Collection _ Hot Wheels Wiki _ Fandom.html` | `cdee0e721320db0e68d84771e174bc6fad42fb42` | 351079 | `91189BB8B1609C3B398259501B73A352A63C9EAD2E3DEB0E47DB7B026F3335B6` | Not yet extracted |
+| `Modern Special Series/Formula One Collection/2026 Formula One Collection _ Hot Wheels Wiki _ Fandom.html` | `556c57913522b2197e96b76a501ac1f2051f9470` | 403482 | `CD2EBA75F27A1E06BA38EDB153747445F3F4E41EC924AF580325BF53FD4D96FE` | Not yet extracted |
+| `Modern Special Series/Garage Series _ Hot Wheels Wiki _ Fandom.html` | `c604c03bc80576d01019e6d0b2f1737f9d059589` | 429285 | `9B9D82DF9D525A35F2EFBCD9717E57E6CB33E6E55050A1DDB9FEE9B973DA4A7B` | Not yet extracted |
+| `Modern Special Series/Global Technology Summit 2005 _ Hot Wheels Wiki _ Fandom.html` | `8945fbef8474f2def5f27d0e94695e15fdb65ee9` | 328294 | `9ADEC2790F5C4BBC4D02C72BCBD7E1E323E954A867061033B4C73A5D6275169F` | Not yet extracted |
+| `Modern Special Series/Hall of Fame _ Hot Wheels Wiki _ Fandom.html` | `c0b5a1d2bea35efa99c2e732fd928a5d041310e6` | 463527 | `BF4F7E0491F33562F1BE3A84187175FB5DDEC9568F58F2CEF07E9B254F35B670` | Not yet extracted |
+| `Modern Special Series/Hammer Sled _ Hot Wheels Wiki _ Fandom.html` | `d0248d2ab1a180ec7bb46572b2a248d836825189` | 381011 | `142ECC553DDE870DF64E4456179D1F08D8B4F66F429BB5AED46DA7B4EF28444B` | Not yet extracted |
+| `Modern Special Series/High Speed Racing Wheels Series _ Hot Wheels Wiki _ Fandom.html` | `9647463c91f86ff95956578092c37259765cf2c0` | 371484 | `97FE882E0D6798EFA98FCE20A1C32F2D09E1159B4C8FEEE2086A92D07C00D37E` | Not yet extracted |
+| `Modern Special Series/Highway 35 World Race _ Hot Wheels Wiki _ Fandom.html` | `2c75b3ad07b7a831235558c4d9cb847ec52d59be` | 433423 | `ED8E0ACC981BE7151C1256E7A7F3EA6F67B69EEBDF650154395267B8FC77C0AD` | Not yet extracted |
+| `Modern Special Series/Hot Wheels Classics _ Hot Wheels Wiki _ Fandom.html` | `70d9be50320809395b6a4d7fd220dd96a5ac9ad2` | 1450750 | `E5E6C93B6FEE715198BD785FAA826E591D2E870C1354A88BA5CC8A975BDC9F48` | Not yet extracted |
+| `Modern Special Series/Hot Wheels Delivery _ Hot Wheels Wiki _ Fandom.html` | `ae2b7769f6038d52e3d5a5471f2536a50d673490` | 486192 | `D2E211771F7F018E386AA29748AF4C7C7F0F654CB01C66E4C39F030CD3E9E9FC` | Not yet extracted |
+| `Modern Special Series/Hot Wheels Garage (2010) _ Hot Wheels Wiki _ Fandom.html` | `c2c66e2e7aadaa417a42ed09b8484dacd8139622` | 562456 | `0AF78A8EB81436997A1B21928D0A89F372149A045788CBF70B2BA5BCBC25509A` | Not yet extracted |
+| `Modern Special Series/Hot Wheels Garage (2011) _ Hot Wheels Wiki _ Fandom.html` | `379ab54d518aae00db43dcdd3f3bfbe217b8bb38` | 526402 | `1F763E89EEB095709C2F12643C89EA9C261BA035CEA0D73B930FF7DA8DF363A8` | Not yet extracted |
+| `Modern Special Series/Hot Wheels Garage Series (2016) _ Hot Wheels Wiki _ Fandom.html` | `2c8c5377e4ed2f43f0913cd1f0478c403d9e2283` | 329921 | `7A464735322E40DBBF98B8D0860A1C54828374EB6C3670DDBBD070433C85CED8` | Not yet extracted |
+| `Modern Special Series/Hot Wheels Heritage _ Hot Wheels Wiki _ Fandom.html` | `3a39c5816aacf67216d6fb07f552a720c6b5aef0` | 428595 | `A181A8D26F15518CF0664731CA9A4B5DAB9504E1378E7990832EF6B9BBA5EAA1` | Not yet extracted |
+| `Modern Special Series/Hot Wheels id _ Hot Wheels Wiki _ Fandom.html` | `8e22ecd9ada07ae46c826506440481033e729244` | 565324 | `0534EBB93775761E8D6E6FE79288F744D6B5BB5591CDE42B0651CA797F8C25D6` | Not yet extracted |
+| `Modern Special Series/Hot Wheels Racing Series (2012) _ Hot Wheels Wiki _ Fandom.html` | `1c38b08a10f0b2fa5e97b1b5216fb8118bdb7102` | 390159 | `D580D4ACCB7EC98FA0440A207F7E7E109270E81C4523DA4D4A68D8B539E5F54A` | Not yet extracted |
+| `Modern Special Series/HW Designed By Mini Collection (2025) _ Hot Wheels Wiki _ Fandom.html` | `aab02dec426191f3ad25b814b33b3e66a06173e6` | 316665 | `07677AAB9C76BB9B03409EE876291134F21DEDA09C354ED37DA4918AD47EBF4B` | Not yet extracted |
+| `Modern Special Series/KFC _ Hot Wheels Wiki _ Fandom.html` | `5d0a432dd91f3ec7526dfa6f8a02f8800e44be27` | 353304 | `2CAF9081BEC86CAF21976B1BAC1206E30FF5ABE9DB744EC41457AAEAD31A83F2` | Not yet extracted |
+| `Modern Special Series/Kowloon'd Hypervan _ Hot Wheels Wiki _ Fandom.html` | `12f29433d0908733a9f3e1ccae675773b8740bbf` | 351929 | `1DF418B869FF7D8FC291C698256F1E6ADA89C00FE93FEAD7769BB89FB99ABA41` | Not yet extracted |
+| `Modern Special Series/Lamborghini Countach (Sizzlers) _ Hot Wheels Wiki _ Fandom.html` | `f0c737a89959aacbf69dafd0c068dd1aeee61e79` | 340166 | `F21BEF305006B211D89F039F453E9AECDC067D03EE4AB2C7B7EE957FFE7C72F5` | Not yet extracted |
+| `Modern Special Series/Larry's Garage (2009) _ Hot Wheels Wiki _ Fandom.html` | `6cfcfcaff6fb9ff809d8002131bcc8dad7286fc6` | 468017 | `9AD3C6D0F8FAD29F9674E492397A2F4C6728A7E8937CCD33FC17C4AF14061E16` | Not yet extracted |
+| `Modern Special Series/Larry's Garage 21-Car Collection _ Hot Wheels Wiki _ Fandom.html` | `0995e3b2e42198570bd16806d78e3c5757728847` | 348321 | `67CE8E534F7B998FF003680BB6B98E83FE749037B0FD95A7CADD472FD9AF24D6` | Not yet extracted |
+| `Modern Special Series/Larry's Garage Holiday (2009) _ Hot Wheels Wiki _ Fandom.html` | `8f06e44363808016b4757162a3251ac5731d87f9` | 335172 | `2166B8583216FF1AD9E69620061B622BEACC2A445AB9A7B65EA2F9788695D24D` | Not yet extracted |
+| `Modern Special Series/List of 2010 Hot Wheels _ Hot Wheels Wiki _ Fandom.html` | `3e72a750319e00236b1c495c342bba3b9539dc94` | 808686 | `C0E219AF45127688B26C56DF6FD78BCD05FBF912CD942EFCAE7F93705B9CD931` | Not yet extracted |
+| `Modern Special Series/List of 2013 Hot Wheels _ Hot Wheels Wiki _ Fandom.html` | `71b9118f2d89bcb902f5af2f150c215171221878` | 827451 | `3011EEA03292C117627164113F83DBB5D05C41EC3A8229B7B1C998508AFFE812` | Not yet extracted |
+| `Modern Special Series/List of 2014 Hot Wheels _ Hot Wheels Wiki _ Fandom.html` | `1e783b2afc09b732525ecd936e795ad4c5674bf9` | 831825 | `CF0CFCCA41489A70ADB886F336E588157BB5C5401951DD8388F8300E99CFB4FD` | Not yet extracted |
+| `Modern Special Series/List of 2015 Hot Wheels _ Hot Wheels Wiki _ Fandom.html` | `8b28669c7960e0eaf0b8ceb47ca44ab51b48d200` | 815228 | `6676CC23B7AD5615A9F88AEA0CE7E48615D2555D85F296DD877410D17EC57F4E` | Not yet extracted |
+| `Modern Special Series/Live Wire (Sizzlers) _ Hot Wheels Wiki _ Fandom.html` | `bc0adb4d9a1038958875ab82c3d70266edf4cc9b` | 342724 | `C46F881CBB5BBA04937D01C2B7636B5B5E97DA3F013240165F3F3CCF39A2D84D` | Not yet extracted |
+| `Modern Special Series/Longcount _ Hot Wheels Wiki _ Fandom.html` | `88eaeb700c82d794da07440ded5eb6c0bd25dbd5` | 331830 | `13CB23C94F2D5B693F8FD5ED6501EE82E8047EDC947DFF3E5C48FB16656AA11A` | Not yet extracted |
+| `Modern Special Series/Mario Kart _ Hot Wheels Wiki _ Fandom.html` | `eb9785087aee100e488b0c6d40b3cd62fe2d75d4` | 685858 | `DA042A51628AC304FB9596E6280EC4CF1C3E90CCAD70F089AE627B7413D81BF6` | Not yet extracted |
+| `Modern Special Series/McDonald's AcceleRacers Series _ Hot Wheels Wiki _ Fandom.html` | `088717ea1a32cb96d83363f30aa59fbdb1828aa6` | 370356 | `9B524949450DCB5E5818F0B2912CB7C5697C2A252E434AD3CEBEB075EDFCCB2B` | Not yet extracted |
+| `Modern Special Series/Moon Ghost _ Hot Wheels Wiki _ Fandom.html` | `0e260955f607cf3fe13b4ffdcac8f66953130529` | 331248 | `E18F359634E9530B392DF131B6675D4BAE1CD5C533176627B31CA684D3678C6A` | Not yet extracted |
+| `Modern Special Series/Mustang Boss 302 _ Hot Wheels Wiki _ Fandom.html` | `044171801ffcb53e1ffd862ad46124edea72d11d` | 354465 | `F003845B8FD0ECA006F0B3098487681D1E47CBAA34F03829BB20790EE461E115` | Not yet extracted |
+| `Modern Special Series/Nightspeed Mini Collection (2026) _ Hot Wheels Wiki _ Fandom.html` | `13fd6f5ab31726e52b85615cd2327c38dbb96f39` | 333992 | `AA94BB915F4F0C7B65E701C17D9BB5A95E4009158F7003156316654DA77CE000` | Not yet extracted |
+| `Modern Special Series/Nostalgic Brands _ Hot Wheels Wiki _ Fandom.html` | `659e20ad36d08a0b09c4537f9c3142efe6db4052` | 468857 | `D0926300F9374EB153CC5A15B77E90BEEB95ABB3CB835A10954CFEEF56911FA8` | Not yet extracted |
+| `Modern Special Series/Pocket Bikester _ Hot Wheels Wiki _ Fandom.html` | `37b9aa764dd0b6494f468e7ff516af5fa3e4e7e8` | 359448 | `5C8610030B0449DA4AE6908B889664BCF39620E6B2C2276BB25DE66AB8BAB652` | Not yet extracted |
+| `Modern Special Series/Pop Culture/2013 Pop Culture _ Hot Wheels Wiki _ Fandom.html` | `20ec8f904865fa77a0898286037be1f79b5a73f3` | 436063 | `CF2E50FA795BE6602E2AE2154C87926BE35334699242A76C35390366E686AD3B` | Not yet extracted |
+| `Modern Special Series/Pop Culture/2014 Pop Culture _ Hot Wheels Wiki _ Fandom.html` | `79164706fb1197cd548929cf3635d3bbd423cb96` | 428661 | `6DE2C133FF56DCABDC2E18487E707DCAD5A032C609F3F2DADCBC63A45D9CAF02` | Not yet extracted |
+| `Modern Special Series/Pop Culture/2015 Pop Culture _ Hot Wheels Wiki _ Fandom.html` | `656987232b460afc03b827ebb2a7e3e4d24e6451` | 393780 | `F132C8B5C1BE7BC11707249FCC9BDF013AFC4DB58DCEDDF437462672F62D8CBA` | Not yet extracted |
+| `Modern Special Series/Pop Culture/2016 Pop Culture _ Hot Wheels Wiki _ Fandom.html` | `3694a23e692827af31251898d633e801675bcce0` | 387973 | `2A08F2C37BBCD99E3F7CA0E8D3349E2E391B10228809A48C70F369AEB7849FAE` | Not yet extracted |
+| `Modern Special Series/Pop Culture/2017 Pop Culture _ Hot Wheels Wiki _ Fandom.html` | `9cb2cd7deacef0f47b6ae42f3992c7c7e9702b80` | 380856 | `B88855B559B25A93CD17FEAD288CC3C99F6151845A42B994A87FABA7D64BC8A3` | Not yet extracted |
+| `Modern Special Series/Pop Culture/2018 Pop Culture _ Hot Wheels Wiki _ Fandom.html` | `1544bcb70e84e4867f9844945f7886880284ce01` | 369491 | `664D21011704A2266D184B0701755700686F82C4B931598BB4BB5C4C1A802FC3` | Not yet extracted |
+| `Modern Special Series/Pop Culture/2019 Pop Culture _ Hot Wheels Wiki _ Fandom.html` | `2ed5f4df47a706561acd4d02b53c6a54f2467e96` | 357120 | `CD2179D4687EEDDB836769F4919B470197D57AB0A2B653D5038ED8B279E7B6FA` | Not yet extracted |
+| `Modern Special Series/Pop Culture/2020 Pop Culture _ Hot Wheels Wiki _ Fandom.html` | `b9fb8552e51619cb73199202108f91174410aadc` | 358339 | `9A2023CC54A88CFB40FBEF3F71EACB77758F27AB1B7C61848E40FD847ACD05DA` | Not yet extracted |
+| `Modern Special Series/Pop Culture/2021 Pop Culture _ Hot Wheels Wiki _ Fandom.html` | `6e440d914704929b2fbd3c0640cc15d4c0f4e229` | 353782 | `DFD866970206BDC9161DB43464EDAF5E776E08E3A1C207CE0A257F3CA8824D9A` | Not yet extracted |
+| `Modern Special Series/Pop Culture/2022 Pop Culture _ Hot Wheels Wiki _ Fandom.html` | `ccd2dca6d1156bf108cc3bdc68e0636e4ad38df1` | 356080 | `33EB74EB99F5055AACC28E69C0F03723E218DB748809510103C00FF0A4B5E3C5` | Not yet extracted |
+| `Modern Special Series/Pop Culture/2023 Pop Culture _ Hot Wheels Wiki _ Fandom.html` | `bc50caae16648d86439ec32935bc75038e3ba1e5` | 356459 | `FE2A86D28979C7A41F73CCCF82E55E2551DE45B558D8117ED26768FF67597E5B` | Not yet extracted |
+| `Modern Special Series/Pop Culture/2024 Pop Culture _ Hot Wheels Wiki _ Fandom.html` | `d7ba5432cd34f14aaffe1d3b7eaca20a84ee9c4c` | 382411 | `15D0CD4F5B2FBBC3DE2617D795612B6E57403ADF5C30EB5959ACC0BCA12FF2EE` | Not yet extracted |
+| `Modern Special Series/Pop Culture/2025 Pop Culture _ Hot Wheels Wiki _ Fandom.html` | `05ad65da6ec212f09683ea4bc42ccc1b1a7b24ea` | 376749 | `6D93C61B8DC49DF8C72AA0BE7956EEF2499B76E07F5A1B3C177654E2738505E1` | Not yet extracted |
+| `Modern Special Series/Pop Culture/2026 Pop Culture _ Hot Wheels Wiki _ Fandom.html` | `4d3f7706cf44b26ac1491e7112446560dbc20c19` | 388929 | `852DE68E243B30577ADF35853032DE2C01F2E49CEEC3CD861A4DE4CE5B716079` | Not yet extracted |
+| `Modern Special Series/Premium Collector Set _ Hot Wheels Wiki _ Fandom.html` | `5f4d11c2b0ffd91141758a90569fde9422fba639` | 545811 | `D4C75995CAFD29CB82AD86F0A515344CC9D3E9FFF63FCAD618EF63376C7FEDD9` | Not yet extracted |
+| `Modern Special Series/Pro Racing/1997 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | `17fb275932b3e7ec349c869b1e62f14995bbaac8` | 479062 | `0933D965A8630F4836C5B92F98E24342E89F23322B6CCAC2019BED14613B0B40` | Not yet extracted |
+| `Modern Special Series/Pro Racing/1998 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | `3cdef4e5b8c4bf3e39b9830fa3322b68d3ae9bed` | 704612 | `06B428524AAE486E5B9B25BA65B36FD3A3C825E55A73B24607BD0E90B4A7777F` | Not yet extracted |
+| `Modern Special Series/Pro Racing/1999 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | `77854fc8ea06ec2d09df5ccd1c4c4299b74ddad2` | 676850 | `CCA36FBF3B96EF3BEBFD00F8C801BD544DDE6AD2F262CA9D598995F07B85C7BA` | Not yet extracted |
+| `Modern Special Series/Pro Racing/2000 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | `a3423d040af99c15800343cf6b26781e48dbe352` | 647030 | `CC078290001F2DADA6FAB461822E148A4AB2D1CADA809FE00E437D7867225D15` | Not yet extracted |
+| `Modern Special Series/Pro Racing/2001 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | `9011f6900c3841b1c467b52e7fc1aa0bf7480daa` | 421812 | `8DC58756AA5B046AF4A22B54EE92658E9437321C7D627E715F587AF75D9FDB3B` | Not yet extracted |
+| `Modern Special Series/Pro Racing/2002 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | `241780a762a326f782fc272e5de373fa4e669d62` | 416604 | `6357E9A35A0ED64CCD1BD96B592F87F40A86F0DA195DAE0FDD763255CC4A2125` | Not yet extracted |
+| `Modern Special Series/Pro Racing/2003 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | `79b5c55a7be437c2229f933848e66b400d351db0` | 459507 | `FBBB140D25D21BCA1137969E85155B6642693198ADE2C6CF4889F1040F994809` | Not yet extracted |
+| `Modern Special Series/Pro Racing/2004 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | `e2ed0061bb2b378d92a03eaa18f720d93a688c0b` | 391687 | `6447AAD4B82DE771EB984D50CD76DC4D9EC75116562C2037334869C7EF7A9154` | Not yet extracted |
+| `Modern Special Series/Pro Racing/2005 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | `a2e39220a14c4a97b56cf98098c9416483823703` | 349792 | `C4063C3A6C607085BA7FA4A72F2423248CA301D1174000090570D953E8A0BCCA` | Not yet extracted |
+| `Modern Special Series/Pro Racing/Basic Pro Racing Series _ Hot Wheels Wiki _ Fandom.html` | `0f648e6d901c84a9993e72281d5f48ce6712e6ae` | 572398 | `74F7C91D344834A2A7FE91502F4D02C609FE461868DF95BB869E3D5A334DAA9C` | Not yet extracted |
+| `Modern Special Series/Pro Racing/Hot Wheels Racing Selects _ Hot Wheels Wiki _ Fandom.html` | `d96403c01903f921e041994dc792c60437453c16` | 419736 | `51CFCDAC07E3034598DF30FC6DB09FD4642047D6EC1D5F898351B97E5394DF27` | Not yet extracted |
+| `Modern Special Series/Pro Racing/Team Transporter _ Hot Wheels Wiki _ Fandom.html` | `5af769f95fb6c3480edfafb41fd684dab9b0cc30` | 483632 | `FF3AC07568F29F9A14CE990B57E2F77A54E16EB28C89E667332F724552F2893E` | Not yet extracted |
+| `Modern Special Series/Quartett (2006) _ Hot Wheels Wiki _ Fandom.html` | `6d53ccbb62a22cb15401e0a31f54e1fb057050b8` | 371363 | `35DAEB282B7EE963EE150420B25A9B55F18938224347069002B2B46301A96463` | Not yet extracted |
+| `Modern Special Series/Racing Rigs _ Hot Wheels Wiki _ Fandom.html` | `eec28042b3dc1fb31efdb69c4a3eaa0fa1316964` | 449841 | `5C3B44E7FB8E8610AC068BC307DF594A3419735954067C2054FF81CCBC5E9364` | Not yet extracted |
+| `Modern Special Series/RD-05 _ Hot Wheels Wiki _ Fandom.html` | `b3bb8e5b5cae6f7f294cc9e1e70b6bdac7d3917a` | 381980 | `40A23451D85AAE11418802E91DA174DA8A06946DB7000BF11FAAF6F83D0F7A2F` | Not yet extracted |
+| `Modern Special Series/RD-06 _ Hot Wheels Wiki _ Fandom.html` | `731c2d7e9824ba803ebb3aad09ebb1310f3bfb0e` | 382086 | `E7C454B6E95AC1228A513E8B71F090D109A1182CC3277A9B4D00F97AF1D26897` | Not yet extracted |
+| `Modern Special Series/Replica Entertainment/2013 Retro Entertainment _ Hot Wheels Wiki _ Fandom.html` | `372cd410b7f74462dbb02ab5728e2118f84d9393` | 391708 | `577C052A6A63CD5DD48E69E28BA2C8BA233C35DC30E0439CCA64D2A5144A7392` | Not yet extracted |
+| `Modern Special Series/Replica Entertainment/2014 Hot Wheels Entertainment _ Hot Wheels Wiki _ Fandom.html` | `d31f042748a8c90c86421609e429734a832fbe13` | 382410 | `388342CF83E8E9DFED955D92328FB1E9CEE3B8DF15B57E269110C434D2C82903` | Not yet extracted |
+| `Modern Special Series/Replica Entertainment/2015 Hot Wheels Entertainment _ Hot Wheels Wiki _ Fandom.html` | `183088cdd69b78f85e8979b2f403ba9697194634` | 362322 | `510421F9317B72EC12B6BF153D8C7E5CF247C06E90D103244678F4A4591AC556` | Not yet extracted |
+| `Modern Special Series/Replica Entertainment/2016 Hot Wheels Entertainment _ Hot Wheels Wiki _ Fandom.html` | `90acdb93b2e435d789a851316d2926ce2758f2a2` | 361533 | `B5E5FA3AFB5F53FBF22852B2749690D71F93DD72F31EF80F7CA99775BD4F0C20` | Not yet extracted |
+| `Modern Special Series/Replica Entertainment/2017 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html` | `0f3d57aa1626e5f5447a82818e10edbd0edbcfb0` | 369836 | `DF6547E16F256617C8A6FFC1C4F3BC776AC11570154DA1091C7F8E374F068D87` | Not yet extracted |
+| `Modern Special Series/Replica Entertainment/2018 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html` | `333306777b5e037c77fb540b53176642be4c2bb4` | 353525 | `5660507C4BB0E50D182EEDA78D98604F3E8D30DB3EB393DCA7754D0FF8941890` | Not yet extracted |
+| `Modern Special Series/Replica Entertainment/2019 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html` | `03eba840da7a72df3cbea40eea6533f89528d8c3` | 358504 | `881B58DFF1F3149DBDBB6A00AFC1B4F034186FA6E404C09D0E0DFD23043C9CAC` | Not yet extracted |
+| `Modern Special Series/Replica Entertainment/2020 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html` | `344640559dc81e9f3590e4e1dcf74e4461b128d2` | 357680 | `BA2207BD9FC0AC672F5418C07FDF484867AA9B06DFFD3A95C102F484A7BE25E8` | Not yet extracted |
+| `Modern Special Series/Replica Entertainment/2021 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html` | `8579d3db963436c5d186e6fbd351f5d4fa1cc5b8` | 355855 | `6D37C39862358160B2DC9BEE3649EA7BC367C3AFA43B988258E31CFA9523DEE3` | Not yet extracted |
+| `Modern Special Series/Replica Entertainment/2022 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html` | `e27942eb5417d9577782edf507164f8b159a5fca` | 415746 | `365DB71D33E83AFE37EF4F050A4F51318612DD38AD9DC46FC164646B7F569D77` | Not yet extracted |
+| `Modern Special Series/Replica Entertainment/2023 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html` | `857eafb5c8c4c450d8a5cd3b481bd3782ceac5c8` | 353528 | `2F646F84FC21BC64938FBBF480A9ED510B9A0CAB76259A3158AB5605CD9C2758` | Not yet extracted |
+| `Modern Special Series/Retro Style Series (2016) _ Hot Wheels Wiki _ Fandom.html` | `3997d51257d4cfe45d481c3f0b5eda6545cba533` | 379239 | `3D15F1E7F1020CC89B9CD93179B7FE123179F0589FDADD9F8097DC59732D284C` | Not yet extracted |
+| `Modern Special Series/Short Fuse _ Hot Wheels Wiki _ Fandom.html` | `acec941afe0d399a1ca22d6dddcaae44ef5026f6` | 335313 | `D07EDE5BC8E5547F9005E64C8C1A9A7E0066663D726BC37053C8D9815841D635` | Not yet extracted |
+| `Modern Special Series/Side-Burn _ Hot Wheels Wiki _ Fandom.html` | `87688d2b9e417f0d7a9dc2e1492bd4959364a61a` | 348532 | `A4F48BEF69D41C8BEDA9FD4AA6D680D81F7E5756CACFC65DE0F5B294466391B4` | Not yet extracted |
+| `Modern Special Series/Since '68 Series _ Hot Wheels Wiki _ Fandom.html` | `7cd3e8b70d2ad93ccc1e466ae4a87e9ad1b25bd4` | 504686 | `547F5D492DCFEE2DFEA007FE4D7927BD52EA5D2187C08EC03FEC97D41520B6B5` | Not yet extracted |
+| `Modern Special Series/Speed Machines (2010) _ Hot Wheels Wiki _ Fandom.html` | `38e9cf00d45e2fb36c8775bead38d5d3c5be4af0` | 465055 | `FAC235C5A6564DE23EAD2EB3917BD9D28A3ABB594EB626C09FA409C4E679498D` | Not yet extracted |
+| `Modern Special Series/Spine Buster (Crashers) _ Hot Wheels Wiki _ Fandom.html` | `9665eaf62e7409a2bf57a4637dc392e6d449b3f2` | 327651 | `A4D6B02F388006AEF93CF091E45011A666B4D2B70718BA9E3F611FA0084DE016` | Not yet extracted |
+| `Modern Special Series/Super Chromes Series (2006) _ Hot Wheels Wiki _ Fandom.html` | `63046520e09475e771ff1ca191f9198e89941947` | 374744 | `C1721178F55CA19EA4D78FADBDE190BA758BA7E75C24DB387229C3088BCBFDBB` | Not yet extracted |
+| `Modern Special Series/Team Hot Wheels High-Speed Wheel Series _ Hot Wheels Wiki _ Fandom.html` | `1376e17d37ab1924772deea1a742bfd49bda3438` | 349519 | `4926AD6CDA6D823D48D8B8357A1076385D70D7455D6F26442A7A016063D023A8` | Not yet extracted |
+| `Modern Special Series/The Hot Ones/The Hot Ones (2011) _ Hot Wheels Wiki _ Fandom.html` | `39c4c5a795266997aeb0b07565686926629ef320` | 652694 | `FE88FB9C927D557183A9BC05B4AA3BCF8563FFFF4BB9397C52F67AA4FD97AFDC` | Not yet extracted |
+| `Modern Special Series/The Hot Ones/The Hot Ones (2025) _ Hot Wheels Wiki _ Fandom.html` | `32d2320530c24fb7c73838fb686ad07cf65da436` | 417259 | `FA8DC43FE4735BFC4376C5DD9F3F733A740F9F365CA17A6D3F93D476FC960964` | Not yet extracted |
+| `Modern Special Series/The Vantom _ Hot Wheels Wiki _ Fandom.html` | `f36c736720b50d2157544d7a320aea5b6d11410f` | 325971 | `934623769CA0D2C6F0C5D3BE5E43AC0A0198E06DB63843B3AAD694338B922D92` | Not yet extracted |
+| `Modern Special Series/Then and Now Mini Collection (2024) _ Hot Wheels Wiki _ Fandom.html` | `2123551e64d30d39fbeac2c53fcd7e6fa322785f` | 318828 | `7576895FB6FE89F987F074F69B4A4A2ADD8309DD7705D82A3C68BA85922A0E17` | Not yet extracted |
+| `Modern Special Series/Tilt Cab _ Hot Wheels Wiki _ Fandom.html` | `f640a981c28883cbb3840368a6b742272d7e417f` | 356995 | `9B22464D6733205753FCA00C774980B41436FD86CD68F93DD74154B9BA41A46B` | Not yet extracted |
+| `Modern Special Series/Toy Fair _ Hot Wheels Wiki _ Fandom.html` | `f51899691bcddbdb91788e57b548c78ffe59fdb3` | 363211 | `8C389F16BBFE308BE771839AA6615885C85F8407C5557AF99320D5D19B104C73` | Not yet extracted |
+| `Modern Special Series/Ultra Hots Series (2006) _ Hot Wheels Wiki _ Fandom.html` | `aeb36b9a2fa32b2a3284b41a52969e209173a5d5` | 451892 | `AB439FBB7C2EE75D7A26CB3A295DBD27E098A46B4FF962456DC6B2568649C6EE` | Not yet extracted |
+| `Modern Special Series/Vintage Racing Series (2011) _ Hot Wheels Wiki _ Fandom.html` | `67c874f1eed9c4c5ce768e46993165e93140e4b8` | 412223 | `CF53B5803A6BC30E3B07C1252048D3B91C06E015D794F48EB6695CDC16D26DCA` | Not yet extracted |
+| `Modern Special Series/Virtual Garage _ Hot Wheels Wiki _ Fandom.html` | `f4c0549089043c94061dd3f91aa00e746b803d6e` | 605119 | `340834E56F7A4F16A4203717FFAE12CBFC29F6E9EAD517E0DDEAC9DBBFFACFA2` | Not yet extracted |
+| `Modern Special Series/X-cceleron _ Hot Wheels Wiki _ Fandom.html` | `6a6a8a70fdb72e294a2bd798dfe53e9f2c024af8` | 346435 | `9F7082157A9760FFDD8147F576D52D800EF0453FCEA4C1B5ADCFD7DEB17B050A` | Not yet extracted |
+
+## Processing rules
+
+1. Preserve source folder and file path as provenance only.
+2. Inspect each page for product tables, galleries, prose lists, pack breakdowns, and other structured evidence.
+3. Preserve source order, table/gallery boundaries, raw headers, raw cells, row HTML, links, image metadata, and blank source values.
+4. Keep differing table schemas separate. Do not infer missing cells or merge rows by model name, Toy #, collector number, or appearance.
+5. Record extraction counts and QA findings for every source page.
+6. Re-fetch and verify every generated CSV/QA/index/audit file after writes.
+7. Use batches for execution, but keep one auditable page-level record per source file.
+
