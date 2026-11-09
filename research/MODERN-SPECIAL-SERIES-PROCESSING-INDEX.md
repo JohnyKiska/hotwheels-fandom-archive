@@ -7,7 +7,7 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 - Source pages: 223
 - Total source size: 92,291,750 bytes (88.02 MiB)
 - Inventory source: repository `MANIFEST.csv` and GitHub directory/tree entries.
-- Extraction status: 218 of 223 source pages have CSV and QA artifacts confirmed; remaining 5 pages are marked Not yet extracted.
+- Extraction status: 223 of 223 source pages have CSV and QA artifacts confirmed; remaining 0 pages are marked Not yet extracted.
 - This index is an inventory baseline, not a claim that each file represents one distinct product series.
 
 ## Source folder breakdown
@@ -252,11 +252,11 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 | `Modern Special Series/The Vantom _ Hot Wheels Wiki _ Fandom.html` | `f36c736720b50d2157544d7a320aea5b6d11410f` | 325971 | `934623769CA0D2C6F0C5D3BE5E43AC0A0198E06DB63843B3AAD694338B922D92` | Extracted + QA |
 | `Modern Special Series/Then and Now Mini Collection (2024) _ Hot Wheels Wiki _ Fandom.html` | `2123551e64d30d39fbeac2c53fcd7e6fa322785f` | 318828 | `7576895FB6FE89F987F074F69B4A4A2ADD8309DD7705D82A3C68BA85922A0E17` | Extracted + QA |
 | `Modern Special Series/Tilt Cab _ Hot Wheels Wiki _ Fandom.html` | `f640a981c28883cbb3840368a6b742272d7e417f` | 356995 | `9B22464D6733205753FCA00C774980B41436FD86CD68F93DD74154B9BA41A46B` | Extracted + QA |
-| `Modern Special Series/Toy Fair _ Hot Wheels Wiki _ Fandom.html` | `f51899691bcddbdb91788e57b548c78ffe59fdb3` | 363211 | `8C389F16BBFE308BE771839AA6615885C85F8407C5557AF99320D5D19B104C73` | Not yet extracted |
-| `Modern Special Series/Ultra Hots Series (2006) _ Hot Wheels Wiki _ Fandom.html` | `aeb36b9a2fa32b2a3284b41a52969e209173a5d5` | 451892 | `AB439FBB7C2EE75D7A26CB3A295DBD27E098A46B4FF962456DC6B2568649C6EE` | Not yet extracted |
-| `Modern Special Series/Vintage Racing Series (2011) _ Hot Wheels Wiki _ Fandom.html` | `67c874f1eed9c4c5ce768e46993165e93140e4b8` | 412223 | `CF53B5803A6BC30E3B07C1252048D3B91C06E015D794F48EB6695CDC16D26DCA` | Not yet extracted |
-| `Modern Special Series/Virtual Garage _ Hot Wheels Wiki _ Fandom.html` | `f4c0549089043c94061dd3f91aa00e746b803d6e` | 605119 | `340834E56F7A4F16A4203717FFAE12CBFC29F6E9EAD517E0DDEAC9DBBFFACFA2` | Not yet extracted |
-| `Modern Special Series/X-cceleron _ Hot Wheels Wiki _ Fandom.html` | `6a6a8a70fdb72e294a2bd798dfe53e9f2c024af8` | 346435 | `9F7082157A9760FFDD8147F576D52D800EF0453FCEA4C1B5ADCFD7DEB17B050A` | Not yet extracted |
+| `Modern Special Series/Toy Fair _ Hot Wheels Wiki _ Fandom.html` | `f51899691bcddbdb91788e57b548c78ffe59fdb3` | 363211 | `8C389F16BBFE308BE771839AA6615885C85F8407C5557AF99320D5D19B104C73` | Extracted + QA |
+| `Modern Special Series/Ultra Hots Series (2006) _ Hot Wheels Wiki _ Fandom.html` | `aeb36b9a2fa32b2a3284b41a52969e209173a5d5` | 451892 | `AB439FBB7C2EE75D7A26CB3A295DBD27E098A46B4FF962456DC6B2568649C6EE` | Extracted + QA |
+| `Modern Special Series/Vintage Racing Series (2011) _ Hot Wheels Wiki _ Fandom.html` | `67c874f1eed9c4c5ce768e46993165e93140e4b8` | 412223 | `CF53B5803A6BC30E3B07C1252048D3B91C06E015D794F48EB6695CDC16D26DCA` | Extracted + QA |
+| `Modern Special Series/Virtual Garage _ Hot Wheels Wiki _ Fandom.html` | `f4c0549089043c94061dd3f91aa00e746b803d6e` | 605119 | `340834E56F7A4F16A4203717FFAE12CBFC29F6E9EAD517E0DDEAC9DBBFFACFA2` | Extracted + QA |
+| `Modern Special Series/X-cceleron _ Hot Wheels Wiki _ Fandom.html` | `6a6a8a70fdb72e294a2bd798dfe53e9f2c024af8` | 346435 | `9F7082157A9760FFDD8147F576D52D800EF0453FCEA4C1B5ADCFD7DEB17B050A` | Extracted + QA |
 
 
 ### 100% Preferred
@@ -1068,5 +1068,20 @@ Five source pages extracted and QA-reviewed. Batch total: 16 retained product ta
 | `The Vantom` | 652735 | 1 | 2 | 2 | 8 | `research/extractions/MODERN-SPECIAL-SERIES-THE-VANTOM.csv` | `research/extractions/MODERN-SPECIAL-SERIES-THE-VANTOM-EXTRACTION-QA.md` |
 | `Then and Now Mini Collection (2024)` | 812967 | 1 | 13 | 13 | 29 | `research/extractions/MODERN-SPECIAL-SERIES-THEN-AND-NOW-MINI-COLLECTION-2024.csv` | `research/extractions/MODERN-SPECIAL-SERIES-THEN-AND-NOW-MINI-COLLECTION-2024-EXTRACTION-QA.md` |
 | `Tilt Cab` | 730803 | 1 | 10 | 10 | 40 | `research/extractions/MODERN-SPECIAL-SERIES-TILT-CAB.csv` | `research/extractions/MODERN-SPECIAL-SERIES-TILT-CAB-EXTRACTION-QA.md` |
+
+Source blob SHAs, manifest SHA-256 values, and byte sizes are retained in each CSV and QA report.
+
+
+## Final extraction batch: Toy Fair through X-cceleron, 2026-11-09
+
+Five final source pages extracted and QA-reviewed. Batch total: 41 product tables, 859 product rows, 388 embedded table image references, and 1,393 links in product cells. Each page has a 21-column CSV and individual QA report. Separate Gallery items have not been independently extracted in this pass.
+
+| Source page | Revision | Tables | Rows | Images | Links | CSV | QA |
+|---|---:|---:|---:|---:|---:|---|---|
+| `Toy Fair` | 770072 | 1 | 47 | 48 | 101 | `research/extractions/MODERN-SPECIAL-SERIES-TOY-FAIR.csv` | `research/extractions/MODERN-SPECIAL-SERIES-TOY-FAIR-EXTRACTION-QA.md` |
+| `Ultra Hots Series (2006)` | 742334 | 4 | 78 | 156 | 238 | `research/extractions/MODERN-SPECIAL-SERIES-ULTRA-HOTS-SERIES-2006.csv` | `research/extractions/MODERN-SPECIAL-SERIES-ULTRA-HOTS-SERIES-2006-EXTRACTION-QA.md` |
+| `Vintage Racing Series (2011)` | 797035 | 1 | 30 | 60 | 90 | `research/extractions/MODERN-SPECIAL-SERIES-VINTAGE-RACING-SERIES-2011.csv` | `research/extractions/MODERN-SPECIAL-SERIES-VINTAGE-RACING-SERIES-2011-EXTRACTION-QA.md` |
+| `Virtual Garage` | 814946 | 34 | 702 | 122 | 952 | `research/extractions/MODERN-SPECIAL-SERIES-VIRTUAL-GARAGE.csv` | `research/extractions/MODERN-SPECIAL-SERIES-VIRTUAL-GARAGE-EXTRACTION-QA.md` |
+| `X-cceleron` | 814789 | 1 | 2 | 2 | 12 | `research/extractions/MODERN-SPECIAL-SERIES-X-CCELERON.csv` | `research/extractions/MODERN-SPECIAL-SERIES-X-CCELERON-EXTRACTION-QA.md` |
 
 Source blob SHAs, manifest SHA-256 values, and byte sizes are retained in each CSV and QA report.
