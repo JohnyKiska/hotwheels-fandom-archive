@@ -391,3 +391,41 @@ Twenty Mainline CSV exports for 1985–2004 were fetched from `main`, parsed wit
 All twenty files passed the structural checks: no row-width errors, physical blank/whitespace-only rows, exact duplicate full rows, malformed quotes, BOM, U+FFFD, empty headers, duplicate headers, or trailing delimiters. The differing column counts reflect the preserved source/export schemas, including the compact five-column annual tables in 1989 and later years, rather than structural defects. QA reconciliation was checked against each report's complete source-row scope: for example, 1997 retains the numbered list, Bonus Cars and other series (151 rows total); 1999 retains the annual list, Final Run and Bonus Cars (212 total); and 2004 retains all 16 product tables (268 total). CSV source values were not normalized, deduplicated, or modified.
 
 Total data rows inspected in this batch: **2,477**. Manifest update commit: `c02a4d842ad6825a166983b8a9e3201bae692d5e`. The manifest records the branch HEAD before this audit update: `cc8df64c2668158a147c173d73cb3ddb568b0ef0`.
+
+## CSV structural audit batch 10 (2026-11-09)
+
+The batch size was increased to 25 CSV exports. Seven Mainline exports (2005–2010, including the distinct 2010 International and USA lists) and eighteen Miscellaneous Multipacks exports (1985–2001 5-Packs plus the 2-Pack collection) were fetched from `main`. Every file was parsed with CSV-aware quoting rules and checked against its own header. Checks covered row-width consistency, physical blank/whitespace-only lines, exact duplicate full rows, malformed quoting, BOM, U+FFFD, empty/duplicate headers, and trailing delimiters. The exact QA report paths from the manifest were fetched for all entries that declare a standalone report.
+
+| CSV | Data rows | Columns | Width errors | Blank rows | Exact duplicate extra rows |
+|---|---:|---:|---:|---:|---:|
+| MAINLINE-2005.csv | 288 | 11 | 0 | 0 | 0 |
+| MAINLINE-2006.csv | 363 | 11 | 0 | 0 | 0 |
+| MAINLINE-2007.csv | 315 | 10 | 0 | 0 | 0 |
+| MAINLINE-2008.csv | 358 | 10 | 0 | 0 | 0 |
+| MAINLINE-2009.csv | 354 | 10 | 0 | 0 | 0 |
+| MAINLINE-2010-INTERNATIONAL.csv | 228 | 10 | 0 | 0 | 0 |
+| MAINLINE-2010-USA.csv | 440 | 10 | 0 | 0 | 0 |
+| MISCELLANEOUS-1985-5-PACKS-PRODUCT-TABLES.csv | 1 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-1986-5-PACKS-PRODUCT-TABLES.csv | 4 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-1987-5-PACKS-PRODUCT-TABLES.csv | 4 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-1988-5-PACKS-PRODUCT-TABLES.csv | 7 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-1989-5-PACKS-PRODUCT-TABLES.csv | 7 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-1990-5-PACKS-PRODUCT-TABLES.csv | 6 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-1991-5-PACKS-PRODUCT-TABLES.csv | 6 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-1992-5-PACKS-PRODUCT-TABLES.csv | 8 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-1993-5-PACKS-PRODUCT-TABLES.csv | 6 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-1994-5-PACKS-PRODUCT-TABLES.csv | 8 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-1995-5-PACKS-PRODUCT-TABLES.csv | 6 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-1996-5-PACKS-PRODUCT-TABLES.csv | 11 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-1997-5-PACKS-PRODUCT-TABLES.csv | 12 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-1998-5-PACKS-PRODUCT-TABLES.csv | 12 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-1999-5-PACKS-PRODUCT-TABLES.csv | 12 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-2-PACK-PRODUCT-TABLES.csv | 54 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-2000-5-PACKS-PRODUCT-TABLES.csv | 13 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-2001-5-PACKS-PRODUCT-TABLES.csv | 12 | 21 | 0 | 0 | 0 |
+
+All 25 CSVs passed structural validation: zero row-width errors, blank rows, exact duplicate full rows, malformed quotes, BOMs, U+FFFD characters, empty headers, duplicate headers, or trailing delimiters. The differing column counts are source-schema differences, not structural defects. Mainline 2005 intentionally retains zero-width Unicode in source Series # values as documented in its QA report; this is distinct from the replacement character U+FFFD and was not normalized. Repeated Toy # values and repeated identifier positions in the 2005/2006/2009 source inventories are also not exact duplicate CSV records and were retained.
+
+QA reconciliation: 24 files with standalone QA reports match their declared source/product-row totals exactly. `MAINLINE-2010-USA.csv` has no standalone QA report path in the manifest (`no_standalone_qa_found`); its 440 data rows and structural checks were recorded, but the row count is explicitly not marked as QA-reconciled. The separate 2010 International list has its own QA report and reconciles at 228 rows. No CSV source values were normalized, deduplicated, or modified.
+
+Total data rows inspected in this batch: **2,535**. Manifest update commit: `6cbf51bb9ac2469d22366ef3e396deda0aae0027`. The manifest records the branch HEAD before this audit update: `9036b5defc2df1b83d67105f5b27285a441d15f5`.
