@@ -352,3 +352,9 @@ Next: continue with the remaining Early Collections pages in inventory order, re
 - All 22 Toy # cells are populated; 11 distinct Toy # values and 11 distinct model-name labels. Repeated Toy # and model-name groups were preserved as source rows, not deduplicated.
 - No standard Wikia gallery items; loose/carded imagery is embedded in product-table cells. Raw headers/cells, cell HTML, links, and image metadata retained.
 - Export: `research/extractions/EARLY-COLLECTIONS-SPEED-DEMONS.csv`; QA: `research/extractions/EARLY-COLLECTIONS-SPEED-DEMONS-EXTRACTION-QA.md`.
+
+
+### Early Collections update: Speed Fleet
+- Processing status: 22 of 33 pages extracted and QA-reviewed.
+- Speed Fleet: 76 product rows from two card-specific tables; 152 embedded image references; no standard gallery items. Source rows and repeated identifiers preserved.
+- Outputs: `research/extractions/EARLY-COLLECTIONS-SPEED-FLEET.csv` and `research/extractions/EARLY-COLLECTIONS-SPEED-FLEET-EXTRACTION-QA.md`; detailed progress: `research/EARLY-COLLECTIONS-PROCESSING-INDEX.md`.
