@@ -7,8 +7,8 @@ Scope: archived source HTML under Exclusives/ and Miscellaneous/ in the main bra
 - Exclusives source pages: 4
 - Miscellaneous source pages (including Multipacks): 49
 - Total source pages: 53
-- Extracted + QA: 5
-- Remaining: 48
+- Extracted + QA: 10
+- Remaining: 43
 
 ## File inventory and processing status
 
@@ -19,11 +19,11 @@ Scope: archived source HTML under Exclusives/ and Miscellaneous/ in the main bra
 | `Exclusives/Red Line Club _ Hot Wheels Wiki _ Fandom.html` | 326747 | `EFB7293D082CC9298581C01074DF2D4730AAF76C927F59067F6947FE8375B406` | Extracted + QA |
 | `Exclusives/Virtual Garage _ Hot Wheels Wiki _ Fandom.html` | 605119 | `CD666F502085B49BC2363635687A8AA5DB99591466A9F370ADBCA89125D7CA36` | Extracted + QA |
 | `Miscellaneous/Hot Wheels by Collector Number _ Hot Wheels Wiki _ Fandom.html` | 1350681 | `CBD655AA7E40402B04DD1C8F7376A54C5B1993B6184D5C127F3BCDE167F7FAFD` | Extracted + QA |
-| `Miscellaneous/Multipacks/2011 Multi-Pack Exclusives _ Hot Wheels Wiki _ Fandom.html` | 340020 | `41D5C795BF65736C881C08F9C6CDDEAE924BA5EA926C97D475288B883E12A16D` | Not yet extracted |
-| `Miscellaneous/Multipacks/2023 Multi-Pack Exclusives _ Hot Wheels Wiki _ Fandom.html` | 395725 | `BBC32E8EB6B30080D8CD01D8663438BBB4AC8FABACEF1013CA9BF54281BAE0A7` | Not yet extracted |
-| `Miscellaneous/Multipacks/2-Pack _ Hot Wheels Wiki _ Fandom.html` | 598694 | `987E868E6AC55158EBC9923FABDCD82BB76EF544CE4CCB34F0BFCD1A4A23E7E6` | Not yet extracted |
-| `Miscellaneous/Multipacks/3-Pack _ Hot Wheels Wiki _ Fandom.html` | 348722 | `A5DDABAB750EE300BF950D2C14799D0B418951539129961E7F0853F1248A9124` | Not yet extracted |
-| `Miscellaneous/Multipacks/4-Pack _ Hot Wheels Wiki _ Fandom.html` | 361280 | `AD1270B662802F401290A4674C5E1C36D5C07DCB69B371BEBC273E8844E9F9BC` | Not yet extracted |
+| `Miscellaneous/Multipacks/2011 Multi-Pack Exclusives _ Hot Wheels Wiki _ Fandom.html` | 340020 | `41D5C795BF65736C881C08F9C6CDDEAE924BA5EA926C97D475288B883E12A16D` | Extracted + QA |
+| `Miscellaneous/Multipacks/2023 Multi-Pack Exclusives _ Hot Wheels Wiki _ Fandom.html` | 395725 | `BBC32E8EB6B30080D8CD01D8663438BBB4AC8FABACEF1013CA9BF54281BAE0A7` | Extracted + QA |
+| `Miscellaneous/Multipacks/2-Pack _ Hot Wheels Wiki _ Fandom.html` | 598694 | `987E868E6AC55158EBC9923FABDCD82BB76EF544CE4CCB34F0BFCD1A4A23E7E6` | Extracted + QA |
+| `Miscellaneous/Multipacks/3-Pack _ Hot Wheels Wiki _ Fandom.html` | 348722 | `A5DDABAB750EE300BF950D2C14799D0B418951539129961E7F0853F1248A9124` | Extracted + QA |
+| `Miscellaneous/Multipacks/4-Pack _ Hot Wheels Wiki _ Fandom.html` | 361280 | `AD1270B662802F401290A4674C5E1C36D5C07DCB69B371BEBC273E8844E9F9BC` | Extracted + QA |
 | `Miscellaneous/Multipacks/5-Packs/1985 5-Packs _ Hot Wheels Wiki _ Fandom.html` | 308218 | `EC256C4A7BDA991745877F345CA36563A8164AFA345790B3966797AAE8351A68` | Not yet extracted |
 | `Miscellaneous/Multipacks/5-Packs/1986 5-Packs _ Hot Wheels Wiki _ Fandom.html` | 311964 | `70D9E71856277E6627EE7812FA351B8B2B0A507965CDB178DB2F934A01D27A50` | Not yet extracted |
 | `Miscellaneous/Multipacks/5-Packs/1987 5-Packs _ Hot Wheels Wiki _ Fandom.html` | 312313 | `F718E6DEA44D6980606DADFF1109A57F066A2A29F66E3E5B58768EFF66982D37` | Not yet extracted |
@@ -82,4 +82,18 @@ Processed 5 source pages: all 4 Exclusives pages plus the Miscellaneous root pag
 
 Batch totals: 5 pages, 51 product tables, 1805 product rows. Pages without product rows have header-only CSVs and explicit QA reports. Gallery extraction remains deferred.
 
-Next batch: begin Miscellaneous/Multipacks in manifest order, 5 pages at a time.
+## Batch 2: Miscellaneous/Multipacks
+
+Processed 5 pages: 2011 Multi-Pack Exclusives, 2023 Multi-Pack Exclusives, 2-Pack, 3-Pack, and 4-Pack.
+
+| Source page | Revision | Product tables | Product rows | CSV |
+|---|---:|---:|---:|---|
+| `Miscellaneous/Multipacks/2011 Multi-Pack Exclusives _ Hot Wheels Wiki _ Fandom.html` | 651558 | 2 | 22 | `research/extractions/MISCELLANEOUS-2011-MULTI-PACK-EXCLUSIVES-PRODUCT-TABLES.csv` |
+| `Miscellaneous/Multipacks/2023 Multi-Pack Exclusives _ Hot Wheels Wiki _ Fandom.html` | 791909 | 2 | 68 | `research/extractions/MISCELLANEOUS-2023-MULTI-PACK-EXCLUSIVES-PRODUCT-TABLES.csv` |
+| `Miscellaneous/Multipacks/2-Pack _ Hot Wheels Wiki _ Fandom.html` | 815486 | 18 | 54 | `research/extractions/MISCELLANEOUS-2-PACK-PRODUCT-TABLES.csv` |
+| `Miscellaneous/Multipacks/3-Pack _ Hot Wheels Wiki _ Fandom.html` | 552220 | 7 | 13 | `research/extractions/MISCELLANEOUS-3-PACK-PRODUCT-TABLES.csv` |
+| `Miscellaneous/Multipacks/4-Pack _ Hot Wheels Wiki _ Fandom.html` | 741042 | 8 | 27 | `research/extractions/MISCELLANEOUS-4-PACK-PRODUCT-TABLES.csv` |
+
+Batch 2 totals: 5 pages, 37 product tables, 184 product rows. CSVs use the 21-column extraction schema; QA reports record source SHA, revision, exclusions, and validation.
+
+Next batch: continue Miscellaneous/Multipacks in manifest order, 5 pages at a time.
