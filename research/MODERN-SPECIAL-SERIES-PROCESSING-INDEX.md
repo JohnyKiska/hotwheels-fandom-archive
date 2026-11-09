@@ -7,7 +7,7 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 - Source pages: 223
 - Total source size: 92,291,750 bytes (88.02 MiB)
 - Inventory source: repository `MANIFEST.csv` and GitHub directory/tree entries.
-- Extraction status: 114 of 223 source pages have CSV and QA artifacts confirmed; remaining 109 pages are marked Not yet extracted.
+- Extraction status: 121 of 223 source pages have CSV and QA artifacts confirmed; remaining 102 pages are marked Not yet extracted.
 - This index is an inventory baseline, not a claim that each file represents one distinct product series.
 
 ## Source folder breakdown
@@ -148,13 +148,13 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 | `Modern Special Series/Deora II _ Hot Wheels Wiki _ Fandom.html` | `fb1d9200675f564445d1daa944a3548aea720482` | 661888 | `9E45D94F410AB47CCBCC0C73A31271FF9352D69B630EDF7F267DC700F9F39394` | Extracted + QA |
 | `Modern Special Series/Deora III _ Hot Wheels Wiki _ Fandom.html` | `8ceab7c798a0f96e1a1bbe7277ac1248774498fd` | 377963 | `1E431E30C25990B0C43DBDAF1C6E1B69B414E31D72B4C35DF88E0C4788D979CE` | Extracted + QA |
 | `Modern Special Series/Dragstrip Demons _ Hot Wheels Wiki _ Fandom.html` | `6b601e241572f98ed44728e7f5bf3e0021eef027` | 497132 | `5E8CC60B4F4559FBD73A2FF16FAFC2F7537377D43D3751778D9F11E9812393B9` | Extracted + QA |
-| `Modern Special Series/Dream Garage _ Hot Wheels Wiki _ Fandom.html` | `6c538fbd1c96a9e2b57cf138660de72b4b04269e` | 442174 | `3A914BD4307BFD6465ADBBBBA6C23318695352AD6BA6D2A5B9D2447ED9424F83` | Not yet extracted |
-| `Modern Special Series/Duracell _ Hot Wheels Wiki _ Fandom.html` | `d4ca52d27510bceb088c62ec27b5461a580129fb` | 353827 | `D6E0EB7D4E34ABECBBECF1DEE6D20989C6434F83479334D93BE4B73F11A97B70` | Not yet extracted |
-| `Modern Special Series/Eggshelleracer _ Hot Wheels Wiki _ Fandom.html` | `002c2ad1a179a3b4a4f6208d16ef065cc11a4dc3` | 347409 | `B62CA31231DC723828ECBCDCE56D79ACCB52C44B5028C51C3E4DFE8E89D3796A` | Not yet extracted |
-| `Modern Special Series/Fast & Furious Premium Series/2019 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html` | `75a1405a3183a70830640c112de34e671fbd1638` | 374889 | `4C0D634B199B038C4F9F501E59D5F06D291BD9816A79729C6ACD1718AE3ADEDB` | Not yet extracted |
-| `Modern Special Series/Fast & Furious Premium Series/2020 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html` | `9118f65579c4c741ecb83647c5dd955d99cb03d1` | 362086 | `06E14189243B0EB1FDAEBFD66A50A7194522DA9F83E3D2F32F0A940DEE4535D0` | Not yet extracted |
-| `Modern Special Series/Fast & Furious Premium Series/2021 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html` | `9fc816bed1b164bbabf2ef8257cef6e34a8f4b3f` | 356404 | `71497AB5735CF2B752B2C37F997272DD34244F804568F9BF7B972AE8A1B64EEF` | Not yet extracted |
-| `Modern Special Series/Fast & Furious Premium Series/2023 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html` | `5a3e839e670a870448defe6630bfe5feacb641b5` | 387858 | `193D9862E08DEBA801C8E739E7DC911EECD5F7B0759B81CDFDE5E7FA4A983743` | Not yet extracted |
+| `Modern Special Series/Dream Garage _ Hot Wheels Wiki _ Fandom.html` | `6c538fbd1c96a9e2b57cf138660de72b4b04269e` | 442174 | `3A914BD4307BFD6465ADBBBBA6C23318695352AD6BA6D2A5B9D2447ED9424F83` | Extracted + QA |
+| `Modern Special Series/Duracell _ Hot Wheels Wiki _ Fandom.html` | `d4ca52d27510bceb088c62ec27b5461a580129fb` | 353827 | `D6E0EB7D4E34ABECBBECF1DEE6D20989C6434F83479334D93BE4B73F11A97B70` | Extracted + QA |
+| `Modern Special Series/Eggshelleracer _ Hot Wheels Wiki _ Fandom.html` | `002c2ad1a179a3b4a4f6208d16ef065cc11a4dc3` | 347409 | `B62CA31231DC723828ECBCDCE56D79ACCB52C44B5028C51C3E4DFE8E89D3796A` | Extracted + QA |
+| `Modern Special Series/Fast & Furious Premium Series/2019 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html` | `75a1405a3183a70830640c112de34e671fbd1638` | 374889 | `4C0D634B199B038C4F9F501E59D5F06D291BD9816A79729C6ACD1718AE3ADEDB` | Extracted + QA |
+| `Modern Special Series/Fast & Furious Premium Series/2020 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html` | `9118f65579c4c741ecb83647c5dd955d99cb03d1` | 362086 | `06E14189243B0EB1FDAEBFD66A50A7194522DA9F83E3D2F32F0A940DEE4535D0` | Extracted + QA |
+| `Modern Special Series/Fast & Furious Premium Series/2021 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html` | `9fc816bed1b164bbabf2ef8257cef6e34a8f4b3f` | 356404 | `71497AB5735CF2B752B2C37F997272DD34244F804568F9BF7B972AE8A1B64EEF` | Extracted + QA |
+| `Modern Special Series/Fast & Furious Premium Series/2023 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html` | `5a3e839e670a870448defe6630bfe5feacb641b5` | 387858 | `193D9862E08DEBA801C8E739E7DC911EECD5F7B0759B81CDFDE5E7FA4A983743` | Extracted + QA |
 | `Modern Special Series/Fast & Furious Premium Series/2024 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html` | `08f278713133dd43b6679d9618eb1dc01245ecd2` | 354910 | `AB3394378BD3795D17D873FC5CBC33543B51BE7F4F5C0545C85D1E6AA03D770B` | Not yet extracted |
 | `Modern Special Series/Fast & Furious Premium Series/2025 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html` | `6862d9d14244965682573931811141903d734093` | 367067 | `6AF6F898703D3204A30A16D019A4C13B7F11D8880401F844ED23CB8E4A78AD92` | Not yet extracted |
 | `Modern Special Series/Fast & Furious Premium Series/2026 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html` | `445e2b518c580ef9d20f610a035a9871f8352bfa` | 373639 | `735FE10CB656DB9263540D7B069AC3ADADF1C16C2490887ED199166514971406` | Not yet extracted |
