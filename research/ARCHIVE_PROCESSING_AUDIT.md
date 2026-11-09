@@ -343,3 +343,12 @@ Next: continue with the remaining Early Collections pages in inventory order, re
 - All six Toy # values are populated and unique: 7665, 7650, 2639, 9640, 2019, 7661. Six distinct vehicle-name labels; Toy # and Collector # retained as separate fields.
 - Source headers, raw cells, cell HTML, model links, loose/carded image metadata, gallery captions and file links preserved. No product rows merged and no product identities inferred from images.
 - Export: `research/extractions/EARLY-COLLECTIONS-RESCUE-TEAM.csv`; QA: `research/extractions/EARLY-COLLECTIONS-RESCUE-TEAM-EXTRACTION-QA.md`.
+
+
+### Speed Demons extraction checkpoint
+
+- Source: `Early Collections/Speed Demons _ Hot Wheels Wiki _ Fandom.html`; Git blob SHA `bf6c7dca8fae920b5c79db2c787fd3f70460b900`; manifest SHA-256 `6AB1727440FE886C5BAD79754FB86AFF03AE691F9C1E61851544F0C4E5746898`; Fandom revision 726384.
+- Extracted 22 product rows across two tables: 1986 Original Card (6 rows, 9 columns) and 1987–1989 Card (16 rows, 10 columns). The later table has an additional Year column.
+- All 22 Toy # cells are populated; 11 distinct Toy # values and 11 distinct model-name labels. Repeated Toy # and model-name groups were preserved as source rows, not deduplicated.
+- No standard Wikia gallery items; loose/carded imagery is embedded in product-table cells. Raw headers/cells, cell HTML, links, and image metadata retained.
+- Export: `research/extractions/EARLY-COLLECTIONS-SPEED-DEMONS.csv`; QA: `research/extractions/EARLY-COLLECTIONS-SPEED-DEMONS-EXTRACTION-QA.md`.
