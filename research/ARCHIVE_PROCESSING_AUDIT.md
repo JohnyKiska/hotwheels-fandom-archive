@@ -566,3 +566,17 @@ The archived `Early Collections/` inventory contains 33 HTML/HTM pages. 32 of 33
 - 2021 Car Culture Team Transport: 6 tables / 29 rows / 40 images.
 - All seven CSV parts/files and six QA reports were re-fetched and verified non-empty. Unheaded tables were retained; no separate Gallery items were detected.
 - Detailed records and source inventory: `research/MODERN-SPECIAL-SERIES-PROCESSING-INDEX.md`.
+
+
+### Modern Special Series batch: Car Culture 2022–2024
+- Six source pages extracted and QA-reviewed; total progress is now 50 of 223.
+- 46 product tables, 233 product rows, and 398 embedded image references.
+- 2022 Car Culture: 10 tables / 58 rows / 112 images.
+- 2022 Car Culture Team Transport: 6 tables / 29 rows / 40 images.
+- 2023 Car Culture: 8 tables / 40 rows / 76 images.
+- 2023 Car Culture Team Transport: 7 tables / 31 rows / 43 images.
+- 2024 Car Culture: 9 tables / 45 rows / 86 images.
+- 2024 Car Culture Team Transport: 6 tables / 30 rows / 41 images.
+- Car Culture 2022, 2023 and 2024 main CSVs each split into two ordered parts. All nine CSV files/parts and six QA reports were re-fetched and verified non-empty.
+- No separate Gallery items detected; unheaded tables retained.
+- Detailed records and source inventory: `research/MODERN-SPECIAL-SERIES-PROCESSING-INDEX.md`.
