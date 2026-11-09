@@ -225,3 +225,6 @@
 
 
 - 2026-11-09: извлечена третья партия Notable Modern Themed Assortments: Batman Series (2023), Batman Series (2024), Batman Series (2025), Batman Vehicles Then and Now Series (2012), Easter Eggsclusives. Итого 11 таблиц, 132 строк, 210 image tags, 471 ссылок. Созданы 5 CSV и 5 QA; revision IDs зафиксированы. Processing index: `research/NOTABLE-MODERN-THEMED-ASSORTMENTS-PROCESSING-INDEX.md`.
+
+
+- 2026-11-09: извлечена четвёртая партия Notable Modern Themed Assortments: Easter Series (2013), Easter Series (2014), Easter Series (2015), Easter Series (2017), Fast & Furious Series. Итого 13 таблиц, 90 строк, 118 image tags, 306 ссылок. Созданы 5 CSV и 5 QA; processing index обновлён.
