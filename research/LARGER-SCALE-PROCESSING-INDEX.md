@@ -5,8 +5,8 @@ Scope: archived source HTML under `Larger Scale/`, including the nested `Hot Whe
 ## Inventory summary
 
 - Source pages: 37
-- Extracted + QA: 15
-- Remaining: 22
+- Extracted + QA: 25
+- Remaining: 12
 
 ## File inventory and processing status
 
@@ -32,11 +32,11 @@ Scope: archived source HTML under `Larger Scale/`, including the nested `Hot Whe
 | `Larger Scale/Hot Wheels Racing 1_18 Scale _ Hot Wheels Wiki _ Fandom.html` | 523076 | `4213AFE04D51028E9680391016138911176900D613A753219B905472F7C470E1` | Extracted + QA |
 | `Larger Scale/Hot Wheels Racing 1_24 Scale _ Hot Wheels Wiki _ Fandom.html` | 387538 | `4CB794B0FE02620B8E7BB485D49270C79EE330C13C4D16BE874D25F5649B6869` | Extracted + QA |
 | `Larger Scale/Hot Wheels Racing 1_43 Scale _ Hot Wheels Wiki _ Fandom.html` | 433089 | `EFEA3A5C62DE61ECC7B8AA39B8ACF4CFF4A5B7551FFA806587D73EEC62A2C8F9` | Extracted + QA |
-| `Larger Scale/Hot Wheels Racing Series/Hot Wheels Racing Series (2005) _ Hot Wheels Wiki _ Fandom.html` | 311834 | `30F88B5D04AF6B0B695CC65D3BC32E0A576ED1E254E0C39E98F518ADE3F1AC50` | Pending |
-| `Larger Scale/Hot Wheels Racing Series/Hot Wheels Racing Series (2007) _ Hot Wheels Wiki _ Fandom.html` | 310381 | `772380CDE845295DAA52104467EC54444C670EAC2ACE034C7FF248286208A25B` | Pending |
-| `Larger Scale/Hot Wheels Racing Series/Hot Wheels Racing Series (2009) _ Hot Wheels Wiki _ Fandom.html` | 328394 | `B5EC5BEDBFEF8A9B218EAF475983EB86B3B7ABBDE4EEC60D37AEA91E2167E349` | Pending |
-| `Larger Scale/Hot Wheels Racing Series/HW Racing Series (2010) _ Hot Wheels Wiki _ Fandom.html` | 333118 | `8EC4942512FF40C5A9FC879200D27E11F7E9F7D445460DEF28A5B115A9886EDB` | Pending |
-| `Larger Scale/Hot Wheels Racing Series/HW Racing Series (2011) _ Hot Wheels Wiki _ Fandom.html` | 333825 | `6B02D2A0EBF1F8CBDF66FE8CDE1DBC9A99022BABCBBA75FB13DAC9700D238F28` | Pending |
+| `Larger Scale/Hot Wheels Racing Series/Hot Wheels Racing Series (2005) _ Hot Wheels Wiki _ Fandom.html` | 311834 | `30F88B5D04AF6B0B695CC65D3BC32E0A576ED1E254E0C39E98F518ADE3F1AC50` | Extracted + QA |
+| `Larger Scale/Hot Wheels Racing Series/Hot Wheels Racing Series (2007) _ Hot Wheels Wiki _ Fandom.html` | 310381 | `772380CDE845295DAA52104467EC54444C670EAC2ACE034C7FF248286208A25B` | Extracted + QA |
+| `Larger Scale/Hot Wheels Racing Series/Hot Wheels Racing Series (2009) _ Hot Wheels Wiki _ Fandom.html` | 328394 | `B5EC5BEDBFEF8A9B218EAF475983EB86B3B7ABBDE4EEC60D37AEA91E2167E349` | Extracted + QA |
+| `Larger Scale/Hot Wheels Racing Series/HW Racing Series (2010) _ Hot Wheels Wiki _ Fandom.html` | 333118 | `8EC4942512FF40C5A9FC879200D27E11F7E9F7D445460DEF28A5B115A9886EDB` | Extracted + QA |
+| `Larger Scale/Hot Wheels Racing Series/HW Racing Series (2011) _ Hot Wheels Wiki _ Fandom.html` | 333825 | `6B02D2A0EBF1F8CBDF66FE8CDE1DBC9A99022BABCBBA75FB13DAC9700D238F28` | Extracted + QA |
 | `Larger Scale/Hot Wheels Racing Series/HW Racing Series (2012) _ Hot Wheels Wiki _ Fandom.html` | 334961 | `034096C37D0E155C9037D568D76B3C3C422CEEA79CAD35F5BCA02CEF6AFD677E` | Pending |
 | `Larger Scale/Hot Wheels Racing Series/Racing Circuit Series (2017) _ Hot Wheels Wiki _ Fandom.html` | 332441 | `91B991FC7099B3A95DEFCDE2537E3E87F1FBC3B107B517C85A134892BAE3173E` | Pending |
 | `Larger Scale/Hot Wheels Racing Series/Team_ Hot Wheels Racing Series (2008) _ Hot Wheels Wiki _ Fandom.html` | 310677 | `BB68E49B7D5CE934A29840A429E45809E62F51702FF7E6355F99994464680ADD` | Pending |
@@ -112,3 +112,18 @@ Processed 5 source pages. Product-table extraction totals: **49 product tables a
 | Hot Wheels Racing 1:43 Scale | 16 | 57 |
 
 Batch totals: **5 pages, 49 product tables, 233 product rows**. Gallery extraction remains deferred.
+
+
+## Batch 5: Hot Wheels Racing Series (2005–2011)
+
+Processed 5 source pages. Product-table extraction totals: **5 product tables and 70 product rows**. Each page has a 21-column CSV and QA report. All five CSVs were re-fetched and validated: 21 columns and zero malformed-width rows.
+
+| Page | Product tables | Product rows |
+|---|---:|---:|
+| Hot Wheels Racing Series (2005) | 1 | 6 |
+| Hot Wheels Racing Series (2007) | 1 | 4 |
+| Hot Wheels Racing Series (2009) | 1 | 16 |
+| HW Racing Series (2010) | 1 | 22 |
+| HW Racing Series (2011) | 1 | 22 |
+
+Batch totals: **5 pages, 5 product tables, 70 product rows**. Gallery extraction remains deferred.
