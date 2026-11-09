@@ -2,7 +2,7 @@
 
 Scope: archived Fandom pages in `Early Collections/` on `main`. This folder name is retained as source provenance only and is not treated as a verified product-hierarchy node.
 
-Inventory: 33 HTML/HTM files, 12834928 bytes total. 32 of 33 pages extracted and QA-reviewed.
+Inventory: 33 HTML/HTM files, 12834928 bytes total. 33 of 33 pages extracted and QA-reviewed.
 
 | Source file | Git blob SHA | Size (bytes) | Processing status |
 |---|---|---:|---|
@@ -38,7 +38,7 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total. 32 of 33 pages extracted and
 | `The Hot Ones (1981) _ Hot Wheels Wiki _ Fandom.html` | `4daab13e074187fcc2dece60a0ab5add4968a53e` | 559506 | Extracted + QA |
 | `Trailbusters _ Hot Wheels Wiki _ Fandom.html` | `f35ce4e7cbf57e651d6fa0badfa56f4ae9872811` | 395265 | Extracted + QA |
 | `Ultra Hots Series (1984) _ Hot Wheels Wiki _ Fandom.html` | `63c0056a0bdfeb092efbc49ae1fa5fc1c9e42b73` | 366058 | Extracted + QA |
-| `Workhorses _ Hot Wheels Wiki _ Fandom.html` | `e0e72cc553f2b6eedf235cf863801f0346f76a27` | 485493 | Not yet extracted |
+| `Workhorses _ Hot Wheels Wiki _ Fandom.html` | `e0e72cc553f2b6eedf235cf863801f0346f76a27` | 485493 | Extracted + QA |
 
 ## Completed extractions
 
@@ -336,3 +336,15 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total. 32 of 33 pages extracted and
 - Six product tables across 1984, 1985, 1986, Stamper 3-Pack, 4-Pack and Gift Pack; 26 product rows. 44 embedded image references; no separate standard Gallery items detected.
 - Annual tables preserve Toy # and Country fields; pack tables retain their distinct schemas, including Gift Pack's source header `Photo Set`.
 - Export: `research/extractions/EARLY-COLLECTIONS-ULTRA-HOTS-SERIES-1984.csv`; QA: `research/extractions/EARLY-COLLECTIONS-ULTRA-HOTS-SERIES-1984-EXTRACTION-QA.md`.
+
+
+### Workhorses
+- Source: `Early Collections/Workhorses _ Hot Wheels Wiki _ Fandom.html`
+- Git blob SHA: `e0e72cc553f2b6eedf235cf863801f0346f76a27`
+- Manifest SHA-256: `609E788E2E149D9F8A12556C78B38190BEB9E41F78A5AA55ACFE611ACCA5A67A`
+- Source size: 485493 bytes; Fandom revision 767851.
+- Two product tables: Original Card (37 rows) and 87-89 Card (49 rows), 86 product rows total.
+- 86 populated Toy # cells, 40 distinct values; 27 repeated Toy # groups preserved as separate source rows.
+- 34 distinct model-name labels; 172 embedded image references retained at cell level. No separate standard Gallery items detected.
+- Table schemas, raw source cells, model links and image metadata retained.
+- Output: `research/extractions/EARLY-COLLECTIONS-WORKHORSES.csv`; QA: `research/extractions/EARLY-COLLECTIONS-WORKHORSES-EXTRACTION-QA.md`.
