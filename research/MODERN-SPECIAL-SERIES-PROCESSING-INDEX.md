@@ -7,7 +7,7 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 - Source pages: 223
 - Total source size: 92,291,750 bytes (88.02 MiB)
 - Inventory source: repository `MANIFEST.csv` and GitHub directory/tree entries.
-- Extraction status: 38 of 223 source pages extracted and QA-reviewed; remaining pages are marked `Not yet extracted`.
+- Extraction status: 88 of 223 source pages extracted and QA-reviewed; remaining pages are marked `Not yet extracted`.
 - This index is an inventory baseline, not a claim that each file represents one distinct product series.
 
 ## Source folder breakdown
@@ -122,11 +122,11 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 | `Modern Special Series/Character Cars/Trolls Band Together Character Cars _ Hot Wheels Wiki _ Fandom.html` | `7a192ecfb62ba4211e5433e9a43728aa61b6a59a` | 348937 | `0C2B58E9CB12AF5FD7717CE82CDC245038DC56A8F9B8BF989FEE8FCE037260E4` | Not yet extracted |
 | `Modern Special Series/Character Cars/Universal Character Cars _ Hot Wheels Wiki _ Fandom.html` | `494f973b6e33923f5abc75cdb61dc0263346aacd` | 352238 | `8AD534117C50ACAA5A8E37A692932C030A72D0658A0CFABB2F05BCBB33A9282D` | Not yet extracted |
 | `Modern Special Series/Character Cars/Warner Bros. Character Cars _ Hot Wheels Wiki _ Fandom.html` | `c9ec6d2a47d1b6882263e1046ff651325adcb685` | 369961 | `0B40BCBCDECDBC8FA1823A7EA11D3B24BA34D1032A8A1479A09B10F1A039F2C3` | Not yet extracted |
-| `Modern Special Series/Color Reveal _ Hot Wheels Wiki _ Fandom.html` | `b3a7ec89b6923d3a7649fa2a9d8f9447d6d8b4b6` | 630782 | `7D8FE5280A2646745E1A326E277CE035F1F74FAF93919C92E084D1423581251F` | Not yet extracted |
-| `Modern Special Series/Color Shifters/2008 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `b575a231218961c30b14c1a834e13a63f4f53f8d` | 380174 | `FE04F5652B3988B920D3DB9022CCE911C3497899C7EC34E0BEEBA2FF41F28DAC` | Not yet extracted |
-| `Modern Special Series/Color Shifters/2009 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `871aaf68ad5d08f17d0938f4fbd59e6c5f869a95` | 376832 | `9126070C189CF49A44C925C2785FF0C7A648BDE6957B2477764E481DE34B2A5F` | Not yet extracted |
-| `Modern Special Series/Color Shifters/2010 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `2615cc724eb41cb38a763316ee97a5454facb377` | 413338 | `C265C25633D964BE14FCB0369B59F0929078BE66CA4CE44DCE31C5400C33A241` | Not yet extracted |
-| `Modern Special Series/Color Shifters/2011 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `91f2e4f99e8b0fdcf6406a8b8a80702fb3863c07` | 383081 | `ADCD6D695431EC2DECA34F2C1DA564A191FFEE9B698D49C0C44A15BD9E4F0121` | Not yet extracted |
+| `Modern Special Series/Color Reveal _ Hot Wheels Wiki _ Fandom.html` | `b3a7ec89b6923d3a7649fa2a9d8f9447d6d8b4b6` | 630782 | `7D8FE5280A2646745E1A326E277CE035F1F74FAF93919C92E084D1423581251F` | Extracted + QA |
+| `Modern Special Series/Color Shifters/2008 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `b575a231218961c30b14c1a834e13a63f4f53f8d` | 380174 | `FE04F5652B3988B920D3DB9022CCE911C3497899C7EC34E0BEEBA2FF41F28DAC` | Extracted + QA |
+| `Modern Special Series/Color Shifters/2009 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `871aaf68ad5d08f17d0938f4fbd59e6c5f869a95` | 376832 | `9126070C189CF49A44C925C2785FF0C7A648BDE6957B2477764E481DE34B2A5F` | Extracted + QA |
+| `Modern Special Series/Color Shifters/2010 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `2615cc724eb41cb38a763316ee97a5454facb377` | 413338 | `C265C25633D964BE14FCB0369B59F0929078BE66CA4CE44DCE31C5400C33A241` | Extracted + QA |
+| `Modern Special Series/Color Shifters/2011 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `91f2e4f99e8b0fdcf6406a8b8a80702fb3863c07` | 383081 | `ADCD6D695431EC2DECA34F2C1DA564A191FFEE9B698D49C0C44A15BD9E4F0121` | Extracted + QA |
 | `Modern Special Series/Color Shifters/2012 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `95826a9a58ddb91d03ee1f6bd184b073552b32b6` | 329617 | `AF2F14971EBFD5546D0CDA0D33BBC7C4871A1E3DE77A92C8DAF09F49E835639A` | Not yet extracted |
 | `Modern Special Series/Color Shifters/2014 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `fd50836048c8bec875c51e275f03a9db26e82587` | 398483 | `4C0B0EBA1B23CD8AB24DB340F6D2228D8F74B69F830A282A5532CDA4A3DEB310` | Not yet extracted |
 | `Modern Special Series/Color Shifters/2015 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `9972a6776c46c7d34a39fc0e671916132745f414` | 377506 | `504543F6B58A6AE02116C37CA82963693C62F223ADD02BD8EFA718E74FCFB4E9` | Not yet extracted |
@@ -788,4 +788,10 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 - Source: `Modern Special Series/Character Cars/Warner Bros. Character Cars _ Hot Wheels Wiki _ Fandom.html`; blob SHA `c9ec6d2a47d1b6882263e1046ff651325adcb685`; manifest SHA-256 `0B40BCBCDECDBC8FA1823A7EA11D3B24BA34D1032A8A1479A09B10F1A039F2C3`; size 369961 bytes; Fandom revision 605652.
 - 3 product tables, 12 product rows, 24 embedded table image references, 48 links in product cells.
 - CSV: `research/extractions/MODERN-SPECIAL-SERIES-WARNER-BROS-CHARACTER-CARS.csv`; QA report: `research/extractions/MODERN-SPECIAL-SERIES-WARNER-BROS-CHARACTER-CARS-EXTRACTION-QA.md`.
+
+
+
+## Extraction batch: Color Reveal and Color Shifters (2008–2011), 2026-11-09
+
+Five source pages extracted and QA-reviewed. Batch total: 14 retained product tables, 280 product rows, 700 embedded table image references, and 1,175 links. Color Reveal CSV is split into two ordered parts due to file size; the other four pages each have one CSV. All five pages have individual QA reports. Source order, table/row indices, headers, raw row HTML, cell HTML/text, links, and embedded image metadata are retained. Separate Gallery items have not been independently extracted in this pass and remain a follow-up task.
 
