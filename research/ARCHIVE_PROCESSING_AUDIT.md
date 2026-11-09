@@ -209,3 +209,15 @@ Next: continue with the remaining Early Collections pages in inventory order, re
 - No Year column exists. Final Vetty Funny carded-image source entry `Image Not Available.jpg` preserved as source data.
 - Export: `research/extractions/EARLY-COLLECTIONS-DRAG-STRIPPERS.csv`
 - QA: `research/extractions/EARLY-COLLECTIONS-DRAG-STRIPPERS-EXTRACTION-QA.md`
+
+
+### Evil Weevil extraction checkpoint
+
+- Source: `Early Collections/Evil Weevil _ Hot Wheels Wiki _ Fandom.html`
+- Git blob SHA: `1f58c9c929ca5529421d7e689e5fadcf1ce487ec`
+- Manifest SHA-256: `A2EDF78C5FD36806E25888CC4B2FF5E4C509AF8D4C51F5F5E6051BC7A4F54C91`
+- Fandom revision 772324; 2 product tables: Original Versions (8 rows, 12 columns) and Retooled Versions (5 rows, 12 columns); 24 separate gallery entries.
+- 13 product rows total; six distinct Toy # values. Toy # 6471 occurs in eight original-version rows and is retained as eight distinct source records.
+- Original Versions `Stickers` and Retooled Versions `Tampo` are preserved as separate fields. Years are 1971, 2004, 2005, 2006, 2008 and 2009.
+- Export: `research/extractions/EARLY-COLLECTIONS-EVIL-WEEVIL.csv`
+- QA: `research/extractions/EARLY-COLLECTIONS-EVIL-WEEVIL-EXTRACTION-QA.md`
