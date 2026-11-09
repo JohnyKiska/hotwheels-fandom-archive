@@ -2,7 +2,7 @@
 
 Scope: archived Fandom pages in `Early Collections/` on `main`. This folder name is retained as source provenance only and is not treated as a verified product-hierarchy node.
 
-Inventory: 33 HTML/HTM files, 12834928 bytes total. 22 of 33 pages extracted and QA-reviewed.
+Inventory: 33 HTML/HTM files, 12834928 bytes total. 23 of 33 pages extracted and QA-reviewed.
 
 | Source file | Git blob SHA | Size (bytes) | Processing status |
 |---|---|---:|---|
@@ -27,7 +27,7 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total. 22 of 33 pages extracted and
 | `Real Riders _ Hot Wheels Wiki _ Fandom.html` | `f5da19e889612b3922c10500d86640aa2b17071f` | 324388 | Extracted + QA |
 | `Rescue Team _ Hot Wheels Wiki _ Fandom.html` | `e131d541f95be40ae587be0c90596a18faaf62c9` | 331442 | Extracted + QA |
 | `Speed Demons _ Hot Wheels Wiki _ Fandom.html` | `bf6c7dca8fae920b5c79db2c787fd3f70460b900` | 356322 | Extracted + QA |
-| `Speed Fleet _ Hot Wheels Wiki _ Fandom.html` | `69ab0490c53bcde8ee008ec0c620619a49bf302a` | 445962 | Not yet extracted |
+| `Speed Fleet _ Hot Wheels Wiki _ Fandom.html` | `69ab0490c53bcde8ee008ec0c620619a49bf302a` | 445962 | Extracted + QA |
 | `Speed Machines (1983) _ Hot Wheels Wiki _ Fandom.html` | `e449ee168e898686c0bb46fced0b523081bfea47` | 366238 | Extracted and QA-reviewed |
 | `Speedway Specials _ Hot Wheels Wiki _ Fandom.html` | `de473d47ac484f9feb903c8448b23794d6052eaf` | 352847 | Not yet extracted |
 | `Sugar Caddy _ Hot Wheels Wiki _ Fandom.html` | `550488166f32055add61cba2d38393306c9b8b62` | 360833 | Not yet extracted |
