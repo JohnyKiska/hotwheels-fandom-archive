@@ -7,7 +7,7 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 - Source pages: 223
 - Total source size: 92,291,750 bytes (88.02 MiB)
 - Inventory source: repository `MANIFEST.csv` and GitHub directory/tree entries.
-- Extraction status: 32 of 223 source pages extracted and QA-reviewed; remaining pages are marked `Not yet extracted`.
+- Extraction status: 38 of 223 source pages extracted and QA-reviewed; remaining pages are marked `Not yet extracted`.
 - This index is an inventory baseline, not a claim that each file represents one distinct product series.
 
 ## Source folder breakdown
@@ -66,12 +66,12 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 | `Modern Special Series/Boulevard/2023 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html` | `ff271dd10f1eb750cd35f6c8dd52bb626ca7d05e` | 367967 | `1D5CE544D9F82515B634F65F48266B5702F05953BCE8E9F576A617B5B103343C` | Extracted + QA |
 | `Modern Special Series/Boulevard/2024 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html` | `500f11fcc00b09f60c4de80c25848c913d9ffd01` | 378954 | `F08FC675DDB2B82F0AE3D019648641EBC046D2B8E70EF8A173FA46D68FCE2CDA` | Extracted + QA |
 | `Modern Special Series/Boulevard/2025 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html` | `3c36cc3686cc0483a2f21a7dd275de577ed83b38` | 370973 | `4B6761042F775FC2EC50B02ED0E77A5358F8C9BB16D1ECE4F138F9567304A167` | Extracted + QA |
-| `Modern Special Series/Boulevard/2026 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html` | `840d2602ad8293b959fe335a8ce55e3e3531c9e9` | 382018 | `92721D41B6ED4A069E594D0F576624024D4E8824051AD250A48738C176C7B11C` | Not yet extracted |
-| `Modern Special Series/Camaro Trans-Am _ Hot Wheels Wiki _ Fandom.html` | `63107791327e0c99ee397e3d23c0c3997b577752` | 346339 | `B613D448E8E9AD6E87E41B150BDCD7B43CE6C2EAFDEF9262E26089A101629E71` | Not yet extracted |
-| `Modern Special Series/Car Culture/2016 Car Culture _ Hot Wheels Wiki _ Fandom.html` | `fe7ee9e47aac1718d0ed698a68e6851fc1b67b3c` | 354521 | `479868FBD8BCA90E7FD52A80022EDC329936AAC765AC0E7A2139204CDEC2B6BF` | Not yet extracted |
-| `Modern Special Series/Car Culture/2017 Car Culture _ Hot Wheels Wiki _ Fandom.html` | `85a1ffd6e76ba243c4931d6823c59a790ba794d7` | 380892 | `1F943A9C1C4B32108E948FA309BB551D42344B0130131C15058266076EFBD732` | Not yet extracted |
-| `Modern Special Series/Car Culture/2018 Car Culture _ Hot Wheels Wiki _ Fandom.html` | `79e35d44e82ae13b12646816728e105d22302346` | 380948 | `BFD595EEB2CA9EC5E83CEBDE862229F8E4BF3B2DE9CD7BBD19029FA43D4A850F` | Not yet extracted |
-| `Modern Special Series/Car Culture/2018 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html` | `4107c87414516fbb40dd7ede6d1fdfa6f68f06b7` | 335093 | `0D73ABF15CE65400BBE51304A3F3513E2B880723328763E1D0571A136C0B4F83` | Not yet extracted |
+| `Modern Special Series/Boulevard/2026 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html` | `840d2602ad8293b959fe335a8ce55e3e3531c9e9` | 382018 | `92721D41B6ED4A069E594D0F576624024D4E8824051AD250A48738C176C7B11C` | Extracted + QA |
+| `Modern Special Series/Camaro Trans-Am _ Hot Wheels Wiki _ Fandom.html` | `63107791327e0c99ee397e3d23c0c3997b577752` | 346339 | `B613D448E8E9AD6E87E41B150BDCD7B43CE6C2EAFDEF9262E26089A101629E71` | Extracted + QA |
+| `Modern Special Series/Car Culture/2016 Car Culture _ Hot Wheels Wiki _ Fandom.html` | `fe7ee9e47aac1718d0ed698a68e6851fc1b67b3c` | 354521 | `479868FBD8BCA90E7FD52A80022EDC329936AAC765AC0E7A2139204CDEC2B6BF` | Extracted + QA |
+| `Modern Special Series/Car Culture/2017 Car Culture _ Hot Wheels Wiki _ Fandom.html` | `85a1ffd6e76ba243c4931d6823c59a790ba794d7` | 380892 | `1F943A9C1C4B32108E948FA309BB551D42344B0130131C15058266076EFBD732` | Extracted + QA |
+| `Modern Special Series/Car Culture/2018 Car Culture _ Hot Wheels Wiki _ Fandom.html` | `79e35d44e82ae13b12646816728e105d22302346` | 380948 | `BFD595EEB2CA9EC5E83CEBDE862229F8E4BF3B2DE9CD7BBD19029FA43D4A850F` | Extracted + QA |
+| `Modern Special Series/Car Culture/2018 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html` | `4107c87414516fbb40dd7ede6d1fdfa6f68f06b7` | 335093 | `0D73ABF15CE65400BBE51304A3F3513E2B880723328763E1D0571A136C0B4F83` | Extracted + QA |
 | `Modern Special Series/Car Culture/2019 Car Culture _ Hot Wheels Wiki _ Fandom.html` | `4bcec775fb7e8759392c624284455903e3225f81` | 377142 | `DF3CAA5CFBBB4E15C50EFF971E77EAF2E5DCA9DF755A2315C4414F46661E5E7E` | Not yet extracted |
 | `Modern Special Series/Car Culture/2019 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html` | `36356c38a85d0aa58ab9dac3a9880a3dc67e7ecc` | 351611 | `23CD61B64DEEE712AD2004AEBF29F2B2F32E9DE89DAA0224149CB8F8D0950719` | Not yet extracted |
 | `Modern Special Series/Car Culture/2020 Car Culture _ Hot Wheels Wiki _ Fandom.html` | `e1a1aa81a94b5735a340b3e19cf987c2ad2d8cb6` | 375589 | `B05C2AC0CA93773A7330D46BDBAC3D741F197BF1586BD0934998201EE60B8A7F` | Not yet extracted |
@@ -425,6 +425,41 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 - Source: `Modern Special Series/Boulevard/2025 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html`; blob SHA `3c36cc3686cc0483a2f21a7dd275de577ed83b38`; manifest SHA-256 `4B6761042F775FC2EC50B02ED0E77A5358F8C9BB16D1ECE4F138F9567304A167`; 370,973 bytes.
 - Seven tables, 28 rows, 54 embedded image references. Boxed Set single-row and unheaded tables retained.
 - CSV: `research/extractions/MODERN-SPECIAL-SERIES-2025-HOT-WHEELS-BOULEVARD.csv`; QA: matching `-EXTRACTION-QA.md`.
+
+### 2026 Hot Wheels Boulevard
+- Source: `Modern Special Series/Boulevard/2026 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html`; blob SHA `840d2602ad8293b959fe335a8ce55e3e3531c9e9`; manifest SHA-256 `92721D41B6ED4A069E594D0F576624024D4E8824051AD250A48738C176C7B11C`.
+- 7 tables, 28 rows, 54 embedded image references. No separate Gallery items detected.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-2026-HOT-WHEELS-BOULEVARD.csv`; QA report: matching `-EXTRACTION-QA.md`.
+
+
+### Camaro Trans-Am
+- Source: `Modern Special Series/Camaro Trans-Am _ Hot Wheels Wiki _ Fandom.html`; blob SHA `63107791327e0c99ee397e3d23c0c3997b577752`; manifest SHA-256 `B613D448E8E9AD6E87E41B150BDCD7B43CE6C2EAFDEF9262E26089A101629E71`.
+- 2 tables, 11 rows, 11 embedded image references. No separate Gallery items detected.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-CAMARO-TRANS-AM.csv`; QA report: matching `-EXTRACTION-QA.md`.
+
+
+### 2016 Car Culture
+- Source: `Modern Special Series/Car Culture/2016 Car Culture _ Hot Wheels Wiki _ Fandom.html`; blob SHA `fe7ee9e47aac1718d0ed698a68e6851fc1b67b3c`; manifest SHA-256 `479868FBD8BCA90E7FD52A80022EDC329936AAC765AC0E7A2139204CDEC2B6BF`.
+- 5 tables, 22 rows, 40 embedded image references. No separate Gallery items detected.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-2016-CAR-CULTURE.csv`; QA report: matching `-EXTRACTION-QA.md`.
+
+
+### 2017 Car Culture
+- Source: `Modern Special Series/Car Culture/2017 Car Culture _ Hot Wheels Wiki _ Fandom.html`; blob SHA `85a1ffd6e76ba243c4931d6823c59a790ba794d7`; manifest SHA-256 `1F943A9C1C4B32108E948FA309BB551D42344B0130131C15058266076EFBD732`.
+- 7 tables, 32 rows, 60 embedded image references. No separate Gallery items detected.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-2017-CAR-CULTURE.csv`; QA report: matching `-EXTRACTION-QA.md`.
+
+
+### 2018 Car Culture
+- Source: `Modern Special Series/Car Culture/2018 Car Culture _ Hot Wheels Wiki _ Fandom.html`; blob SHA `79e35d44e82ae13b12646816728e105d22302346`; manifest SHA-256 `BFD595EEB2CA9EC5E83CEBDE862229F8E4BF3B2DE9CD7BBD19029FA43D4A850F`.
+- 7 tables, 32 rows, 60 embedded image references. No separate Gallery items detected.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-2018-CAR-CULTURE.csv`; QA report: matching `-EXTRACTION-QA.md`.
+
+
+### 2018 Car Culture Team Transport
+- Source: `Modern Special Series/Car Culture/2018 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html`; blob SHA `4107c87414516fbb40dd7ede6d1fdfa6f68f06b7`; manifest SHA-256 `0D73ABF15CE65400BBE51304A3F3513E2B880723328763E1D0571A136C0B4F83`.
+- 3 tables, 14 rows, 18 embedded image references. No separate Gallery items detected.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-2018-CAR-CULTURE-TEAM-TRANSPORT.csv`; QA report: matching `-EXTRACTION-QA.md`.
 
 ## Processing rules
 
