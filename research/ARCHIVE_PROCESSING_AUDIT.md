@@ -173,3 +173,15 @@ Next: continue with the remaining Early Collections pages in inventory order, re
 - Export: `research/extractions/EARLY-COLLECTIONS-BOSS-HOSS.csv`
 - QA: `research/extractions/EARLY-COLLECTIONS-BOSS-HOSS-EXTRACTION-QA.md`
 - Processing index: `research/EARLY-COLLECTIONS-PROCESSING-INDEX.md`
+
+
+### Classics extraction checkpoint
+
+- Source: `Early Collections/Classics _ Hot Wheels Wiki _ Fandom.html`
+- Git blob SHA: `81cdb2bcc7ce2505b2ce3b11f2a533475401e8a7`
+- Manifest SHA-256: `5507F2B9D4E6443ABF7F36D2E63F7EA0FD23D5FEC50A3CD899B5324848867084`
+- 1 product table, 25 product rows, 9 source columns; years 1987–1989.
+- 14 distinct model names and 17 distinct Toy # values. Eight Toy # groups repeat across separate rows; all variants retained.
+- Loose and carded photo filenames and alt labels extracted separately. No separate gallery section was detected.
+- Export: `research/extractions/EARLY-COLLECTIONS-CLASSICS.csv`
+- QA: `research/extractions/EARLY-COLLECTIONS-CLASSICS-EXTRACTION-QA.md`
