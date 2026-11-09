@@ -260,3 +260,11 @@ Next: continue with the remaining Early Collections pages in inventory order, re
 - Four product tables (Versions, 100% Versions, Retooled Versions, Code 3), 44 product rows, and 33 separate Gallery references.
 - Table schemas, source order, raw cell values, cell-level image metadata and gallery image references are retained. No repeated Toy # rows were merged.
 - Export: `research/extractions/EARLY-COLLECTIONS-HEAVY-CHEVY.csv`; QA: `research/extractions/EARLY-COLLECTIONS-HEAVY-CHEVY-EXTRACTION-QA.md`.
+
+
+### Heavyweights extraction checkpoint
+
+- Source: `Early Collections/Heavyweights _ Hot Wheels Wiki _ Fandom.html`; Git blob SHA `03da68718f75d6951cb802b9c3aa11e949a0d89f`; manifest SHA-256 `69DC67CEF81E13FD6D5D11BE08F6B1AA07F49DA0EBE768D77C103A72B031F8F9`; Fandom revision 767901.
+- The page has no conventional product table; 13 gallery references were extracted. Six appear under Castings In Series without an explicit year heading; seven appear under 1971.
+- Image metadata, links and source order are retained. No missing product facts or years were inferred.
+- Export: `research/extractions/EARLY-COLLECTIONS-HEAVYWEIGHTS.csv`; QA: `research/extractions/EARLY-COLLECTIONS-HEAVYWEIGHTS-EXTRACTION-QA.md`.
