@@ -248,7 +248,7 @@ Next: continue with the remaining Early Collections pages in inventory order, re
 
 ### Grand Prix extraction checkpoint
 
-- Source: `Early Collections/Grand Prix _ Hot Wheels Wiki _ Fandom.html`; Git blob SHA `d23ef8f6f24209353e1c8e9af4c8861fd5d7c25a`; manifest SHA-256 `undefined`; Fandom revision 787981.
+- Source: `Early Collections/Grand Prix _ Hot Wheels Wiki _ Fandom.html`; Git blob SHA `d23ef8f6f24209353e1c8e9af4c8861fd5d7c25a`; manifest SHA-256 `EEF2D22944167C610616C489E96A80D6261426CDC377E264CCBE99B09061C621`; Fandom revision 787981.
 - The page contains a visual image/caption grid under The Cars rather than a conventional product-data table: 11 vehicle captions and 11 associated image references. One separate Gallery item is retained.
 - Captions and paired image metadata are exported in source order. No Toy #, casting, release or package facts were inferred.
 - Export: `research/extractions/EARLY-COLLECTIONS-GRAND-PRIX.csv`; QA: `research/extractions/EARLY-COLLECTIONS-GRAND-PRIX-EXTRACTION-QA.md`.
