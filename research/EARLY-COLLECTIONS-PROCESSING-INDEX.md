@@ -2,7 +2,7 @@
 
 Scope: archived Fandom pages in `Early Collections/` on `main`. This folder name is retained as source provenance only and is not treated as a verified product-hierarchy node.
 
-Inventory: 33 HTML/HTM files, 12834928 bytes total. 28 of 33 pages extracted and QA-reviewed.
+Inventory: 33 HTML/HTM files, 12834928 bytes total. 29 of 33 pages extracted and QA-reviewed.
 
 | Source file | Git blob SHA | Size (bytes) | Processing status |
 |---|---|---:|---|
@@ -306,6 +306,6 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total. 28 of 33 pages extracted and
 - Fandom revision ID: 767755.
 - One product table, 7 product rows, 9 source columns. All 7 Toy # and all 7 Collector # values are populated and unique.
 - Separate Gallery: 2 image references. Total CSV records: 9.
-- 14 embedded product-table image references are retained; Photo Loose and Photo Carded cells are empty in all rows. Gallery images remain independent from product-table photo fields.
+- 14 embedded product-table image references are retained in Photo Loose and Photo Carded cells (two per product row). Gallery images remain independent from product-table photo fields.
 - Raw source headers, cell values and HTML, row order, links, and image metadata retained.
 - Export: `research/extractions/EARLY-COLLECTIONS-THE-HEAVIES.csv`; QA: `research/extractions/EARLY-COLLECTIONS-THE-HEAVIES-EXTRACTION-QA.md`.
