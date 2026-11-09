@@ -18,7 +18,7 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total.
 | `Heavy Chevy _ Hot Wheels Wiki _ Fandom.html` | `1b710580762e9947170e92376c9410c4c8683d92` | 454373 | Extracted + QA |
 | `Heavyweights _ Hot Wheels Wiki _ Fandom.html` | `03da68718f75d6951cb802b9c3aa11e949a0d89f` | 327948 | Extracted + QA |
 | `HiRakers _ Hot Wheels Wiki _ Fandom.html` | `15ce02f85796913b6b1cd9f27b66348f9416e18e` | 354036 | Extracted + QA |
-| `Hot Wheels 30th Anniversary 4-Car Set _ Hot Wheels Wiki _ Fandom.html` | `b278df831c1539c16f123cf442511afe4892015e` | 326597 | Not yet extracted |
+| `Hot Wheels 30th Anniversary 4-Car Set _ Hot Wheels Wiki _ Fandom.html` | `b278df831c1539c16f123cf442511afe4892015e` | 326597 | Extracted + QA |
 | `King Kuda _ Hot Wheels Wiki _ Fandom.html` | `5a5572d63d083f36a105c7b810728a7d02134c6d` | 480117 | Not yet extracted |
 | `Light My Firebird _ Hot Wheels Wiki _ Fandom.html` | `49971146f54ec92309098b45b9d807ab13d94ff4` | 385941 | Not yet extracted |
 | `Megaforce_Series.htm` | `ddf69edec1c115ae4079644863a6f461814d6f98` | 315056 | Not yet extracted |
@@ -159,3 +159,10 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total.
 - One product table: 16 rows, 10 source columns; 2 separate gallery references.
 - Years in table: 1980, 1981, 1982, 1983, 1984. Repeated Toy # values retained as separate source records; cell image metadata and raw source values preserved.
 - Export: `research/extractions/EARLY-COLLECTIONS-HIRAKERS.csv`; QA: `research/extractions/EARLY-COLLECTIONS-HIRAKERS-EXTRACTION-QA.md`.
+
+
+### Hot Wheels 30th Anniversary 4-Car Set
+- Source blob SHA `b278df831c1539c16f123cf442511afe4892015e`; manifest SHA-256 `1A7A32445EFD2DD2A1C54EF53D7ACFFB4B7549C92C59B41666162B6A464B3623`; Fandom revision 805834.
+- One product table, 4 vehicle rows, 11 source columns. Source Year cell contains 19322 with rowspan=4; preserved as source value, not treated as calendar year. Separate Toy # also 19322 on each row.
+- Models: Nitty Gritty Kitty, Heavy Chevy, King 'Kuda, Light My Firebird. Raw cell HTML, rowspan context, model links and photo metadata retained.
+- Export: `research/extractions/EARLY-COLLECTIONS-30TH-ANNIVERSARY-4-CAR-SET.csv`; QA: `research/extractions/EARLY-COLLECTIONS-30TH-ANNIVERSARY-4-CAR-SET-EXTRACTION-QA.md`.
