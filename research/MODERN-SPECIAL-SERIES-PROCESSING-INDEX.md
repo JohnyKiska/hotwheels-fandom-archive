@@ -78,12 +78,12 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 | `Modern Special Series/Car Culture/2020 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html` | `e850d893953588ecfb6e3572999d30ec412779b2` | 345700 | `3E5F069175C57AA0C5AD22A12AF87D85B88FF3FEB5ADCA6CE93BCDCB5446D872` | Extracted + QA |
 | `Modern Special Series/Car Culture/2021 Car Culture _ Hot Wheels Wiki _ Fandom.html` | `a0faac22afdf9114745102403d37788ab8d20813` | 395551 | `C666768826B97AED86C82CCED63CB085A575C8596DD40DF8912D77E7919F2DA4` | Extracted + QA |
 | `Modern Special Series/Car Culture/2021 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html` | `41fd63bde255812ce5ca2226ec63a572b7987cb2` | 360055 | `827F7E98E526621B21BACE2FE07B6C568BA194FE454BA53B01E6F1DEC78D5A94` | Extracted + QA |
-| `Modern Special Series/Car Culture/2022 Car Culture _ Hot Wheels Wiki _ Fandom.html` | `ecf0f06ec64e9cc0297bfdf131f5df783df821cf` | 420206 | `6D69869C5585F8EC076089584991880CC9FDC2D8AD89AB6ADD5703398A0D28D3` | Not yet extracted |
-| `Modern Special Series/Car Culture/2022 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html` | `2df8459d20bcd1fc2b9f57d03835114755297861` | 359664 | `9DC492AD33B39080A6CAE82A21226D208571C474817FEA635B50A76E07BAB435` | Not yet extracted |
-| `Modern Special Series/Car Culture/2023 Car Culture _ Hot Wheels Wiki _ Fandom.html` | `a315bb3b06ca8961a6521fcdc753718e77a62218` | 388800 | `F1EA1AFFFAADAD95A61D049D13BEFC5F3CFFEC2A75E7284D69A4D7A9B33D7BA5` | Not yet extracted |
-| `Modern Special Series/Car Culture/2023 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html` | `ff3c5f848f88f57a812e751ea3e1ad4e349b27a0` | 364502 | `192FFBB940287BB3525DB652BD0C4AED1AC1A5F6D45CAD86C0D7379DE203F67A` | Not yet extracted |
-| `Modern Special Series/Car Culture/2024 Car Culture _ Hot Wheels Wiki _ Fandom.html` | `ffcb6e13130d611b61c23242bde6e3838b979425` | 396633 | `49292BB0760DB00214C78216D6982DE3AD2101DB1B174719EF4A5C012B2A3C41` | Not yet extracted |
-| `Modern Special Series/Car Culture/2024 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html` | `a5ec5e975586328e943757ffe0a67ef07fb69680` | 361327 | `AC5A5CA7DD9EBED2E21C8C000DE75BAC24A24B068BEAE193073401C942F03F1B` | Not yet extracted |
+| `Modern Special Series/Car Culture/2022 Car Culture _ Hot Wheels Wiki _ Fandom.html` | `ecf0f06ec64e9cc0297bfdf131f5df783df821cf` | 420206 | `6D69869C5585F8EC076089584991880CC9FDC2D8AD89AB6ADD5703398A0D28D3` | Extracted + QA |
+| `Modern Special Series/Car Culture/2022 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html` | `2df8459d20bcd1fc2b9f57d03835114755297861` | 359664 | `9DC492AD33B39080A6CAE82A21226D208571C474817FEA635B50A76E07BAB435` | Extracted + QA |
+| `Modern Special Series/Car Culture/2023 Car Culture _ Hot Wheels Wiki _ Fandom.html` | `a315bb3b06ca8961a6521fcdc753718e77a62218` | 388800 | `F1EA1AFFFAADAD95A61D049D13BEFC5F3CFFEC2A75E7284D69A4D7A9B33D7BA5` | Extracted + QA |
+| `Modern Special Series/Car Culture/2023 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html` | `ff3c5f848f88f57a812e751ea3e1ad4e349b27a0` | 364502 | `192FFBB940287BB3525DB652BD0C4AED1AC1A5F6D45CAD86C0D7379DE203F67A` | Extracted + QA |
+| `Modern Special Series/Car Culture/2024 Car Culture _ Hot Wheels Wiki _ Fandom.html` | `ffcb6e13130d611b61c23242bde6e3838b979425` | 396633 | `49292BB0760DB00214C78216D6982DE3AD2101DB1B174719EF4A5C012B2A3C41` | Extracted + QA |
+| `Modern Special Series/Car Culture/2024 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html` | `a5ec5e975586328e943757ffe0a67ef07fb69680` | 361327 | `AC5A5CA7DD9EBED2E21C8C000DE75BAC24A24B068BEAE193073401C942F03F1B` | Extracted + QA |
 | `Modern Special Series/Car Culture/2025 Car Culture _ Hot Wheels Wiki _ Fandom.html` | `ea4d1a0dbf111f28e1c60a6a6e4d6f183481b6dc` | 410735 | `D075C1D2096DB2F5B8F515A7C0244DB7AD55EFB97FBA93673ED2FF20A952FECB` | Not yet extracted |
 | `Modern Special Series/Car Culture/2025 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html` | `ab7a0ec32ccdd994a25bfb87ebf2b824094abcc4` | 381495 | `0CD3C271E8EEB8F63713D6ABC40E90CF95E6DCE51E7C92FE0364B41B61DD11DC` | Not yet extracted |
 | `Modern Special Series/Car Culture/2026 Car Culture _ Hot Wheels Wiki _ Fandom.html` | `d490701910c61a37f8f07ade6ad69018d8aa48b3` | 421138 | `967670E3C0CC7E292B313115CEB78BF3C60CAD2AF8E5EF278FD4B06B7336DC3A` | Not yet extracted |
@@ -527,3 +527,41 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 - Source: `Modern Special Series/Car Culture/2021 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html`; blob SHA `41fd63bde255812ce5ca2226ec63a572b7987cb2`; manifest SHA-256 `827F7E98E526621B21BACE2FE07B6C568BA194FE454BA53B01E6F1DEC78D5A94`.
 - 6 tables, 29 rows, 40 embedded image references. No separate Gallery items detected.
 - CSV: `research/extractions/MODERN-SPECIAL-SERIES-2021-CAR-CULTURE-TEAM-TRANSPORT.csv`; QA report: matching `-EXTRACTION-QA.md`.
+
+
+## Latest extraction batch: Car Culture 2022–2024
+
+### 2022 Car Culture
+- Source: `Modern Special Series/Car Culture/2022 Car Culture _ Hot Wheels Wiki _ Fandom.html`; blob SHA `ecf0f06ec64e9cc0297bfdf131f5df783df821cf`; manifest SHA-256 `6D69869C5585F8EC076089584991880CC9FDC2D8AD89AB6ADD5703398A0D28D3`.
+- 10 tables, 58 rows, 112 embedded image references; CSV split into two ordered parts. No separate Gallery items detected.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-2022-CAR-CULTURE.csv`; QA report: matching `-EXTRACTION-QA.md`.
+
+
+### 2022 Car Culture Team Transport
+- Source: `Modern Special Series/Car Culture/2022 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html`; blob SHA `2df8459d20bcd1fc2b9f57d03835114755297861`; manifest SHA-256 `9DC492AD33B39080A6CAE82A21226D208571C474817FEA635B50A76E07BAB435`.
+- 6 tables, 29 rows, 40 embedded image references. No separate Gallery items detected.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-2022-CAR-CULTURE-TEAM-TRANSPORT.csv`; QA report: matching `-EXTRACTION-QA.md`.
+
+
+### 2023 Car Culture
+- Source: `Modern Special Series/Car Culture/2023 Car Culture _ Hot Wheels Wiki _ Fandom.html`; blob SHA `a315bb3b06ca8961a6521fcdc753718e77a62218`; manifest SHA-256 `F1EA1AFFFAADAD95A61D049D13BEFC5F3CFFEC2A75E7284D69A4D7A9B33D7BA5`.
+- 8 tables, 40 rows, 76 embedded image references; CSV split into two ordered parts. No separate Gallery items detected.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-2023-CAR-CULTURE.csv`; QA report: matching `-EXTRACTION-QA.md`.
+
+
+### 2023 Car Culture Team Transport
+- Source: `Modern Special Series/Car Culture/2023 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html`; blob SHA `ff3c5f848f88f57a812e751ea3e1ad4e349b27a0`; manifest SHA-256 `192FFBB940287BB3525DB652BD0C4AED1AC1A5F6D45CAD86C0D7379DE203F67A`.
+- 7 tables, 31 rows, 43 embedded image references. No separate Gallery items detected.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-2023-CAR-CULTURE-TEAM-TRANSPORT.csv`; QA report: matching `-EXTRACTION-QA.md`.
+
+
+### 2024 Car Culture
+- Source: `Modern Special Series/Car Culture/2024 Car Culture _ Hot Wheels Wiki _ Fandom.html`; blob SHA `ffcb6e13130d611b61c23242bde6e3838b979425`; manifest SHA-256 `49292BB0760DB00214C78216D6982DE3AD2101DB1B174719EF4A5C012B2A3C41`.
+- 9 tables, 45 rows, 86 embedded image references; CSV split into two ordered parts. No separate Gallery items detected.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-2024-CAR-CULTURE.csv`; QA report: matching `-EXTRACTION-QA.md`.
+
+
+### 2024 Car Culture Team Transport
+- Source: `Modern Special Series/Car Culture/2024 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html`; blob SHA `a5ec5e975586328e943757ffe0a67ef07fb69680`; manifest SHA-256 `AC5A5CA7DD9EBED2E21C8C000DE75BAC24A24B068BEAE193073401C942F03F1B`.
+- 6 tables, 30 rows, 41 embedded image references. No separate Gallery items detected.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-2024-CAR-CULTURE-TEAM-TRANSPORT.csv`; QA report: matching `-EXTRACTION-QA.md`.
