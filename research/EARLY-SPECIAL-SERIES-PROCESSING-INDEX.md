@@ -2,7 +2,7 @@
 
 Scope: source HTML/HTM pages in `Early Special Series/` on `main`. Folder membership is provenance only and does not establish a canonical Hot Wheels product hierarchy.
 
-Inventory: 39 HTML/HTM files. 13 of 39 pages extracted and QA-reviewed.
+Inventory: 39 HTML/HTM files. 14 of 39 pages extracted and QA-reviewed.
 
 ## Source inventory and processing status
 
@@ -21,7 +21,7 @@ Inventory: 39 HTML/HTM files. 13 of 39 pages extracted and QA-reviewed.
 | `Farbs _ Hot Wheels Wiki _ Fandom.html` | `6782c038228300407c7cc1e317343fac91d7a67e` | 336279 | Extracted + QA |
 | `Fireworks _ Hot Wheels Wiki _ Fandom.html` | `08a63beb5eb2c2b18b4e0eab7b97c439d8826ed8` | 337208 | Extracted + QA |
 | `Flip Outs _ Hot Wheels Wiki _ Fandom.html` | `7656894b0087ebab19b711a9a0e991e0be614055` | 343005 | Extracted + QA |
-| `Flippers _ Hot Wheels Wiki _ Fandom.html` | `6b55836c7505ffe72d93bd0305004857668ef827` | 467036 | Not yet extracted |
+| `Flippers _ Hot Wheels Wiki _ Fandom.html` | `6b55836c7505ffe72d93bd0305004857668ef827` | 467036 | Extracted + QA |
 | `Gran Toros _ Hot Wheels Wiki _ Fandom.html` | `9f3a177f5e5f926c919cb8adb45acfc75dca05de` | 375117 | Not yet extracted |
 | `HiWay Hauler _ Hot Wheels Wiki _ Fandom.html` | `50f5de8ba31f82c0f3477ec48ecfc63e5d4994e8` | 328792 | Not yet extracted |
 | `Hot Birds _ Hot Wheels Wiki _ Fandom.html` | `e4a375f569c30b6832d785e203bbf02a314d22c6` | 364004 | Not yet extracted |
@@ -85,7 +85,8 @@ Inventory: 39 HTML/HTM files. 13 of 39 pages extracted and QA-reviewed.
 - Farbs: 1 table, 4 product rows, 4 embedded images, 12 links.
 - Fireworks: 1 table, 4 product rows, 4 embedded images, 16 links.
 - Flip Outs: 4 tables, 9 product rows, 10 embedded images, 25 links.
-- CSV and per-page QA created. Remaining pages in this batch: Flippers, Gran Toros, HiWay Hauler, Hot Birds, Hot Line, Hot Shots, Hot Wheels U.S.A.
+- Flippers: 4 tables, 37 product rows, 142 embedded images, 216 links.
+- CSV and per-page QA created. Remaining pages in this batch: Gran Toros, HiWay Hauler, Hot Birds, Hot Line, Hot Shots, Hot Wheels U.S.A.
 
 ## Completed extraction records
 
