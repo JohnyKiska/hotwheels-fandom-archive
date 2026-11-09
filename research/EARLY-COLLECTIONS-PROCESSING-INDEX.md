@@ -8,7 +8,7 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total.
 |---|---|---:|---|
 | `Action Command _ Hot Wheels Wiki _ Fandom.html` | `aac8bef248329166dd47ca7387d31dd6a89c3b1d` | 369285 | Extracted + QA |
 | `Boss Hoss _ Hot Wheels Wiki _ Fandom.html` | `3a7cb7b9e5e4e65c0a9e6a0d671fc6422014119f` | 419070 | Extracted + QA |
-| `Classics _ Hot Wheels Wiki _ Fandom.html` | `81cdb2bcc7ce2505b2ce3b11f2a533475401e8a7` | 361417 | Not yet extracted |
+| `Classics _ Hot Wheels Wiki _ Fandom.html` | `81cdb2bcc7ce2505b2ce3b11f2a533475401e8a7` | 361417 | Extracted + QA |
 | `Classy Customs _ Hot Wheels Wiki _ Fandom.html` | `e6abb91ef7ee6140ac65220a5aaef8b33a07f72a` | 343179 | Not yet extracted |
 | `Drag Strippers _ Hot Wheels Wiki _ Fandom.html` | `4a562feebe3ee01403ae956cae9ba6757081f205` | 351156 | Not yet extracted |
 | `Evil Weevil _ Hot Wheels Wiki _ Fandom.html` | `1f58c9c929ca5529421d7e689e5fadcf1ce487ec` | 397979 | Not yet extracted |
@@ -68,3 +68,13 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total.
 - Export: `research/extractions/EARLY-COLLECTIONS-BOSS-HOSS.csv`
 - QA: `research/extractions/EARLY-COLLECTIONS-BOSS-HOSS-EXTRACTION-QA.md`
 - Original Toy # 6499 appears on 23 separate rows; all are preserved individually.
+
+
+### Classics
+- Source: `Early Collections/Classics _ Hot Wheels Wiki _ Fandom.html`
+- Git blob SHA: `81cdb2bcc7ce2505b2ce3b11f2a533475401e8a7`
+- Manifest SHA-256: `5507F2B9D4E6443ABF7F36D2E63F7EA0FD23D5FEC50A3CD899B5324848867084`
+- 1 product table, 25 product rows, 9 source columns.
+- Loose and carded photo filenames/alt labels retained in separate columns.
+- Export: `research/extractions/EARLY-COLLECTIONS-CLASSICS.csv`
+- QA: `research/extractions/EARLY-COLLECTIONS-CLASSICS-EXTRACTION-QA.md`
