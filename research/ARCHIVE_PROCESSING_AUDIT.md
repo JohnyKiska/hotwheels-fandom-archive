@@ -666,3 +666,18 @@ Five additional Character Cars source pages were extracted and QA-documented. Th
 Batch total: 44 product tables, 358 product rows, 664 embedded table image references, and 1,377 links retained from product cells. Five QA reports and six CSV files/parts were committed. Star Wars CSV is stored as two ordered parts due to file size. Product rows retain source order, table/row indices, headers, raw row HTML, cell HTML/text, links, and embedded image metadata. Navigation/year-index tables and header-only rows are excluded. Separate Gallery items have not been independently extracted in this pass and remain a follow-up task.
 
 Detailed source metadata and extraction paths: `research/MODERN-SPECIAL-SERIES-PROCESSING-INDEX.md`.
+
+
+## Fandom archive extraction progress update (2026-11-09): Character Cars, Super Mario through Trolls Band Together
+
+Five additional Character Cars source pages were extracted and QA-documented. The total processed-page count is now 81 of 223.
+
+- Super Mario Character Cars: 8 product tables, 49 product rows, 94 embedded table image references.
+- Teenage Mutant Ninja Turtles Character Cars: 6 product tables, 17 product rows, 34 embedded table image references.
+- The Muppets Character Cars: 1 product table, 6 product rows, 12 embedded table image references.
+- Toy Story Character Cars: 3 product tables, 31 product rows, 57 embedded table image references.
+- Trolls Band Together Character Cars: 1 product table, 2 product rows, 4 embedded table image references.
+
+Batch total: 19 product tables, 105 product rows, 201 embedded table image references, and 417 links retained from product cells. Five CSV files and five QA reports were committed. Product rows retain source order, table/row indices, headers, raw row HTML, cell HTML/text, links, and embedded image metadata. Navigation/year-index tables and header-only rows are excluded. Separate Gallery items have not been independently extracted in this pass and remain a follow-up task.
+
+Detailed source metadata and extraction paths: `research/MODERN-SPECIAL-SERIES-PROCESSING-INDEX.md`.
