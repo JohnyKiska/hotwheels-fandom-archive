@@ -5,8 +5,8 @@ Scope: archived source HTML under `Other Modern Series/`, including all nested f
 ## Inventory summary
 
 - Source pages: 83
-- Extracted + QA: 33
-- Remaining: 50
+- Extracted + QA: 43
+- Remaining: 40
 
 ## File inventory and processing status
 
@@ -45,16 +45,16 @@ Scope: archived source HTML under `Other Modern Series/`, including all nested f
 | `Other Modern Series/Hot Wheels Monster Jam/2016 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 442019 | `AB4E3FB3C326E1E7B78575627ABB5444FAF9B64FF76C610F665DCB2F9B162CB4` | Extracted + QA |
 | `Other Modern Series/Hot Wheels Monster Jam/2017 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 441745 | `2156999250415001FB785624CC847CC43D6C5C623B2F5BA79EBB4101B826ED57` | Extracted + QA |
 | `Other Modern Series/Hot Wheels Monster Jam/2018 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 446545 | `0B5CDB5053761CEA84A44850FF5C7512DE031039534E6278FE4C2CAECB900F1C` | Extracted + QA |
-| `Other Modern Series/Hot Wheels Monster Trucks Big Rigs _ Hot Wheels Wiki _ Fandom.html` | 399155 | `FF51993D4C5A2805CB8434F9AC895C1F77EDECFE1EEF061CEC8B4FB33779278F` | Pending |
-| `Other Modern Series/Hot Wheels Monster Trucks Mystery Trucks _ Hot Wheels Wiki _ Fandom.html` | 381956 | `43528BC8D5812702B0AB0335F1A3ECEEB1B075C5F727FBC8932AD6E74311E71F` | Pending |
-| `Other Modern Series/Hot Wheels Monster Trucks Oversized _ Hot Wheels Wiki _ Fandom.html` | 663400 | `54981C5A75A16E15FB35DA99AD1124498D670D80C29F49F0CEB3A6A23A559A43` | Pending |
-| `Other Modern Series/Hot Wheels Monster Trucks/2018 Hot Wheels Monster Trucks _ Hot Wheels Wiki _ Fandom.html` | 369240 | `902E02AA9EAA81FB8504F31005FDD30C7D16D4F0923BFE4D27B1E71876C1E9F0` | Pending |
-| `Other Modern Series/Hot Wheels Monster Trucks/2019 Hot Wheels Monster Trucks _ Hot Wheels Wiki _ Fandom.html` | 509295 | `07EFB8C80E07AE6763BD641B873C6D56FBF8A0C3EDB3CCE2D909CAD56884D65E` | Pending |
-| `Other Modern Series/Hot Wheels Monster Trucks/2020 Hot Wheels Monster Trucks _ Hot Wheels Wiki _ Fandom.html` | 579681 | `32A955ED7C04FA690E8F73CE9F9DB2312D774F09D52960B73D27E45AE29562B4` | Pending |
-| `Other Modern Series/Hot Wheels Monster Trucks/2021 Hot Wheels Monster Trucks _ Hot Wheels Wiki _ Fandom.html` | 598777 | `A5563E0CFF51F1200E3C2F7638477968F283A0977BBA06F36DE36B54445F7AD9` | Pending |
-| `Other Modern Series/Hot Wheels Monster Trucks/2022 Hot Wheels Monster Trucks _ Hot Wheels Wiki _ Fandom.html` | 595537 | `01F05778B38D9B47455084C0DFBAE80AF44D79971232494EAD40B95BAC39E6E6` | Pending |
-| `Other Modern Series/Hot Wheels Monster Trucks/2023 Hot Wheels Monster Trucks _ Hot Wheels Wiki _ Fandom.html` | 585452 | `67B24B9D8EFFF7DD2D71186D55E0D0C1974BD6B65C8E702AC4625CC995023FFA` | Pending |
-| `Other Modern Series/Hot Wheels Monster Trucks/2024 Hot Wheels Monster Trucks _ Hot Wheels Wiki _ Fandom.html` | 600822 | `2D5625FBAB74672E722106D1667DD284A5EFD23E7B09709DB404326AFD37B6E5` | Pending |
+| `Other Modern Series/Hot Wheels Monster Trucks Big Rigs _ Hot Wheels Wiki _ Fandom.html` | 399155 | `FF51993D4C5A2805CB8434F9AC895C1F77EDECFE1EEF061CEC8B4FB33779278F` | Extracted + QA |
+| `Other Modern Series/Hot Wheels Monster Trucks Mystery Trucks _ Hot Wheels Wiki _ Fandom.html` | 381956 | `43528BC8D5812702B0AB0335F1A3ECEEB1B075C5F727FBC8932AD6E74311E71F` | Extracted + QA |
+| `Other Modern Series/Hot Wheels Monster Trucks Oversized _ Hot Wheels Wiki _ Fandom.html` | 663400 | `54981C5A75A16E15FB35DA99AD1124498D670D80C29F49F0CEB3A6A23A559A43` | Extracted + QA |
+| `Other Modern Series/Hot Wheels Monster Trucks/2018 Hot Wheels Monster Trucks _ Hot Wheels Wiki _ Fandom.html` | 369240 | `902E02AA9EAA81FB8504F31005FDD30C7D16D4F0923BFE4D27B1E71876C1E9F0` | Extracted + QA |
+| `Other Modern Series/Hot Wheels Monster Trucks/2019 Hot Wheels Monster Trucks _ Hot Wheels Wiki _ Fandom.html` | 509295 | `07EFB8C80E07AE6763BD641B873C6D56FBF8A0C3EDB3CCE2D909CAD56884D65E` | Extracted + QA |
+| `Other Modern Series/Hot Wheels Monster Trucks/2020 Hot Wheels Monster Trucks _ Hot Wheels Wiki _ Fandom.html` | 579681 | `32A955ED7C04FA690E8F73CE9F9DB2312D774F09D52960B73D27E45AE29562B4` | Extracted + QA |
+| `Other Modern Series/Hot Wheels Monster Trucks/2021 Hot Wheels Monster Trucks _ Hot Wheels Wiki _ Fandom.html` | 598777 | `A5563E0CFF51F1200E3C2F7638477968F283A0977BBA06F36DE36B54445F7AD9` | Extracted + QA |
+| `Other Modern Series/Hot Wheels Monster Trucks/2022 Hot Wheels Monster Trucks _ Hot Wheels Wiki _ Fandom.html` | 595537 | `01F05778B38D9B47455084C0DFBAE80AF44D79971232494EAD40B95BAC39E6E6` | Extracted + QA |
+| `Other Modern Series/Hot Wheels Monster Trucks/2023 Hot Wheels Monster Trucks _ Hot Wheels Wiki _ Fandom.html` | 585452 | `67B24B9D8EFFF7DD2D71186D55E0D0C1974BD6B65C8E702AC4625CC995023FFA` | Extracted + QA |
+| `Other Modern Series/Hot Wheels Monster Trucks/2024 Hot Wheels Monster Trucks _ Hot Wheels Wiki _ Fandom.html` | 600822 | `2D5625FBAB74672E722106D1667DD284A5EFD23E7B09709DB404326AFD37B6E5` | Extracted + QA |
 | `Other Modern Series/Hot Wheels Monster Trucks/2025 Hot Wheels Monster Trucks _ Hot Wheels Wiki _ Fandom.html` | 699139 | `BC483DF0FF29E379CD76631B3702527AB973F1316A3D26C382D3CAEC481ADB15` | Pending |
 | `Other Modern Series/Hot Wheels Monster Trucks/2026 Hot Wheels Monster Trucks _ Hot Wheels Wiki _ Fandom.html` | 730647 | `90B0C7CCEA1FA12BD5B516AAE43800D4492BF76E6D7540B2B1E3B077DC07142B` | Pending |
 | `Other Modern Series/Hot Wheels Monster Trucks/Hot Wheels Monster Trucks _ Hot Wheels Wiki _ Fandom.html` | 410056 | `C1254DF47CE9FA1AC11C2A49CFDC7DF3CCFECD32D5E08DCFEC7F33DA29542486` | Pending |
@@ -173,3 +173,23 @@ Processed 8 nested Hot Wheels Monster Jam source pages. Product-table extraction
 | 2018 | 18 | 125 |
 
 Batch totals: **8 pages, 68 product tables, 1,016 product rows**. Gallery extraction remains deferred.
+
+
+## Batch 5: Hot Wheels Monster Trucks (Big Rigs, Mystery Trucks, Oversized, 2018–2024)
+
+Processed 10 source pages across the Hot Wheels Monster Trucks collection. Product-table extraction totals: **129 product tables and 1,235 product rows**. Each page has a 21-column CSV and a QA report. All ten CSV exports were re-fetched and validated for 21 columns with zero malformed-width rows.
+
+| Page | Product tables | Product rows |
+|---|---:|---:|
+| Big Rigs | 4 | 27 |
+| Mystery Trucks | 9 | 73 |
+| Oversized | 11 | 213 |
+| 2018 | 6 | 34 |
+| 2019 | 16 | 129 |
+| 2020 | 18 | 178 |
+| 2021 | 19 | 207 |
+| 2022 | 22 | 199 |
+| 2023 | 19 | 187 |
+| 2024 | 18 | 195 |
+
+Batch totals: **10 pages, 142 product tables, 1,442 product rows**. Gallery extraction remains deferred.
