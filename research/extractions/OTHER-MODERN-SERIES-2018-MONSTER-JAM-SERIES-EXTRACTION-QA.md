@@ -10,10 +10,10 @@
 - Extraction date: 2026-11-09
 
 ## Extraction results
-- Product tables: 19
-- Product rows: 126
+- Product tables: 18
+- Product rows: 125
 - Export columns: 21
-- Excluded tables: 0 (navigation/collapsible)
+- Excluded tables: 1 (navigation/collapsible)
 
 ## Product tables
 - Tour Favorites [ ]: 19 rows, 3 source columns. Headers: Truck | # | Photo
@@ -34,7 +34,6 @@
 - Five Below / Big Lots Exclusive [ ]: 5 rows, 3 source columns. Headers: Truck | # | Photo
 - Multi-Packs [ ]: 20 rows, 3 source columns. Headers: Set Name | Truck | Photo
 - Playsets [ ]: 8 rows, 3 source columns. Headers: Set Name | Truck | Photo
-- Table 19: 1 rows, 1 source columns. Headers: Hot Wheels Monster Jam
 
 ## QA notes
 - Source table and row order retained.
