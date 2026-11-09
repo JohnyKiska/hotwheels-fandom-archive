@@ -5,8 +5,8 @@ Scope: archived source HTML under `Other Modern Series/`, including all nested f
 ## Inventory summary
 
 - Source pages: 83
-- Extracted + QA: 56
-- Remaining: 27
+- Extracted + QA: 61
+- Remaining: 22
 
 ## File inventory and processing status
 
@@ -69,11 +69,11 @@ Scope: archived source HTML under `Other Modern Series/`, including all nested f
 | `Other Modern Series/Hot Wheels Skate/2025 Hot Wheels Skate _ Hot Wheels Wiki _ Fandom.html` | 398957 | `B6C636D17A98B42DE10DA86C05FB0A823590B76AE75DC1E14FBADA373B1619E7` | Extracted + QA |
 | `Other Modern Series/Hot Wheels Skate/2026 Hot Wheels Skate _ Hot Wheels Wiki _ Fandom.html` | 337820 | `CC564EF6DF111F907A40FEEEE6E0C96AD1AEE856BB14B4F42A32C6A19998BD3D` | Extracted + QA |
 | `Other Modern Series/Lightyear _ Hot Wheels Wiki _ Fandom.html` | 355818 | `F5D3F8864860E8A66746437749E739CE90F7DBAEAEA2DC0362042F0C95938931` | Extracted + QA |
-| `Other Modern Series/Long Haulers _ Hot Wheels Wiki _ Fandom.html` | 418252 | `FC4AB1DC68C42434D44C4B4AF6BBFE03066396E6F141936A142081735D51636E` | Pending |
-| `Other Modern Series/Modifighters _ Hot Wheels Wiki _ Fandom.html` | 344736 | `E39C1D3AB7666EFEB7A3D8651DC142850A86E9372B2602C7F05D9B091E3DA858` | Pending |
-| `Other Modern Series/Monster Trucks (Dollar Tree) _ Hot Wheels Wiki _ Fandom.html` | 406351 | `3B0DF3A3312E9C25EFB73FC577836E3D97ADC743C7DA1AD80C2CC9D36CC18DE4` | Pending |
-| `Other Modern Series/Moto Track Stars _ Hot Wheels Wiki _ Fandom.html` | 375807 | `D8C8529B1C3BB4B3E6324B64A2AD36F21B54EF3863C718D0F9AD2E9799321629` | Pending |
-| `Other Modern Series/Motor Cycles _ Hot Wheels Wiki _ Fandom.html` | 395589 | `C148C1C1B16759A9CC5713F59E6ED147A5BFC9C5AEE712FABF79382E160B66F0` | Pending |
+| `Other Modern Series/Long Haulers _ Hot Wheels Wiki _ Fandom.html` | 418252 | `FC4AB1DC68C42434D44C4B4AF6BBFE03066396E6F141936A142081735D51636E` | Extracted + QA |
+| `Other Modern Series/Modifighters _ Hot Wheels Wiki _ Fandom.html` | 344736 | `E39C1D3AB7666EFEB7A3D8651DC142850A86E9372B2602C7F05D9B091E3DA858` | Extracted + QA |
+| `Other Modern Series/Monster Trucks (Dollar Tree) _ Hot Wheels Wiki _ Fandom.html` | 406351 | `3B0DF3A3312E9C25EFB73FC577836E3D97ADC743C7DA1AD80C2CC9D36CC18DE4` | Extracted + QA |
+| `Other Modern Series/Moto Track Stars _ Hot Wheels Wiki _ Fandom.html` | 375807 | `D8C8529B1C3BB4B3E6324B64A2AD36F21B54EF3863C718D0F9AD2E9799321629` | Extracted + QA |
+| `Other Modern Series/Motor Cycles _ Hot Wheels Wiki _ Fandom.html` | 395589 | `C148C1C1B16759A9CC5713F59E6ED147A5BFC9C5AEE712FABF79382E160B66F0` | Extracted + QA |
 | `Other Modern Series/Pavement Pounders _ Hot Wheels Wiki _ Fandom.html` | 544126 | `28BE124D9CCA97948F4E38EDBD8C20CCF245A683BD9BD12CEDC260AD0D6F046F` | Pending |
 | `Other Modern Series/Racing Rigs _ Hot Wheels Wiki _ Fandom.html` | 449841 | `525CDAFF8ADC0FE39CCE2DC57B5215E4D5B8E516D6376A12406B8E0D841FA673` | Pending |
 | `Other Modern Series/Rapid Transit Series _ Hot Wheels Wiki _ Fandom.html` | 365312 | `0178E0D6FC48AFD5EE30EF1A6EC2DE5DEBD2C2C65340FC84C30B6B6C2A8DD3DB` | Pending |
@@ -208,3 +208,18 @@ Processed 13 source pages. Product-table extraction totals: **143 product tables
 | Lightyear | 1 | 4 | 19 |
 
 Batch totals: **13 pages, 143 product tables, 1,193 product rows**. Gallery extraction remains deferred.
+
+
+## Batch 7: Long Haulers, Modifighters, Monster Trucks (Dollar Tree), Moto Track Stars, and Motor Cycles
+
+Processed 5 source pages. Product-table extraction totals: **15 product tables and 167 product rows**. Each page has a 21-column CSV and QA report. All five CSVs were re-fetched and validated: 21 columns and zero malformed-width rows.
+
+| Page | Product tables | Product rows |
+|---|---:|---:|
+| Long Haulers | 4 | 48 |
+| Modifighters | 2 | 14 |
+| Monster Trucks (Dollar Tree) | 4 | 25 |
+| Moto Track Stars | 2 | 32 |
+| Motor Cycles | 3 | 48 |
+
+Batch totals: **5 pages, 15 product tables, 167 product rows**. Gallery extraction remains deferred.
