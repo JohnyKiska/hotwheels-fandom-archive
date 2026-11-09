@@ -15,156 +15,19 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 | Source folder | Pages | Size (bytes) |
 |---|---:|---:|
 | (root) | 73 | 32,369,419 |
-| 100% Hot Wheels 1_43 Scale _ Hot Wheels Wiki _ Fandom.html | 1 | 328,283 |
-| 100% Hot Wheels 40th Anniversary _ Hot Wheels Wiki _ Fandom.html | 1 | 396,986 |
-| 100% Preferred _ Hot Wheels Wiki _ Fandom.html | 1 | 606,374 |
-| 1997 Pro Racing _ Hot Wheels Wiki _ Fandom.html | 1 | 479,062 |
-| 1998 Pro Racing _ Hot Wheels Wiki _ Fandom.html | 1 | 704,612 |
-| 1999 Cool Collectibles _ Hot Wheels Wiki _ Fandom.html | 1 | 332,528 |
-| 1999 Pro Racing _ Hot Wheels Wiki _ Fandom.html | 1 | 676,850 |
-| 2000 Cool Collectibles _ Hot Wheels Wiki _ Fandom.html | 1 | 410,745 |
-| 2000 Pro Racing _ Hot Wheels Wiki _ Fandom.html | 1 | 647,030 |
-| 2001 100% Hot Wheels _ Hot Wheels Wiki _ Fandom.html | 1 | 358,800 |
-| 2001 Pro Racing _ Hot Wheels Wiki _ Fandom.html | 1 | 421,812 |
-| 2002 100% Hot Wheels _ Hot Wheels Wiki _ Fandom.html | 1 | 348,734 |
-| 2002 Pro Racing _ Hot Wheels Wiki _ Fandom.html | 1 | 416,604 |
-| 2003 100% Hot Wheels _ Hot Wheels Wiki _ Fandom.html | 1 | 345,780 |
-| 2003 Pro Racing _ Hot Wheels Wiki _ Fandom.html | 1 | 459,507 |
-| 2004 Pro Racing _ Hot Wheels Wiki _ Fandom.html | 1 | 391,687 |
-| 2004 Showcase Hot Wheels _ Hot Wheels Wiki _ Fandom.html | 1 | 493,266 |
-| 2005 Pro Racing _ Hot Wheels Wiki _ Fandom.html | 1 | 349,792 |
-| 2005 Showcase Hot Wheels _ Hot Wheels Wiki _ Fandom.html | 1 | 345,421 |
-| 2006 Kalifornia Kustoms _ Hot Wheels Wiki _ Fandom.html | 1 | 346,642 |
-| 2008 Color Shifters _ Hot Wheels Wiki _ Fandom.html | 1 | 380,174 |
-| 2009 Color Shifters _ Hot Wheels Wiki _ Fandom.html | 1 | 376,832 |
-| 2010 Color Shifters _ Hot Wheels Wiki _ Fandom.html | 1 | 413,338 |
-| 2011 Color Shifters _ Hot Wheels Wiki _ Fandom.html | 1 | 383,081 |
-| 2012 Color Shifters _ Hot Wheels Wiki _ Fandom.html | 1 | 329,617 |
-| 2012 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html | 1 | 462,173 |
-| 2013 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html | 1 | 355,161 |
-| 2013 Pop Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 436,063 |
-| 2013 Retro Entertainment _ Hot Wheels Wiki _ Fandom.html | 1 | 391,708 |
-| 2014 Color Shifters _ Hot Wheels Wiki _ Fandom.html | 1 | 398,483 |
-| 2014 Hot Wheels Entertainment _ Hot Wheels Wiki _ Fandom.html | 1 | 382,410 |
-| 2014 Pop Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 428,661 |
-| 2015 Color Shifters _ Hot Wheels Wiki _ Fandom.html | 1 | 377,506 |
-| 2015 Hot Wheels Entertainment _ Hot Wheels Wiki _ Fandom.html | 1 | 362,322 |
-| 2015 Pop Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 393,780 |
-| 2016 Car Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 354,521 |
-| 2016 Color Shifters _ Hot Wheels Wiki _ Fandom.html | 1 | 352,171 |
-| 2016 Hot Wheels Entertainment _ Hot Wheels Wiki _ Fandom.html | 1 | 361,533 |
-| 2016 Pop Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 387,973 |
-| 2017 Car Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 380,892 |
-| 2017 Color Shifters _ Hot Wheels Wiki _ Fandom.html | 1 | 350,539 |
-| 2017 Pop Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 380,856 |
-| 2017 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html | 1 | 369,836 |
-| 2018 Car Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 380,948 |
-| 2018 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html | 1 | 335,093 |
-| 2018 Color Shifters _ Hot Wheels Wiki _ Fandom.html | 1 | 345,871 |
-| 2018 Pop Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 369,491 |
-| 2018 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html | 1 | 353,525 |
-| 2019 Car Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 377,142 |
-| 2019 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html | 1 | 351,611 |
-| 2019 Color Shifters _ Hot Wheels Wiki _ Fandom.html | 1 | 355,555 |
-| 2019 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html | 1 | 374,889 |
-| 2019 Pop Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 357,120 |
-| 2019 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html | 1 | 358,504 |
-| 2020 Car Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 375,589 |
-| 2020 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html | 1 | 345,700 |
-| 2020 Color Shifters _ Hot Wheels Wiki _ Fandom.html | 1 | 357,231 |
-| 2020 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html | 1 | 362,086 |
-| 2020 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html | 1 | 359,748 |
-| 2020 Pop Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 358,339 |
-| 2020 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html | 1 | 357,680 |
-| 2021 Car Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 395,551 |
-| 2021 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html | 1 | 360,055 |
-| 2021 Color Shifters _ Hot Wheels Wiki _ Fandom.html | 1 | 319,581 |
-| 2021 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html | 1 | 356,404 |
-| 2021 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html | 1 | 355,750 |
-| 2021 Pop Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 353,782 |
-| 2021 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html | 1 | 355,855 |
-| 2022 Car Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 420,206 |
-| 2022 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html | 1 | 359,664 |
-| 2022 Color Shifters _ Hot Wheels Wiki _ Fandom.html | 1 | 351,635 |
-| 2022 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html | 1 | 368,296 |
-| 2022 Pop Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 356,080 |
-| 2022 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html | 1 | 415,746 |
-| 2023 Car Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 388,800 |
-| 2023 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html | 1 | 364,502 |
-| 2023 Color Shifters _ Hot Wheels Wiki _ Fandom.html | 1 | 346,310 |
-| 2023 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html | 1 | 387,858 |
-| 2023 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html | 1 | 367,967 |
-| 2023 Pop Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 356,459 |
-| 2023 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html | 1 | 353,528 |
-| 2024 Car Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 396,633 |
-| 2024 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html | 1 | 361,327 |
-| 2024 Color Shifters _ Hot Wheels Wiki _ Fandom.html | 1 | 331,441 |
-| 2024 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html | 1 | 354,910 |
-| 2024 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html | 1 | 378,954 |
-| 2024 Pop Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 382,411 |
-| 2025 Car Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 410,735 |
-| 2025 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html | 1 | 381,495 |
-| 2025 Color Shifters _ Hot Wheels Wiki _ Fandom.html | 1 | 363,239 |
-| 2025 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html | 1 | 367,067 |
-| 2025 Formula One Collection _ Hot Wheels Wiki _ Fandom.html | 1 | 351,079 |
-| 2025 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html | 1 | 370,973 |
-| 2025 Pop Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 376,749 |
-| 2026 Car Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 421,138 |
-| 2026 Car Culture_ Team Transport _ Hot Wheels Wiki _ Fandom.html | 1 | 366,209 |
-| 2026 Color Shifters _ Hot Wheels Wiki _ Fandom.html | 1 | 368,276 |
-| 2026 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html | 1 | 373,639 |
-| 2026 Formula One Collection _ Hot Wheels Wiki _ Fandom.html | 1 | 403,482 |
-| 2026 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html | 1 | 382,018 |
-| 2026 Pop Culture _ Hot Wheels Wiki _ Fandom.html | 1 | 388,929 |
-| AcceleRacers (figure series) _ Hot Wheels Wiki _ Fandom.html | 1 | 363,520 |
-| AcceleRacers Coin Bank _ Hot Wheels Wiki _ Fandom.html | 1 | 326,165 |
-| AcceleRacers Collectible Card Game _ Hot Wheels Wiki _ Fandom.html | 1 | 721,589 |
-| AcceleRacers Series (2005) _ Hot Wheels Wiki _ Fandom.html | 1 | 427,652 |
-| AcceleRacers Series (2006) _ Hot Wheels Wiki _ Fandom.html | 1 | 386,330 |
-| AcceleRacers Series (2025) _ Hot Wheels Wiki _ Fandom.html | 1 | 363,612 |
-| Activision Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 357,229 |
-| Avatar_ The Last Airbender Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 363,723 |
-| Basic Pro Racing Series _ Hot Wheels Wiki _ Fandom.html | 1 | 572,398 |
-| Car Culture 2-Packs _ Hot Wheels Wiki _ Fandom.html | 1 | 614,021 |
-| Car Culture Factory Set _ Hot Wheels Wiki _ Fandom.html | 1 | 347,681 |
-| DC Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 684,688 |
-| DC Teen Titans Go! Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 362,813 |
-| Despicable Me 3 Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 339,100 |
-| Disney Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 681,917 |
-| DreamWorks Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 373,623 |
-| Flying Customs Series (2006) _ Hot Wheels Wiki _ Fandom.html | 1 | 366,928 |
-| Flying Customs Series (2013) _ Hot Wheels Wiki _ Fandom.html | 1 | 372,985 |
-| Flying Customs Series (2020) _ Hot Wheels Wiki _ Fandom.html | 1 | 398,310 |
-| Godzilla Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 350,279 |
-| Good Luck Trolls Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 348,675 |
-| Hot Wheels Collectibles 1_43 Scale _ Hot Wheels Wiki _ Fandom.html | 1 | 361,894 |
-| Hot Wheels Racing Selects _ Hot Wheels Wiki _ Fandom.html | 1 | 419,736 |
-| Jurassic World Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 399,498 |
-| Lightyear Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 369,028 |
-| Looney Tunes Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 359,340 |
-| Marvel Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 775,918 |
-| Masters of the Universe Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 376,818 |
-| Minecraft Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 396,289 |
-| Minions Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 384,672 |
-| Overwatch Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 363,567 |
-| Power Rangers Megaforce _ Hot Wheels Wiki _ Fandom.html | 1 | 345,514 |
-| Rugrats Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 326,127 |
-| Sanrio Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 375,508 |
-| Sonic the Hedgehog Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 356,852 |
-| Space Jam_ A New Legacy Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 357,360 |
-| SpongeBob SquarePants Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 373,240 |
-| Star Wars Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 887,617 |
-| Street Fighter V Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 352,966 |
-| Super Mario Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 444,414 |
-| Team Transporter _ Hot Wheels Wiki _ Fandom.html | 1 | 483,632 |
-| Teenage Mutant Ninja Turtles Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 357,027 |
-| The Hot Ones (2011) _ Hot Wheels Wiki _ Fandom.html | 1 | 652,694 |
-| The Hot Ones (2025) _ Hot Wheels Wiki _ Fandom.html | 1 | 417,259 |
-| The Muppets Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 356,088 |
-| Toy Story Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 423,899 |
-| Trolls Band Together Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 348,937 |
-| Universal Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 352,238 |
-| Warner Bros. Character Cars _ Hot Wheels Wiki _ Fandom.html | 1 | 369,961 |
+| 100% Hot Wheels | 12 | 4,675,453 |
+| AcceleRacers | 6 | 2,588,868 |
+| Boulevard | 9 | 3,401,040 |
+| Car Culture | 22 | 8,489,513 |
+| Character Cars | 32 | 13,314,925 |
+| Color Shifters | 18 | 6,500,880 |
+| Fast & Furious Premium Series | 7 | 2,576,853 |
+| Flying Customs | 3 | 1,138,223 |
+| Formula One Collection | 2 | 754,561 |
+| Pop Culture | 14 | 5,326,693 |
+| Pro Racing | 12 | 6,022,722 |
+| Replica Entertainment | 11 | 4,062,647 |
+| The Hot Ones | 2 | 1,069,953 |
 | **Total** | **223** | **92,291,750** |
 
 ## File inventory and processing status
