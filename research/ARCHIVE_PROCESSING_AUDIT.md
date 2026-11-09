@@ -540,3 +540,16 @@ The archived `Early Collections/` inventory contains 33 HTML/HTM pages. 32 of 33
 - 2025: 7 tables / 28 rows / 54 images.
 - All five CSV files and QA reports were re-fetched and verified non-empty. Single-row product tables and unheaded tables were retained rather than discarded.
 - Detailed source-level records: `research/MODERN-SPECIAL-SERIES-PROCESSING-INDEX.md`.
+
+
+### Modern Special Series batch: Boulevard 2026, Camaro Trans-Am, Car Culture 2016–2018
+- Six source pages extracted and QA-reviewed; total progress is now 38 of 223.
+- 31 product tables, 139 product rows, and 243 embedded image references.
+- 2026 Boulevard: 7 tables / 28 rows / 54 images.
+- Camaro Trans-Am: 2 tables / 11 rows / 11 images.
+- 2016 Car Culture: 5 tables / 22 rows / 40 images.
+- 2017 Car Culture: 7 tables / 32 rows / 60 images.
+- 2018 Car Culture: 7 tables / 32 rows / 60 images.
+- 2018 Car Culture Team Transport: 3 tables / 14 rows / 18 images.
+- All six CSV files and QA reports were re-fetched and verified non-empty. Unheaded tables were retained; no separate Gallery items were detected.
+- Detailed records and source inventory: `research/MODERN-SPECIAL-SERIES-PROCESSING-INDEX.md`.
