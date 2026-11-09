@@ -7,7 +7,7 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 - Source pages: 223
 - Total source size: 92,291,750 bytes (88.02 MiB)
 - Inventory source: repository `MANIFEST.csv` and GitHub directory/tree entries.
-- Extraction status: 141 of 223 source pages have CSV and QA artifacts confirmed; remaining 82 pages are marked Not yet extracted.
+- Extraction status: 148 of 223 source pages have CSV and QA artifacts confirmed; remaining 75 pages are marked Not yet extracted.
 - This index is an inventory baseline, not a claim that each file represents one distinct product series.
 
 ## Source folder breakdown
@@ -176,13 +176,13 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 | `Modern Special Series/Hot Wheels Garage Series (2016) _ Hot Wheels Wiki _ Fandom.html` | `2c8c5377e4ed2f43f0913cd1f0478c403d9e2283` | 329921 | `7A464735322E40DBBF98B8D0860A1C54828374EB6C3670DDBBD070433C85CED8` | Extracted + QA |
 | `Modern Special Series/Hot Wheels Heritage _ Hot Wheels Wiki _ Fandom.html` | `3a39c5816aacf67216d6fb07f552a720c6b5aef0` | 428595 | `A181A8D26F15518CF0664731CA9A4B5DAB9504E1378E7990832EF6B9BBA5EAA1` | Extracted + QA |
 | `Modern Special Series/Hot Wheels id _ Hot Wheels Wiki _ Fandom.html` | `8e22ecd9ada07ae46c826506440481033e729244` | 565324 | `0534EBB93775761E8D6E6FE79288F744D6B5BB5591CDE42B0651CA797F8C25D6` | Extracted + QA |
-| `Modern Special Series/Hot Wheels Racing Series (2012) _ Hot Wheels Wiki _ Fandom.html` | `1c38b08a10f0b2fa5e97b1b5216fb8118bdb7102` | 390159 | `D580D4ACCB7EC98FA0440A207F7E7E109270E81C4523DA4D4A68D8B539E5F54A` | Not yet extracted |
-| `Modern Special Series/HW Designed By Mini Collection (2025) _ Hot Wheels Wiki _ Fandom.html` | `aab02dec426191f3ad25b814b33b3e66a06173e6` | 316665 | `07677AAB9C76BB9B03409EE876291134F21DEDA09C354ED37DA4918AD47EBF4B` | Not yet extracted |
-| `Modern Special Series/KFC _ Hot Wheels Wiki _ Fandom.html` | `5d0a432dd91f3ec7526dfa6f8a02f8800e44be27` | 353304 | `2CAF9081BEC86CAF21976B1BAC1206E30FF5ABE9DB744EC41457AAEAD31A83F2` | Not yet extracted |
-| `Modern Special Series/Kowloon'd Hypervan _ Hot Wheels Wiki _ Fandom.html` | `12f29433d0908733a9f3e1ccae675773b8740bbf` | 351929 | `1DF418B869FF7D8FC291C698256F1E6ADA89C00FE93FEAD7769BB89FB99ABA41` | Not yet extracted |
-| `Modern Special Series/Lamborghini Countach (Sizzlers) _ Hot Wheels Wiki _ Fandom.html` | `f0c737a89959aacbf69dafd0c068dd1aeee61e79` | 340166 | `F21BEF305006B211D89F039F453E9AECDC067D03EE4AB2C7B7EE957FFE7C72F5` | Not yet extracted |
-| `Modern Special Series/Larry's Garage (2009) _ Hot Wheels Wiki _ Fandom.html` | `6cfcfcaff6fb9ff809d8002131bcc8dad7286fc6` | 468017 | `9AD3C6D0F8FAD29F9674E492397A2F4C6728A7E8937CCD33FC17C4AF14061E16` | Not yet extracted |
-| `Modern Special Series/Larry's Garage 21-Car Collection _ Hot Wheels Wiki _ Fandom.html` | `0995e3b2e42198570bd16806d78e3c5757728847` | 348321 | `67CE8E534F7B998FF003680BB6B98E83FE749037B0FD95A7CADD472FD9AF24D6` | Not yet extracted |
+| `Modern Special Series/Hot Wheels Racing Series (2012) _ Hot Wheels Wiki _ Fandom.html` | `1c38b08a10f0b2fa5e97b1b5216fb8118bdb7102` | 390159 | `D580D4ACCB7EC98FA0440A207F7E7E109270E81C4523DA4D4A68D8B539E5F54A` | Extracted + QA |
+| `Modern Special Series/HW Designed By Mini Collection (2025) _ Hot Wheels Wiki _ Fandom.html` | `aab02dec426191f3ad25b814b33b3e66a06173e6` | 316665 | `07677AAB9C76BB9B03409EE876291134F21DEDA09C354ED37DA4918AD47EBF4B` | Extracted + QA |
+| `Modern Special Series/KFC _ Hot Wheels Wiki _ Fandom.html` | `5d0a432dd91f3ec7526dfa6f8a02f8800e44be27` | 353304 | `2CAF9081BEC86CAF21976B1BAC1206E30FF5ABE9DB744EC41457AAEAD31A83F2` | Extracted + QA |
+| `Modern Special Series/Kowloon'd Hypervan _ Hot Wheels Wiki _ Fandom.html` | `12f29433d0908733a9f3e1ccae675773b8740bbf` | 351929 | `1DF418B869FF7D8FC291C698256F1E6ADA89C00FE93FEAD7769BB89FB99ABA41` | Extracted + QA |
+| `Modern Special Series/Lamborghini Countach (Sizzlers) _ Hot Wheels Wiki _ Fandom.html` | `f0c737a89959aacbf69dafd0c068dd1aeee61e79` | 340166 | `F21BEF305006B211D89F039F453E9AECDC067D03EE4AB2C7B7EE957FFE7C72F5` | Extracted + QA |
+| `Modern Special Series/Larry's Garage (2009) _ Hot Wheels Wiki _ Fandom.html` | `6cfcfcaff6fb9ff809d8002131bcc8dad7286fc6` | 468017 | `9AD3C6D0F8FAD29F9674E492397A2F4C6728A7E8937CCD33FC17C4AF14061E16` | Extracted + QA |
+| `Modern Special Series/Larry's Garage 21-Car Collection _ Hot Wheels Wiki _ Fandom.html` | `0995e3b2e42198570bd16806d78e3c5757728847` | 348321 | `67CE8E534F7B998FF003680BB6B98E83FE749037B0FD95A7CADD472FD9AF24D6` | Extracted + QA |
 | `Modern Special Series/Larry's Garage Holiday (2009) _ Hot Wheels Wiki _ Fandom.html` | `8f06e44363808016b4757162a3251ac5731d87f9` | 335172 | `2166B8583216FF1AD9E69620061B622BEACC2A445AB9A7B65EA2F9788695D24D` | Not yet extracted |
 | `Modern Special Series/List of 2010 Hot Wheels _ Hot Wheels Wiki _ Fandom.html` | `3e72a750319e00236b1c495c342bba3b9539dc94` | 808686 | `C0E219AF45127688B26C56DF6FD78BCD05FBF912CD942EFCAE7F93705B9CD931` | Not yet extracted |
 | `Modern Special Series/List of 2013 Hot Wheels _ Hot Wheels Wiki _ Fandom.html` | `71b9118f2d89bcb902f5af2f150c215171221878` | 827451 | `3011EEA03292C117627164113F83DBB5D05C41EC3A8229B7B1C998508AFFE812` | Not yet extracted |
@@ -806,6 +806,11 @@ Seven source pages extracted and QA-reviewed. Batch total: 32 retained product t
 ## Latest extraction batch: Modern Special Series (Hot Wheels Delivery through Hot Wheels id), 2026-11-09
 
 Six source pages extracted and QA-reviewed. Batch total: 49 retained product tables, 495 product rows, 849 embedded table image references, and 1,713 links in product cells. Each page has a 21-column CSV and individual QA report. CSV row counts and column counts were rechecked against all six QA reports. Gallery-only items were not independently extracted in this pass.
+
+## Latest extraction batch: Modern Special Series (Hot Wheels Racing Series 2012 through Larry's Garage 21-Car Collection), 2026-11-09
+
+Seven source pages extracted and QA-reviewed. Batch total: 15 retained product tables, 166 product rows, 286 embedded table image references, and 491 links in product cells. Each page has a 21-column CSV and individual QA report. CSV row counts and column counts were rechecked against all seven QA reports. Gallery-only items were not independently extracted in this pass.
+
 
 ### Source retrieval exception: Hot Wheels Classics
 
