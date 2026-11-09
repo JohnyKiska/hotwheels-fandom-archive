@@ -246,7 +246,7 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total. 22 of 33 pages extracted and
 
 ### Speed Fleet
 - Source: `Early Collections/Speed Fleet _ Hot Wheels Wiki _ Fandom.html`; Git blob SHA `69ab0490c53bcde8ee008ec0c620619a49bf302a`; manifest SHA-256 `B748220CC3F40B55F8FF3D9FFF2769D505422FA673DF02AAAA8170C8EDBED00A`; Fandom revision 799650.
-- Extracted 76 product rows across two 9-column tables: Speed Fleet Blue Card (80) and Speed Fleet Rainbow Card (72).
+- Extracted 76 product rows across two 9-column tables: Speed Fleet Blue Card (40) and Speed Fleet Rainbow Card (36).
 - 152 embedded table-cell image references (76 loose, 76 carded); lazy-loaded URLs and filenames retained. No standard Wikia gallery items.
 - Toy # values: 76 populated, 56 distinct; repeated values and model-name labels remain separate source rows.
 - Export: `research/extractions/EARLY-COLLECTIONS-SPEED-FLEET.csv`; QA: `research/extractions/EARLY-COLLECTIONS-SPEED-FLEET-EXTRACTION-QA.md`.
