@@ -10,7 +10,7 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total.
 | `Boss Hoss _ Hot Wheels Wiki _ Fandom.html` | `3a7cb7b9e5e4e65c0a9e6a0d671fc6422014119f` | 419070 | Extracted + QA |
 | `Classics _ Hot Wheels Wiki _ Fandom.html` | `81cdb2bcc7ce2505b2ce3b11f2a533475401e8a7` | 361417 | Extracted + QA |
 | `Classy Customs _ Hot Wheels Wiki _ Fandom.html` | `e6abb91ef7ee6140ac65220a5aaef8b33a07f72a` | 343179 | Extracted + QA |
-| `Drag Strippers _ Hot Wheels Wiki _ Fandom.html` | `4a562feebe3ee01403ae956cae9ba6757081f205` | 351156 | Not yet extracted |
+| `Drag Strippers _ Hot Wheels Wiki _ Fandom.html` | `4a562feebe3ee01403ae956cae9ba6757081f205` | 351156 | Extracted + QA |
 | `Evil Weevil _ Hot Wheels Wiki _ Fandom.html` | `1f58c9c929ca5529421d7e689e5fadcf1ce487ec` | 397979 | Not yet extracted |
 | `Extras _ Hot Wheels Wiki _ Fandom.html` | `e2a591a06e8ae39a455dc264e8cb8c6543c6536b` | 332471 | Not yet extracted |
 | `Flying_Colors.htm` | `7416dad03fc92b77384fc132e0001366744148ac` | 779454 | Not yet extracted |
@@ -88,3 +88,13 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total.
 - Source has no Year column. Toy # and Collector # preserved independently.
 - Export: `research/extractions/EARLY-COLLECTIONS-CLASSY-CUSTOMS.csv`
 - QA: `research/extractions/EARLY-COLLECTIONS-CLASSY-CUSTOMS-EXTRACTION-QA.md`
+
+
+### Drag Strippers
+- Source: `Early Collections/Drag Strippers _ Hot Wheels Wiki _ Fandom.html`
+- Git blob SHA: `4a562feebe3ee01403ae956cae9ba6757081f205`
+- Manifest SHA-256: `A752A325B728240B9F62AD5139638C51965E6CE8747EFC4D6593B5E7B21E9125`
+- 1 product table, 17 product rows, 9 source columns; 2 separate gallery entries.
+- Toy # and Collector # retained independently; no Year column in source.
+- Export: `research/extractions/EARLY-COLLECTIONS-DRAG-STRIPPERS.csv`
+- QA: `research/extractions/EARLY-COLLECTIONS-DRAG-STRIPPERS-EXTRACTION-QA.md`
