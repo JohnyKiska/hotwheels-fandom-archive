@@ -244,3 +244,11 @@ Next: continue with the remaining Early Collections pages in inventory order, re
 - The CSV now retains cell-level image metadata, including wheel-type images that appear in the Wheel Type column rather than as text. Loose and carded photo metadata remain separate.
 - The Track Sets section contains a separate Thundershift 500 reference, exported as a non-product `section_reference` row.
 - Five annual tables remain 212 product rows for 1974–1978. No product rows were merged.
+
+
+### Grand Prix extraction checkpoint
+
+- Source: `Early Collections/Grand Prix _ Hot Wheels Wiki _ Fandom.html`; Git blob SHA `d23ef8f6f24209353e1c8e9af4c8861fd5d7c25a`; manifest SHA-256 `undefined`; Fandom revision 787981.
+- The page contains a visual image/caption grid under The Cars rather than a conventional product-data table: 11 vehicle captions and 11 associated image references. One separate Gallery item is retained.
+- Captions and paired image metadata are exported in source order. No Toy #, casting, release or package facts were inferred.
+- Export: `research/extractions/EARLY-COLLECTIONS-GRAND-PRIX.csv`; QA: `research/extractions/EARLY-COLLECTIONS-GRAND-PRIX-EXTRACTION-QA.md`.
