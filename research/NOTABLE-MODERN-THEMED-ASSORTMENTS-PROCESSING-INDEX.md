@@ -7,7 +7,7 @@ Scope: archived HTML/HTM source pages under `Notable Modern Themed Assortments/`
 - Source pages: 57
 - Total source size: 20,744,066 bytes
 - Inventory source: recursive Git tree and repository `MANIFEST.csv`.
-- Extraction status: 15 of 57 pages extracted and QA-reviewed; 42 remaining.
+- Extraction status: 20 of 57 pages extracted and QA-reviewed; 37 remaining.
 - Source SHA-256 values are copied from the repository manifest. Git blob SHAs identify the exact archived HTML blobs.
 
 ## File inventory and processing status
@@ -29,11 +29,11 @@ Scope: archived HTML/HTM source pages under `Notable Modern Themed Assortments/`
 | `Notable Modern Themed Assortments/Cars of the Decades Series _ Hot Wheels Wiki _ Fandom.html` | `2e013b4734dcd63c7eefcc70ca51fc48f92f2357` | 469516 | `E8E034226F602168B5649506D4B75D2955B93F26548DD2B01320CB9D55D67AD1` | Extracted + QA |
 | `Notable Modern Themed Assortments/Cop Rods Series (1999) _ Hot Wheels Wiki _ Fandom.html` | `69eca3906b67d7e4b9dcebebba5294bca3a0fa65` | 416507 | `62D8DAD9DE3C70C5DCD7BE636A572887DF6DAD02E338BF6DC189F77FE62004B4` | Extracted + QA |
 | `Notable Modern Themed Assortments/Easter Eggsclusives _ Hot Wheels Wiki _ Fandom.html` | `d3d65261f4d89b3ca29ae1fc9b9585af8bbce54f` | 406912 | `CCF24140B59E8DF9345593A79D22DF3AB0AA0682501DE6F9B0D21001839EB3BA` | Extracted + QA |
-| `Notable Modern Themed Assortments/Easter/Easter Series (2013) _ Hot Wheels Wiki _ Fandom.html` | `cd61811209c8cbfe8caa66b4ec20a8cdd4b6d5ef` | 330722 | `B9A6784285115E51CA62DDBB23ABBDB10616B20574700D68EAA6FC2887667AD2` | Not yet extracted |
-| `Notable Modern Themed Assortments/Easter/Easter Series (2014) _ Hot Wheels Wiki _ Fandom.html` | `b0d68c84b6e67b299eb2fa26b9b345cdffc122ce` | 329780 | `8FA1599328441ACE03AB2C04D249FB0320EBCA393243D1C00ED3BFDE9AD9EC5B` | Not yet extracted |
-| `Notable Modern Themed Assortments/Easter/Easter Series (2015) _ Hot Wheels Wiki _ Fandom.html` | `e1c5633c776f5769168b3d35b60caf70e635dc86` | 326162 | `09F189688FCEAEC7D46D56F82AC85731CC38CBDD17ED69ADD1DF402E435C85AF` | Not yet extracted |
-| `Notable Modern Themed Assortments/Easter/Easter Series (2017) _ Hot Wheels Wiki _ Fandom.html` | `5647269485d4dd8cdc8a0d0fdb54a95f1f560b16` | 324959 | `C5083284CAB448E8FD19C158B4F920FBBCF7EB4302A5B25B9F2B1F87E6146CC8` | Not yet extracted |
-| `Notable Modern Themed Assortments/Fast & Furious Series _ Hot Wheels Wiki _ Fandom.html` | `af205145d4cfc206683c180327406282d180d863` | 429264 | `B704C7BD8D9F59AD3A9AA985DA2732ACF7E625657BE0E0E935B4B771FEB59ABE` | Not yet extracted |
+| `Notable Modern Themed Assortments/Easter/Easter Series (2013) _ Hot Wheels Wiki _ Fandom.html` | `cd61811209c8cbfe8caa66b4ec20a8cdd4b6d5ef` | 330722 | `B9A6784285115E51CA62DDBB23ABBDB10616B20574700D68EAA6FC2887667AD2` | Extracted + QA |
+| `Notable Modern Themed Assortments/Easter/Easter Series (2014) _ Hot Wheels Wiki _ Fandom.html` | `b0d68c84b6e67b299eb2fa26b9b345cdffc122ce` | 329780 | `8FA1599328441ACE03AB2C04D249FB0320EBCA393243D1C00ED3BFDE9AD9EC5B` | Extracted + QA |
+| `Notable Modern Themed Assortments/Easter/Easter Series (2015) _ Hot Wheels Wiki _ Fandom.html` | `e1c5633c776f5769168b3d35b60caf70e635dc86` | 326162 | `09F189688FCEAEC7D46D56F82AC85731CC38CBDD17ED69ADD1DF402E435C85AF` | Extracted + QA |
+| `Notable Modern Themed Assortments/Easter/Easter Series (2017) _ Hot Wheels Wiki _ Fandom.html` | `5647269485d4dd8cdc8a0d0fdb54a95f1f560b16` | 324959 | `C5083284CAB448E8FD19C158B4F920FBBCF7EB4302A5B25B9F2B1F87E6146CC8` | Extracted + QA |
+| `Notable Modern Themed Assortments/Fast & Furious Series _ Hot Wheels Wiki _ Fandom.html` | `af205145d4cfc206683c180327406282d180d863` | 429264 | `B704C7BD8D9F59AD3A9AA985DA2732ACF7E625657BE0E0E935B4B771FEB59ABE` | Extracted + QA |
 | `Notable Modern Themed Assortments/Fast & Furious Spy Racers Series _ Hot Wheels Wiki _ Fandom.html` | `3dafc3502c40498ec9a6a33f1377946735d45fcb` | 380686 | `E4958EE4B6C634AA351664FA97A59CB19FD3F057BC888AA04DBAFD2735A7E52F` | Not yet extracted |
 | `Notable Modern Themed Assortments/Fire Rods/Fire Rods Series (2000) _ Hot Wheels Wiki _ Fandom.html` | `0c80db5d0787ed33f99be0aa3344b8d7dd59161b` | 352428 | `DFF018D64B7944AAC8B47F7C2109C098C8D88AFA53FBD198E8B01BD9568DEBDF` | Not yet extracted |
 | `Notable Modern Themed Assortments/Fire Rods/Fire Rods Series (2009) _ Hot Wheels Wiki _ Fandom.html` | `5d21568cfa1850ac39a6b08a30744e01449d6d5e` | 363924 | `967319D9E8ECC3E78A10DFA940B3B1EC562533341F9C9D714E22CD9EF69106C6` | Not yet extracted |
@@ -136,3 +136,22 @@ Each page has a 21-column source-preserving CSV and a per-page QA report in `res
 ## Next batch
 
 Continue with the next five unprocessed pages in inventory order: Easter Series (2013), Easter Series (2014), Easter Series (2015), Easter Series (2017), and Fast & Furious Series.
+
+
+## Batch 4: Easter Series (2013) through Fast & Furious Series, 2026-11-09
+
+Five source pages extracted and QA-reviewed. Batch total: 13 product tables, 90 product rows, 118 embedded table image references, and 306 links retained from product cells.
+
+| Source page | Tables | Product rows | Images | Links |
+|---|---:|---:|---:|---:|
+| Easter Series (2013) | 1 | 8 | 16 | 32 |
+| Easter Series (2014) | 1 | 8 | 16 | 32 |
+| Easter Series (2015) | 1 | 6 | 12 | 24 |
+| Easter Series (2017) | 1 | 6 | 12 | 23 |
+| Fast & Furious Series | 9 | 62 | 62 | 195 |
+
+Each page has a 21-column source-preserving CSV and a per-page QA report in `research/extractions/`. Source blob SHA, size, manifest SHA-256, and Fandom revision ID (where found) are recorded in the artifacts.
+
+## Next batch
+
+Continue with the next five unprocessed pages in inventory order: Fast & Furious Spy Racers Series, Fire Rods Series (2000), Fire Rods Series (2009), Fright Cars Series, and HW Road Trippin' Series (2014).
