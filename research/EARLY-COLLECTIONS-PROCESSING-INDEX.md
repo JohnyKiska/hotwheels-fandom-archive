@@ -2,7 +2,7 @@
 
 Scope: archived Fandom pages in `Early Collections/` on `main`. This folder name is retained as source provenance only and is not treated as a verified product-hierarchy node.
 
-Inventory: 33 HTML/HTM files, 12834928 bytes total. 26 of 33 pages extracted and QA-reviewed.
+Inventory: 33 HTML/HTM files, 12834928 bytes total. 27 of 33 pages extracted and QA-reviewed.
 
 | Source file | Git blob SHA | Size (bytes) | Processing status |
 |---|---|---:|---|
@@ -32,7 +32,7 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total. 26 of 33 pages extracted and
 | `Speedway Specials _ Hot Wheels Wiki _ Fandom.html` | `de473d47ac484f9feb903c8448b23794d6052eaf` | 352847 | Extracted + QA |
 | `Sugar Caddy _ Hot Wheels Wiki _ Fandom.html` | `550488166f32055add61cba2d38393306c9b8b62` | 360833 | Extracted + QA |
 | `Super Chromes (1976) _ Hot Wheels Wiki _ Fandom.html` | `658a01422af975de2968285f809f07cbdbc8f272` | 376448 | Extracted + QA |
-| `Super Streeters _ Hot Wheels Wiki _ Fandom.html` | `963b63c8a2df9d844fcc4404df9e7c0c4e5778aa` | 358718 | Not yet extracted |
+| `Super Streeters _ Hot Wheels Wiki _ Fandom.html` | `963b63c8a2df9d844fcc4404df9e7c0c4e5778aa` | 358718 | Extracted + QA |
 | `TNT-Bird _ Hot Wheels Wiki _ Fandom.html` | `fc25ac24e5f93d71789f2649de64a304f70db561` | 360478 | Not yet extracted |
 | `The Heavies _ Hot Wheels Wiki _ Fandom.html` | `44d592cfc35a9c1c747410900307c127172d776a` | 333247 | Not yet extracted |
 | `The Hot Ones (1981) _ Hot Wheels Wiki _ Fandom.html` | `4daab13e074187fcc2dece60a0ab5add4968a53e` | 559506 | Not yet extracted |
@@ -281,3 +281,11 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total. 26 of 33 pages extracted and
 - All 46 product rows have Toy #; 13 distinct values. Repeated values preserved, including 9505 (12 rows), 9208 (5), and 9205 (4).
 - 46 embedded product-table image references and 4 separate Gallery assets retained. Year-specific header wording differences are preserved.
 - Export: `research/extractions/EARLY-COLLECTIONS-SUPER-CHROMES-1976.csv`; QA: `research/extractions/EARLY-COLLECTIONS-SUPER-CHROMES-1976-EXTRACTION-QA.md`.
+
+
+### Super Streeters
+- Source: `Early Collections/Super Streeters _ Hot Wheels Wiki _ Fandom.html`; Git blob SHA `963b63c8a2df9d844fcc4404df9e7c0c4e5778aa`; manifest SHA-256 `28062DDB1DC01A927BECD7E51C433506A1E3B322060550793081F3C407BD5108`; Fandom revision 789451.
+- One main product table: 13 rows, 9 columns, plus 8 separate Gallery items (21 CSV records total). The table has no Year column; Photo Loose and Photo Carded cells are blank in all rows.
+- 11 distinct Toy # values; 9241 appears three times. Collector # values have 10 distinct values; 59 appears three times and 36 twice. Repeated model labels Corvette Stingray (3) and Super Van (2) remain separate rows.
+- Eight gallery items cover patch/mail-away and card imagery. Raw source HTML, source order, links and image metadata retained.
+- Export: `research/extractions/EARLY-COLLECTIONS-SUPER-STREETERS.csv`; QA: `research/extractions/EARLY-COLLECTIONS-SUPER-STREETERS-EXTRACTION-QA.md`.
