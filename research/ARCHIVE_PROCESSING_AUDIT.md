@@ -358,3 +358,9 @@ Next: continue with the remaining Early Collections pages in inventory order, re
 - Processing status: 22 of 33 pages extracted and QA-reviewed.
 - Speed Fleet: 76 product rows from two card-specific tables; 152 embedded image references; no standard gallery items. Source rows and repeated identifiers preserved.
 - Outputs: `research/extractions/EARLY-COLLECTIONS-SPEED-FLEET.csv` and `research/extractions/EARLY-COLLECTIONS-SPEED-FLEET-EXTRACTION-QA.md`; detailed progress: `research/EARLY-COLLECTIONS-PROCESSING-INDEX.md`.
+
+
+### Early Collections update: Speed Machines (1983)
+- Processing status: 23 of 33 pages extracted and QA-reviewed.
+- Speed Machines (1983): 27 product rows in one 6-column Versions table, plus 1 separate Gallery record. The source table has no Toy # or Year columns; original source structure retained.
+- Outputs: `research/extractions/EARLY-COLLECTIONS-SPEED-MACHINES-1983.csv` and `research/extractions/EARLY-COLLECTIONS-SPEED-MACHINES-1983-EXTRACTION-QA.md`; detailed progress: `research/EARLY-COLLECTIONS-PROCESSING-INDEX.md`.
