@@ -143,7 +143,24 @@ Both 2010 pages have been independently extracted and QA-checked. The exports pr
 
 ## 5. Archive-wide inventory checkpoint
 
-The Fandom archive tree currently contains 530 HTML/HTM files and 2 CSV files. This audit does not yet assign a final processing status to every Fandom HTML page. That is the next inventory phase, after Mainline. The planned next scope is Early Collections, Early Special Series, Other Early Series, then the remaining modern categories. Folder taxonomy is an archival organization, not a verified product hierarchy.
+The Fandom archive tree contains **530 HTML/HTM source pages and 2 root-level CSV files**. The recursive Git tree and `MANIFEST.csv` agree: 530 HTML/HTM entries plus the manifest and duplicate-candidate CSV.
+
+The archive-wide product-table extraction pass is now complete: **530/530 source HTML pages have a per-page extraction QA report**, and all eight processing indexes report every page complete with zero remaining. The `research/extractions/` directory contains **530 per-page QA Markdown files and 633 CSV exports**; the CSV count exceeds the page count because some large pages are split into multiple ordered exports. This confirms file-level coverage, not that every page contains a product table or that every ancillary table has been semantically normalized.
+
+| Source folder | HTML/HTM pages | Processing status |
+|---|---:|---|
+| Early Collections | 33 | 33/33 extracted + QA |
+| Early Special Series | 39 | 39/39 extracted + QA |
+| Other Early Series | 5 | 5/5 extracted + QA |
+| Exclusives | 4 | Included in 53/53 Exclusives + Miscellaneous |
+| Miscellaneous (including Multipacks) | 49 | Included in 53/53 Exclusives + Miscellaneous |
+| Modern Special Series | 223 | 223/223 extracted + QA |
+| Notable Modern Themed Assortments | 57 | 57/57 extracted + QA |
+| Other Modern Series | 83 | 83/83 extracted + QA |
+| Larger Scale | 37 | 37/37 extracted + QA |
+| **Total** | **530** | **530/530 extracted + QA** |
+
+Gallery extraction is a separate workstream and is **not complete**. Three initial Gallery batches already exist for 15 Modern Special Series source pages (112 Gallery items total); remaining Gallery-bearing pages still need inventory and processing. Embedded images inside product-table rows are retained in the product extraction outputs. Folder taxonomy remains archival provenance, not a verified product hierarchy.
 
 
 ## 6. Early Collections processing checkpoint
