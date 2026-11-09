@@ -34,11 +34,11 @@ Scope: archived HTML/HTM source pages under `Notable Modern Themed Assortments/`
 | `Notable Modern Themed Assortments/Easter/Easter Series (2015) _ Hot Wheels Wiki _ Fandom.html` | `e1c5633c776f5769168b3d35b60caf70e635dc86` | 326162 | `09F189688FCEAEC7D46D56F82AC85731CC38CBDD17ED69ADD1DF402E435C85AF` | Extracted + QA |
 | `Notable Modern Themed Assortments/Easter/Easter Series (2017) _ Hot Wheels Wiki _ Fandom.html` | `5647269485d4dd8cdc8a0d0fdb54a95f1f560b16` | 324959 | `C5083284CAB448E8FD19C158B4F920FBBCF7EB4302A5B25B9F2B1F87E6146CC8` | Extracted + QA |
 | `Notable Modern Themed Assortments/Fast & Furious Series _ Hot Wheels Wiki _ Fandom.html` | `af205145d4cfc206683c180327406282d180d863` | 429264 | `B704C7BD8D9F59AD3A9AA985DA2732ACF7E625657BE0E0E935B4B771FEB59ABE` | Extracted + QA |
-| `Notable Modern Themed Assortments/Fast & Furious Spy Racers Series _ Hot Wheels Wiki _ Fandom.html` | `3dafc3502c40498ec9a6a33f1377946735d45fcb` | 380686 | `E4958EE4B6C634AA351664FA97A59CB19FD3F057BC888AA04DBAFD2735A7E52F` | Not yet extracted |
-| `Notable Modern Themed Assortments/Fire Rods/Fire Rods Series (2000) _ Hot Wheels Wiki _ Fandom.html` | `0c80db5d0787ed33f99be0aa3344b8d7dd59161b` | 352428 | `DFF018D64B7944AAC8B47F7C2109C098C8D88AFA53FBD198E8B01BD9568DEBDF` | Not yet extracted |
-| `Notable Modern Themed Assortments/Fire Rods/Fire Rods Series (2009) _ Hot Wheels Wiki _ Fandom.html` | `5d21568cfa1850ac39a6b08a30744e01449d6d5e` | 363924 | `967319D9E8ECC3E78A10DFA940B3B1EC562533341F9C9D714E22CD9EF69106C6` | Not yet extracted |
-| `Notable Modern Themed Assortments/Fright Cars Series _ Hot Wheels Wiki _ Fandom.html` | `d983b23ed4ac0f6a899e81ed7668b5754d561bc7` | 552878 | `3A5C485FB3C0022910970DF38EBB844577835DF39C35586A6F22395EA6294358` | Not yet extracted |
-| `Notable Modern Themed Assortments/HW Road Trippin' Series (2014) _ Hot Wheels Wiki _ Fandom.html` | `d6b486f5255e5cbcb186a296e5a2c7f1137a674a` | 409320 | `6ADFF03D155005CA1345EA1D5893C2485CBD3361C880364639CAC37885EA8E49` | Not yet extracted |
+| `Notable Modern Themed Assortments/Fast & Furious Spy Racers Series _ Hot Wheels Wiki _ Fandom.html` | `3dafc3502c40498ec9a6a33f1377946735d45fcb` | 380686 | `E4958EE4B6C634AA351664FA97A59CB19FD3F057BC888AA04DBAFD2735A7E52F` | Extracted + QA |
+| `Notable Modern Themed Assortments/Fire Rods/Fire Rods Series (2000) _ Hot Wheels Wiki _ Fandom.html` | `0c80db5d0787ed33f99be0aa3344b8d7dd59161b` | 352428 | `DFF018D64B7944AAC8B47F7C2109C098C8D88AFA53FBD198E8B01BD9568DEBDF` | Extracted + QA |
+| `Notable Modern Themed Assortments/Fire Rods/Fire Rods Series (2009) _ Hot Wheels Wiki _ Fandom.html` | `5d21568cfa1850ac39a6b08a30744e01449d6d5e` | 363924 | `967319D9E8ECC3E78A10DFA940B3B1EC562533341F9C9D714E22CD9EF69106C6` | Extracted + QA |
+| `Notable Modern Themed Assortments/Fright Cars Series _ Hot Wheels Wiki _ Fandom.html` | `d983b23ed4ac0f6a899e81ed7668b5754d561bc7` | 552878 | `3A5C485FB3C0022910970DF38EBB844577835DF39C35586A6F22395EA6294358` | Extracted + QA |
+| `Notable Modern Themed Assortments/HW Road Trippin' Series (2014) _ Hot Wheels Wiki _ Fandom.html` | `d6b486f5255e5cbcb186a296e5a2c7f1137a674a` | 409320 | `6ADFF03D155005CA1345EA1D5893C2485CBD3361C880364639CAC37885EA8E49` | Extracted + QA |
 | `Notable Modern Themed Assortments/HW Winter/HW Winter Series (2020) _ Hot Wheels Wiki _ Fandom.html` | `c2f5823d7597a31801a632df1262955703235b27` | 335636 | `728FAA2B4FF7AFAB47974A370F6D4BDACCC7C2D85B069436C6D0B3971EF81CFF` | Not yet extracted |
 | `Notable Modern Themed Assortments/HW Winter/HW Winter Series (2021) _ Hot Wheels Wiki _ Fandom.html` | `9cdf60c7822bef17d15150c13cfb50fb0923ceee` | 325198 | `312E914A300C4E7B17910F8E77281D5E8F01B1EB3D50F1953B5861E7D9B19A78` | Not yet extracted |
 | `Notable Modern Themed Assortments/HW Winter/HW Winter Series (2022) _ Hot Wheels Wiki _ Fandom.html` | `fdfcd7a4fa45303bea3f44519fab600d5285a3fb` | 332987 | `9AD5292B0FAEA5F842E0277F47AB527F3C21DE3EF3EFC7288B8451CCE0C8D0E4` | Not yet extracted |
@@ -154,7 +154,7 @@ Each page has a 21-column source-preserving CSV and a per-page QA report in `res
 
 ## Next batch
 
-Continue with the next five unprocessed pages in inventory order: Fast & Furious Spy Racers Series, Fire Rods Series (2000), Fire Rods Series (2009), Fright Cars Series, and HW Road Trippin' Series (2014).
+Continue with the next five unprocessed pages in inventory order: HW Winter Series (2020), HW Winter Series (2021), HW Winter Series (2022), HW Winter Series (2023), and HW Winter Series (2024).
 
 
 ## Batch 5: Fast & Furious Spy Racers Series through HW Road Trippin' Series (2014), 2026-11-09
