@@ -180,3 +180,25 @@ Ten further Early Collections CSV exports were parsed with CSV-aware quote handl
 All ten files passed malformed-quote, BOM, U+FFFD, empty-header and duplicate-header checks. No blank data rows, exact duplicate data rows, or row-width mismatches were found. Different header widths are intentional and validated per file. No source rows were removed or normalized.
 
 Manifest update commit: `df1a9d2191d75ec77590384c4559d1de81dca859`.
+
+
+## Early Collections structural audit batch 3 (2026-11-09)
+
+Ten further Early Collections CSV exports were parsed with CSV-aware quote handling and checked against their individual headers.
+
+| CSV | Data rows | Header columns | Width errors | Blank rows | Exact duplicate extra rows |
+|---|---:|---:|---:|---:|---:|
+| EARLY-COLLECTIONS-SPEED-DEMONS.csv | 22 | 14 | 0 | 0 | 0 |
+| EARLY-COLLECTIONS-SPEED-FLEET.csv | 76 | 17 | 0 | 0 | 0 |
+| EARLY-COLLECTIONS-SPEED-MACHINES-1983.csv | 28 | 14 | 0 | 0 | 0 |
+| EARLY-COLLECTIONS-SPEEDWAY-SPECIALS.csv | 19 | 21 | 0 | 0 | 0 |
+| EARLY-COLLECTIONS-SUGAR-CADDY.csv | 20 | 21 | 0 | 0 | 0 |
+| EARLY-COLLECTIONS-SUPER-CHROMES-1976.csv | 50 | 21 | 0 | 0 | 0 |
+| EARLY-COLLECTIONS-SUPER-STREETERS.csv | 21 | 21 | 0 | 0 | 0 |
+| EARLY-COLLECTIONS-THE-HEAVIES.csv | 9 | 21 | 0 | 0 | 0 |
+| EARLY-COLLECTIONS-THE-HOT-ONES-1981.csv | 117 | 21 | 0 | 0 | 0 |
+| EARLY-COLLECTIONS-TNT-BIRD.csv | 22 | 21 | 0 | 0 | 0 |
+
+All ten files passed malformed-quote, BOM, U+FFFD, empty-header and duplicate-header checks. No blank data rows, exact duplicate data rows, or row-width mismatches were found. Different header widths are intentional and validated per file. No source rows were removed or normalized.
+
+Manifest update commit: `d8b37f5d3d9f7f3aa53bca5790e75f68a0c4ce4b`.
