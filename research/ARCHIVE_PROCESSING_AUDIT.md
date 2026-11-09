@@ -160,3 +160,16 @@ The first page, Action Command, has been fully extracted and structurally QA-che
 - Repeated Toy # groups are preserved as separate rows; no automatic identity or release merging was performed.
 
 Next: continue with the remaining Early Collections pages in inventory order, recording each page's source structure and QA before drawing any cross-page conclusions.
+
+
+### Boss Hoss extraction checkpoint
+
+- Source: `Early Collections/Boss Hoss _ Hot Wheels Wiki _ Fandom.html`
+- Git blob SHA: `3a7cb7b9e5e4e65c0a9e6a0d671fc6422014119f`
+- Manifest SHA-256: `A84EF7E02BB4A05426369C3F09089B113C4DB3B01CFDCE2F1FD447DB7A5266B0`
+- 2 product tables, 33 product rows: Original Versions (23), Retooled Versions (10).
+- 22 gallery items were extracted as separate source records.
+- The original table's Toy # 6499 occurs in 23 distinct rows. All variants remain separate; no deduplication was performed.
+- Export: `research/extractions/EARLY-COLLECTIONS-BOSS-HOSS.csv`
+- QA: `research/extractions/EARLY-COLLECTIONS-BOSS-HOSS-EXTRACTION-QA.md`
+- Processing index: `research/EARLY-COLLECTIONS-PROCESSING-INDEX.md`
