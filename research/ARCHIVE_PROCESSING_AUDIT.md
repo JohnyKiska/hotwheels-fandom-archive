@@ -276,3 +276,11 @@ Next: continue with the remaining Early Collections pages in inventory order, re
 - Extracted 16 product rows from one 10-column table and 2 separate gallery references. Years: 1980, 1981, 1982, 1983, 1984.
 - Repeated Toy # records, raw cells, image metadata and links preserved without deduplication.
 - Export: `research/extractions/EARLY-COLLECTIONS-HIRAKERS.csv`; QA: `research/extractions/EARLY-COLLECTIONS-HIRAKERS-EXTRACTION-QA.md`.
+
+
+### Hot Wheels 30th Anniversary 4-Car Set extraction checkpoint
+
+- Source blob SHA `b278df831c1539c16f123cf442511afe4892015e`; manifest SHA-256 `1A7A32445EFD2DD2A1C54EF53D7ACFFB4B7549C92C59B41666162B6A464B3623`; Fandom revision 805834.
+- Extracted four vehicle rows from one 11-column table. A source cell labeled Year contains 19322 and spans all four rows; kept verbatim and explicitly not interpreted as a calendar year. Toy # is separately 19322 in each row.
+- Raw source cells, rowspan semantics, model links and photo metadata retained without deduplication.
+- Export: `research/extractions/EARLY-COLLECTIONS-30TH-ANNIVERSARY-4-CAR-SET.csv`; QA: `research/extractions/EARLY-COLLECTIONS-30TH-ANNIVERSARY-4-CAR-SET-EXTRACTION-QA.md`.
