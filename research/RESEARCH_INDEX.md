@@ -18,6 +18,7 @@
 | Документ | Назначение |
 |---|---|
 | [FINDINGS.md](FINDINGS.md) | Наблюдения и подтверждённые факты |
+| [EXTRACTION-QA-AUDIT.md](EXTRACTION-QA-AUDIT.md) | Поэтапный аудит структуры и качества CSV-выгрузок |
 | [UNRESOLVED.md](UNRESOLVED.md) | Противоречия и вопросы на проверку |
 | [DATA_MODEL_REQUIREMENTS.md](DATA_MODEL_REQUIREMENTS.md) | Требования к будущей модели данных |
 
