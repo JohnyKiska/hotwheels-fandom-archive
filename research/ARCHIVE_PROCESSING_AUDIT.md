@@ -605,3 +605,16 @@ The archived `Early Collections/` inventory contains 33 HTML/HTM pages. 32 of 33
 - Despicable Me 3 Character Cars: 2 tables / 8 rows / 12 images.
 - All ten CSV files/parts and five QA reports were re-fetched and verified non-empty. Unheaded and single-row tables retained.
 - Detailed records and source inventory: `research/MODERN-SPECIAL-SERIES-PROCESSING-INDEX.md`.
+
+
+## Fandom archive extraction progress update (2026-11-09)
+
+The Character Cars batch now has five additional table extractions and QA reports committed:
+- Disney Character Cars: 22 tables, 165 product rows, 313 embedded table image references.
+- DreamWorks Character Cars: 4 tables, 13 product rows, 26 embedded table image references.
+- Godzilla Character Cars: 2 tables, 2 product rows, 4 embedded table image references.
+- Good Luck Trolls Character Cars: 1 table, 1 product row, 2 embedded table image references.
+- Jurassic World Character Cars: 7 tables, 25 product rows, 44 embedded table image references.
+
+Batch total: 36 product tables, 206 product rows, 389 embedded table image references. Each page has a CSV and a corresponding extraction QA report. Source order, source table/row indices, source headers, raw cell HTML, cell text, links, and embedded image metadata are retained. Navigation/year-index tables are excluded. Separate gallery records have not yet been independently extracted for this batch and remain a follow-up task.
+
