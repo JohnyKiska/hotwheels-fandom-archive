@@ -20,7 +20,7 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total.
 | `HiRakers _ Hot Wheels Wiki _ Fandom.html` | `15ce02f85796913b6b1cd9f27b66348f9416e18e` | 354036 | Extracted + QA |
 | `Hot Wheels 30th Anniversary 4-Car Set _ Hot Wheels Wiki _ Fandom.html` | `b278df831c1539c16f123cf442511afe4892015e` | 326597 | Extracted + QA |
 | `King Kuda _ Hot Wheels Wiki _ Fandom.html` | `5a5572d63d083f36a105c7b810728a7d02134c6d` | 480117 | Extracted + QA |
-| `Light My Firebird _ Hot Wheels Wiki _ Fandom.html` | `49971146f54ec92309098b45b9d807ab13d94ff4` | 385941 | Not yet extracted |
+| `Light My Firebird _ Hot Wheels Wiki _ Fandom.html` | `49971146f54ec92309098b45b9d807ab13d94ff4` | 385941 | Extracted + QA |
 | `Megaforce_Series.htm` | `ddf69edec1c115ae4079644863a6f461814d6f98` | 315056 | Not yet extracted |
 | `Nitty Gritty Kitty _ Hot Wheels Wiki _ Fandom.html` | `fe1c9f1b2220692cd1c0f08cac45d1e698742831` | 400436 | Not yet extracted |
 | `Oldies But Goodies _ Hot Wheels Wiki _ Fandom.html` | `d8bac5f967b3a4dd0b0baf79c8708414318fac53` | 336554 | Not yet extracted |
@@ -180,3 +180,17 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total.
 - Source years preserved as found (1970, 1998, 2002, 2006–2010, 2017–2019, 2021–2025); raw source values, row order, image metadata and gallery links retained.
 - Export: `research/extractions/EARLY-COLLECTIONS-KING-KUDA.csv`
 - QA: `research/extractions/EARLY-COLLECTIONS-KING-KUDA-EXTRACTION-QA.md`
+
+
+### Light My Firebird
+- Source: `Early Collections/Light My Firebird _ Hot Wheels Wiki _ Fandom.html`
+- Git blob SHA: `49971146f54ec92309098b45b9d807ab13d94ff4`
+- Manifest SHA-256: `2FC6D29B2DA88A39FB0238B613C787726AC3B8854A21DEB64AF156481CB82412`
+- Fandom revision ID: 801165.
+- Three product tables: Original Versions (10 rows), 100% Versions (6), Retooled Versions (4), total 20 product rows.
+- Separate Gallery section: 13 image references; 33 CSV records total.
+- Original Versions uses `Stickers`; 100% and Retooled Versions use `Tampo`. Schemas retained independently.
+- 20 populated Toy # cells, 9 distinct values. Repeated groups: 6408 (10 rows), 22055 (2), 56579 (2); all rows retained.
+- Source years: 1970, 1998, 2000, 2002, 2003, 2006, 2011, 2016.
+- Export: `research/extractions/EARLY-COLLECTIONS-LIGHT-MY-FIREBIRD.csv`
+- QA: `research/extractions/EARLY-COLLECTIONS-LIGHT-MY-FIREBIRD-EXTRACTION-QA.md`
