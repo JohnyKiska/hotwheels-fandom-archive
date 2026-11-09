@@ -109,3 +109,18 @@ The following ten Mainline exports were newly validated and recorded as `checked
 All ten files passed CSV-aware parsing, per-file row-width checks, blank-row checks, exact-duplicate-row checks, BOM, U+FFFD, empty/duplicate-header checks, and quote-balance validation. No structural defects were found. Repeated Toy # values or similar-looking source variants were not deduplicated.
 
 Manifest creation commit: `81f9ecfa23434c42ad80f0db1186b67ab2292576`. Manifest provenance update commit: `47b23e9cd2b0e731d4062c6da79ee83019aa16c4`.
+
+
+## Mainline final available years (2026-11-09)
+
+Five further Mainline exports passed the same CSV-aware structural checks and were added to the machine-readable manifest:
+
+| CSV | Data rows | Columns | Width errors | Blank rows | Exact duplicate extra rows |
+|---|---:|---:|---:|---:|---:|
+| MAINLINE-2021.csv | 455 | 10 | 0 | 0 | 0 |
+| MAINLINE-2022.csv | 447 | 6 | 0 | 0 | 0 |
+| MAINLINE-2023.csv | 445 | 6 | 0 | 0 | 0 |
+| MAINLINE-2024.csv | 441 | 6 | 0 | 0 | 0 |
+| MAINLINE-2026.csv | 440 | 6 | 0 | 0 | 0 |
+
+All five files had balanced quoting, no BOM/U+FFFD, no blank rows, no exact duplicate rows, and no empty or duplicate header labels. The schema change from 10 to 6 columns is retained as represented by each file's own header; it is not treated as a defect. The repository contains no `MAINLINE-2025.csv`, so no file for that year was assumed or created. Manifest update commit: `96500c84c5b10190caae4e06ef6683ac59c033c8`.
