@@ -5,7 +5,7 @@
 - Source: `Early Collections/Grand Prix _ Hot Wheels Wiki _ Fandom.html`
 - Git blob SHA: `d23ef8f6f24209353e1c8e9af4c8861fd5d7c25a`
 - Manifest size: 326,614 bytes
-- Manifest SHA-256: `undefined`
+- Manifest SHA-256: `EEF2D22944167C610616C489E96A80D6261426CDC377E264CCBE99B09061C621`
 - Fandom revision ID: 787981
 - Extraction date: 2026-11-09
 
