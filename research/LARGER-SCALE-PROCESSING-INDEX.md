@@ -172,4 +172,4 @@ Batch totals: **2 pages, 15 product tables, 184 product rows**. Gallery extracti
 
 ## Larger Scale HTML extraction complete
 
-All **37 of 37** inventoried source HTML pages now have extraction CSV and QA reports. Combined across all eight batches: **159 product tables and 1,884 product rows**. Every CSV was re-fetched and validated against the 21-column schema with zero malformed-width rows. Pull-Back Speeders is represented by an empty, schema-correct CSV and QA note because its archived page contains only a year-navigation table, not a product table. Gallery extraction remains deferred.
+All **37 of 37** inventoried source HTML pages now have extraction CSV and QA reports. Combined across all eight batches: **160 product tables and 1,648 product rows**. Every CSV was re-fetched and validated against the 21-column schema with zero malformed-width rows. Pull-Back Speeders is represented by an empty, schema-correct CSV and QA note because its archived page contains only a year-navigation table, not a product table. Gallery extraction remains deferred.
