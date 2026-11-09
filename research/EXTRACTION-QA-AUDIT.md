@@ -51,3 +51,18 @@ Nine additional CSV exports were parsed with CSV-aware quote handling, sampled a
 All nine files had consistent record widths, no fully blank data rows, no exact duplicate data rows in this sample, no Unicode replacement characters, and balanced CSV quoting. The 19-column Mainline schema is intentional and confirms that archive-wide checks must compare each row with its own header rather than enforce one global width.
 
 The repository tree contains same-stem QA reports for seven of the nine CSVs. No same-stem report was found for the Exclusives Elite 64 and Miscellaneous 1985 5-Packs split exports; these require mapping back to their source-page QA reports before treating the absence as an issue. This spot-check does not establish archive-wide validity.
+
+## Third-stage CSV structural audit (2026-11-09)
+
+The audit has expanded from stratified sampling to sequential file-by-file validation. A total of **74 of 633 CSV files** have now been inspected (the original 28-file sample plus 46 additional files?); this remains an in-progress audit, not a completion claim.
+
+Checks applied to the inspected files:
+- CSV-aware parsing with quoted fields, escaped double quotes, and embedded line breaks.
+- Each data record's field count compared with its own file's header (no archive-wide fixed schema).
+- Empty data records, exact duplicate records, BOM, Unicode replacement character U+FFFD, empty/duplicate header labels, and malformed quote handling.
+
+Two structural defects have been corrected during the expanded pass:
+1. `EARLY-COLLECTIONS-FLYING-COLORS.csv`: one ancillary `section_reference` row had a surplus empty field (23 fields vs. 22-column header); removed the surplus empty field and updated its QA report.
+2. `EARLY-COLLECTIONS-30TH-ANNIVERSARY-4-CAR-SET.csv`: each of the four product rows had one surplus empty field before `Photo filename`, shifting photo and provenance columns. Removed only that empty field; all four rows now match the 20-column header. The associated QA report documents the correction and preserves a note about two lazy-load image placeholders whose actual `data-src` URLs remain in raw source HTML.
+
+No other width, blank-record, exact-duplicate, BOM, U+FFFD, header-label, or quote-balance issue was found in the inspected files. Repeated product identifiers and variant records are not deduplicated. Full audit of the remaining 559 CSV files and page-QA output-path reconciliation are still outstanding.
