@@ -24,7 +24,7 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total.
 | `Megaforce_Series.htm` | `ddf69edec1c115ae4079644863a6f461814d6f98` | 315056 | Extracted + QA |
 | `Nitty Gritty Kitty _ Hot Wheels Wiki _ Fandom.html` | `fe1c9f1b2220692cd1c0f08cac45d1e698742831` | 400436 | Extracted + QA |
 | `Oldies But Goodies _ Hot Wheels Wiki _ Fandom.html` | `d8bac5f967b3a4dd0b0baf79c8708414318fac53` | 336554 | Extracted + QA |
-| `Real Riders _ Hot Wheels Wiki _ Fandom.html` | `f5da19e889612b3922c10500d86640aa2b17071f` | 324388 | Not yet extracted |
+| `Real Riders _ Hot Wheels Wiki _ Fandom.html` | `f5da19e889612b3922c10500d86640aa2b17071f` | 324388 | Extracted + QA |
 | `Rescue Team _ Hot Wheels Wiki _ Fandom.html` | `e131d541f95be40ae587be0c90596a18faaf62c9` | 331442 | Not yet extracted |
 | `Speed Demons _ Hot Wheels Wiki _ Fandom.html` | `bf6c7dca8fae920b5c79db2c787fd3f70460b900` | 356322 | Not yet extracted |
 | `Speed Fleet _ Hot Wheels Wiki _ Fandom.html` | `69ab0490c53bcde8ee008ec0c620619a49bf302a` | 445962 | Not yet extracted |
@@ -219,3 +219,8 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total.
 - Extracted 8 product rows from one 9-column table and 2 separate Gallery references (10 CSV records total).
 - All 8 Toy # values are populated and distinct: 9649, 9638, 2013, 9210, 2016, 2505, 2507, 9648. Product rows, raw cells, source links and image metadata are retained; the two patch/card gallery items remain separate.
 - Export: `research/extractions/EARLY-COLLECTIONS-OLDIES-BUT-GOODIES.csv`; QA: `research/extractions/EARLY-COLLECTIONS-OLDIES-BUT-GOODIES-EXTRACTION-QA.md`.
+
+
+### Real Riders
+- Source: `Early Collections/Real Riders _ Hot Wheels Wiki _ Fandom.html`; Git blob SHA `f5da19e889612b3922c10500d86640aa2b17071f`; manifest SHA-256 `599AB0B87CF730E3F5158F7417819B206302C59C5DA3B51DCB61BE2C39E09891`; Fandom revision 813974.
+- No product tables or standard Wikia gallery items. Extracted 5 article-text records, 13 linked references, 1 prototype-tire figure, and all 12 slideshow images (31 records in total: 5 article-text, 13 linked references, 1 illustration and 12 slideshow images.).
