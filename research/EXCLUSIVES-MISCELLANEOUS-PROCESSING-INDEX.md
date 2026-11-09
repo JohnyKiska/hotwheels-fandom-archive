@@ -7,8 +7,8 @@ Scope: archived source HTML under Exclusives/ and Miscellaneous/ in the main bra
 - Exclusives source pages: 4
 - Miscellaneous source pages (including Multipacks): 49
 - Total source pages: 53
-- Extracted + QA: 10
-- Remaining: 43
+- Extracted + QA: 15
+- Remaining: 38
 
 ## File inventory and processing status
 
@@ -24,11 +24,11 @@ Scope: archived source HTML under Exclusives/ and Miscellaneous/ in the main bra
 | `Miscellaneous/Multipacks/2-Pack _ Hot Wheels Wiki _ Fandom.html` | 598694 | `987E868E6AC55158EBC9923FABDCD82BB76EF544CE4CCB34F0BFCD1A4A23E7E6` | Extracted + QA |
 | `Miscellaneous/Multipacks/3-Pack _ Hot Wheels Wiki _ Fandom.html` | 348722 | `A5DDABAB750EE300BF950D2C14799D0B418951539129961E7F0853F1248A9124` | Extracted + QA |
 | `Miscellaneous/Multipacks/4-Pack _ Hot Wheels Wiki _ Fandom.html` | 361280 | `AD1270B662802F401290A4674C5E1C36D5C07DCB69B371BEBC273E8844E9F9BC` | Extracted + QA |
-| `Miscellaneous/Multipacks/5-Packs/1985 5-Packs _ Hot Wheels Wiki _ Fandom.html` | 308218 | `EC256C4A7BDA991745877F345CA36563A8164AFA345790B3966797AAE8351A68` | Not yet extracted |
-| `Miscellaneous/Multipacks/5-Packs/1986 5-Packs _ Hot Wheels Wiki _ Fandom.html` | 311964 | `70D9E71856277E6627EE7812FA351B8B2B0A507965CDB178DB2F934A01D27A50` | Not yet extracted |
-| `Miscellaneous/Multipacks/5-Packs/1987 5-Packs _ Hot Wheels Wiki _ Fandom.html` | 312313 | `F718E6DEA44D6980606DADFF1109A57F066A2A29F66E3E5B58768EFF66982D37` | Not yet extracted |
-| `Miscellaneous/Multipacks/5-Packs/1988 5-Packs _ Hot Wheels Wiki _ Fandom.html` | 330146 | `D9BED6B37B4B799D730251BCAE72EEE4D6306B38A0EB1DCE415FEC010D7D128A` | Not yet extracted |
-| `Miscellaneous/Multipacks/5-Packs/1989 5-Packs _ Hot Wheels Wiki _ Fandom.html` | 326259 | `9703A03A7A2221651346847E5C4CE20CD9847D64E8D617BBE735C48CDCD22928` | Not yet extracted |
+| `Miscellaneous/Multipacks/5-Packs/1985 5-Packs _ Hot Wheels Wiki _ Fandom.html` | 308218 | `EC256C4A7BDA991745877F345CA36563A8164AFA345790B3966797AAE8351A68` | Extracted + QA |
+| `Miscellaneous/Multipacks/5-Packs/1986 5-Packs _ Hot Wheels Wiki _ Fandom.html` | 311964 | `70D9E71856277E6627EE7812FA351B8B2B0A507965CDB178DB2F934A01D27A50` | Extracted + QA |
+| `Miscellaneous/Multipacks/5-Packs/1987 5-Packs _ Hot Wheels Wiki _ Fandom.html` | 312313 | `F718E6DEA44D6980606DADFF1109A57F066A2A29F66E3E5B58768EFF66982D37` | Extracted + QA |
+| `Miscellaneous/Multipacks/5-Packs/1988 5-Packs _ Hot Wheels Wiki _ Fandom.html` | 330146 | `D9BED6B37B4B799D730251BCAE72EEE4D6306B38A0EB1DCE415FEC010D7D128A` | Extracted + QA |
+| `Miscellaneous/Multipacks/5-Packs/1989 5-Packs _ Hot Wheels Wiki _ Fandom.html` | 326259 | `9703A03A7A2221651346847E5C4CE20CD9847D64E8D617BBE735C48CDCD22928` | Extracted + QA |
 | `Miscellaneous/Multipacks/5-Packs/1990 5-Packs _ Hot Wheels Wiki _ Fandom.html` | 314696 | `C061B7E6A0DFBEFEAB29FCD44C84F7F7315A20F7DFC74AEDF930DC1C1DCE62CC` | Not yet extracted |
 | `Miscellaneous/Multipacks/5-Packs/1991 5-Packs _ Hot Wheels Wiki _ Fandom.html` | 313817 | `EF22A3CBD60A48119D942EC52434B9BA3C4B8308C9ACA0BC76F835BAC08304FC` | Not yet extracted |
 | `Miscellaneous/Multipacks/5-Packs/1992 5-Packs _ Hot Wheels Wiki _ Fandom.html` | 325179 | `4CF09C2A92E5FFD2D435ED2E9E34DFA0EF231B30A2AB5890DAABE745BFD19ECC` | Not yet extracted |
@@ -97,3 +97,20 @@ Processed 5 pages: 2011 Multi-Pack Exclusives, 2023 Multi-Pack Exclusives, 2-Pac
 Batch 2 totals: 5 pages, 37 product tables, 184 product rows. CSVs use the 21-column extraction schema; QA reports record source SHA, revision, exclusions, and validation.
 
 Next batch: continue Miscellaneous/Multipacks in manifest order, 5 pages at a time.
+
+
+## Batch 3: Miscellaneous/Multipacks/5-Packs
+
+Processed 5 pages: 1985, 1986, 1987, 1988, and 1989 5-Packs.
+
+| Source page | Revision | Product tables | Product rows | CSV |
+|---|---:|---:|---:|---|
+| `Miscellaneous/Multipacks/5-Packs/1985 5-Packs _ Hot Wheels Wiki _ Fandom.html` | 611155 | 1 | 1 | `research/extractions/MISCELLANEOUS-1985-5-PACKS-PRODUCT-TABLES.csv` |
+| `Miscellaneous/Multipacks/5-Packs/1986 5-Packs _ Hot Wheels Wiki _ Fandom.html` | 720650 | 1 | 4 | `research/extractions/MISCELLANEOUS-1986-5-PACKS-PRODUCT-TABLES.csv` |
+| `Miscellaneous/Multipacks/5-Packs/1987 5-Packs _ Hot Wheels Wiki _ Fandom.html` | 611157 | 1 | 4 | `research/extractions/MISCELLANEOUS-1987-5-PACKS-PRODUCT-TABLES.csv` |
+| `Miscellaneous/Multipacks/5-Packs/1988 5-Packs _ Hot Wheels Wiki _ Fandom.html` | 782275 | 1 | 7 | `research/extractions/MISCELLANEOUS-1988-5-PACKS-PRODUCT-TABLES.csv` |
+| `Miscellaneous/Multipacks/5-Packs/1989 5-Packs _ Hot Wheels Wiki _ Fandom.html` | 799652 | 1 | 7 | `research/extractions/MISCELLANEOUS-1989-5-PACKS-PRODUCT-TABLES.csv` |
+
+Batch 3 totals: 5 pages, 5 product tables, 23 product rows. CSVs use the 21-column extraction schema; QA reports record source SHA, revision, exclusions, and validation.
+
+Next batch: continue Miscellaneous/Multipacks/5-Packs in manifest order, 5 pages at a time.
