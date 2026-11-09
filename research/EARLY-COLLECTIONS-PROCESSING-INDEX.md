@@ -16,7 +16,7 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total.
 | `Flying_Colors.htm` | `7416dad03fc92b77384fc132e0001366744148ac` | 779454 | Extracted + QA |
 | `Grand Prix _ Hot Wheels Wiki _ Fandom.html` | `d23ef8f6f24209353e1c8e9af4c8861fd5d7c25a` | 326614 | Extracted + QA |
 | `Heavy Chevy _ Hot Wheels Wiki _ Fandom.html` | `1b710580762e9947170e92376c9410c4c8683d92` | 454373 | Extracted + QA |
-| `Heavyweights _ Hot Wheels Wiki _ Fandom.html` | `03da68718f75d6951cb802b9c3aa11e949a0d89f` | 327948 | Not yet extracted |
+| `Heavyweights _ Hot Wheels Wiki _ Fandom.html` | `03da68718f75d6951cb802b9c3aa11e949a0d89f` | 327948 | Extracted + QA |
 | `HiRakers _ Hot Wheels Wiki _ Fandom.html` | `15ce02f85796913b6b1cd9f27b66348f9416e18e` | 354036 | Not yet extracted |
 | `Hot Wheels 30th Anniversary 4-Car Set _ Hot Wheels Wiki _ Fandom.html` | `b278df831c1539c16f123cf442511afe4892015e` | 326597 | Not yet extracted |
 | `King Kuda _ Hot Wheels Wiki _ Fandom.html` | `5a5572d63d083f36a105c7b810728a7d02134c6d` | 480117 | Not yet extracted |
@@ -145,3 +145,10 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total.
 - Four product tables (Versions, 100% Versions, Retooled Versions, Code 3), 44 product rows, and 33 separate Gallery references.
 - Repeated Toy # values remain separate rows. Original table schemas, cell values and image metadata are preserved.
 - Export: `research/extractions/EARLY-COLLECTIONS-HEAVY-CHEVY.csv`; QA: `research/extractions/EARLY-COLLECTIONS-HEAVY-CHEVY-EXTRACTION-QA.md`.
+
+
+### Heavyweights
+- Source: `Early Collections/Heavyweights _ Hot Wheels Wiki _ Fandom.html`; Git blob SHA `03da68718f75d6951cb802b9c3aa11e949a0d89f`; manifest SHA-256 `69DC67CEF81E13FD6D5D11BE08F6B1AA07F49DA0EBE768D77C103A72B031F8F9`; Fandom revision 767901.
+- No conventional product table. 13 gallery references: 6 under Castings In Series (no explicit year heading) and 7 explicitly under 1971.
+- Image metadata and links retained; no unstated year, Toy # or product facts inferred.
+- Export: `research/extractions/EARLY-COLLECTIONS-HEAVYWEIGHTS.csv`; QA: `research/extractions/EARLY-COLLECTIONS-HEAVYWEIGHTS-EXTRACTION-QA.md`.
