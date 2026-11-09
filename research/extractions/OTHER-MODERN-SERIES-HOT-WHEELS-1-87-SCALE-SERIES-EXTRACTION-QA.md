@@ -6,7 +6,7 @@
 - Source path: `Other Modern Series/Hot Wheels 1_87 Scale Series _ Hot Wheels Wiki _ Fandom.html`
 - Git blob SHA: `1d4274b87fc32af75aae788b65f8d985e813d69e`
 - Manifest file size: 424,346 bytes
-- Manifest SHA-256: `AC3D63F481E6DE68A68B983B16543A62AAF862D5620FC9B4E5BDE086AA165`
+- Manifest SHA-256: `AC3D63F481E6DE68A68B983B16543A62AAF862D5620FC9B4E5BDE086786AA165`
 - Extraction date: 2026-11-09
 
 ## Extraction results
