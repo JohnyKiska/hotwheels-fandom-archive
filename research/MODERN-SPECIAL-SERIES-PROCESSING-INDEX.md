@@ -7,7 +7,7 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 - Source pages: 223
 - Total source size: 92,291,750 bytes (88.02 MiB)
 - Inventory source: repository `MANIFEST.csv` and GitHub directory/tree entries.
-- Extraction status: 148 of 223 source pages have CSV and QA artifacts confirmed; remaining 75 pages are marked Not yet extracted.
+- Extraction status: 153 of 223 source pages have CSV and QA artifacts confirmed; remaining 70 pages are marked Not yet extracted.
 - This index is an inventory baseline, not a claim that each file represents one distinct product series.
 
 ## Source folder breakdown
@@ -183,11 +183,11 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 | `Modern Special Series/Lamborghini Countach (Sizzlers) _ Hot Wheels Wiki _ Fandom.html` | `f0c737a89959aacbf69dafd0c068dd1aeee61e79` | 340166 | `F21BEF305006B211D89F039F453E9AECDC067D03EE4AB2C7B7EE957FFE7C72F5` | Extracted + QA |
 | `Modern Special Series/Larry's Garage (2009) _ Hot Wheels Wiki _ Fandom.html` | `6cfcfcaff6fb9ff809d8002131bcc8dad7286fc6` | 468017 | `9AD3C6D0F8FAD29F9674E492397A2F4C6728A7E8937CCD33FC17C4AF14061E16` | Extracted + QA |
 | `Modern Special Series/Larry's Garage 21-Car Collection _ Hot Wheels Wiki _ Fandom.html` | `0995e3b2e42198570bd16806d78e3c5757728847` | 348321 | `67CE8E534F7B998FF003680BB6B98E83FE749037B0FD95A7CADD472FD9AF24D6` | Extracted + QA |
-| `Modern Special Series/Larry's Garage Holiday (2009) _ Hot Wheels Wiki _ Fandom.html` | `8f06e44363808016b4757162a3251ac5731d87f9` | 335172 | `2166B8583216FF1AD9E69620061B622BEACC2A445AB9A7B65EA2F9788695D24D` | Not yet extracted |
-| `Modern Special Series/List of 2010 Hot Wheels _ Hot Wheels Wiki _ Fandom.html` | `3e72a750319e00236b1c495c342bba3b9539dc94` | 808686 | `C0E219AF45127688B26C56DF6FD78BCD05FBF912CD942EFCAE7F93705B9CD931` | Not yet extracted |
-| `Modern Special Series/List of 2013 Hot Wheels _ Hot Wheels Wiki _ Fandom.html` | `71b9118f2d89bcb902f5af2f150c215171221878` | 827451 | `3011EEA03292C117627164113F83DBB5D05C41EC3A8229B7B1C998508AFFE812` | Not yet extracted |
-| `Modern Special Series/List of 2014 Hot Wheels _ Hot Wheels Wiki _ Fandom.html` | `1e783b2afc09b732525ecd936e795ad4c5674bf9` | 831825 | `CF0CFCCA41489A70ADB886F336E588157BB5C5401951DD8388F8300E99CFB4FD` | Not yet extracted |
-| `Modern Special Series/List of 2015 Hot Wheels _ Hot Wheels Wiki _ Fandom.html` | `8b28669c7960e0eaf0b8ceb47ca44ab51b48d200` | 815228 | `6676CC23B7AD5615A9F88AEA0CE7E48615D2555D85F296DD877410D17EC57F4E` | Not yet extracted |
+| `Modern Special Series/Larry's Garage Holiday (2009) _ Hot Wheels Wiki _ Fandom.html` | `8f06e44363808016b4757162a3251ac5731d87f9` | 335172 | `2166B8583216FF1AD9E69620061B622BEACC2A445AB9A7B65EA2F9788695D24D` | Extracted + QA |
+| `Modern Special Series/List of 2010 Hot Wheels _ Hot Wheels Wiki _ Fandom.html` | `3e72a750319e00236b1c495c342bba3b9539dc94` | 808686 | `C0E219AF45127688B26C56DF6FD78BCD05FBF912CD942EFCAE7F93705B9CD931` | Extracted + QA |
+| `Modern Special Series/List of 2013 Hot Wheels _ Hot Wheels Wiki _ Fandom.html` | `71b9118f2d89bcb902f5af2f150c215171221878` | 827451 | `3011EEA03292C117627164113F83DBB5D05C41EC3A8229B7B1C998508AFFE812` | Extracted + QA |
+| `Modern Special Series/List of 2014 Hot Wheels _ Hot Wheels Wiki _ Fandom.html` | `1e783b2afc09b732525ecd936e795ad4c5674bf9` | 831825 | `CF0CFCCA41489A70ADB886F336E588157BB5C5401951DD8388F8300E99CFB4FD` | Extracted + QA |
+| `Modern Special Series/List of 2015 Hot Wheels _ Hot Wheels Wiki _ Fandom.html` | `8b28669c7960e0eaf0b8ceb47ca44ab51b48d200` | 815228 | `6676CC23B7AD5615A9F88AEA0CE7E48615D2555D85F296DD877410D17EC57F4E` | Extracted + QA |
 | `Modern Special Series/Live Wire (Sizzlers) _ Hot Wheels Wiki _ Fandom.html` | `bc0adb4d9a1038958875ab82c3d70266edf4cc9b` | 342724 | `C46F881CBB5BBA04937D01C2B7636B5B5E97DA3F013240165F3F3CCF39A2D84D` | Not yet extracted |
 | `Modern Special Series/Longcount _ Hot Wheels Wiki _ Fandom.html` | `88eaeb700c82d794da07440ded5eb6c0bd25dbd5` | 331830 | `13CB23C94F2D5B693F8FD5ED6501EE82E8047EDC947DFF3E5C48FB16656AA11A` | Not yet extracted |
 | `Modern Special Series/Mario Kart _ Hot Wheels Wiki _ Fandom.html` | `eb9785087aee100e488b0c6d40b3cd62fe2d75d4` | 685858 | `DA042A51628AC304FB9596E6280EC4CF1C3E90CCAD70F089AE627B7413D81BF6` | Not yet extracted |
@@ -816,3 +816,8 @@ Seven source pages extracted and QA-reviewed. Batch total: 15 retained product t
 
 The Manifest and processing index list `Modern Special Series/Hot Wheels Classics _ Hot Wheels Wiki _ Fandom.html` at 1,450,750 bytes with Git blob SHA `70d9be50320809395b6a4d7fd220dd96a5ac9ad2`, but GitHub `fetch_file` returned empty content in both UTF-8 and base64 modes. No extraction was accepted; temporary empty CSV/QA artifacts were removed. The source remains `Not yet extracted` pending a successful retrieval method.
 
+
+
+## Latest extraction batch: Modern Special Series (Larry's Garage Holiday 2009 through List of 2015 Hot Wheels), 2026-11-09
+
+Five source pages extracted and QA-reviewed. Batch total: 128 retained product tables, 1,759 product rows, 1,765 embedded table image references, and 4,102 links in product cells. All five pages have individual QA reports and 21-column CSVs. The four annual catalog CSVs are split into two ordered parts each to keep individual files retrievable; Larry's Garage Holiday is a single CSV. Gallery-only items were not independently extracted in this pass.
