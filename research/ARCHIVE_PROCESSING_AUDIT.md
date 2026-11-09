@@ -506,3 +506,14 @@ The archived `Early Collections/` inventory contains 33 HTML/HTM pages. 32 of 33
 - AcceleRacers Collectible Card Game: 2 tables, 279 rows (4 Releases and 275 Cards), 554 embedded image references, 2 Gallery items.
 - CSV and QA files were created for all five pages. Each page-level QA records source path, Git blob SHA, manifest SHA-256, source size, table boundaries, and extracted counts.
 - Detailed source-level records: `research/MODERN-SPECIAL-SERIES-PROCESSING-INDEX.md`.
+
+
+### Modern Special Series batch: AcceleRacers 2005/2006/2025, Airy 8, Anteater
+- Five more pages extracted and QA-reviewed; progress is now 22 of 223 pages.
+- AcceleRacers 2005: 5 tables, 51 rows, 91 embedded image references, 13 Gallery items.
+- AcceleRacers 2006: 7 extracted tables, 33 rows, 66 embedded image references; one small table fell below the two-data-row extraction threshold and is flagged for review.
+- AcceleRacers 2025: 2 tables, 7 rows, 10 embedded image references, 3 Gallery items; one table under a Gallery heading is preserved as source table data pending semantic review.
+- Airy 8: 1 table, 16 rows, 15 embedded image references, 6 Gallery items.
+- Anteater: 1 table, 9 rows, 9 embedded image references.
+- All ten CSV and QA files were re-fetched from GitHub and verified non-empty.
+- Detailed source-level counts and output paths are recorded in `research/MODERN-SPECIAL-SERIES-PROCESSING-INDEX.md`.
