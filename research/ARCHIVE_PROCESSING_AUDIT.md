@@ -459,7 +459,7 @@ The archived `Early Collections/` inventory contains 33 HTML/HTM pages. 32 of 33
 
 - Initial inventory completed: 223 archived HTML pages, 92,291,750 bytes total (88.02 MiB).
 - Sources are distributed across 151 immediate source folders, including several large multi-year families. Folder names are retained as provenance and are not canonical product taxonomy.
-- Seven of 223 pages have now been extracted and QA-reviewed. Processing proceeds in batches with per-page extraction and QA.
+- Twelve of 223 pages have now been extracted and QA-reviewed. Processing proceeds in batches with per-page extraction and QA.
 - Detailed inventory: `research/MODERN-SPECIAL-SERIES-PROCESSING-INDEX.md`.
 
 
@@ -484,3 +484,14 @@ The archived `Early Collections/` inventory contains 33 HTML/HTM pages. 32 of 33
 - 2002 100% Hot Wheels: 1 table, 32 rows, 33 image references; Collector # and Toy # retained separately.
 - All ten CSV and QA outputs were re-fetched from GitHub and verified for non-empty content and expected structure.
 - Detailed source-level counts and links are recorded in `research/MODERN-SPECIAL-SERIES-PROCESSING-INDEX.md`.
+
+### Modern Special Series batch: 2003-2006 and 1:43 Scale
+- Five additional pages extracted and QA-reviewed, bringing Modern Special Series progress to 12 of 223 pages.
+- 2003 100% Hot Wheels: 1 table, 33 rows, 33 image references.
+- 2004 Showcase Hot Wheels: 9 tables, 70 rows, 140 image references, 33 separate Gallery items.
+- 2005 Showcase Hot Wheels: 4 tables, 22 rows, 22 image references.
+- 2006 Kalifornia Kustoms: 1 table, 12 rows, 24 image references, 4 separate Gallery items.
+- Hot Wheels Collectibles 1:43 Scale: 3 tables, 23 rows, 46 image references.
+- All ten CSV and QA outputs were re-fetched from GitHub and verified for non-empty content and expected structure.
+- The complete `100% Hot Wheels` source folder is now extracted and QA-reviewed: 12 of 12 pages.
+- Detailed source-level counts and output paths are recorded in `research/MODERN-SPECIAL-SERIES-PROCESSING-INDEX.md`.
