@@ -138,3 +138,23 @@ A repository-tree reconciliation found 633 CSV exports, 530 page-level extractio
 Manifest reconciliation commit: `0ebeb79cdf691277efd687de34cfc30123376b90`.
 
 This is a filename-level reconciliation milestone, not completion of the full CSV structural audit or the entire 530-report content review. The unresolved USA QA gap and full declared-output review remain open. Gallery extraction remains blocked until all 633 CSVs have passed the full audit and the QA/output-path reconciliation is closed.
+
+
+## Early Collections structural audit batch (2026-11-09)
+
+Ten Early Collections CSV exports were re-fetched and parsed with CSV-aware quoting rules. Each file was checked against its own header width; no cross-file/global schema was imposed.
+
+| CSV | Data rows | Header columns | Width errors | Blank rows | Exact duplicate extra rows |
+|---|---:|---:|---:|---:|---:|
+| EARLY-COLLECTIONS-30TH-ANNIVERSARY-4-CAR-SET.csv | 4 | 20 | 0 | 0 | 0 |
+| EARLY-COLLECTIONS-ACTION-COMMAND.csv | 38 | 16 | 0 | 0 | 0 |
+| EARLY-COLLECTIONS-BOSS-HOSS.csv | 55 | 21 | 0 | 0 | 0 |
+| EARLY-COLLECTIONS-CLASSICS.csv | 25 | 18 | 0 | 0 | 0 |
+| EARLY-COLLECTIONS-CLASSY-CUSTOMS.csv | 14 | 21 | 0 | 0 | 0 |
+| EARLY-COLLECTIONS-DRAG-STRIPPERS.csv | 19 | 21 | 0 | 0 | 0 |
+| EARLY-COLLECTIONS-EVIL-WEEVIL.csv | 37 | 23 | 0 | 0 | 0 |
+| EARLY-COLLECTIONS-EXTRAS.csv | 9 | 23 | 0 | 0 | 0 |
+| EARLY-COLLECTIONS-FLYING-COLORS.csv | 213 | 22 | 0 | 0 | 0 |
+| EARLY-COLLECTIONS-GRAND-PRIX.csv | 12 | 26 | 0 | 0 | 0 |
+
+All ten also passed balanced-quote, BOM, U+FFFD, empty-header and duplicate-header checks. No exact duplicate data rows were found. Source rows and repeated Toy # values were not deduplicated or otherwise altered. The manifest records these ten files as checked. Manifest update commit: `f78593385de3eb7c1660271e3bc4e626b347d8a7`.
