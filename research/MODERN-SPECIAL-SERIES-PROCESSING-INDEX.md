@@ -232,11 +232,11 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 | `Modern Special Series/Replica Entertainment/2014 Hot Wheels Entertainment _ Hot Wheels Wiki _ Fandom.html` | `d31f042748a8c90c86421609e429734a832fbe13` | 382410 | `388342CF83E8E9DFED955D92328FB1E9CEE3B8DF15B57E269110C434D2C82903` | Extracted + QA |
 | `Modern Special Series/Replica Entertainment/2015 Hot Wheels Entertainment _ Hot Wheels Wiki _ Fandom.html` | `183088cdd69b78f85e8979b2f403ba9697194634` | 362322 | `510421F9317B72EC12B6BF153D8C7E5CF247C06E90D103244678F4A4591AC556` | Extracted + QA |
 | `Modern Special Series/Replica Entertainment/2016 Hot Wheels Entertainment _ Hot Wheels Wiki _ Fandom.html` | `90acdb93b2e435d789a851316d2926ce2758f2a2` | 361533 | `B5E5FA3AFB5F53FBF22852B2749690D71F93DD72F31EF80F7CA99775BD4F0C20` | Extracted + QA |
-| `Modern Special Series/Replica Entertainment/2017 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html` | `0f3d57aa1626e5f5447a82818e10edbd0edbcfb0` | 369836 | `DF6547E16F256617C8A6FFC1C4F3BC776AC11570154DA1091C7F8E374F068D87` | Not yet extracted |
-| `Modern Special Series/Replica Entertainment/2018 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html` | `333306777b5e037c77fb540b53176642be4c2bb4` | 353525 | `5660507C4BB0E50D182EEDA78D98604F3E8D30DB3EB393DCA7754D0FF8941890` | Not yet extracted |
-| `Modern Special Series/Replica Entertainment/2019 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html` | `03eba840da7a72df3cbea40eea6533f89528d8c3` | 358504 | `881B58DFF1F3149DBDBB6A00AFC1B4F034186FA6E404C09D0E0DFD23043C9CAC` | Not yet extracted |
-| `Modern Special Series/Replica Entertainment/2020 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html` | `344640559dc81e9f3590e4e1dcf74e4461b128d2` | 357680 | `BA2207BD9FC0AC672F5418C07FDF484867AA9B06DFFD3A95C102F484A7BE25E8` | Not yet extracted |
-| `Modern Special Series/Replica Entertainment/2021 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html` | `8579d3db963436c5d186e6fbd351f5d4fa1cc5b8` | 355855 | `6D37C39862358160B2DC9BEE3649EA7BC367C3AFA43B988258E31CFA9523DEE3` | Not yet extracted |
+| `Modern Special Series/Replica Entertainment/2017 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html` | `0f3d57aa1626e5f5447a82818e10edbd0edbcfb0` | 369836 | `DF6547E16F256617C8A6FFC1C4F3BC776AC11570154DA1091C7F8E374F068D87` | Extracted + QA |
+| `Modern Special Series/Replica Entertainment/2018 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html` | `333306777b5e037c77fb540b53176642be4c2bb4` | 353525 | `5660507C4BB0E50D182EEDA78D98604F3E8D30DB3EB393DCA7754D0FF8941890` | Extracted + QA |
+| `Modern Special Series/Replica Entertainment/2019 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html` | `03eba840da7a72df3cbea40eea6533f89528d8c3` | 358504 | `881B58DFF1F3149DBDBB6A00AFC1B4F034186FA6E404C09D0E0DFD23043C9CAC` | Extracted + QA |
+| `Modern Special Series/Replica Entertainment/2020 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html` | `344640559dc81e9f3590e4e1dcf74e4461b128d2` | 357680 | `BA2207BD9FC0AC672F5418C07FDF484867AA9B06DFFD3A95C102F484A7BE25E8` | Extracted + QA |
+| `Modern Special Series/Replica Entertainment/2021 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html` | `8579d3db963436c5d186e6fbd351f5d4fa1cc5b8` | 355855 | `6D37C39862358160B2DC9BEE3649EA7BC367C3AFA43B988258E31CFA9523DEE3` | Extracted + QA |
 | `Modern Special Series/Replica Entertainment/2022 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html` | `e27942eb5417d9577782edf507164f8b159a5fca` | 415746 | `365DB71D33E83AFE37EF4F050A4F51318612DD38AD9DC46FC164646B7F569D77` | Not yet extracted |
 | `Modern Special Series/Replica Entertainment/2023 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html` | `857eafb5c8c4c450d8a5cd3b481bd3782ceac5c8` | 353528 | `2F646F84FC21BC64938FBBF480A9ED510B9A0CAB76259A3158AB5605CD9C2758` | Not yet extracted |
 | `Modern Special Series/Retro Style Series (2016) _ Hot Wheels Wiki _ Fandom.html` | `3997d51257d4cfe45d481c3f0b5eda6545cba533` | 379239 | `3D15F1E7F1020CC89B9CD93179B7FE123179F0589FDADD9F8097DC59732D284C` | Not yet extracted |
@@ -1004,5 +1004,22 @@ Source blob SHAs, manifest SHA-256 values, and byte sizes are retained in each C
 | `Modern Special Series/Replica Entertainment/2016 Hot Wheels Entertainment _ Hot Wheels Wiki _ Fandom.html` | 693906 | 5 | 22 | 40 | 89 | `research/extractions/MODERN-SPECIAL-SERIES-2016-HOT-WHEELS-ENTERTAINMENT.csv` | `research/extractions/MODERN-SPECIAL-SERIES-2016-HOT-WHEELS-ENTERTAINMENT-EXTRACTION-QA.md` |
 
 **Batch totals:** 26 product tables, 131 product rows, 227 embedded image references, 539 retained links.
+
+Source blob SHAs, manifest SHA-256 values, and byte sizes are retained in each CSV and QA report.
+
+
+## Latest extraction batch: Replica Entertainment 2017–2021, 2026-11-09
+
+Five annual source pages extracted and QA-reviewed. Batch total: 21 retained product tables, 103 product rows, 206 embedded table image references, and 400 links in product cells. Each page has a 21-column CSV and individual QA report. Separate Gallery items have not been independently extracted in this pass.
+
+| Source page | Revision | Tables | Rows | Images | Links | CSV | QA |
+|---|---:|---:|---:|---:|---:|---|---|
+| `Modern Special Series/Replica Entertainment/2017 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html` | 691876 | 5 | 25 | 50 | 94 | `research/extractions/MODERN-SPECIAL-SERIES-2017-REPLICA-ENTERTAINMENT.csv` | `research/extractions/MODERN-SPECIAL-SERIES-2017-REPLICA-ENTERTAINMENT-EXTRACTION-QA.md` |
+| `Modern Special Series/Replica Entertainment/2018 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html` | 792792 | 4 | 17 | 34 | 65 | `research/extractions/MODERN-SPECIAL-SERIES-2018-REPLICA-ENTERTAINMENT.csv` | `research/extractions/MODERN-SPECIAL-SERIES-2018-REPLICA-ENTERTAINMENT-EXTRACTION-QA.md` |
+| `Modern Special Series/Replica Entertainment/2019 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html` | 792793 | 4 | 21 | 42 | 80 | `research/extractions/MODERN-SPECIAL-SERIES-2019-REPLICA-ENTERTAINMENT.csv` | `research/extractions/MODERN-SPECIAL-SERIES-2019-REPLICA-ENTERTAINMENT-EXTRACTION-QA.md` |
+| `Modern Special Series/Replica Entertainment/2020 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html` | 792794 | 4 | 20 | 40 | 80 | `research/extractions/MODERN-SPECIAL-SERIES-2020-REPLICA-ENTERTAINMENT.csv` | `research/extractions/MODERN-SPECIAL-SERIES-2020-REPLICA-ENTERTAINMENT-EXTRACTION-QA.md` |
+| `Modern Special Series/Replica Entertainment/2021 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html` | 737627 | 4 | 20 | 40 | 81 | `research/extractions/MODERN-SPECIAL-SERIES-2021-REPLICA-ENTERTAINMENT.csv` | `research/extractions/MODERN-SPECIAL-SERIES-2021-REPLICA-ENTERTAINMENT-EXTRACTION-QA.md` |
+
+**Batch totals:** 21 product tables, 103 product rows, 206 embedded image references, 400 retained links.
 
 Source blob SHAs, manifest SHA-256 values, and byte sizes are retained in each CSV and QA report.
