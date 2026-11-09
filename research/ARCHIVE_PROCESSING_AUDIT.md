@@ -413,7 +413,7 @@ The archived `Early Collections/` inventory contains 33 HTML/HTM source pages. A
 
 ## 7. Early Collections extraction progress update
 
-The archived `Early Collections/` inventory contains 33 HTML/HTM pages. 30 of 33 pages have now been extracted and QA-reviewed.
+The archived `Early Collections/` inventory contains 33 HTML/HTM pages. 31 of 33 pages have now been extracted and QA-reviewed.
 
 ### The Hot Ones (1981)
 - One archived source page, Fandom revision 811612.
@@ -423,4 +423,13 @@ The archived `Early Collections/` inventory contains 33 HTML/HTM pages. 30 of 33
 - Total extraction output: 117 CSV records.
 - Output: `research/extractions/EARLY-COLLECTIONS-THE-HOT-ONES-1981.csv`.
 - QA: `research/extractions/EARLY-COLLECTIONS-THE-HOT-ONES-1981-EXTRACTION-QA.md`.
-- Three Early Collections pages remain unprocessed. Continue from the processing index; preserve each source table and gallery as separate evidence.
+- Two Early Collections pages remain unprocessed. Continue from the processing index; preserve each source table and gallery as separate evidence.
+
+
+### Trailbusters
+- Processing status: 31 of 33 Early Collections pages extracted and QA-reviewed.
+- Source: `Early Collections/Trailbusters _ Hot Wheels Wiki _ Fandom.html`; Fandom revision 763267; source size 395,265 bytes.
+- One unheaded 9-column product table, 49 rows. 18 distinct Toy # values; 17 repeated Toy # groups preserved separately. 97 embedded image references retained in Photo Loose/Carded cells; no separate standard Gallery items detected.
+- Output: `research/extractions/EARLY-COLLECTIONS-TRAILBUSTERS.csv` (49 records).
+- QA: `research/extractions/EARLY-COLLECTIONS-TRAILBUSTERS-EXTRACTION-QA.md`.
+- Two Early Collections pages remain unprocessed: Ultra Hots Series (1984) and Workhorses.
