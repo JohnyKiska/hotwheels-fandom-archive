@@ -19,7 +19,7 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total.
 | `Heavyweights _ Hot Wheels Wiki _ Fandom.html` | `03da68718f75d6951cb802b9c3aa11e949a0d89f` | 327948 | Extracted + QA |
 | `HiRakers _ Hot Wheels Wiki _ Fandom.html` | `15ce02f85796913b6b1cd9f27b66348f9416e18e` | 354036 | Extracted + QA |
 | `Hot Wheels 30th Anniversary 4-Car Set _ Hot Wheels Wiki _ Fandom.html` | `b278df831c1539c16f123cf442511afe4892015e` | 326597 | Extracted + QA |
-| `King Kuda _ Hot Wheels Wiki _ Fandom.html` | `5a5572d63d083f36a105c7b810728a7d02134c6d` | 480117 | Not yet extracted |
+| `King Kuda _ Hot Wheels Wiki _ Fandom.html` | `5a5572d63d083f36a105c7b810728a7d02134c6d` | 480117 | Extracted + QA |
 | `Light My Firebird _ Hot Wheels Wiki _ Fandom.html` | `49971146f54ec92309098b45b9d807ab13d94ff4` | 385941 | Not yet extracted |
 | `Megaforce_Series.htm` | `ddf69edec1c115ae4079644863a6f461814d6f98` | 315056 | Not yet extracted |
 | `Nitty Gritty Kitty _ Hot Wheels Wiki _ Fandom.html` | `fe1c9f1b2220692cd1c0f08cac45d1e698742831` | 400436 | Not yet extracted |
@@ -166,3 +166,17 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total.
 - One product table, 4 vehicle rows, 11 source columns. Source Year cell contains 19322 with rowspan=4; preserved as source value, not treated as calendar year. Separate Toy # also 19322 on each row.
 - Models: Nitty Gritty Kitty, Heavy Chevy, King 'Kuda, Light My Firebird. Raw cell HTML, rowspan context, model links and photo metadata retained.
 - Export: `research/extractions/EARLY-COLLECTIONS-30TH-ANNIVERSARY-4-CAR-SET.csv`; QA: `research/extractions/EARLY-COLLECTIONS-30TH-ANNIVERSARY-4-CAR-SET-EXTRACTION-QA.md`.
+
+
+### King Kuda
+- Source: `Early Collections/King Kuda _ Hot Wheels Wiki _ Fandom.html`
+- Git blob SHA: `5a5572d63d083f36a105c7b810728a7d02134c6d`
+- Manifest SHA-256: `E8D78A5DA662670E38C7EB158A176E1E348FCFD414894BFA5F8E6B6C02EFED5D`
+- Fandom revision ID: 795222.
+- Four product tables: Original Versions (9 rows), 100% Versions (1), Retooled Versions (23), Code 3 (11), for 44 product rows total.
+- Separate Gallery section: 55 image references. Total CSV records: 99.
+- Table schemas retained independently: Stickers vs Tampo; Code 3 has Body Color and Quantity fields.
+- 33 populated Toy # cells, 22 distinct values. Repeated groups include 6190 (8 rows) and L0738 (5 rows); all rows retained separately.
+- Source years preserved as found (1970, 1998, 2002, 2006–2010, 2017–2019, 2021–2025); raw source values, row order, image metadata and gallery links retained.
+- Export: `research/extractions/EARLY-COLLECTIONS-KING-KUDA.csv`
+- QA: `research/extractions/EARLY-COLLECTIONS-KING-KUDA-EXTRACTION-QA.md`
