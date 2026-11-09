@@ -21,7 +21,7 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total.
 | `Hot Wheels 30th Anniversary 4-Car Set _ Hot Wheels Wiki _ Fandom.html` | `b278df831c1539c16f123cf442511afe4892015e` | 326597 | Extracted + QA |
 | `King Kuda _ Hot Wheels Wiki _ Fandom.html` | `5a5572d63d083f36a105c7b810728a7d02134c6d` | 480117 | Extracted + QA |
 | `Light My Firebird _ Hot Wheels Wiki _ Fandom.html` | `49971146f54ec92309098b45b9d807ab13d94ff4` | 385941 | Extracted + QA |
-| `Megaforce_Series.htm` | `ddf69edec1c115ae4079644863a6f461814d6f98` | 315056 | Not yet extracted |
+| `Megaforce_Series.htm` | `ddf69edec1c115ae4079644863a6f461814d6f98` | 315056 | Extracted + QA |
 | `Nitty Gritty Kitty _ Hot Wheels Wiki _ Fandom.html` | `fe1c9f1b2220692cd1c0f08cac45d1e698742831` | 400436 | Not yet extracted |
 | `Oldies But Goodies _ Hot Wheels Wiki _ Fandom.html` | `d8bac5f967b3a4dd0b0baf79c8708414318fac53` | 336554 | Not yet extracted |
 | `Real Riders _ Hot Wheels Wiki _ Fandom.html` | `f5da19e889612b3922c10500d86640aa2b17071f` | 324388 | Not yet extracted |
@@ -194,3 +194,14 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total.
 - Source years: 1970, 1998, 2000, 2002, 2003, 2006, 2011, 2016.
 - Export: `research/extractions/EARLY-COLLECTIONS-LIGHT-MY-FIREBIRD.csv`
 - QA: `research/extractions/EARLY-COLLECTIONS-LIGHT-MY-FIREBIRD-EXTRACTION-QA.md`
+
+
+### Megaforce Series
+- Source: `Early Collections/Megaforce_Series.htm`
+- Git blob SHA: `ddf69edec1c115ae4079644863a6f461814d6f98`
+- Manifest SHA-256: `690A77F696BFA4E38BA07B8022117EA3F727EE7AFFA1266D780D2F8D65C5006D`
+- Fandom revision ID: 714197.
+- One product table, 7 product rows, 8 source columns. Toy # 5270 occurs on two separate Personnel Carrier rows; both retained.
+- Photo Loose and Photo Carded image metadata, original headers/cells, raw cell HTML and model links retained.
+- Export: `research/extractions/EARLY-COLLECTIONS-MEGAFORCE-SERIES.csv`
+- QA: `research/extractions/EARLY-COLLECTIONS-MEGAFORCE-SERIES-EXTRACTION-QA.md`
