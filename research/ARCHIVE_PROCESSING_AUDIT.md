@@ -409,3 +409,18 @@ The archived `Early Collections/` inventory contains 33 HTML/HTM source pages. A
 - Output: `research/extractions/EARLY-COLLECTIONS-THE-HEAVIES.csv`.
 - QA: `research/extractions/EARLY-COLLECTIONS-THE-HEAVIES-EXTRACTION-QA.md`.
 - Remaining unprocessed Early Collections pages: 5. Continue using the processing index for the next source and preserve source organization as provenance, not canonical product taxonomy.
+
+
+## 7. Early Collections extraction progress update
+
+The archived `Early Collections/` inventory contains 33 HTML/HTM pages. 30 of 33 pages have now been extracted and QA-reviewed.
+
+### The Hot Ones (1981)
+- One archived source page, Fandom revision 811612.
+- Three product tables: Vehicles (90 rows), Patch Card 3-Pack (3 rows), Stamper 3-Pack (4 rows), total 97 product rows.
+- Vehicles: 90 populated Toy # cells, 38 distinct values; 27 repeated Toy # groups are preserved as individual source rows, including country-specific entries.
+- 20 separate Gallery items and 189 embedded product-table image references.
+- Total extraction output: 117 CSV records.
+- Output: `research/extractions/EARLY-COLLECTIONS-THE-HOT-ONES-1981.csv`.
+- QA: `research/extractions/EARLY-COLLECTIONS-THE-HOT-ONES-1981-EXTRACTION-QA.md`.
+- Three Early Collections pages remain unprocessed. Continue from the processing index; preserve each source table and gallery as separate evidence.
