@@ -14,7 +14,7 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total.
 | `Evil Weevil _ Hot Wheels Wiki _ Fandom.html` | `1f58c9c929ca5529421d7e689e5fadcf1ce487ec` | 397979 | Extracted + QA |
 | `Extras _ Hot Wheels Wiki _ Fandom.html` | `e2a591a06e8ae39a455dc264e8cb8c6543c6536b` | 332471 | Extracted + QA |
 | `Flying_Colors.htm` | `7416dad03fc92b77384fc132e0001366744148ac` | 779454 | Extracted + QA |
-| `Grand Prix _ Hot Wheels Wiki _ Fandom.html` | `d23ef8f6f24209353e1c8e9af4c8861fd5d7c25a` | 326614 | Not yet extracted |
+| `Grand Prix _ Hot Wheels Wiki _ Fandom.html` | `d23ef8f6f24209353e1c8e9af4c8861fd5d7c25a` | 326614 | Extracted + QA |
 | `Heavy Chevy _ Hot Wheels Wiki _ Fandom.html` | `1b710580762e9947170e92376c9410c4c8683d92` | 454373 | Not yet extracted |
 | `Heavyweights _ Hot Wheels Wiki _ Fandom.html` | `03da68718f75d6951cb802b9c3aa11e949a0d89f` | 327948 | Not yet extracted |
 | `HiRakers _ Hot Wheels Wiki _ Fandom.html` | `15ce02f85796913b6b1cd9f27b66348f9416e18e` | 354036 | Not yet extracted |
@@ -126,3 +126,14 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total.
 - Five year tables (1974–1978), 212 product rows. Track Sets retained as a separate non-tabular section.
 - Export: `research/extractions/EARLY-COLLECTIONS-FLYING-COLORS.csv`
 - QA: `research/extractions/EARLY-COLLECTIONS-FLYING-COLORS-EXTRACTION-QA.md`
+
+
+### Grand Prix
+- Source: `Early Collections/Grand Prix _ Hot Wheels Wiki _ Fandom.html`
+- Git blob SHA: `d23ef8f6f24209353e1c8e9af4c8861fd5d7c25a`
+- Manifest SHA-256: `undefined`
+- Fandom revision ID: 787981
+- One visual image-layout table under The Cars: 11 vehicle captions and 11 associated image references; one separate Gallery item.
+- The page has no conventional product-data table. Captions are retained as source labels, with no inferred Toy # or structured release/package data.
+- Export: `research/extractions/EARLY-COLLECTIONS-GRAND-PRIX.csv`
+- QA: `research/extractions/EARLY-COLLECTIONS-GRAND-PRIX-EXTRACTION-QA.md`
