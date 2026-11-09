@@ -7,7 +7,7 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 - Source pages: 223
 - Total source size: 92,291,750 bytes (88.02 MiB)
 - Inventory source: repository `MANIFEST.csv` and GitHub directory/tree entries.
-- Extraction status: 153 of 223 source pages have CSV and QA artifacts confirmed; remaining 70 pages are marked Not yet extracted.
+- Extraction status: 158 of 223 source pages have CSV and QA artifacts confirmed; remaining 65 pages are marked Not yet extracted.
 - This index is an inventory baseline, not a claim that each file represents one distinct product series.
 
 ## Source folder breakdown
@@ -812,12 +812,17 @@ Six source pages extracted and QA-reviewed. Batch total: 49 retained product tab
 Seven source pages extracted and QA-reviewed. Batch total: 15 retained product tables, 166 product rows, 286 embedded table image references, and 491 links in product cells. Each page has a 21-column CSV and individual QA report. CSV row counts and column counts were rechecked against all seven QA reports. Gallery-only items were not independently extracted in this pass.
 
 
-### Source retrieval exception: Hot Wheels Classics
+### Source retrieval exception resolved: Hot Wheels Classics
 
-The Manifest and processing index list `Modern Special Series/Hot Wheels Classics _ Hot Wheels Wiki _ Fandom.html` at 1,450,750 bytes with Git blob SHA `70d9be50320809395b6a4d7fd220dd96a5ac9ad2`, but GitHub `fetch_file` returned empty content in both UTF-8 and base64 modes. No extraction was accepted; temporary empty CSV/QA artifacts were removed. The source remains `Not yet extracted` pending a successful retrieval method.
+The standard contents endpoint returned empty content for this 1,450,750-byte source, but retrieval by its Git blob SHA succeeded. The complete page was extracted into six ordered CSV parts and QA-reviewed; the source is now marked `Extracted + QA`.
 
 
 
 ## Latest extraction batch: Modern Special Series (Larry's Garage Holiday 2009 through List of 2015 Hot Wheels), 2026-11-09
 
 Five source pages extracted and QA-reviewed. Batch total: 128 retained product tables, 1,759 product rows, 1,765 embedded table image references, and 4,102 links in product cells. All five pages have individual QA reports and 21-column CSVs. The four annual catalog CSVs are split into two ordered parts each to keep individual files retrievable; Larry's Garage Holiday is a single CSV. Gallery-only items were not independently extracted in this pass.
+
+
+## Latest extraction batch: Modern Special Series (Hot Wheels Classics through McDonald's AcceleRacers Series), 2026-11-09
+
+Five source pages extracted and QA-reviewed. Batch total: 21 retained product tables, 849 product rows, 1,584 embedded table image references, and 3,215 links in product cells. Hot Wheels Classics is split into six ordered CSV parts, Mario Kart into two ordered parts, and the other three pages each have one CSV. All five pages have individual QA reports and 21-column CSVs. Hot Wheels Classics was retrieved successfully by Git blob SHA after the contents endpoint returned empty content. Gallery-only items were not independently extracted in this pass.
