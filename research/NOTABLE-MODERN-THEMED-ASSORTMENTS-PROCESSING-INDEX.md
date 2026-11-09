@@ -7,7 +7,7 @@ Scope: archived HTML/HTM source pages under `Notable Modern Themed Assortments/`
 - Source pages: 57
 - Total source size: 20,744,066 bytes
 - Inventory source: recursive Git tree and repository `MANIFEST.csv`.
-- Extraction status: 30 of 57 pages extracted and QA-reviewed; 27 remaining.
+- Extraction status: 35 of 57 pages extracted and QA-reviewed; 22 remaining.
 - Source SHA-256 values are copied from the repository manifest. Git blob SHAs identify the exact archived HTML blobs.
 
 ## File inventory and processing status
@@ -44,11 +44,11 @@ Scope: archived HTML/HTM source pages under `Notable Modern Themed Assortments/`
 | `Notable Modern Themed Assortments/HW Winter/HW Winter Series (2022) _ Hot Wheels Wiki _ Fandom.html` | `fdfcd7a4fa45303bea3f44519fab600d5285a3fb` | 332987 | `9AD5292B0FAEA5F842E0277F47AB527F3C21DE3EF3EFC7288B8451CCE0C8D0E4` | Extracted + QA |
 | `Notable Modern Themed Assortments/HW Winter/HW Winter Series (2023) _ Hot Wheels Wiki _ Fandom.html` | `69ad7901bca7bbe1e595321a1fd2fc8d29de0bb7` | 325214 | `03AE98513437241BE419E15FB99B058C5A0C4E0B17426B067E42D90426F2B037` | Extracted + QA |
 | `Notable Modern Themed Assortments/HW Winter/HW Winter Series (2024) _ Hot Wheels Wiki _ Fandom.html` | `50723a30fc344968dbf05506803e245f04be22a6` | 338438 | `0962988173148951EF0449789B7D3811A0C9A60271BE0222698465EBAF7A4C66` | Extracted + QA |
-| `Notable Modern Themed Assortments/Halloween Highway Series _ Hot Wheels Wiki _ Fandom.html` | `ce975b116e40391fb3bca05288958982001bbf08` | 352381 | `1FACB48E88B231DEDF00FD7909F58DB60946866663BA4E5C0A9317AA1B6A09A9` | Not yet extracted |
-| `Notable Modern Themed Assortments/Holiday Hot Rods _ Hot Wheels Wiki _ Fandom.html` | `81c5f4c4e70633f1d6327fa877ae6c9a4b57a58c` | 662210 | `03CFB6FA075FCA56D88DB981C5D25852B1C0CEB2F302B4A879715FF3DAF99A5F` | Not yet extracted |
-| `Notable Modern Themed Assortments/Neon Speeders Series (2023) _ Hot Wheels Wiki _ Fandom.html` | `81bb5b856256e981c1c64eb6d364aaab696d1aaa` | 503878 | `E5B19E6E9EA25DAEFA13BF62E70C176243ED346791F98A7E0D46180C1BA98C3D` | Not yet extracted |
-| `Notable Modern Themed Assortments/Pantone Series (2026) _ Hot Wheels Wiki _ Fandom.html` | `203b74433824c07a4f63cc46da747a379db54751` | 376190 | `A4BBE8E41548CF8F90543B5473DBA2681B291F8C801BA12BAC1886D4B5E03838` | Not yet extracted |
-| `Notable Modern Themed Assortments/Pearl and Chrome Anniversary Series/50th Anniversary Black and Gold Series (2018) _ Hot Wheels Wiki _ Fandom.html` | `13db793b93da308b3e6881b7fb890b5744e3cb3f` | 347390 | `D6E46614700BEC76A287A5EA53854DFB7DB9DCC6E4CC9582A97BC2D2D5E56B07` | Not yet extracted |
+| `Notable Modern Themed Assortments/Halloween Highway Series _ Hot Wheels Wiki _ Fandom.html` | `ce975b116e40391fb3bca05288958982001bbf08` | 352381 | `1FACB48E88B231DEDF00FD7909F58DB60946866663BA4E5C0A9317AA1B6A09A9` | Extracted + QA |
+| `Notable Modern Themed Assortments/Holiday Hot Rods _ Hot Wheels Wiki _ Fandom.html` | `81c5f4c4e70633f1d6327fa877ae6c9a4b57a58c` | 662210 | `03CFB6FA075FCA56D88DB981C5D25852B1C0CEB2F302B4A879715FF3DAF99A5F` | Extracted + QA |
+| `Notable Modern Themed Assortments/Neon Speeders Series (2023) _ Hot Wheels Wiki _ Fandom.html` | `81bb5b856256e981c1c64eb6d364aaab696d1aaa` | 503878 | `E5B19E6E9EA25DAEFA13BF62E70C176243ED346791F98A7E0D46180C1BA98C3D` | Extracted + QA |
+| `Notable Modern Themed Assortments/Pantone Series (2026) _ Hot Wheels Wiki _ Fandom.html` | `203b74433824c07a4f63cc46da747a379db54751` | 376190 | `A4BBE8E41548CF8F90543B5473DBA2681B291F8C801BA12BAC1886D4B5E03838` | Extracted + QA |
+| `Notable Modern Themed Assortments/Pearl and Chrome Anniversary Series/50th Anniversary Black and Gold Series (2018) _ Hot Wheels Wiki _ Fandom.html` | `13db793b93da308b3e6881b7fb890b5744e3cb3f` | 347390 | `D6E46614700BEC76A287A5EA53854DFB7DB9DCC6E4CC9582A97BC2D2D5E56B07` | Extracted + QA |
 | `Notable Modern Themed Assortments/Pearl and Chrome Anniversary Series/55th Anniversary Black and Yellow Series (2023) _ Hot Wheels Wiki _ Fandom.html` | `22a17a735cdf3913a16a6d90d5ce79199a7a892b` | 345800 | `4B0436BB876F4548AB11B430E80CBFF18DB39F1759BC3C99F55E5126D01D64A2` | Not yet extracted |
 | `Notable Modern Themed Assortments/Pearl and Chrome Anniversary Series/Blue and Gold Series (2026) _ Hot Wheels Wiki _ Fandom.html` | `2ed21c09b599613b261b40cb9e384d723ad42469` | 363916 | `601058E4B67A89F1FB80C687A60F23F315EF81572243F4A0C3BE2CA0738F940F` | Not yet extracted |
 | `Notable Modern Themed Assortments/Pearl and Chrome Anniversary Series/Blue and Pink Series (2022) _ Hot Wheels Wiki _ Fandom.html` | `ade227e1a96ae3cf264174cfdc906cddb8ba5681` | 337743 | `04824AE40C3CE1C10535EE7B7256D803A5923D4A990CB4B08921E10C73B12B00` | Not yet extracted |
@@ -193,3 +193,22 @@ Each page has a 21-column source-preserving CSV and an individual QA report. Sou
 ## Next batch
 
 Continue with the next five unprocessed pages in inventory order: Halloween Highway Series, Holiday Hot Rods, Neon Speeders Series (2023), Pantone Series (2026), and 50th Anniversary Black and Gold Series (2018).
+
+
+## Batch 7: Halloween Highway through 50th Anniversary Black and Gold, 2026-11-09
+
+Five source pages extracted and QA-reviewed. Batch total: 37 product tables, 284 product rows, 595 embedded table image references, and 1,176 links retained from product cells.
+
+| Source page | Revision | Tables | Product rows | Images | Links | CSV | QA |
+|---|---:|---:|---:|---:|---:|---|---|
+| Halloween Highway Series | 724846 | 3 | 24 | 36 | 60 | `research/extractions/NOTABLE-MODERN-THEMED-ASSORTMENTS-HALLOWEEN-HIGHWAY-SERIES.csv` | `research/extractions/NOTABLE-MODERN-THEMED-ASSORTMENTS-HALLOWEEN-HIGHWAY-SERIES-EXTRACTION-QA.md` |
+| Holiday Hot Rods | 791903 | 21 | 167 | 312 | 666 | `research/extractions/NOTABLE-MODERN-THEMED-ASSORTMENTS-HOLIDAY-HOT-RODS.csv` | `research/extractions/NOTABLE-MODERN-THEMED-ASSORTMENTS-HOLIDAY-HOT-RODS-EXTRACTION-QA.md` |
+| Neon Speeders Series (2023) | 812896 | 8 | 64 | 192 | 322 | `research/extractions/NOTABLE-MODERN-THEMED-ASSORTMENTS-NEON-SPEEDERS-SERIES-2023.csv` | `research/extractions/NOTABLE-MODERN-THEMED-ASSORTMENTS-NEON-SPEEDERS-SERIES-2023-EXTRACTION-QA.md` |
+| Pantone Series (2026) | 813979 | 4 | 22 | 41 | 99 | `research/extractions/NOTABLE-MODERN-THEMED-ASSORTMENTS-PANTONE-SERIES-2026.csv` | `research/extractions/NOTABLE-MODERN-THEMED-ASSORTMENTS-PANTONE-SERIES-2026-EXTRACTION-QA.md` |
+| 50th Anniversary Black and Gold Series (2018) | 785115 | 1 | 7 | 14 | 29 | `research/extractions/NOTABLE-MODERN-THEMED-ASSORTMENTS-50TH-ANNIVERSARY-BLACK-AND-GOLD-SERIES-2018.csv` | `research/extractions/NOTABLE-MODERN-THEMED-ASSORTMENTS-50TH-ANNIVERSARY-BLACK-AND-GOLD-SERIES-2018-EXTRACTION-QA.md` |
+
+Each page has a 21-column source-preserving CSV and an individual QA report. Source blob SHA, manifest SHA-256, source size, and Fandom revision ID are recorded in the artifacts.
+
+## Next batch
+
+Continue with the next five unprocessed pages in inventory order: 55th Anniversary Black and Yellow Series (2023), Blue and Gold Series (2026), Blue and Pink Series (2022), Green and Gold Series (2024), and Orange and Blue Series (2021).
