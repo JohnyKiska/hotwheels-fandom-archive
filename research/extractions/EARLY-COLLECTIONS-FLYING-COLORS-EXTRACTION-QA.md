@@ -21,7 +21,7 @@
 - Wheel Type image refs: 211
 - Loose photo refs: 212
 - Carded photo refs: 212
-- Separate Track Sets reference: Thundershift 500 (stored as a separate `section_reference` row, not a product-table record).
+- Separate Track Sets reference: Thundershift 500 (stored as a separate `section_reference` row, not a product-table record); its metadata occupies the final `Raw source cells` field and the row matches the 22-column CSV schema.
 
 ## Preservation notes
 - The five product tables map in source order to headings 1974, 1975, 1976, 1977 and 1978.
