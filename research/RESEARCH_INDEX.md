@@ -25,7 +25,7 @@
 
 Исходный архив: [hotwheels-fandom-archive](https://github.com/JohnyKiska/hotwheels-fandom-archive).
 
-В архиве сохранено 532 файла: 530 HTML/HTM и 2 CSV (согласно инвентаризации, выполненной 2026-11-08). Структура папок отражает таксономию Fandom и не должна приниматься за фактическую продуктовую иерархию Hot Wheels.
+В архиве сохранено 532 файла: 530 HTML/HTM и 2 CSV. По состоянию на 2026-11-09 все 530 HTML/HTM страниц имеют индивидуальные extraction QA, а 8 processing indexes показывают 0 необработанных страниц. В `research/extractions/` находятся 530 QA-отчётов и 633 CSV-выгрузки (часть больших выгрузок разбита на несколько файлов). Структура папок отражает таксономию Fandom и не должна приниматься за фактическую продуктовую иерархию Hot Wheels.
 
 ## Очередь исследования
 
@@ -33,8 +33,8 @@
 2. [x] Проверена структура таблиц Boss Hoss, Heavy Chevy и King Kuda; полная хронология релизов остаётся задачей.
 3. [x] Уточнена семантика Speed Fleet: Blue Card line и Rainbow Card в составе Mainline; названия секций подтверждены HTML-заголовками.
 4. [x] Проведён структурный и выборочный построчный проход по 19 дополнительным страницам Early Collections; наблюдения внесены в FINDINGS.
-5. [x] Разобраны Heavyweights (годовые галереи), Real Riders (disambiguation), Grand Prix (вложенные названия в ячейках) и шесть таблиц Ultra Hots 1984–1986/pack listings.\n6. [x] Дополнительно проверены The Heavies, Super Streeters, Sugar Caddy, Nitty Gritty Kitty и TNT-Bird.\n7. [ ] Продолжить ранний блок, затем перейти к Modern Special Series, Notable Modern Themed Assortments и Other Modern Series.
-7. После исследования раннего блока перейти к Modern Special Series, Notable Modern Themed Assortments и Other Modern Series.\n10. [ ] Выполнить row-level extraction для Notable Modern Themed Assortments (57 страниц; 5/57 обработано).
+5. [x] Разобраны Heavyweights (годовые галереи), Real Riders (disambiguation), Grand Prix (вложенные названия в ячейках) и шесть таблиц Ultra Hots 1984–1986/pack listings.\n6. [x] Дополнительно проверены The Heavies, Super Streeters, Sugar Caddy, Nitty Gritty Kitty и TNT-Bird.\n7. [x] Завершена row-level extraction и QA всех 530 HTML/HTM страниц Fandom-архива по восьми processing indexes. Следующий отдельный этап: полный аудит и extraction Gallery.
+7. После исследования раннего блока перейти к Modern Special Series, Notable Modern Themed Assortments и Other Modern Series.\n10. [x] Завершена row-level extraction Notable Modern Themed Assortments (57/57 страниц).
 
 ## История обновлений
 
@@ -233,3 +233,6 @@
 ## Notable Modern Themed Assortments: Batch 5
 
 Five additional pages extracted and QA-reviewed: Fast & Furious Spy Racers Series, Fire Rods Series (2000), Fire Rods Series (2009), Fright Cars Series, and HW Road Trippin' Series (2014). Batch totals: 32 tables, 276 product rows, 399 embedded image references, and 890 cell links. Artifacts are stored under `research/extractions/NOTABLE-MODERN-THEMED-ASSORTMENTS-*`.
+
+
+- 2026-11-09: выполнен archive-wide coverage audit: recursive Git tree и MANIFEST.csv подтверждают 530 HTML/HTM файлов; восемь processing indexes покрывают все 530 страниц без Pending; в `research/extractions/` присутствуют 530 per-page QA reports и 633 CSV exports. Gallery extraction остаётся отдельным неполным этапом; в Modern Special Series уже есть три начальные Gallery batches (15 source pages, 112 items).
