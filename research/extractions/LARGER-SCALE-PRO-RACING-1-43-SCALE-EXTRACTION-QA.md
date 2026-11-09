@@ -17,7 +17,7 @@
 - Other HTML tables excluded: 1
 
 ## Product tables
-- Vehicles [ ]: 41 rows, 11 source columns. Headers: Casting | Year | Color | Tampo | Base Color | Interior Color | Wheel Type | Toy # | Country | Notes | Photo
+- Vehicles: 41 rows, 11 source columns. Headers: Casting | Year | Color | Tampo | Base Color | Interior Color | Wheel Type | Toy # | Country | Notes | Photo
 
 ## QA notes
 - Product tables identified by toy-number and casting/model/name headers; navigation and collapsible gallery tables excluded.
