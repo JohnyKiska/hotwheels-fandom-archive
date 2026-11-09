@@ -5,8 +5,8 @@ Scope: archived source HTML under `Other Modern Series/`, including all nested f
 ## Inventory summary
 
 - Source pages: 83
-- Extracted + QA: 61
-- Remaining: 22
+- Extracted + QA: 66
+- Remaining: 17
 
 ## File inventory and processing status
 
@@ -74,11 +74,11 @@ Scope: archived source HTML under `Other Modern Series/`, including all nested f
 | `Other Modern Series/Monster Trucks (Dollar Tree) _ Hot Wheels Wiki _ Fandom.html` | 406351 | `3B0DF3A3312E9C25EFB73FC577836E3D97ADC743C7DA1AD80C2CC9D36CC18DE4` | Extracted + QA |
 | `Other Modern Series/Moto Track Stars _ Hot Wheels Wiki _ Fandom.html` | 375807 | `D8C8529B1C3BB4B3E6324B64A2AD36F21B54EF3863C718D0F9AD2E9799321629` | Extracted + QA |
 | `Other Modern Series/Motor Cycles _ Hot Wheels Wiki _ Fandom.html` | 395589 | `C148C1C1B16759A9CC5713F59E6ED147A5BFC9C5AEE712FABF79382E160B66F0` | Extracted + QA |
-| `Other Modern Series/Pavement Pounders _ Hot Wheels Wiki _ Fandom.html` | 544126 | `28BE124D9CCA97948F4E38EDBD8C20CCF245A683BD9BD12CEDC260AD0D6F046F` | Pending |
-| `Other Modern Series/Racing Rigs _ Hot Wheels Wiki _ Fandom.html` | 449841 | `525CDAFF8ADC0FE39CCE2DC57B5215E4D5B8E516D6376A12406B8E0D841FA673` | Pending |
-| `Other Modern Series/Rapid Transit Series _ Hot Wheels Wiki _ Fandom.html` | 365312 | `0178E0D6FC48AFD5EE30EF1A6EC2DE5DEBD2C2C65340FC84C30B6B6C2A8DD3DB` | Pending |
-| `Other Modern Series/Rev Tredz _ Hot Wheels Wiki _ Fandom.html` | 442100 | `B4E21854542EBD7EE2AA767871E39A21BBC2739B99F91A1E42135CE9BDDD3CCD` | Pending |
-| `Other Modern Series/Road Beasts _ Hot Wheels Wiki _ Fandom.html` | 315380 | `B3DBBFBE45B236B738AD1978C89C0087EAD963DD850C2CE12BE3C7B4BF587F9F` | Pending |
+| `Other Modern Series/Pavement Pounders _ Hot Wheels Wiki _ Fandom.html` | 544126 | `28BE124D9CCA97948F4E38EDBD8C20CCF245A683BD9BD12CEDC260AD0D6F046F` | Extracted + QA |
+| `Other Modern Series/Racing Rigs _ Hot Wheels Wiki _ Fandom.html` | 449841 | `525CDAFF8ADC0FE39CCE2DC57B5215E4D5B8E516D6376A12406B8E0D841FA673` | Extracted + QA |
+| `Other Modern Series/Rapid Transit Series _ Hot Wheels Wiki _ Fandom.html` | 365312 | `0178E0D6FC48AFD5EE30EF1A6EC2DE5DEBD2C2C65340FC84C30B6B6C2A8DD3DB` | Extracted + QA |
+| `Other Modern Series/Rev Tredz _ Hot Wheels Wiki _ Fandom.html` | 442100 | `B4E21854542EBD7EE2AA767871E39A21BBC2739B99F91A1E42135CE9BDDD3CCD` | Extracted + QA |
+| `Other Modern Series/Road Beasts _ Hot Wheels Wiki _ Fandom.html` | 315380 | `B3DBBFBE45B236B738AD1978C89C0087EAD963DD850C2CE12BE3C7B4BF587F9F` | Extracted + QA |
 | `Other Modern Series/Robo Wheels _ Hot Wheels Wiki _ Fandom.html` | 433443 | `A2B589D80EAAE4FFEF7049D8C9656B8095A2741CA5B8FB0AD581324DF5898B88` | Pending |
 | `Other Modern Series/Shogun Racers _ Hot Wheels Wiki _ Fandom.html` | 348114 | `5091246F97933528C9383E8078ADD4C0FC6847AD3F72CF8D336A49BB56C38019` | Pending |
 | `Other Modern Series/Skate Freaks _ Hot Wheels Wiki _ Fandom.html` | 373678 | `F29CCDA489AE5BB7C149048F0229C092635C75DE7AAD5845E418DD55DCF31C6E` | Pending |
@@ -223,3 +223,18 @@ Processed 5 source pages. Product-table extraction totals: **15 product tables a
 | Motor Cycles | 3 | 48 |
 
 Batch totals: **5 pages, 15 product tables, 167 product rows**. Gallery extraction remains deferred.
+
+
+## Batch 8: Pavement Pounders, Racing Rigs, Rapid Transit Series, Rev Tredz, and Road Beasts
+
+Processed 5 source pages. Product-table extraction totals: **21 product tables and 397 product rows**. Each page has a 21-column CSV and QA report. All five CSVs were re-fetched and validated: 21 columns and zero malformed-width rows.
+
+| Page | Product tables | Product rows |
+|---|---:|---:|
+| Pavement Pounders | 6 | 132 |
+| Racing Rigs | 4 | 95 |
+| Rapid Transit Series | 1 | 24 |
+| Rev Tredz | 9 | 138 |
+| Road Beasts | 1 | 8 |
+
+Batch totals: **5 pages, 21 product tables, 397 product rows**. Gallery extraction remains deferred.
