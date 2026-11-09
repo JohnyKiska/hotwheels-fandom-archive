@@ -177,7 +177,7 @@ Batch totals: **8 pages, 68 product tables, 1,016 product rows**. Gallery extrac
 
 ## Batch 5: Hot Wheels Monster Trucks (Big Rigs, Mystery Trucks, Oversized, 2018–2024)
 
-Processed 10 source pages across the Hot Wheels Monster Trucks collection. Product-table extraction totals: **129 product tables and 1,235 product rows**. Each page has a 21-column CSV and a QA report. All ten CSV exports were re-fetched and validated for 21 columns with zero malformed-width rows.
+Processed 10 source pages across the Hot Wheels Monster Trucks collection. Product-table extraction totals: **142 product tables and 1,442 product rows**. Each page has a 21-column CSV and a QA report. All ten CSV exports were re-fetched and validated for 21 columns with zero malformed-width rows.
 
 | Page | Product tables | Product rows |
 |---|---:|---:|
