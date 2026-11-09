@@ -1119,3 +1119,20 @@ Five source pages were scanned in inventory order. Gallery extraction remains se
 **Batch total:** 1 gallery containers and 33 gallery items across 5 source pages; 1 pages contained Gallery content. All five source blob SHAs matched the current inventory. Gallery assets are recorded as source URLs and file-page links; binaries are not downloaded in this pass.
 
 Next gallery batch: continue with the next five source pages in Modern Special Series inventory order.
+
+
+## Gallery extraction batch 3: 2006 Kalifornia Kustoms through AcceleRacers figure series, 2026-11-09
+
+Five source pages were scanned in inventory order. Gallery extraction remains separate from product-table extraction.
+
+| Source page | Gallery headings | Gallery containers | Gallery items | Result |
+|---|---:|---:|---:|---|
+| `2006 Kalifornia Kustoms` | 1 | 1 | 4 | Extracted |
+| `Hot Wheels Collectibles 1_43 Scale` | 0 | 0 | 0 | Explicit zero-item CSV and QA |
+| `2027 Racing Culture` | 0 | 0 | 0 | Explicit zero-item CSV and QA |
+| `24_Seven` | 1 | 1 | 44 | Extracted |
+| `AcceleRacers (figure series)` | 1 | 1 | 8 | Extracted |
+
+**Batch total:** 3 gallery containers and 56 gallery items across 5 source pages; 3 pages contained Gallery content. All five source blob SHAs matched the current inventory. Gallery assets are recorded as source URLs and file-page links; binaries are not downloaded in this pass.
+
+Next gallery batch: continue with the next five source pages in Modern Special Series inventory order.
