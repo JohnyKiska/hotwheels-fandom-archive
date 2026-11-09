@@ -5,8 +5,8 @@ Scope: archived source HTML under `Other Modern Series/`, including all nested f
 ## Inventory summary
 
 - Source pages: 83
-- Extracted + QA: 76
-- Remaining: 7
+- Extracted + QA: 81
+- Remaining: 2
 
 ## File inventory and processing status
 
@@ -88,11 +88,11 @@ Scope: archived source HTML under `Other Modern Series/`, including all nested f
 | `Other Modern Series/Speed Demons Series (2003) _ Hot Wheels Wiki _ Fandom.html` | 463633 | `8C479DD670A5E7CF12EC558F86FC078CB80A7295A51A4181E50C08C4514EC123` | Extracted + QA |
 | `Other Modern Series/Star Wars Starships _ Hot Wheels Wiki _ Fandom.html` | 803817 | `0E20004D878135BBEF98D5BC577CD4D34636DB393DF8092D3C494B94B854C680` | Extracted + QA |
 | `Other Modern Series/Star Wars Starships Select _ Hot Wheels Wiki _ Fandom.html` | 476397 | `024046D5FB018479068668638432D6DECBF53A8C555B4FD619E00C43BDD2737D` | Extracted + QA |
-| `Other Modern Series/Thunder Cycles _ Hot Wheels Wiki _ Fandom.html` | 376762 | `7D8FD03C891611FDC7A00C17D54408BC84B5AC49788A2EDFE5CF4E6E6926C7DD` | Pending |
-| `Other Modern Series/Track Fleet _ Hot Wheels Wiki _ Fandom.html` | 420273 | `E124F875E89AA497A40504796799BE6C4BDC25E875C85C24492534EB45E123F3` | Pending |
-| `Other Modern Series/Track Stars Haulers _ Hot Wheels Wiki _ Fandom.html` | 490764 | `5339CC7D2FE3D3BE547725B6AC4C4C4A15FBBCE4B4D7E3CA46F788C53502EA38` | Pending |
-| `Other Modern Series/Trackin' Trucks _ Hot Wheels Wiki _ Fandom.html` | 379604 | `C13C04C0EBC9B4B3FAF70AB30C3D2DBFD31035EA02C0174309572934F56FFDCA` | Pending |
-| `Other Modern Series/Truckin' Transporters _ Hot Wheels Wiki _ Fandom.html` | 488101 | `09B11B44204B317DE5A0E8047DF48DCA4B9233941D98D239FA2C6F60F104BB99` | Pending |
+| `Other Modern Series/Thunder Cycles _ Hot Wheels Wiki _ Fandom.html` | 376762 | `7D8FD03C891611FDC7A00C17D54408BC84B5AC49788A2EDFE5CF4E6E6926C7DD` | Extracted + QA |
+| `Other Modern Series/Track Fleet _ Hot Wheels Wiki _ Fandom.html` | 420273 | `E124F875E89AA497A40504796799BE6C4BDC25E875C85C24492534EB45E123F3` | Extracted + QA |
+| `Other Modern Series/Track Stars Haulers _ Hot Wheels Wiki _ Fandom.html` | 490764 | `5339CC7D2FE3D3BE547725B6AC4C4C4A15FBBCE4B4D7E3CA46F788C53502EA38` | Extracted + QA |
+| `Other Modern Series/Trackin' Trucks _ Hot Wheels Wiki _ Fandom.html` | 379604 | `C13C04C0EBC9B4B3FAF70AB30C3D2DBFD31035EA02C0174309572934F56FFDCA` | Extracted + QA |
+| `Other Modern Series/Truckin' Transporters _ Hot Wheels Wiki _ Fandom.html` | 488101 | `09B11B44204B317DE5A0E8047DF48DCA4B9233941D98D239FA2C6F60F104BB99` | Extracted + QA |
 | `Other Modern Series/Twisted Tredz _ Hot Wheels Wiki _ Fandom.html` | 322310 | `0EF2EF2E8D1430906CB267B6C3AC78BC6CC6791BE1799D6D881CBB615E2A6215` | Pending |
 | `Other Modern Series/Volkswagen 1_50 Scale Series _ Hot Wheels Wiki _ Fandom.html` | 700639 | `3C9344267991482DFD68E08414CC5D7BF7EC60A04A9B66EEA83AE69F3B3741A1` | Pending |
 
@@ -268,3 +268,18 @@ Processed 5 source pages. Product-table extraction totals: **29 product tables a
 | Star Wars Starships Select | 5 | 76 |
 
 Batch totals: **5 pages, 29 product tables, 555 product rows**. Gallery extraction remains deferred.
+
+
+## Batch 11: Thunder Cycles, Track Fleet, Track Stars Haulers, Trackin' Trucks, and Truckin' Transporters
+
+Processed 5 source pages. Product-table extraction totals: **21 product tables and 292 product rows**. Each page has a 21-column CSV and QA report. All five CSVs were re-fetched and validated: 21 columns and zero malformed-width rows.
+
+| Page | Product tables | Product rows |
+|---|---:|---:|
+| Thunder Cycles | 2 | 41 |
+| Track Fleet | 4 | 44 |
+| Track Stars Haulers | 9 | 87 |
+| Trackin' Trucks | 1 | 24 |
+| Truckin' Transporters | 5 | 96 |
+
+Batch totals: **5 pages, 21 product tables, 292 product rows**. Gallery extraction remains deferred.
