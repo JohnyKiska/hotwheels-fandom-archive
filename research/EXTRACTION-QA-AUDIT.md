@@ -298,3 +298,34 @@ Twenty CSV exports across Early Special Series, Exclusives and Larger Scale were
 All twenty passed the structural checks. Two header-only Exclusives exports were reconciled to their source-specific QA reports: HotWheelsCollectors.com has zero HTML table elements; Red Line Club has three navigation/ancillary tables without column headers. Both QA reports explicitly state zero product tables/rows and a 21-column header-only CSV, so these are expected zero-row outputs rather than unexplained extraction failures. The CSV files were not normalized or modified; source values and repetitions were preserved.
 
 Total data rows inspected in this batch: **1,556**. Manifest provenance records the branch HEAD before this audit update: `215d4df235761241f23f30515add44f4e77af244`.
+
+## CSV structural audit batch 7 (2026-11-09)
+
+Twenty further Larger Scale CSV exports were re-fetched from `main` and parsed with CSV-aware quoting rules. Every data row was checked against its own file header. Checks covered row-width consistency, physical blank/whitespace-only lines, exact duplicate full rows, malformed quoting, BOM, U+FFFD, empty/duplicate headers and trailing delimiters. All twenty corresponding QA reports were fetched; each declared product-row count matched the parsed CSV count.
+
+| CSV | Data rows | Columns | Width errors | Blank rows | Exact duplicate extra rows |
+|---|---:|---:|---:|---:|---:|
+| LARGER-SCALE-HOT-WHEELS-ELITE-1-43-SCALE.csv | 177 | 21 | 0 | 0 | 0 |
+| LARGER-SCALE-HOT-WHEELS-ELITE-ONE.csv | 6 | 21 | 0 | 0 | 0 |
+| LARGER-SCALE-HOT-WHEELS-LETS-RACE-ACTIVATE.csv | 9 | 21 | 0 | 0 | 0 |
+| LARGER-SCALE-HOT-WHEELS-RACING-1-18-SCALE.csv | 138 | 21 | 0 | 0 | 0 |
+| LARGER-SCALE-HOT-WHEELS-RACING-1-24-SCALE.csv | 23 | 21 | 0 | 0 | 0 |
+| LARGER-SCALE-HOT-WHEELS-RACING-1-43-SCALE.csv | 57 | 21 | 0 | 0 | 0 |
+| LARGER-SCALE-HOT-WHEELS-RACING-SERIES-2005.csv | 6 | 21 | 0 | 0 | 0 |
+| LARGER-SCALE-HOT-WHEELS-RACING-SERIES-2007.csv | 4 | 21 | 0 | 0 | 0 |
+| LARGER-SCALE-HOT-WHEELS-RACING-SERIES-2009.csv | 16 | 21 | 0 | 0 | 0 |
+| LARGER-SCALE-HOT-WHEELS-XL.csv | 39 | 21 | 0 | 0 | 0 |
+| LARGER-SCALE-HW-RACING-SERIES-2010.csv | 22 | 21 | 0 | 0 | 0 |
+| LARGER-SCALE-HW-RACING-SERIES-2011.csv | 22 | 21 | 0 | 0 | 0 |
+| LARGER-SCALE-HW-RACING-SERIES-2012.csv | 22 | 21 | 0 | 0 | 0 |
+| LARGER-SCALE-LA-STORIA.csv | 5 | 21 | 0 | 0 | 0 |
+| LARGER-SCALE-PASSIONE.csv | 7 | 21 | 0 | 0 | 0 |
+| LARGER-SCALE-PREMIUM-1-43.csv | 41 | 21 | 0 | 0 | 0 |
+| LARGER-SCALE-PRO-RACING-1-43-SCALE.csv | 41 | 21 | 0 | 0 | 0 |
+| LARGER-SCALE-PULL-BACK-SPEEDERS.csv | 0 | 21 | 0 | 0 | 0 |
+| LARGER-SCALE-PULLBAX.csv | 23 | 21 | 0 | 0 | 0 |
+| LARGER-SCALE-RACING-CIRCUIT-SERIES-2017.csv | 10 | 21 | 0 | 0 | 0 |
+
+All twenty passed the structural checks. No row-width errors, blank/whitespace-only rows, exact duplicate full rows, malformed quotes, BOM, U+FFFD, empty or duplicate headers, or trailing delimiters were found. All twenty QA report product-row counts matched the CSVs. The header-only `LARGER-SCALE-PULL-BACK-SPEEDERS.csv` was reconciled against its QA report: the source HTML has no qualifying product table (no Toy # plus casting/model/name headers); one non-product table was excluded. This is an expected zero-row export, not an unexplained extraction failure. CSV source values were not normalized, deduplicated, or modified.
+
+Total data rows inspected in this batch: **668**. Manifest update commit: `200eaaefb0a0fb9de2f17557fca706f77eddc56a`. The manifest records the branch HEAD before this audit update: `31b0fbcf37761a3af800930e6294c69b8cdcc80d`.
