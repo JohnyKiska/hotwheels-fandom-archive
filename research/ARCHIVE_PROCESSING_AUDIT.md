@@ -467,3 +467,9 @@ The archived `Early Collections/` inventory contains 33 HTML/HTM pages. 32 of 33
 - First page extracted and QA-reviewed: one product table, 13 rows, 6 columns, 26 embedded image references.
 - Output: `research/extractions/MODERN-SPECIAL-SERIES-100-PERCENT-HOT-WHEELS-1-43-SCALE.csv`; QA: `research/extractions/MODERN-SPECIAL-SERIES-100-PERCENT-HOT-WHEELS-1-43-SCALE-EXTRACTION-QA.md`.
 - Modern Special Series index: `research/MODERN-SPECIAL-SERIES-PROCESSING-INDEX.md`.
+
+
+### Modern Special Series: 100% Hot Wheels 40th Anniversary
+- Page extracted and QA-reviewed: 10 product tables, 39 product rows, 58 embedded image references.
+- Named Single Cars and 2-Car Set sections retained as separate source tables; navigation tables excluded.
+- Outputs: `research/extractions/MODERN-SPECIAL-SERIES-100-PERCENT-HOT-WHEELS-40TH-ANNIVERSARY.csv` and `research/extractions/MODERN-SPECIAL-SERIES-100-PERCENT-HOT-WHEELS-40TH-ANNIVERSARY-EXTRACTION-QA.md`.
