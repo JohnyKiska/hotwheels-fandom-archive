@@ -27,11 +27,11 @@ Scope: archived source HTML under `Larger Scale/`, including the nested `Hot Whe
 | `Larger Scale/Hot Wheels Collectibles 1_18 Scale _ Hot Wheels Wiki _ Fandom.html` | 366217 | `C7F24EE80880E0226AB3980573B4350A82A59F19EF48A2D27E3D0F17FA16CCDC` | Extracted + QA |
 | `Larger Scale/Hot Wheels Elite 1_18 Scale _ Hot Wheels Wiki _ Fandom.html` | 563961 | `025BF167C02968453198024BF8238BD3661E52AD796658811E6AEDCE8AD83254` | Extracted + QA |
 | `Larger Scale/Hot Wheels Elite 1_43 Scale _ Hot Wheels Wiki _ Fandom.html` | 528816 | `637992244140E5AA72EDF06EDD87218F529472AE2251AF856D9A3B323C5ADC53` | Extracted + QA |
-| `Larger Scale/Hot Wheels Elite One _ Hot Wheels Wiki _ Fandom.html` | 372241 | `9B3DD081D1F7CDA19D29C21D8CB138955B7A3067DA3216FA945781F37B5A2D89` | Pending |
-| `Larger Scale/Hot Wheels Let's Race_ Activate! _ Hot Wheels Wiki _ Fandom.html` | 367158 | `C7AFE000626F2AE4E954823349BDE46AB5A365D67CCC79EAED5BBD73F0F27523` | Pending |
-| `Larger Scale/Hot Wheels Racing 1_18 Scale _ Hot Wheels Wiki _ Fandom.html` | 523076 | `4213AFE04D51028E9680391016138911176900D613A753219B905472F7C470E1` | Pending |
-| `Larger Scale/Hot Wheels Racing 1_24 Scale _ Hot Wheels Wiki _ Fandom.html` | 387538 | `4CB794B0FE02620B8E7BB485D49270C79EE330C13C4D16BE874D25F5649B6869` | Pending |
-| `Larger Scale/Hot Wheels Racing 1_43 Scale _ Hot Wheels Wiki _ Fandom.html` | 433089 | `EFEA3A5C62DE61ECC7B8AA39B8ACF4CFF4A5B7551FFA806587D73EEC62A2C8F9` | Pending |
+| `Larger Scale/Hot Wheels Elite One _ Hot Wheels Wiki _ Fandom.html` | 372241 | `9B3DD081D1F7CDA19D29C21D8CB138955B7A3067DA3216FA945781F37B5A2D89` | Extracted + QA |
+| `Larger Scale/Hot Wheels Let's Race_ Activate! _ Hot Wheels Wiki _ Fandom.html` | 367158 | `C7AFE000626F2AE4E954823349BDE46AB5A365D67CCC79EAED5BBD73F0F27523` | Extracted + QA |
+| `Larger Scale/Hot Wheels Racing 1_18 Scale _ Hot Wheels Wiki _ Fandom.html` | 523076 | `4213AFE04D51028E9680391016138911176900D613A753219B905472F7C470E1` | Extracted + QA |
+| `Larger Scale/Hot Wheels Racing 1_24 Scale _ Hot Wheels Wiki _ Fandom.html` | 387538 | `4CB794B0FE02620B8E7BB485D49270C79EE330C13C4D16BE874D25F5649B6869` | Extracted + QA |
+| `Larger Scale/Hot Wheels Racing 1_43 Scale _ Hot Wheels Wiki _ Fandom.html` | 433089 | `EFEA3A5C62DE61ECC7B8AA39B8ACF4CFF4A5B7551FFA806587D73EEC62A2C8F9` | Extracted + QA |
 | `Larger Scale/Hot Wheels Racing Series/Hot Wheels Racing Series (2005) _ Hot Wheels Wiki _ Fandom.html` | 311834 | `30F88B5D04AF6B0B695CC65D3BC32E0A576ED1E254E0C39E98F518ADE3F1AC50` | Pending |
 | `Larger Scale/Hot Wheels Racing Series/Hot Wheels Racing Series (2007) _ Hot Wheels Wiki _ Fandom.html` | 310381 | `772380CDE845295DAA52104467EC54444C670EAC2ACE034C7FF248286208A25B` | Pending |
 | `Larger Scale/Hot Wheels Racing Series/Hot Wheels Racing Series (2009) _ Hot Wheels Wiki _ Fandom.html` | 328394 | `B5EC5BEDBFEF8A9B218EAF475983EB86B3B7ABBDE4EEC60D37AEA91E2167E349` | Pending |
@@ -98,3 +98,17 @@ Processed 5 source pages. Product-table extraction totals: **21 product tables a
 | Hot Wheels Elite 1:43 Scale | 7 | 177 |
 
 Batch totals: **5 pages, 21 product tables, 440 product rows**. Gallery extraction remains deferred.
+
+## Batch 4: Hot Wheels Elite One through Hot Wheels Racing 1:43 Scale
+
+Processed 5 source pages. Product-table extraction totals: **49 product tables and 233 product rows**. Each page has a 21-column CSV and QA report. All five CSVs were re-fetched and validated: 21 columns and zero malformed-width rows.
+
+| Page | Product tables | Product rows |
+|---|---:|---:|
+| Hot Wheels Elite One | 2 | 6 |
+| Hot Wheels Let's Race: Activate! | 3 | 9 |
+| Hot Wheels Racing 1:18 Scale | 18 | 138 |
+| Hot Wheels Racing 1:24 Scale | 10 | 23 |
+| Hot Wheels Racing 1:43 Scale | 16 | 57 |
+
+Batch totals: **5 pages, 49 product tables, 233 product rows**. Gallery extraction remains deferred.
