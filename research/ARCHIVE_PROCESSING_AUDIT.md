@@ -392,3 +392,10 @@ Next: continue with the remaining Early Collections pages in inventory order, re
 - Super Streeters: 13 product rows from one 9-column table, plus 8 separate Gallery records (21 CSV records). No Year column; Photo Loose/Carded cells are blank.
 - 11 distinct Toy # values (9241 repeated 3 times), 10 distinct Collector # values (59 repeated 3 times, 36 twice). Repeated model names preserved. Eight separate gallery entries retained.
 - Outputs: `research/extractions/EARLY-COLLECTIONS-SUPER-STREETERS.csv` and `research/extractions/EARLY-COLLECTIONS-SUPER-STREETERS-EXTRACTION-QA.md`; detailed progress: `research/EARLY-COLLECTIONS-PROCESSING-INDEX.md`.
+
+
+### Early Collections update: TNT-Bird
+- Processing status: 28 of 33 pages extracted and QA-reviewed.
+- TNT-Bird: 11 Original Versions rows and 3 Re-Tooled Versions rows across two separate 12-column tables, plus 8 separate Gallery records (22 CSV records). Both tables retain year, series, color/trim, wheel, Toy #, country, notes and photo fields.
+- Repeated source tables remain separate; article-level metadata headings are not misrepresented as product data. Eight gallery assets and file links retained.
+- Outputs: `research/extractions/EARLY-COLLECTIONS-TNT-BIRD.csv` and `research/extractions/EARLY-COLLECTIONS-TNT-BIRD-EXTRACTION-QA.md`; detailed progress: `research/EARLY-COLLECTIONS-PROCESSING-INDEX.md`.
