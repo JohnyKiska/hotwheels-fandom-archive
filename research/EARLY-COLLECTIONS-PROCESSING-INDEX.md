@@ -2,7 +2,7 @@
 
 Scope: archived Fandom pages in `Early Collections/` on `main`. This folder name is retained as source provenance only and is not treated as a verified product-hierarchy node.
 
-Inventory: 33 HTML/HTM files, 12834928 bytes total. 24 of 33 pages extracted and QA-reviewed.
+Inventory: 33 HTML/HTM files, 12834928 bytes total. 25 of 33 pages extracted and QA-reviewed.
 
 | Source file | Git blob SHA | Size (bytes) | Processing status |
 |---|---|---:|---|
@@ -30,7 +30,7 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total. 24 of 33 pages extracted and
 | `Speed Fleet _ Hot Wheels Wiki _ Fandom.html` | `69ab0490c53bcde8ee008ec0c620619a49bf302a` | 445962 | Extracted + QA |
 | `Speed Machines (1983) _ Hot Wheels Wiki _ Fandom.html` | `e449ee168e898686c0bb46fced0b523081bfea47` | 366238 | Extracted and QA-reviewed |
 | `Speedway Specials _ Hot Wheels Wiki _ Fandom.html` | `de473d47ac484f9feb903c8448b23794d6052eaf` | 352847 | Extracted + QA |
-| `Sugar Caddy _ Hot Wheels Wiki _ Fandom.html` | `550488166f32055add61cba2d38393306c9b8b62` | 360833 | Not yet extracted |
+| `Sugar Caddy _ Hot Wheels Wiki _ Fandom.html` | `550488166f32055add61cba2d38393306c9b8b62` | 360833 | Extracted + QA |
 | `Super Chromes (1976) _ Hot Wheels Wiki _ Fandom.html` | `658a01422af975de2968285f809f07cbdbc8f272` | 376448 | Not yet extracted |
 | `Super Streeters _ Hot Wheels Wiki _ Fandom.html` | `963b63c8a2df9d844fcc4404df9e7c0c4e5778aa` | 358718 | Not yet extracted |
 | `TNT-Bird _ Hot Wheels Wiki _ Fandom.html` | `fc25ac24e5f93d71789f2649de64a304f70db561` | 360478 | Not yet extracted |
@@ -265,3 +265,11 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total. 24 of 33 pages extracted and
 - 17 Toy # values have 14 distinct values; repeated groups 17, 21 and 38 are preserved. Vehicle-name repeats: Monte Carlo Stocker and Torino Stocker.
 - 34 embedded table-cell image references and 2 unique Gallery image assets. Source row/cell HTML, headers, links and image metadata retained.
 - Export: `research/extractions/EARLY-COLLECTIONS-SPEEDWAY-SPECIALS.csv`; QA: `research/extractions/EARLY-COLLECTIONS-SPEEDWAY-SPECIALS-EXTRACTION-QA.md`.
+
+
+### Sugar Caddy
+- Source: `Early Collections/Sugar Caddy _ Hot Wheels Wiki _ Fandom.html`; Git blob SHA `550488166f32055add61cba2d38393306c9b8b62`; manifest SHA-256 `A90241068A42C2841DE36EAEE60C58D95855B6C22B8E8C2A8E7A1CEAD9A5D160`; Fandom revision 807115.
+- Three tables: Original Versions (12 rows, 12 columns), CIPSA Versions (3 rows, 9 columns), Retooled Versions (1 row, 12 columns). Total 16 product rows plus 4 separate Gallery records (20 CSV records).
+- Toy # appears in 13 rows across Original and Retooled Versions; 2 distinct values, with 6418 repeated 12 times. CIPSA table has no Toy # or Year columns. Source-specific schemas retained.
+- 17 product-table image references and 4 separate gallery assets retained.
+- Export: `research/extractions/EARLY-COLLECTIONS-SUGAR-CADDY.csv`; QA: `research/extractions/EARLY-COLLECTIONS-SUGAR-CADDY-EXTRACTION-QA.md`.
