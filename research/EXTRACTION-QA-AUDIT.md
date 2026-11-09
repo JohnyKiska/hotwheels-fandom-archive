@@ -81,3 +81,7 @@ Sequential validation has advanced to **130 of 633 distinct CSV files**. The lat
 ## Sixth-stage progress update (2026-11-09)
 
 Sequential CSV validation has advanced to **140 of 633 distinct CSV files**. Mainline years 1980–1989 all passed CSV parsing and per-file row-width checks, with no blank data records, exact duplicate rows, malformed quoting, BOM, U+FFFD, or empty/duplicate header labels. Mainline schema widths legitimately vary by period (19, 18, 17, and 9 columns in this batch); validation is therefore always performed against each individual file's own header, not a fixed global width. The narrower 1989 schema is recorded for later semantic/provenance reconciliation rather than treated as a defect based on width alone.
+
+## Seventh-stage progress update (2026-11-09)
+
+Sequential validation has advanced to **160 of 633 distinct CSV files**. Mainline 1990–1999 (10 files) and 2000–2009 (10 files) passed CSV parsing and row-width validation against each file's own header. No blank data records, exact duplicate rows, malformed quoting, BOM, U+FFFD, or empty/duplicate header labels were detected in these 20 files. Schema widths continue to evolve across the Mainline archive, with 25, 16, 13, 12, 11, and 10-column layouts represented; these differences are retained and not treated as errors without evidence of a row/header mismatch or lost source fields.
