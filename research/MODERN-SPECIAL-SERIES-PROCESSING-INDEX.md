@@ -7,7 +7,7 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 - Source pages: 223
 - Total source size: 92,291,750 bytes (88.02 MiB)
 - Inventory source: repository `MANIFEST.csv` and GitHub directory/tree entries.
-- Extraction status: 98 of 223 source pages extracted and QA-reviewed; remaining pages are marked `Not yet extracted`.
+- Extraction status: 102 of 223 source pages extracted and QA-reviewed; remaining pages are marked `Not yet extracted`.
 - This index is an inventory baseline, not a claim that each file represents one distinct product series.
 
 ## Source folder breakdown
@@ -137,10 +137,10 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 | `Modern Special Series/Color Shifters/2020 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `bc2e213310fb4d0f48d367b2a5030d4ec137de36` | 357231 | `435186783367DB55FADB37DA45D47C09124D16AF2F6A9653A89BCC850E5AF236` | Extracted + QA |
 | `Modern Special Series/Color Shifters/2021 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `a7558bff165e04f0643d0d468378db2b1d701bfe` | 319581 | `29BD0D4DAB5E10842CA273182B67BAB0BEF5545C6E62388FC0F7C51515B2AC64` | Extracted + QA |
 | `Modern Special Series/Color Shifters/2022 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `35fe9fbcd5dba4623d1990c478ab6fedd9fa9dff` | 351635 | `056178C433B62540C06C5DBC42FCC71E42B1FBD165ECCE472327359791C2BAE9` | Extracted + QA |
-| `Modern Special Series/Color Shifters/2023 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `d33b643b9081f913a0aaacbf91c3caa1a6568165` | 346310 | `43AF27A2F652BD264221193C36E23CE1E0C9013D61F9B96F5EEA86896E0BFF8F` | Not yet extracted |
-| `Modern Special Series/Color Shifters/2024 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `bffecf415edd9d1f5e59c3e2fcab106da8da7a2f` | 331441 | `49B9F8E95594F8E6583B0F4A30C8CAEFC76AB988B1A638A01DD1F894B588A136` | Not yet extracted |
-| `Modern Special Series/Color Shifters/2025 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `22308b1c1dc35bd04d947be744bf3d8198af06c7` | 363239 | `EE4C375003C61BA54D41E7B73D23B6C314FB02023B939BE534B6D00BDEE70F93` | Not yet extracted |
-| `Modern Special Series/Color Shifters/2026 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `4c34c8390f06fcedafd0c006f2fad94af995aa85` | 368276 | `FFF72AAD51E2B971D8B455E772C025A73376BAB6B0809CA87A6492C417A29A22` | Not yet extracted |
+| `Modern Special Series/Color Shifters/2023 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `d33b643b9081f913a0aaacbf91c3caa1a6568165` | 346310 | `43AF27A2F652BD264221193C36E23CE1E0C9013D61F9B96F5EEA86896E0BFF8F` | Extracted + QA |
+| `Modern Special Series/Color Shifters/2024 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `bffecf415edd9d1f5e59c3e2fcab106da8da7a2f` | 331441 | `49B9F8E95594F8E6583B0F4A30C8CAEFC76AB988B1A638A01DD1F894B588A136` | Extracted + QA |
+| `Modern Special Series/Color Shifters/2025 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `22308b1c1dc35bd04d947be744bf3d8198af06c7` | 363239 | `EE4C375003C61BA54D41E7B73D23B6C314FB02023B939BE534B6D00BDEE70F93` | Extracted + QA |
+| `Modern Special Series/Color Shifters/2026 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `4c34c8390f06fcedafd0c006f2fad94af995aa85` | 368276 | `FFF72AAD51E2B971D8B455E772C025A73376BAB6B0809CA87A6492C417A29A22` | Extracted + QA |
 | `Modern Special Series/Cool Classics _ Hot Wheels Wiki _ Fandom.html` | `fa8644151d5641c63087cfcca6f034330631392c` | 423606 | `5461808915A500B5DB9CEF694132397E8C922B745C91AD807CE99FEF47A6756A` | Not yet extracted |
 | `Modern Special Series/Corvette 4-Rotor _ Hot Wheels Wiki _ Fandom.html` | `da08319e73900886655cae46d21d52452552b163` | 340971 | `9DA31200D46190289FA38C7E298B55A54089310488EE09D007D95FB7459A2DCB` | Not yet extracted |
 | `Modern Special Series/Crashers (2007) _ Hot Wheels Wiki _ Fandom.html` | `2cc9b0d21683dbe60541452c73fa92375128a4b7` | 416496 | `4E9B9C69034E5D247423D0A8B39B8CAEA27E666C10362E8377CD5197924C5D62` | Not yet extracted |
