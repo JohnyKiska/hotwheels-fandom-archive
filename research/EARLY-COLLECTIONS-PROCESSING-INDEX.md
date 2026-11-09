@@ -7,7 +7,7 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total.
 | Source file | Git blob SHA | Size (bytes) | Processing status |
 |---|---|---:|---|
 | `Action Command _ Hot Wheels Wiki _ Fandom.html` | `aac8bef248329166dd47ca7387d31dd6a89c3b1d` | 369285 | Extracted + QA |
-| `Boss Hoss _ Hot Wheels Wiki _ Fandom.html` | `3a7cb7b9e5e4e65c0a9e6a0d671fc6422014119f` | 419070 | Not yet extracted |
+| `Boss Hoss _ Hot Wheels Wiki _ Fandom.html` | `3a7cb7b9e5e4e65c0a9e6a0d671fc6422014119f` | 419070 | Extracted + QA |
 | `Classics _ Hot Wheels Wiki _ Fandom.html` | `81cdb2bcc7ce2505b2ce3b11f2a533475401e8a7` | 361417 | Not yet extracted |
 | `Classy Customs _ Hot Wheels Wiki _ Fandom.html` | `e6abb91ef7ee6140ac65220a5aaef8b33a07f72a` | 343179 | Not yet extracted |
 | `Drag Strippers _ Hot Wheels Wiki _ Fandom.html` | `4a562feebe3ee01403ae956cae9ba6757081f205` | 351156 | Not yet extracted |
@@ -57,3 +57,14 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total.
 3. Do not infer that the folder's organization is a canonical series hierarchy.
 4. Record ambiguous structures and incomplete metadata in per-page QA.
 5. Process the remaining pages systematically and update this index after each extraction.
+
+
+### Boss Hoss
+- Source: `Early Collections/Boss Hoss _ Hot Wheels Wiki _ Fandom.html`
+- Git blob SHA: `3a7cb7b9e5e4e65c0a9e6a0d671fc6422014119f`
+- Manifest SHA-256: `A84EF7E02BB4A05426369C3F09089B113C4DB3B01CFDCE2F1FD447DB7A5266B0`
+- 2 product tables, 33 product rows: Original Versions (23), Retooled Versions (10).
+- Gallery: 22 items.
+- Export: `research/extractions/EARLY-COLLECTIONS-BOSS-HOSS.csv`
+- QA: `research/extractions/EARLY-COLLECTIONS-BOSS-HOSS-EXTRACTION-QA.md`
+- Original Toy # 6499 appears on 23 separate rows; all are preserved individually.
