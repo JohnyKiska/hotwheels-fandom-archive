@@ -405,7 +405,7 @@ Next: continue with the remaining Early Collections pages in inventory order, re
 
 The archived `Early Collections/` inventory contains 33 HTML/HTM source pages. As of this audit update, 28 of 33 pages have been extracted and QA-reviewed. The Heavies is included in the completed set.
 
-- The Heavies: 1 product table, 7 product rows, 9 source columns; all 7 Toy # and all 7 Collector # values populated and unique; 2 separate Gallery items; 14 embedded image references retained. The Photo Loose and Photo Carded cells are blank in the source table.
+- The Heavies: 1 product table, 7 product rows, 9 source columns; all 7 Toy # and all 7 Collector # values populated and unique; 2 separate Gallery items; 14 embedded image references retained in the Photo Loose and Photo Carded cells (two per product row); image metadata is retained separately.
 - Output: `research/extractions/EARLY-COLLECTIONS-THE-HEAVIES.csv`.
 - QA: `research/extractions/EARLY-COLLECTIONS-THE-HEAVIES-EXTRACTION-QA.md`.
 - Remaining unprocessed Early Collections pages: 5. Continue using the processing index for the next source and preserve source organization as provenance, not canonical product taxonomy.
