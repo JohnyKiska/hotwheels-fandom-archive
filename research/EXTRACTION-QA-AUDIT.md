@@ -72,3 +72,7 @@ No other width, blank-record, exact-duplicate, BOM, U+FFFD, header-label, or quo
 Sequential CSV validation has now reached **122 of 633 distinct CSV files**. The additional Larger Scale and Mainline files inspected in this stage showed no malformed quoting, row-width mismatches, blank data records, exact duplicate rows, BOM, U+FFFD, or empty/duplicate header labels. The 19-column Mainline exports continue to validate against their own 19-column headers.
 
 Header-only exports are not automatically defects: the two Exclusives files with zero data rows were matched to their page-level QA reports, which confirm zero product tables/rows and intentional header-only CSV output. Other header-only outputs will be reconciled against their QA reports during the output-path audit.
+
+## Fifth-stage progress update (2026-11-09)
+
+Sequential validation has advanced to **130 of 633 distinct CSV files**. The latest eight Mainline exports (1972–1979) all passed CSV parsing and per-file schema-width checks; no blank data records, exact duplicate rows, malformed quoting, BOM, U+FFFD, or empty/duplicate header labels were found. The 19-column schema remains internally consistent for these years.
