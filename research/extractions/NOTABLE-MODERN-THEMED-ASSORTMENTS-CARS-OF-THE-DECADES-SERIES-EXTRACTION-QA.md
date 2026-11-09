@@ -3,7 +3,7 @@
 - Source: `Notable Modern Themed Assortments/Cars of the Decades Series _ Hot Wheels Wiki _ Fandom.html`
 - Source blob SHA: `2e013b4734dcd63c7eefcc70ca51fc48f92f2357`
 - Source size (bytes): 469516
-- Fandom revision ID: not present in source HTML
+- Fandom revision ID: 808133
 - Top-level HTML tables scanned: 2
 - Product rows extracted: 64
 - Embedded table image references: 128
