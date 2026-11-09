@@ -7,7 +7,7 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 - Source pages: 223
 - Total source size: 92,291,750 bytes (88.02 MiB)
 - Inventory source: repository `MANIFEST.csv` and GitHub directory/tree entries.
-- Extraction status: 17 of 223 source pages extracted and QA-reviewed; remaining pages are marked `Not yet extracted`.
+- Extraction status: 22 of 223 source pages extracted and QA-reviewed; remaining pages are marked `Not yet extracted`.
 - This index is an inventory baseline, not a claim that each file represents one distinct product series.
 
 ## Source folder breakdown
@@ -51,11 +51,11 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 | `Modern Special Series/AcceleRacers/AcceleRacers (figure series) _ Hot Wheels Wiki _ Fandom.html` | `6638f09b27e23377b6fa5f30998ddc2247d0a29f` | 363520 | `1B4BBBCF77AA65447BAB5773FA361A0FB152A26E3C2D7A596292C372271949E9` | Extracted + QA |
 | `Modern Special Series/AcceleRacers/AcceleRacers Coin Bank _ Hot Wheels Wiki _ Fandom.html` | `eb6d29fce3ca814054dd8be274fb71184a8d2252` | 326165 | `18C8FC192C8AC0D34A4779A2CD83A88941AEC3E0589D2406377D5B97E0CD744B` | Extracted + QA |
 | `Modern Special Series/AcceleRacers/AcceleRacers Collectible Card Game _ Hot Wheels Wiki _ Fandom.html` | `b2b64b5ba21cdd4387b21557f345df235c8fb28e` | 721589 | `BACF2491D6BF281774E742BE16BD745ED3193F5DEE3BD54D91A4D9B52F5793EE` | Extracted + QA |
-| `Modern Special Series/AcceleRacers/AcceleRacers Series (2005) _ Hot Wheels Wiki _ Fandom.html` | `ce1bf0e245c47ac64918861c1f50bf02aa1d63cc` | 427652 | `E24C3DE51E55CBB0724263CFCC919753CC4327647BF10C1B3D25A68457A8C3A0` | Not yet extracted |
-| `Modern Special Series/AcceleRacers/AcceleRacers Series (2006) _ Hot Wheels Wiki _ Fandom.html` | `8e19bebeb92fbc628403afd0675f7b0e7d5cc65c` | 386330 | `FA544B7417941CD5E258BAB30D28F8C43988AD2EDFACAB3E8CA86A79DC52297A` | Not yet extracted |
-| `Modern Special Series/AcceleRacers/AcceleRacers Series (2025) _ Hot Wheels Wiki _ Fandom.html` | `ff6af962e9009233b1529c0f0e9aee3b58d78bbd` | 363612 | `154F72FB9CEE4FDE786BB1EE066E2B67DC690F216F3487FAD6459D8245312CC7` | Not yet extracted |
-| `Modern Special Series/Airy 8 _ Hot Wheels Wiki _ Fandom.html` | `7761967d1ce33ce04002e6fd6e3e87b1663b17b2` | 363684 | `80CAE83E3378DCD66960067FD38A28DD69305F67B33216F8E7DE090B81FC6BDF` | Not yet extracted |
-| `Modern Special Series/Anteater _ Hot Wheels Wiki _ Fandom.html` | `8ed6f7d953eae6d3f4af09431561069b158f0dc8` | 337048 | `14E6AD85F54B0C65A0D56F5D71B292794F295F688D95A7C2043807D5CDBB5D65` | Not yet extracted |
+| `Modern Special Series/AcceleRacers/AcceleRacers Series (2005) _ Hot Wheels Wiki _ Fandom.html` | `ce1bf0e245c47ac64918861c1f50bf02aa1d63cc` | 427652 | `E24C3DE51E55CBB0724263CFCC919753CC4327647BF10C1B3D25A68457A8C3A0` | Extracted + QA |
+| `Modern Special Series/AcceleRacers/AcceleRacers Series (2006) _ Hot Wheels Wiki _ Fandom.html` | `8e19bebeb92fbc628403afd0675f7b0e7d5cc65c` | 386330 | `FA544B7417941CD5E258BAB30D28F8C43988AD2EDFACAB3E8CA86A79DC52297A` | Extracted + QA |
+| `Modern Special Series/AcceleRacers/AcceleRacers Series (2025) _ Hot Wheels Wiki _ Fandom.html` | `ff6af962e9009233b1529c0f0e9aee3b58d78bbd` | 363612 | `154F72FB9CEE4FDE786BB1EE066E2B67DC690F216F3487FAD6459D8245312CC7` | Extracted + QA |
+| `Modern Special Series/Airy 8 _ Hot Wheels Wiki _ Fandom.html` | `7761967d1ce33ce04002e6fd6e3e87b1663b17b2` | 363684 | `80CAE83E3378DCD66960067FD38A28DD69305F67B33216F8E7DE090B81FC6BDF` | Extracted + QA |
+| `Modern Special Series/Anteater _ Hot Wheels Wiki _ Fandom.html` | `8ed6f7d953eae6d3f4af09431561069b158f0dc8` | 337048 | `14E6AD85F54B0C65A0D56F5D71B292794F295F688D95A7C2043807D5CDBB5D65` | Extracted + QA |
 | `Modern Special Series/Auto Affinity _ Hot Wheels Wiki _ Fandom.html` | `f49f5e2822b1f92788fad0a027ba0c40f6b3e6d7` | 464159 | `41C00CE86D22E1167F6CFB035A80E35A4519CFA8DA7F976DCA9E097BA8C29568` | Not yet extracted |
 | `Modern Special Series/Bassline (Crashers) _ Hot Wheels Wiki _ Fandom.html` | `f8871f16c2146fe8128c87916dda1998fc89766d` | 331234 | `2C0EEA32DA19C0D4B985F2C782735D5DF3F270B655A9DF74A01A9C9E0030983B` | Not yet extracted |
 | `Modern Special Series/Boulevard/2012 Hot Wheels Boulevard _ Hot Wheels Wiki _ Fandom.html` | `578fd2b49ab50002c5a1cf7e02d3c0fa645b9059` | 462173 | `D86DEE9B64E43332FDB46E5B17DE957C2093269C631083BDE41882C5C2A66253` | Not yet extracted |
@@ -347,6 +347,32 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 - Source: `Modern Special Series/AcceleRacers/AcceleRacers Collectible Card Game _ Hot Wheels Wiki _ Fandom.html`; Git blob SHA `b2b64b5ba21cdd4387b21557f345df235c8fb28e`; manifest SHA-256 `BACF2491D6BF281774E742BE16BD745ED3193F5DEE3BD54D91A4D9B52F5793EE`; 721,589 bytes.
 - Two tables, 279 rows (Releases: 4; Cards: 275), 554 embedded image references, and 2 separate Gallery items. The card table is retained at full row granularity.
 - CSV: `research/extractions/MODERN-SPECIAL-SERIES-ACCELERACERS-COLLECTIBLE-CARD-GAME.csv` plus five ordered `-PART-02.csv` through `-PART-06.csv` files (281 total records); QA: `research/extractions/MODERN-SPECIAL-SERIES-ACCELERACERS-COLLECTIBLE-CARD-GAME-EXTRACTION-QA.md`.
+
+
+### AcceleRacers Series (2005)
+- Source: `Modern Special Series/AcceleRacers/AcceleRacers Series (2005) _ Hot Wheels Wiki _ Fandom.html`; blob SHA `ce1bf0e245c47ac64918861c1f50bf02aa1d63cc`; manifest SHA-256 `E24C3DE51E55CBB0724263CFCC919753CC4327647BF10C1B3D25A68457A8C3A0`; 427,652 bytes.
+- Five tables, 51 rows (Teku 10; Metal Maniacs 10; Racing Drones 10; Silencerz 10; Track Sets 11), 91 embedded image references, 13 Gallery items.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-ACCELERACERS-SERIES-2005.csv`; QA: matching `-EXTRACTION-QA.md`.
+
+### AcceleRacers Series (2006)
+- Source: `Modern Special Series/AcceleRacers/AcceleRacers Series (2006) _ Hot Wheels Wiki _ Fandom.html`; blob SHA `8e19bebeb92fbc628403afd0675f7b0e7d5cc65c`; manifest SHA-256 `FA544B7417941CD5E258BAB30D28F8C43988AD2EDFACAB3E8CA86A79DC52297A`; 386,330 bytes.
+- Seven extracted tables, 33 rows, 66 embedded image references. An additional small source table was excluded by the minimum-two-data-row rule; retain for targeted review if needed.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-ACCELERACERS-SERIES-2006.csv`; QA: matching `-EXTRACTION-QA.md`.
+
+### AcceleRacers Series (2025)
+- Source: `Modern Special Series/AcceleRacers/AcceleRacers Series (2025) _ Hot Wheels Wiki _ Fandom.html`; blob SHA `ff6af962e9009233b1529c0f0e9aee3b58d78bbd`; manifest SHA-256 `154F72FB9CEE4FDE786BB1EE066E2B67DC690F216F3487FAD6459D8245312CC7`; 363,612 bytes.
+- Two extracted tables, 7 rows, 10 embedded image references, 3 Gallery items. The second table is under a Gallery heading and is retained separately in source-table form for review.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-ACCELERACERS-SERIES-2025.csv`; QA: matching `-EXTRACTION-QA.md`.
+
+### Airy 8
+- Source: `Modern Special Series/Airy 8 _ Hot Wheels Wiki _ Fandom.html`; blob SHA `7761967d1ce33ce04002e6fd6e3e87b1663b17b2`; manifest SHA-256 `80CAE83E3378DCD66960067FD38A28DD69305F67B33216F8E7DE090B81FC6BDF`; 363,684 bytes.
+- One table, 16 rows, 15 embedded image references, 6 Gallery items.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-AIRY-8.csv`; QA: matching `-EXTRACTION-QA.md`.
+
+### Anteater
+- Source: `Modern Special Series/Anteater _ Hot Wheels Wiki _ Fandom.html`; blob SHA `8ed6f7d953eae6d3f4af09431561069b158f0dc8`; manifest SHA-256 `14E6AD85F54B0C65A0D56F5D71B292794F295F688D95A7C2043807D5CDBB5D65`; 337,048 bytes.
+- One table, 9 rows, 9 embedded image references; no separate Gallery items detected.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-ANTEATER.csv`; QA: matching `-EXTRACTION-QA.md`.
 
 ## Processing rules
 
