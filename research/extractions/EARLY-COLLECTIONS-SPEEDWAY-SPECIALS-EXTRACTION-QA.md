@@ -11,7 +11,7 @@
 - Product tables: 1, Article main table (introductory prose; no section heading), 17 data rows, 9 source columns (Toy #, Collector #, Vehicle Name, Color, Tampo, Wheel Type, Notes, Photo Loose, Photo Carded).
 - Separate standard Wikia gallery items: 2.
 - Total CSV records: 19.
-- Images embedded in product-table cells: 34; unique gallery image assets: 3. Gallery markup repeats image elements in noscript/lazy-load forms; raw references are retained.
+- Images embedded in product-table cells: 34; unique gallery image assets: 2. Gallery markup repeats image elements in noscript/lazy-load forms; raw references are retained.
 - All 17 product rows have Toy # and Collector # fields. Toy # values: 14 distinct; repeated values: `17` (2), `21` (2), `38` (2).
 - Vehicle-name labels: 15 distinct; repeated labels: `Monte Carlo Stocker` (2), `Torino Stocker` (2).
 - Raw source headers, cell values and HTML, source row order, model links, and per-cell image metadata (alt, filename, image key, src/data-src, dimensions) retained. Repeated identifiers and labels are preserved as separate rows.
