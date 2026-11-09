@@ -378,3 +378,10 @@ Next: continue with the remaining Early Collections pages in inventory order, re
 - Sugar Caddy: 16 product rows across three source tables (Original Versions 12, CIPSA Versions 3, Retooled Versions 1) with different schemas; plus 4 separate Gallery records (20 CSV records total).
 - Toy # is present in 13 rows; 6418 repeats 12 times and P2141 appears once. CIPSA has no Toy # or Year columns. 17 embedded image references and 4 gallery assets retained.
 - Outputs: `research/extractions/EARLY-COLLECTIONS-SUGAR-CADDY.csv` and `research/extractions/EARLY-COLLECTIONS-SUGAR-CADDY-EXTRACTION-QA.md`; detailed progress: `research/EARLY-COLLECTIONS-PROCESSING-INDEX.md`.
+
+
+### Early Collections update: Super Chromes (1976)
+- Processing status: 26 of 33 pages extracted and QA-reviewed.
+- Super Chromes: 46 product rows across three year-specific tables (1976: 25; 1977: 19; 1978: 2), plus 4 separate Gallery records (50 CSV records total).
+- All 46 rows have Toy #; 13 distinct values. Repeated Toy # values remain separate source records; 9505 appears 12 times. 46 embedded image references and 4 gallery assets retained.
+- Outputs: `research/extractions/EARLY-COLLECTIONS-SUPER-CHROMES-1976.csv` and `research/extractions/EARLY-COLLECTIONS-SUPER-CHROMES-1976-EXTRACTION-QA.md`; detailed progress: `research/EARLY-COLLECTIONS-PROCESSING-INDEX.md`.
