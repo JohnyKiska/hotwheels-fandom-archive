@@ -13,7 +13,7 @@
 Для каждого содержательного вывода указывать источник (путь в архиве или внешний URL), область проверки и статус. Не повышать статус автоматически. Сохранять исходные значения и формулировки источника.
 
 ## Документы
-- [Early Special Series processing index](EARLY-SPECIAL-SERIES-PROCESSING-INDEX.md): source inventory and row-preserving CSV/QA extraction status for the early special-series pages.
+- [Early Collections processing index](EARLY-COLLECTIONS-PROCESSING-INDEX.md): source inventory and row-preserving CSV/QA extraction status for Early Collections.\n- [Early Special Series processing index](EARLY-SPECIAL-SERIES-PROCESSING-INDEX.md): source inventory and row-preserving CSV/QA extraction status for Early Special Series.\n- [Other Early Series processing index](OTHER-EARLY-SERIES-PROCESSING-INDEX.md): source inventory and row-preserving CSV/QA extraction status for Other Early Series.
 
 | Документ | Назначение |
 |---|---|
@@ -42,7 +42,7 @@
 
 - 2026-11-08: выполнена построчная сверка Flying Colors, семи Patch Cards, Boss Hoss, Heavy Chevy, King Kuda и Speed Fleet; исправлены две ошибки интерпретации Collector # как Toy #.
 8. [x] Проверены Farbs, Zowees, Truck Co., шесть моделей Fat Daddy Sizzlers и аксессуар Steering Trailer; зафиксированы бренд-границы, regional aliases, комплекты и source typo.
-9. [ ] Продолжить проверку оставшихся Early Special Series и затем Other Early Series.
+9. [x] Завершена построчная source-preserving extraction и QA для Early Special Series (39/39) и Other Early Series (5/5); индексы и CSV/QA сохранены в репозитории.
 
 
 - 2026-11-08: добавлены наблюдения по 14 страницам Early Special Series; зафиксированы поколения механизмов, наборы/компоненты, regional aliases, tooling lineage и нерешённые вопросы.
@@ -220,3 +220,4 @@
 
 
 - 2026-11-08: извлечена Mainline 1986: 26 строк в New Castings (8), Reissues (13), Real Riders (5); 20 уникальных Toy #. Сохранены Country (Malaysia/Hong Kong), Only in set, original-name notes. Повторяются Toy #2057/2058 (set/color variants), #2520 Race Ace, #2537 Rescue Ranger, #2539 Jeep CJ-7 и #2534 (Path Beater/Power Plower collision). CSV/QA: research/extractions/MAINLINE-1986.csv и MAINLINE-1986-EXTRACTION-QA.md. Fandom revision 755450.
+\n- 2026-11-09: завершена row-level extraction Early Special Series (39/39 страниц) и Other Early Series (5/5 страниц). Для Other Early Series сохранены 187 товарных строк, 231 embedded image references и 735 ссылок в пяти CSV и пяти QA; добавлен `OTHER-EARLY-SERIES-PROCESSING-INDEX.md`.\n
