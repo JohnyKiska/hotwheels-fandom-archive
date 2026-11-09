@@ -7,7 +7,7 @@ Scope: archived HTML/HTM source pages under `Notable Modern Themed Assortments/`
 - Source pages: 57
 - Total source size: 20,744,066 bytes
 - Inventory source: recursive Git tree and repository `MANIFEST.csv`.
-- Extraction status: 20 of 57 pages extracted and QA-reviewed; 37 remaining.
+- Extraction status: 25 of 57 pages extracted and QA-reviewed; 32 remaining.
 - Source SHA-256 values are copied from the repository manifest. Git blob SHAs identify the exact archived HTML blobs.
 
 ## File inventory and processing status
@@ -155,3 +155,22 @@ Each page has a 21-column source-preserving CSV and a per-page QA report in `res
 ## Next batch
 
 Continue with the next five unprocessed pages in inventory order: Fast & Furious Spy Racers Series, Fire Rods Series (2000), Fire Rods Series (2009), Fright Cars Series, and HW Road Trippin' Series (2014).
+
+
+## Batch 5: Fast & Furious Spy Racers Series through HW Road Trippin' Series (2014), 2026-11-09
+
+Five source pages extracted and QA-reviewed. Batch total: 32 product tables, 276 product rows, 399 embedded table image references, and 890 links retained from product cells.
+
+| Source page | Tables | Product rows | Images | Links |
+|---|---:|---:|---:|---:|
+| Fast & Furious Spy Racers Series | 2 | 31 | 62 | 124 |
+| Fire Rods Series (2000) | 2 | 12 | 24 | 48 |
+| Fire Rods Series (2009) | 1 | 26 | 52 | 78 |
+| Fright Cars Series | 25 | 154 | 155 | 436 |
+| HW Road Trippin' Series (2014) | 2 | 53 | 106 | 204 |
+
+Each page has a 21-column source-preserving CSV and a per-page QA report in `research/extractions/`. Source blob SHA, size, manifest SHA-256, and Fandom revision ID (where found) are recorded in the artifacts.
+
+## Next batch
+
+Continue with the next five unprocessed pages in inventory order: HW Winter Series (2020), HW Winter Series (2021), HW Winter Series (2022), HW Winter Series (2023), and HW Winter Series (2024).
