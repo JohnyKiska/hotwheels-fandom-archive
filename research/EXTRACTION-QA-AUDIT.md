@@ -30,3 +30,24 @@ The matching QA report was updated to record the ancillary row and the schema-wi
 ## First-pass limitation
 
 The 19-file sample is useful for catching obvious serialization defects but cannot establish that every CSV is structurally valid. Archive-wide validation remains open.
+
+
+## Second-pass stratified spot-check (2026-11-09)
+
+Nine additional CSV exports were parsed with CSV-aware quote handling, sampled across Early Special Series, Other Early Series, Mainline, Exclusives, Miscellaneous, Modern Special Series, Notable Modern Themed Assortments, Other Modern Series, and Larger Scale.
+
+| CSV | Data rows | Columns | Width errors | Blank rows | Exact duplicate rows | U+FFFD |
+|---|---:|---:|---:|---:|---:|---:|
+| EARLY-SPECIAL-SERIES-ACTION-PACKS.csv | 32 | 21 | 0 | 0 | 0 | No |
+| OTHER-EARLY-SERIES-ACTION-CYCLES.csv | 26 | 21 | 0 | 0 | 0 | No |
+| MAINLINE-1968.csv | 42 | 19 | 0 | 0 | 0 | No |
+| EXCLUSIVES-ELITE-64-PRODUCT-TABLES.csv | 38 | 21 | 0 | 0 | 0 | No |
+| MISCELLANEOUS-1985-5-PACKS-PRODUCT-TABLES.csv | 1 | 21 | 0 | 0 | 0 | No |
+| MODERN-SPECIAL-SERIES-100-PERCENT-HOT-WHEELS-1-43-SCALE.csv | 13 | 21 | 0 | 0 | 0 | No |
+| NOTABLE-MODERN-THEMED-ASSORTMENTS-50TH-ANNIVERSARY-BLACK-AND-GOLD-SERIES-2018.csv | 7 | 21 | 0 | 0 | 0 | No |
+| OTHER-MODERN-SERIES-2000-MONSTER-JAM-SERIES.csv | 4 | 21 | 0 | 0 | 0 | No |
+| LARGER-SCALE-1-43-BATTLE-VEHICLES.csv | 13 | 21 | 0 | 0 | 0 | No |
+
+All nine files had consistent record widths, no fully blank data rows, no exact duplicate data rows in this sample, no Unicode replacement characters, and balanced CSV quoting. The 19-column Mainline schema is intentional and confirms that archive-wide checks must compare each row with its own header rather than enforce one global width.
+
+The repository tree contains same-stem QA reports for seven of the nine CSVs. No same-stem report was found for the Exclusives Elite 64 and Miscellaneous 1985 5-Packs split exports; these require mapping back to their source-page QA reports before treating the absence as an issue. This spot-check does not establish archive-wide validity.
