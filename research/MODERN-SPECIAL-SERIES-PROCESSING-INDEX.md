@@ -805,7 +805,7 @@ Seven source pages extracted and QA-reviewed. Batch total: 32 retained product t
 
 ## Latest extraction batch: Modern Special Series (Hot Wheels Delivery through Hot Wheels id), 2026-11-09
 
-Six source pages extracted and QA-reviewed. Batch total: 49 retained product tables, 495 product rows, 849 embedded table image references, and 1,373 links in product cells. Each page has a 21-column CSV and individual QA report. CSV row counts and column counts were rechecked against all six QA reports. Gallery-only items were not independently extracted in this pass.
+Six source pages extracted and QA-reviewed. Batch total: 49 retained product tables, 495 product rows, 849 embedded table image references, and 1,713 links in product cells. Each page has a 21-column CSV and individual QA report. CSV row counts and column counts were rechecked against all six QA reports. Gallery-only items were not independently extracted in this pass.
 
 ### Source retrieval exception: Hot Wheels Classics
 
