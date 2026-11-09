@@ -11,4 +11,4 @@
 - Excluded tables: #2 (0 headers, 2 rows; ancillary table without product headers)
 - CSV schema: 21 columns
 - Gallery extraction: deferred
-- CSV validation: pending.
+- CSV validation: re-fetched from GitHub; header has 21 columns, 12 data rows, malformed-width records: 0.
