@@ -131,7 +131,7 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total.
 ### Grand Prix
 - Source: `Early Collections/Grand Prix _ Hot Wheels Wiki _ Fandom.html`
 - Git blob SHA: `d23ef8f6f24209353e1c8e9af4c8861fd5d7c25a`
-- Manifest SHA-256: `undefined`
+- Manifest SHA-256: `EEF2D22944167C610616C489E96A80D6261426CDC377E264CCBE99B09061C621`
 - Fandom revision ID: 787981
 - One visual image-layout table under The Cars: 11 vehicle captions and 11 associated image references; one separate Gallery item.
 - The page has no conventional product-data table. Captions are retained as source labels, with no inferred Toy # or structured release/package data.
