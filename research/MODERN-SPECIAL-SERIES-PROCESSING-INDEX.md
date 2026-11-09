@@ -7,7 +7,7 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 - Source pages: 223
 - Total source size: 92,291,750 bytes (88.02 MiB)
 - Inventory source: repository `MANIFEST.csv` and GitHub directory/tree entries.
-- Extraction status: 122 of 223 source pages extracted and QA-reviewed; remaining pages are marked `Not yet extracted`.
+- Extraction status: 107 of 223 source pages have CSV and QA artifacts confirmed; remaining 116 pages are marked Not yet extracted.
 - This index is an inventory baseline, not a claim that each file represents one distinct product series.
 
 ## Source folder breakdown
@@ -115,13 +115,13 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 | `Modern Special Series/Character Cars/SpongeBob SquarePants Character Cars _ Hot Wheels Wiki _ Fandom.html` | `99e5d1aa85a35956f6a393798e9de45a31179886` | 373240 | `ED05C8AEC5823D80E4FACC640D799A57BCF0DD652CD8219098200971291CE147` | Extracted + QA |
 | `Modern Special Series/Character Cars/Star Wars Character Cars _ Hot Wheels Wiki _ Fandom.html` | `e1a71f27cfe72e51eecc6d58b8ed3c60d81390d1` | 887617 | `DBA8B280814373986DAB14AB82AB77724AD4CD73E9B9EA459B4C89CB0D8FE944` | Extracted + QA |
 | `Modern Special Series/Character Cars/Street Fighter V Character Cars _ Hot Wheels Wiki _ Fandom.html` | `a40e3c20b066c9c36bb7b4be06c386c1ecf22e06` | 352966 | `1C724D568AE53D6AA32888BBF904DC20F2B002D308A9255017419D2E92C8BD72` | Extracted + QA |
-| `Modern Special Series/Character Cars/Super Mario Character Cars _ Hot Wheels Wiki _ Fandom.html` | `a20f62788fef8c33e99ca068051cd780858036f3` | 444414 | `2EFFAD309E57B458466975593A384B338001ED03077097EAD028855FC836886C` | Not yet extracted |
-| `Modern Special Series/Character Cars/Teenage Mutant Ninja Turtles Character Cars _ Hot Wheels Wiki _ Fandom.html` | `33d48afb99d0e96d8484ca4d149d8386bde0ce48` | 357027 | `CC3EE425993B09DC90D1D8471BE028A2C4A138DD247BBA7CF223CF6C121BF79E` | Not yet extracted |
-| `Modern Special Series/Character Cars/The Muppets Character Cars _ Hot Wheels Wiki _ Fandom.html` | `b61e1c104ebd671fe34343f4c922dd497e53fdf9` | 356088 | `EFABB8AD70C4541F51185C76B0721CE0FEBCC466D656BF21A0F91C5586A766EC` | Not yet extracted |
-| `Modern Special Series/Character Cars/Toy Story Character Cars _ Hot Wheels Wiki _ Fandom.html` | `d2097ae3a5c79657ce84a4daad58c90d838d526d` | 423899 | `795266E1898C68639DBA92AAB3CCB746FC825E76865CCC3DB7D01A3486C611C4` | Not yet extracted |
-| `Modern Special Series/Character Cars/Trolls Band Together Character Cars _ Hot Wheels Wiki _ Fandom.html` | `7a192ecfb62ba4211e5433e9a43728aa61b6a59a` | 348937 | `0C2B58E9CB12AF5FD7717CE82CDC245038DC56A8F9B8BF989FEE8FCE037260E4` | Not yet extracted |
-| `Modern Special Series/Character Cars/Universal Character Cars _ Hot Wheels Wiki _ Fandom.html` | `494f973b6e33923f5abc75cdb61dc0263346aacd` | 352238 | `8AD534117C50ACAA5A8E37A692932C030A72D0658A0CFABB2F05BCBB33A9282D` | Not yet extracted |
-| `Modern Special Series/Character Cars/Warner Bros. Character Cars _ Hot Wheels Wiki _ Fandom.html` | `c9ec6d2a47d1b6882263e1046ff651325adcb685` | 369961 | `0B40BCBCDECDBC8FA1823A7EA11D3B24BA34D1032A8A1479A09B10F1A039F2C3` | Not yet extracted |
+| `Modern Special Series/Character Cars/Super Mario Character Cars _ Hot Wheels Wiki _ Fandom.html` | `a20f62788fef8c33e99ca068051cd780858036f3` | 444414 | `2EFFAD309E57B458466975593A384B338001ED03077097EAD028855FC836886C` | Extracted + QA |
+| `Modern Special Series/Character Cars/Teenage Mutant Ninja Turtles Character Cars _ Hot Wheels Wiki _ Fandom.html` | `33d48afb99d0e96d8484ca4d149d8386bde0ce48` | 357027 | `CC3EE425993B09DC90D1D8471BE028A2C4A138DD247BBA7CF223CF6C121BF79E` | Extracted + QA |
+| `Modern Special Series/Character Cars/The Muppets Character Cars _ Hot Wheels Wiki _ Fandom.html` | `b61e1c104ebd671fe34343f4c922dd497e53fdf9` | 356088 | `EFABB8AD70C4541F51185C76B0721CE0FEBCC466D656BF21A0F91C5586A766EC` | Extracted + QA |
+| `Modern Special Series/Character Cars/Toy Story Character Cars _ Hot Wheels Wiki _ Fandom.html` | `d2097ae3a5c79657ce84a4daad58c90d838d526d` | 423899 | `795266E1898C68639DBA92AAB3CCB746FC825E76865CCC3DB7D01A3486C611C4` | Extracted + QA |
+| `Modern Special Series/Character Cars/Trolls Band Together Character Cars _ Hot Wheels Wiki _ Fandom.html` | `7a192ecfb62ba4211e5433e9a43728aa61b6a59a` | 348937 | `0C2B58E9CB12AF5FD7717CE82CDC245038DC56A8F9B8BF989FEE8FCE037260E4` | Extracted + QA |
+| `Modern Special Series/Character Cars/Universal Character Cars _ Hot Wheels Wiki _ Fandom.html` | `494f973b6e33923f5abc75cdb61dc0263346aacd` | 352238 | `8AD534117C50ACAA5A8E37A692932C030A72D0658A0CFABB2F05BCBB33A9282D` | Extracted + QA |
+| `Modern Special Series/Character Cars/Warner Bros. Character Cars _ Hot Wheels Wiki _ Fandom.html` | `c9ec6d2a47d1b6882263e1046ff651325adcb685` | 369961 | `0B40BCBCDECDBC8FA1823A7EA11D3B24BA34D1032A8A1479A09B10F1A039F2C3` | Extracted + QA |
 | `Modern Special Series/Color Reveal _ Hot Wheels Wiki _ Fandom.html` | `b3a7ec89b6923d3a7649fa2a9d8f9447d6d8b4b6` | 630782 | `7D8FE5280A2646745E1A326E277CE035F1F74FAF93919C92E084D1423581251F` | Extracted + QA |
 | `Modern Special Series/Color Shifters/2008 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `b575a231218961c30b14c1a834e13a63f4f53f8d` | 380174 | `FE04F5652B3988B920D3DB9022CCE911C3497899C7EC34E0BEEBA2FF41F28DAC` | Extracted + QA |
 | `Modern Special Series/Color Shifters/2009 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `871aaf68ad5d08f17d0938f4fbd59e6c5f869a95` | 376832 | `9126070C189CF49A44C925C2785FF0C7A648BDE6957B2477764E481DE34B2A5F` | Extracted + QA |
