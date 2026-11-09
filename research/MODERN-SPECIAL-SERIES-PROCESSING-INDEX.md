@@ -7,7 +7,7 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 - Source pages: 223
 - Total source size: 92,291,750 bytes (88.02 MiB)
 - Inventory source: repository `MANIFEST.csv` and GitHub directory/tree entries.
-- Extraction status: 135 of 223 source pages have CSV and QA artifacts confirmed; remaining 88 pages are marked Not yet extracted.
+- Extraction status: 141 of 223 source pages have CSV and QA artifacts confirmed; remaining 82 pages are marked Not yet extracted.
 - This index is an inventory baseline, not a claim that each file represents one distinct product series.
 
 ## Source folder breakdown
@@ -170,12 +170,12 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 | `Modern Special Series/High Speed Racing Wheels Series _ Hot Wheels Wiki _ Fandom.html` | `9647463c91f86ff95956578092c37259765cf2c0` | 371484 | `97FE882E0D6798EFA98FCE20A1C32F2D09E1159B4C8FEEE2086A92D07C00D37E` | Extracted + QA |
 | `Modern Special Series/Highway 35 World Race _ Hot Wheels Wiki _ Fandom.html` | `2c75b3ad07b7a831235558c4d9cb847ec52d59be` | 433423 | `ED8E0ACC981BE7151C1256E7A7F3EA6F67B69EEBDF650154395267B8FC77C0AD` | Extracted + QA |
 | `Modern Special Series/Hot Wheels Classics _ Hot Wheels Wiki _ Fandom.html` | `70d9be50320809395b6a4d7fd220dd96a5ac9ad2` | 1450750 | `E5E6C93B6FEE715198BD785FAA826E591D2E870C1354A88BA5CC8A975BDC9F48` | Not yet extracted |
-| `Modern Special Series/Hot Wheels Delivery _ Hot Wheels Wiki _ Fandom.html` | `ae2b7769f6038d52e3d5a5471f2536a50d673490` | 486192 | `D2E211771F7F018E386AA29748AF4C7C7F0F654CB01C66E4C39F030CD3E9E9FC` | Not yet extracted |
-| `Modern Special Series/Hot Wheels Garage (2010) _ Hot Wheels Wiki _ Fandom.html` | `c2c66e2e7aadaa417a42ed09b8484dacd8139622` | 562456 | `0AF78A8EB81436997A1B21928D0A89F372149A045788CBF70B2BA5BCBC25509A` | Not yet extracted |
-| `Modern Special Series/Hot Wheels Garage (2011) _ Hot Wheels Wiki _ Fandom.html` | `379ab54d518aae00db43dcdd3f3bfbe217b8bb38` | 526402 | `1F763E89EEB095709C2F12643C89EA9C261BA035CEA0D73B930FF7DA8DF363A8` | Not yet extracted |
-| `Modern Special Series/Hot Wheels Garage Series (2016) _ Hot Wheels Wiki _ Fandom.html` | `2c8c5377e4ed2f43f0913cd1f0478c403d9e2283` | 329921 | `7A464735322E40DBBF98B8D0860A1C54828374EB6C3670DDBBD070433C85CED8` | Not yet extracted |
-| `Modern Special Series/Hot Wheels Heritage _ Hot Wheels Wiki _ Fandom.html` | `3a39c5816aacf67216d6fb07f552a720c6b5aef0` | 428595 | `A181A8D26F15518CF0664731CA9A4B5DAB9504E1378E7990832EF6B9BBA5EAA1` | Not yet extracted |
-| `Modern Special Series/Hot Wheels id _ Hot Wheels Wiki _ Fandom.html` | `8e22ecd9ada07ae46c826506440481033e729244` | 565324 | `0534EBB93775761E8D6E6FE79288F744D6B5BB5591CDE42B0651CA797F8C25D6` | Not yet extracted |
+| `Modern Special Series/Hot Wheels Delivery _ Hot Wheels Wiki _ Fandom.html` | `ae2b7769f6038d52e3d5a5471f2536a50d673490` | 486192 | `D2E211771F7F018E386AA29748AF4C7C7F0F654CB01C66E4C39F030CD3E9E9FC` | Extracted + QA |
+| `Modern Special Series/Hot Wheels Garage (2010) _ Hot Wheels Wiki _ Fandom.html` | `c2c66e2e7aadaa417a42ed09b8484dacd8139622` | 562456 | `0AF78A8EB81436997A1B21928D0A89F372149A045788CBF70B2BA5BCBC25509A` | Extracted + QA |
+| `Modern Special Series/Hot Wheels Garage (2011) _ Hot Wheels Wiki _ Fandom.html` | `379ab54d518aae00db43dcdd3f3bfbe217b8bb38` | 526402 | `1F763E89EEB095709C2F12643C89EA9C261BA035CEA0D73B930FF7DA8DF363A8` | Extracted + QA |
+| `Modern Special Series/Hot Wheels Garage Series (2016) _ Hot Wheels Wiki _ Fandom.html` | `2c8c5377e4ed2f43f0913cd1f0478c403d9e2283` | 329921 | `7A464735322E40DBBF98B8D0860A1C54828374EB6C3670DDBBD070433C85CED8` | Extracted + QA |
+| `Modern Special Series/Hot Wheels Heritage _ Hot Wheels Wiki _ Fandom.html` | `3a39c5816aacf67216d6fb07f552a720c6b5aef0` | 428595 | `A181A8D26F15518CF0664731CA9A4B5DAB9504E1378E7990832EF6B9BBA5EAA1` | Extracted + QA |
+| `Modern Special Series/Hot Wheels id _ Hot Wheels Wiki _ Fandom.html` | `8e22ecd9ada07ae46c826506440481033e729244` | 565324 | `0534EBB93775761E8D6E6FE79288F744D6B5BB5591CDE42B0651CA797F8C25D6` | Extracted + QA |
 | `Modern Special Series/Hot Wheels Racing Series (2012) _ Hot Wheels Wiki _ Fandom.html` | `1c38b08a10f0b2fa5e97b1b5216fb8118bdb7102` | 390159 | `D580D4ACCB7EC98FA0440A207F7E7E109270E81C4523DA4D4A68D8B539E5F54A` | Not yet extracted |
 | `Modern Special Series/HW Designed By Mini Collection (2025) _ Hot Wheels Wiki _ Fandom.html` | `aab02dec426191f3ad25b814b33b3e66a06173e6` | 316665 | `07677AAB9C76BB9B03409EE876291134F21DEDA09C354ED37DA4918AD47EBF4B` | Not yet extracted |
 | `Modern Special Series/KFC _ Hot Wheels Wiki _ Fandom.html` | `5d0a432dd91f3ec7526dfa6f8a02f8800e44be27` | 353304 | `2CAF9081BEC86CAF21976B1BAC1206E30FF5ABE9DB744EC41457AAEAD31A83F2` | Not yet extracted |
@@ -800,4 +800,14 @@ Five source pages extracted and QA-reviewed. Batch total: 14 retained product ta
 ## Latest extraction batch: Modern Special Series (Formula One Collection 2026 through Highway 35 World Race), 2026-11-09
 
 Seven source pages extracted and QA-reviewed. Batch total: 32 retained product tables, 280 product rows, 428 embedded table image references, and 965 links in product cells. Each page has a 21-column CSV and individual QA report. CSV row counts and column counts were rechecked against all seven QA reports. Gallery-only items were not independently extracted in this pass.
+
+
+
+## Latest extraction batch: Modern Special Series (Hot Wheels Delivery through Hot Wheels id), 2026-11-09
+
+Six source pages extracted and QA-reviewed. Batch total: 49 retained product tables, 495 product rows, 849 embedded table image references, and 1,373 links in product cells. Each page has a 21-column CSV and individual QA report. CSV row counts and column counts were rechecked against all six QA reports. Gallery-only items were not independently extracted in this pass.
+
+### Source retrieval exception: Hot Wheels Classics
+
+The Manifest and processing index list `Modern Special Series/Hot Wheels Classics _ Hot Wheels Wiki _ Fandom.html` at 1,450,750 bytes with Git blob SHA `70d9be50320809395b6a4d7fd220dd96a5ac9ad2`, but GitHub `fetch_file` returned empty content in both UTF-8 and base64 modes. No extraction was accepted; temporary empty CSV/QA artifacts were removed. The source remains `Not yet extracted` pending a successful retrieval method.
 
