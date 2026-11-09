@@ -28,7 +28,7 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total. 22 of 33 pages extracted and
 | `Rescue Team _ Hot Wheels Wiki _ Fandom.html` | `e131d541f95be40ae587be0c90596a18faaf62c9` | 331442 | Extracted + QA |
 | `Speed Demons _ Hot Wheels Wiki _ Fandom.html` | `bf6c7dca8fae920b5c79db2c787fd3f70460b900` | 356322 | Extracted + QA |
 | `Speed Fleet _ Hot Wheels Wiki _ Fandom.html` | `69ab0490c53bcde8ee008ec0c620619a49bf302a` | 445962 | Not yet extracted |
-| `Speed Machines (1983) _ Hot Wheels Wiki _ Fandom.html` | `e449ee168e898686c0bb46fced0b523081bfea47` | 366238 | Not yet extracted |
+| `Speed Machines (1983) _ Hot Wheels Wiki _ Fandom.html` | `e449ee168e898686c0bb46fced0b523081bfea47` | 366238 | Extracted and QA-reviewed |
 | `Speedway Specials _ Hot Wheels Wiki _ Fandom.html` | `de473d47ac484f9feb903c8448b23794d6052eaf` | 352847 | Not yet extracted |
 | `Sugar Caddy _ Hot Wheels Wiki _ Fandom.html` | `550488166f32055add61cba2d38393306c9b8b62` | 360833 | Not yet extracted |
 | `Super Chromes (1976) _ Hot Wheels Wiki _ Fandom.html` | `658a01422af975de2968285f809f07cbdbc8f272` | 376448 | Not yet extracted |
@@ -250,3 +250,10 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total. 22 of 33 pages extracted and
 - 152 embedded table-cell image references (76 loose, 76 carded); lazy-loaded URLs and filenames retained. No standard Wikia gallery items.
 - Toy # values: 76 populated, 56 distinct; repeated values and model-name labels remain separate source rows.
 - Export: `research/extractions/EARLY-COLLECTIONS-SPEED-FLEET.csv`; QA: `research/extractions/EARLY-COLLECTIONS-SPEED-FLEET-EXTRACTION-QA.md`.
+
+
+### Speed Machines (1983)
+- Source: `Early Collections/Speed Machines (1983) _ Hot Wheels Wiki _ Fandom.html`; Git blob SHA `e449ee168e898686c0bb46fced0b523081bfea47`; manifest SHA-256 `73C8AECA6773844D15B64424356777768F3300B68F8ECC73809605BAE8048FC8`; Fandom revision 714212.
+- Extracted 27 product rows from one 6-column Versions table and 1 separate Gallery record; total 28 CSV records.
+- Product table does not expose Toy # or Year columns. Original headers, raw cells, links and image metadata retained.
+- Export: `research/extractions/EARLY-COLLECTIONS-SPEED-MACHINES-1983.csv`; QA: `research/extractions/EARLY-COLLECTIONS-SPEED-MACHINES-1983-EXTRACTION-QA.md`.
