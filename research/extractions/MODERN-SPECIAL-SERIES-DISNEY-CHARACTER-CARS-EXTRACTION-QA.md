@@ -11,7 +11,7 @@
 - Separate Gallery items: 0 (not independently extracted)
 - Embedded table image references: 313
 - Links retained from product cells: 651
-- CSV parts: 1
+- CSV parts: 2
 
 ## Section breakdown
 
