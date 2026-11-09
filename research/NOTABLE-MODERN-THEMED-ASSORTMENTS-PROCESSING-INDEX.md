@@ -7,7 +7,7 @@ Scope: archived HTML/HTM source pages under `Notable Modern Themed Assortments/`
 - Source pages: 57
 - Total source size: 20,744,066 bytes
 - Inventory source: recursive Git tree and repository `MANIFEST.csv`.
-- Extraction status: 50 of 57 pages extracted and QA-reviewed; 7 remaining.
+- Extraction status: 55 of 57 pages extracted and QA-reviewed; 2 remaining.
 - Source SHA-256 values are copied from the repository manifest. Git blob SHAs identify the exact archived HTML blobs.
 
 ## File inventory and processing status
@@ -64,11 +64,11 @@ Scope: archived HTML/HTM source pages under `Notable Modern Themed Assortments/`
 | `Notable Modern Themed Assortments/Spring/Spring Series (2021) _ Hot Wheels Wiki _ Fandom.html` | `824baa80200a4a53da8dcf970632c4fd3af319f2` | 323290 | `23B3B6A1FCA3FF262E3C3E10A7307C3165E2504BBC09E62144E6D44F9A00C48D` | Extracted + QA |
 | `Notable Modern Themed Assortments/Spring/Spring Series (2022) _ Hot Wheels Wiki _ Fandom.html` | `eaf318f272648bb860a9755b14b898f9d4ad6006` | 323870 | `D8EF5CC22C46D263E008A5C799DC2AFEA9C42913298D8A0CF3E5C01E570AABF0` | Extracted + QA |
 | `Notable Modern Themed Assortments/Spring/Spring Series (2023) _ Hot Wheels Wiki _ Fandom.html` | `e2801005f30fb480015b471959138cdf7a5bec41` | 322905 | `B5BF9A1436E952510CAD004179C4233663FF58BCC18CC33C4DD6BE8AA712CB99` | Extracted + QA |
-| `Notable Modern Themed Assortments/Spring/Spring Series (2024) _ Hot Wheels Wiki _ Fandom.html` | `2d93b4761afddf9f299b664401fcf7081c06be9e` | 334600 | `C6F0CD02C1793C5FB078AB5E06C7B6605AFB68F383E28AD08E2E14ED2D97833C` | Not yet extracted |
-| `Notable Modern Themed Assortments/Spring/Spring Series (2025) _ Hot Wheels Wiki _ Fandom.html` | `599922a2132e46c71d8f6d9e68fced0f8e561115` | 323702 | `95A501283C2CA8D807491A24E02145858BDDBB3D32D4048B4E11E249C8A5DB2B` | Not yet extracted |
-| `Notable Modern Themed Assortments/Stars & Stripes Series _ Hot Wheels Wiki _ Fandom.html` | `5790a34a116c5c947f5948cd57ea0356c929ff3f` | 409491 | `B92B99FE989D5CEB3D2B580190F03882D797D8D9B2AD38323C040C444C556CAF` | Not yet extracted |
-| `Notable Modern Themed Assortments/The Beatles Yellow Submarine Series (2016) _ Hot Wheels Wiki _ Fandom.html` | `1cfdd62641d417836ecaf4a025b5988b4e4377cf` | 328533 | `5834E4EEB0BC5EBB365C9F6D3A5B666045FF8BDCBD8FB1CD3CA7D9C765EE0A94` | Not yet extracted |
-| `Notable Modern Themed Assortments/Throwback Series (2019) _ Hot Wheels Wiki _ Fandom.html` | `502409247d6d811dd078f1afa82b7b92652591d8` | 390387 | `4A104CFC7F7AE6A0985ECB2FEAFCCA8363D4AE94CB7D929B2009615986635B8F` | Not yet extracted |
+| `Notable Modern Themed Assortments/Spring/Spring Series (2024) _ Hot Wheels Wiki _ Fandom.html` | `2d93b4761afddf9f299b664401fcf7081c06be9e` | 334600 | `C6F0CD02C1793C5FB078AB5E06C7B6605AFB68F383E28AD08E2E14ED2D97833C` | Extracted + QA |
+| `Notable Modern Themed Assortments/Spring/Spring Series (2025) _ Hot Wheels Wiki _ Fandom.html` | `599922a2132e46c71d8f6d9e68fced0f8e561115` | 323702 | `95A501283C2CA8D807491A24E02145858BDDBB3D32D4048B4E11E249C8A5DB2B` | Extracted + QA |
+| `Notable Modern Themed Assortments/Stars & Stripes Series _ Hot Wheels Wiki _ Fandom.html` | `5790a34a116c5c947f5948cd57ea0356c929ff3f` | 409491 | `B92B99FE989D5CEB3D2B580190F03882D797D8D9B2AD38323C040C444C556CAF` | Extracted + QA |
+| `Notable Modern Themed Assortments/The Beatles Yellow Submarine Series (2016) _ Hot Wheels Wiki _ Fandom.html` | `1cfdd62641d417836ecaf4a025b5988b4e4377cf` | 328533 | `5834E4EEB0BC5EBB365C9F6D3A5B666045FF8BDCBD8FB1CD3CA7D9C765EE0A94` | Extracted + QA |
+| `Notable Modern Themed Assortments/Throwback Series (2019) _ Hot Wheels Wiki _ Fandom.html` | `502409247d6d811dd078f1afa82b7b92652591d8` | 390387 | `4A104CFC7F7AE6A0985ECB2FEAFCCA8363D4AE94CB7D929B2009615986635B8F` | Extracted + QA |
 | `Notable Modern Themed Assortments/Ultra Hots Series (2022) _ Hot Wheels Wiki _ Fandom.html` | `40c6e33df132857c77bf63be494d7b7692edfc3c` | 440544 | `3465481AC7F538994752E872D9139C909B4BC9699624AE086A268B71FD012CCA` | Not yet extracted |
 | `Notable Modern Themed Assortments/Vintage Racing Club Series (2024) _ Hot Wheels Wiki _ Fandom.html` | `971866a237b0f9cb4e16b46fdf9a5fa752c5dff9` | 345162 | `94C21E95BEBD14AF50D162533F86C9423C3CD237752626278527F42F63630DAC` | Not yet extracted |
 
@@ -269,3 +269,21 @@ Each page has a 21-column source-preserving CSV and an individual QA report. Sou
 ## Next batch
 
 Continue with the next five unprocessed pages in inventory order: Spring Series (2024), Spring Series (2025), Stars & Stripes Series, The Beatles Yellow Submarine Series (2016), and Throwback Series (2019).
+
+## Batch 11: Spring Series (2024–2025), Stars & Stripes, Beatles Yellow Submarine, and Throwback (2019), 2026-11-09
+
+Five source pages extracted and QA-reviewed. Batch total: 10 product tables, 75 product rows, 150 embedded table image references, and 295 links retained from product cells. 1 non-product/navigation table was excluded from product extraction.
+
+| Source page | Revision | Product tables | Product rows | Images | Links | CSV | QA |
+|---|---:|---:|---:|---:|---:|---|---|
+| Spring Series (2024) | 694043 | 1 | 5 | 10 | 20 | `NOTABLE-MODERN-THEMED-ASSORTMENTS-SPRING-SERIES-2024.csv` | `NOTABLE-MODERN-THEMED-ASSORTMENTS-SPRING-SERIES-2024-EXTRACTION-QA.md` |
+| Spring Series (2025) | 673095 | 1 | 5 | 10 | 20 | `NOTABLE-MODERN-THEMED-ASSORTMENTS-SPRING-SERIES-2025.csv` | `NOTABLE-MODERN-THEMED-ASSORTMENTS-SPRING-SERIES-2025-EXTRACTION-QA.md` |
+| Stars & Stripes Series | 762846 | 5 | 43 | 86 | 172 | `NOTABLE-MODERN-THEMED-ASSORTMENTS-STARS-AND-STRIPES-SERIES.csv` | `NOTABLE-MODERN-THEMED-ASSORTMENTS-STARS-AND-STRIPES-SERIES-EXTRACTION-QA.md` |
+| The Beatles Yellow Submarine Series (2016) | 653516 | 1 | 6 | 12 | 18 | `NOTABLE-MODERN-THEMED-ASSORTMENTS-THE-BEATLES-YELLOW-SUBMARINE-SERIES-2016.csv` | `NOTABLE-MODERN-THEMED-ASSORTMENTS-THE-BEATLES-YELLOW-SUBMARINE-SERIES-2016-EXTRACTION-QA.md` |
+| Throwback Series (2019) | 746888 | 2 | 16 | 32 | 65 | `NOTABLE-MODERN-THEMED-ASSORTMENTS-THROWBACK-SERIES-2019.csv` | `NOTABLE-MODERN-THEMED-ASSORTMENTS-THROWBACK-SERIES-2019-EXTRACTION-QA.md` |
+
+Each page has a 21-column source-preserving CSV and an individual QA report. Source blob SHA, manifest SHA-256, source size, and Fandom revision ID are retained in the artifacts. The non-product navigation table in Throwback Series (2019) is documented as excluded.
+
+## Next batch
+
+Continue with the final two unprocessed pages in inventory order: Ultra Hots Series (2022) and Vintage Racing Club Series (2024).
