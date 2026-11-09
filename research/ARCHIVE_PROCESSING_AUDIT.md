@@ -284,3 +284,12 @@ Next: continue with the remaining Early Collections pages in inventory order, re
 - Extracted four vehicle rows from one 11-column table. A source cell labeled Year contains 19322 and spans all four rows; kept verbatim and explicitly not interpreted as a calendar year. Toy # is separately 19322 in each row.
 - Raw source cells, rowspan semantics, model links and photo metadata retained without deduplication.
 - Export: `research/extractions/EARLY-COLLECTIONS-30TH-ANNIVERSARY-4-CAR-SET.csv`; QA: `research/extractions/EARLY-COLLECTIONS-30TH-ANNIVERSARY-4-CAR-SET-EXTRACTION-QA.md`.
+
+
+### King Kuda extraction checkpoint
+
+- Source: `Early Collections/King Kuda _ Hot Wheels Wiki _ Fandom.html`; Git blob SHA `5a5572d63d083f36a105c7b810728a7d02134c6d`; manifest SHA-256 `E8D78A5DA662670E38C7EB158A176E1E348FCFD414894BFA5F8E6B6C02EFED5D`; Fandom revision 795222.
+- Extracted 44 product rows across four tables (Original Versions 9, 100% Versions 1, Retooled Versions 23, Code 3 11) and 55 separate Gallery references.
+- The table schemas differ; Stickers, Tampo, Body Color and Quantity remain source-specific fields. 33 populated Toy # cells have 22 distinct values; repeated Toy # groups 6190 (8 rows) and L0738 (5 rows) were retained without deduplication.
+- Source order, raw headers/cells, row HTML, per-cell image metadata and gallery file references are retained.
+- Export: `research/extractions/EARLY-COLLECTIONS-KING-KUDA.csv`; QA: `research/extractions/EARLY-COLLECTIONS-KING-KUDA-EXTRACTION-QA.md`.
