@@ -17,11 +17,11 @@
 - Other HTML tables excluded: 0
 
 ## Product tables
-- 2004 [ ]: 7 rows, 7 source columns. Headers: Toy # | Name | Year | Country | Notes | Photo | Photo
-- 2006 [ ]: 4 rows, 6 source columns. Headers: Toy # | Name | Year | Country | Notes | Photo
-- 2008 [ ]: 3 rows, 6 source columns. Headers: Toy # | Name | Year | Country | Notes | Photo
-- Speed Racer [ ]: 5 rows, 6 source columns. Headers: Toy # | Name | Year | Country | Notes | Photo
-- 2009 [ ]: 4 rows, 6 source columns. Headers: Toy # | Name | Year | Country | Notes | Photo
+- 2004: 7 rows, 7 source columns. Headers: Toy # | Name | Year | Country | Notes | Photo | Photo
+- 2006: 4 rows, 6 source columns. Headers: Toy # | Name | Year | Country | Notes | Photo
+- 2008: 3 rows, 6 source columns. Headers: Toy # | Name | Year | Country | Notes | Photo
+- Speed Racer: 5 rows, 6 source columns. Headers: Toy # | Name | Year | Country | Notes | Photo
+- 2009: 4 rows, 6 source columns. Headers: Toy # | Name | Year | Country | Notes | Photo
 
 ## QA notes
 - Product tables identified by toy-number and casting/model/name headers; navigation and collapsible gallery tables excluded.
