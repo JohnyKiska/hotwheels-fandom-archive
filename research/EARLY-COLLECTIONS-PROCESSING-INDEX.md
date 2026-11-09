@@ -23,7 +23,7 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total.
 | `Light My Firebird _ Hot Wheels Wiki _ Fandom.html` | `49971146f54ec92309098b45b9d807ab13d94ff4` | 385941 | Extracted + QA |
 | `Megaforce_Series.htm` | `ddf69edec1c115ae4079644863a6f461814d6f98` | 315056 | Extracted + QA |
 | `Nitty Gritty Kitty _ Hot Wheels Wiki _ Fandom.html` | `fe1c9f1b2220692cd1c0f08cac45d1e698742831` | 400436 | Extracted + QA |
-| `Oldies But Goodies _ Hot Wheels Wiki _ Fandom.html` | `d8bac5f967b3a4dd0b0baf79c8708414318fac53` | 336554 | Not yet extracted |
+| `Oldies But Goodies _ Hot Wheels Wiki _ Fandom.html` | `d8bac5f967b3a4dd0b0baf79c8708414318fac53` | 336554 | Extracted + QA |
 | `Real Riders _ Hot Wheels Wiki _ Fandom.html` | `f5da19e889612b3922c10500d86640aa2b17071f` | 324388 | Not yet extracted |
 | `Rescue Team _ Hot Wheels Wiki _ Fandom.html` | `e131d541f95be40ae587be0c90596a18faaf62c9` | 331442 | Not yet extracted |
 | `Speed Demons _ Hot Wheels Wiki _ Fandom.html` | `bf6c7dca8fae920b5c79db2c787fd3f70460b900` | 356322 | Not yet extracted |
@@ -212,3 +212,10 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total.
 - Extracted 18 product rows from 3 12-column tables and 24 separate Gallery items. Combined CSV records: 42.
 - Source table schemas, rows, cell HTML, links and photo metadata retained. Gallery image references and captions preserved independently.
 - Export: `research/extractions/EARLY-COLLECTIONS-NITTY-GRITTY-KITTY.csv`; QA: `research/extractions/EARLY-COLLECTIONS-NITTY-GRITTY-KITTY-EXTRACTION-QA.md`.
+
+
+### Oldies But Goodies
+- Source: `Early Collections/Oldies But Goodies _ Hot Wheels Wiki _ Fandom.html`; Git blob SHA `d8bac5f967b3a4dd0b0baf79c8708414318fac53`; manifest SHA-256 `B8CA045892B79F667D6333B3F65DC19C1150A246C075DC5C3002AF0AEB5A28CA`; Fandom revision 767721.
+- Extracted 8 product rows from one 9-column table and 2 separate Gallery references (10 CSV records total).
+- All 8 Toy # values are populated and distinct: 9649, 9638, 2013, 9210, 2016, 2505, 2507, 9648. Product rows, raw cells, source links and image metadata are retained; the two patch/card gallery items remain separate.
+- Export: `research/extractions/EARLY-COLLECTIONS-OLDIES-BUT-GOODIES.csv`; QA: `research/extractions/EARLY-COLLECTIONS-OLDIES-BUT-GOODIES-EXTRACTION-QA.md`.
