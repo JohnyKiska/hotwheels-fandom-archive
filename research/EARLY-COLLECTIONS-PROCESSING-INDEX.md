@@ -22,7 +22,7 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total.
 | `King Kuda _ Hot Wheels Wiki _ Fandom.html` | `5a5572d63d083f36a105c7b810728a7d02134c6d` | 480117 | Extracted + QA |
 | `Light My Firebird _ Hot Wheels Wiki _ Fandom.html` | `49971146f54ec92309098b45b9d807ab13d94ff4` | 385941 | Extracted + QA |
 | `Megaforce_Series.htm` | `ddf69edec1c115ae4079644863a6f461814d6f98` | 315056 | Extracted + QA |
-| `Nitty Gritty Kitty _ Hot Wheels Wiki _ Fandom.html` | `fe1c9f1b2220692cd1c0f08cac45d1e698742831` | 400436 | Not yet extracted |
+| `Nitty Gritty Kitty _ Hot Wheels Wiki _ Fandom.html` | `fe1c9f1b2220692cd1c0f08cac45d1e698742831` | 400436 | Extracted + QA |
 | `Oldies But Goodies _ Hot Wheels Wiki _ Fandom.html` | `d8bac5f967b3a4dd0b0baf79c8708414318fac53` | 336554 | Not yet extracted |
 | `Real Riders _ Hot Wheels Wiki _ Fandom.html` | `f5da19e889612b3922c10500d86640aa2b17071f` | 324388 | Not yet extracted |
 | `Rescue Team _ Hot Wheels Wiki _ Fandom.html` | `e131d541f95be40ae587be0c90596a18faaf62c9` | 331442 | Not yet extracted |
@@ -205,3 +205,10 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total.
 - Photo Loose and Photo Carded image metadata, original headers/cells, raw cell HTML and model links retained.
 - Export: `research/extractions/EARLY-COLLECTIONS-MEGAFORCE-SERIES.csv`
 - QA: `research/extractions/EARLY-COLLECTIONS-MEGAFORCE-SERIES-EXTRACTION-QA.md`
+
+
+### Nitty Gritty Kitty
+- Source: `Early Collections/Nitty Gritty Kitty _ Hot Wheels Wiki _ Fandom.html`; Git blob SHA `fe1c9f1b2220692cd1c0f08cac45d1e698742831`; manifest SHA-256 `763DEED3E9D77A620457B20C02E82066BE2B5496831BAEF6776BADC73604EA1C`; Fandom revision 813920.
+- Extracted 18 product rows from 3 12-column tables and 24 separate Gallery items. Combined CSV records: 42.
+- Source table schemas, rows, cell HTML, links and photo metadata retained. Gallery image references and captions preserved independently.
+- Export: `research/extractions/EARLY-COLLECTIONS-NITTY-GRITTY-KITTY.csv`; QA: `research/extractions/EARLY-COLLECTIONS-NITTY-GRITTY-KITTY-EXTRACTION-QA.md`.
