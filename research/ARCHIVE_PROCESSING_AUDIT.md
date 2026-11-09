@@ -34,7 +34,8 @@ Status labels:
 
 | Year/source | Archive status | Research status | Audit conclusion |
 |---|---|---|---|
-| 1968–1978 (11 annual pages) | Present | No complete year-by-year extraction/QA documented | Not yet audited as annual Mainline datasets |
+| 1968–1977 (10 annual pages) | Present | No complete year-by-year extraction/QA documented | Not yet audited as annual Mainline datasets |
+| 1978 | Present | Extracted 54 rows from 3 product tables; 53 unique nonblank Toy #, 0 blank Toy #; 1 repeated Toy # groups and 1 repeated model-name groups. No Collector # or Series #; source schemas preserved. | Extracted + QA |
 | 1979 | Present | Extracted 51 rows from 6 product tables; 46 unique nonblank Toy #, 4 blank Toy #; 1 repeated Toy # groups and 9 repeated model-name groups. Source schemas vary (9–10 columns); no Collector # or Series #. | Extracted + QA |
 | 1980 | Present | 49 rows across 2 product tables; 42 unique nonblank Toy #; 3 blank Toy #; 4 repeated Toy # groups; 3 repeated casting-name groups | Extracted + QA |
 | 1981 | Present | 27 rows across New Castings, Repaints, Scene Machines and Heroes; 23 unique nonblank Toy #; 1 blank Toy #; repeated Toy # and names preserved; no Collector # or Series #; Heroes has Original Casting/Year/Series Rename schema | Extracted + QA; source-specific schema and identifier collision flagged |
@@ -109,7 +110,7 @@ The 2024 annual list has now been re-extracted from the canonical archive branch
 
 Priority order:
 
-1. Continue annual Mainline extraction and QA for 1968–1978. The 1997–2026 annual sources have been extracted/QA-checked; 2010 ordinary and International lists are separate, independently processed datasets.
+1. Continue annual Mainline extraction and QA for 1968–1977. The 1997–2026 annual sources have been extracted/QA-checked; 2010 ordinary and International lists are separate, independently processed datasets.
 2. Adjudicate the 2010 USA/International comparison: investigate 21 shared-Toy# model-name discrepancies, 13 International-only and 39 USA-only Toy # values, and the 18 USA tire-exclusive section rows.
 3. Resolve year-specific anomalies already recorded for 1997–2009 (sparse Collector # ranges, repeated Toy #/Collector # values, separate program scopes, blank identifiers and schema differences).
 4. Adjudicate the existing 49 Car Culture ↔ Mainline 2024 name-match candidates against the canonical 2024 extraction. Preserve the comparison as a separate run; name matches are not casting/tooling proof.
