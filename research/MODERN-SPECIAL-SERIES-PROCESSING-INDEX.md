@@ -192,11 +192,11 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 | `Modern Special Series/Longcount _ Hot Wheels Wiki _ Fandom.html` | `88eaeb700c82d794da07440ded5eb6c0bd25dbd5` | 331830 | `13CB23C94F2D5B693F8FD5ED6501EE82E8047EDC947DFF3E5C48FB16656AA11A` | Extracted + QA |
 | `Modern Special Series/Mario Kart _ Hot Wheels Wiki _ Fandom.html` | `eb9785087aee100e488b0c6d40b3cd62fe2d75d4` | 685858 | `DA042A51628AC304FB9596E6280EC4CF1C3E90CCAD70F089AE627B7413D81BF6` | Extracted + QA |
 | `Modern Special Series/McDonald's AcceleRacers Series _ Hot Wheels Wiki _ Fandom.html` | `088717ea1a32cb96d83363f30aa59fbdb1828aa6` | 370356 | `9B524949450DCB5E5818F0B2912CB7C5697C2A252E434AD3CEBEB075EDFCCB2B` | Extracted + QA |
-| `Modern Special Series/Moon Ghost _ Hot Wheels Wiki _ Fandom.html` | `0e260955f607cf3fe13b4ffdcac8f66953130529` | 331248 | `E18F359634E9530B392DF131B6675D4BAE1CD5C533176627B31CA684D3678C6A` | Not yet extracted |
-| `Modern Special Series/Mustang Boss 302 _ Hot Wheels Wiki _ Fandom.html` | `044171801ffcb53e1ffd862ad46124edea72d11d` | 354465 | `F003845B8FD0ECA006F0B3098487681D1E47CBAA34F03829BB20790EE461E115` | Not yet extracted |
-| `Modern Special Series/Nightspeed Mini Collection (2026) _ Hot Wheels Wiki _ Fandom.html` | `13fd6f5ab31726e52b85615cd2327c38dbb96f39` | 333992 | `AA94BB915F4F0C7B65E701C17D9BB5A95E4009158F7003156316654DA77CE000` | Not yet extracted |
-| `Modern Special Series/Nostalgic Brands _ Hot Wheels Wiki _ Fandom.html` | `659e20ad36d08a0b09c4537f9c3142efe6db4052` | 468857 | `D0926300F9374EB153CC5A15B77E90BEEB95ABB3CB835A10954CFEEF56911FA8` | Not yet extracted |
-| `Modern Special Series/Pocket Bikester _ Hot Wheels Wiki _ Fandom.html` | `37b9aa764dd0b6494f468e7ff516af5fa3e4e7e8` | 359448 | `5C8610030B0449DA4AE6908B889664BCF39620E6B2C2276BB25DE66AB8BAB652` | Not yet extracted |
+| `Modern Special Series/Moon Ghost _ Hot Wheels Wiki _ Fandom.html` | `0e260955f607cf3fe13b4ffdcac8f66953130529` | 331248 | `E18F359634E9530B392DF131B6675D4BAE1CD5C533176627B31CA684D3678C6A` | Extracted + QA |
+| `Modern Special Series/Mustang Boss 302 _ Hot Wheels Wiki _ Fandom.html` | `044171801ffcb53e1ffd862ad46124edea72d11d` | 354465 | `F003845B8FD0ECA006F0B3098487681D1E47CBAA34F03829BB20790EE461E115` | Extracted + QA |
+| `Modern Special Series/Nightspeed Mini Collection (2026) _ Hot Wheels Wiki _ Fandom.html` | `13fd6f5ab31726e52b85615cd2327c38dbb96f39` | 333992 | `AA94BB915F4F0C7B65E701C17D9BB5A95E4009158F7003156316654DA77CE000` | Extracted + QA |
+| `Modern Special Series/Nostalgic Brands _ Hot Wheels Wiki _ Fandom.html` | `659e20ad36d08a0b09c4537f9c3142efe6db4052` | 468857 | `D0926300F9374EB153CC5A15B77E90BEEB95ABB3CB835A10954CFEEF56911FA8` | Extracted + QA |
+| `Modern Special Series/Pocket Bikester _ Hot Wheels Wiki _ Fandom.html` | `37b9aa764dd0b6494f468e7ff516af5fa3e4e7e8` | 359448 | `5C8610030B0449DA4AE6908B889664BCF39620E6B2C2276BB25DE66AB8BAB652` | Extracted + QA |
 | `Modern Special Series/Pop Culture/2013 Pop Culture _ Hot Wheels Wiki _ Fandom.html` | `20ec8f904865fa77a0898286037be1f79b5a73f3` | 436063 | `CF2E50FA795BE6602E2AE2154C87926BE35334699242A76C35390366E686AD3B` | Not yet extracted |
 | `Modern Special Series/Pop Culture/2014 Pop Culture _ Hot Wheels Wiki _ Fandom.html` | `79164706fb1197cd548929cf3635d3bbd423cb96` | 428661 | `6DE2C133FF56DCABDC2E18487E707DCAD5A032C609F3F2DADCBC63A45D9CAF02` | Not yet extracted |
 | `Modern Special Series/Pop Culture/2015 Pop Culture _ Hot Wheels Wiki _ Fandom.html` | `656987232b460afc03b827ebb2a7e3e4d24e6451` | 393780 | `F132C8B5C1BE7BC11707249FCC9BDF013AFC4DB58DCEDDF437462672F62D8CBA` | Not yet extracted |
@@ -826,3 +826,33 @@ Five source pages extracted and QA-reviewed. Batch total: 128 retained product t
 ## Latest extraction batch: Modern Special Series (Hot Wheels Classics through McDonald's AcceleRacers Series), 2026-11-09
 
 Five source pages extracted and QA-reviewed. Batch total: 21 retained product tables, 849 product rows, 1,584 embedded table image references, and 3,215 links in product cells. Hot Wheels Classics is split into six ordered CSV parts, Mario Kart into two ordered parts, and the other three pages each have one CSV. All five pages have individual QA reports and 21-column CSVs. Hot Wheels Classics was retrieved successfully by Git blob SHA after the contents endpoint returned empty content. Gallery-only items were not independently extracted in this pass.
+
+
+## Latest extraction batch: Modern Special Series (Moon Ghost through Pocket Bikester), 2026-11-09
+
+Five source pages extracted and QA-reviewed. Batch total: 17 retained product tables, 132 product rows, 217 embedded table image references, and 478 links in product cells. Each page has a 21-column CSV and individual QA report. CSV row counts and column counts were rechecked during generation. Gallery-only items were not independently extracted in this pass.
+
+### Moon Ghost
+- Source: `Modern Special Series/Moon Ghost _ Hot Wheels Wiki _ Fandom.html`; blob SHA `0e260955f607cf3fe13b4ffdcac8f66953130529`; manifest SHA-256 `E18F359634E9530B392DF131B6675D4BAE1CD5C533176627B31CA684D3678C6A`; size 331248 bytes; Fandom revision 716200.
+- 1 product tables, 1 product rows, 1 embedded table image references, 4 links in product cells.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-MOON-GHOST.csv`; QA report: `research/extractions/MODERN-SPECIAL-SERIES-MOON-GHOST-EXTRACTION-QA.md`.
+
+### Mustang Boss 302
+- Source: `Modern Special Series/Mustang Boss 302 _ Hot Wheels Wiki _ Fandom.html`; blob SHA `044171801ffcb53e1ffd862ad46124edea72d11d`; manifest SHA-256 `F003845B8FD0ECA006F0B3098487681D1E47CBAA34F03829BB20790EE461E115`; size 354465 bytes; Fandom revision 810620.
+- 2 product tables, 12 product rows, 12 embedded table image references, 48 links in product cells.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-MUSTANG-BOSS-302.csv`; QA report: `research/extractions/MODERN-SPECIAL-SERIES-MUSTANG-BOSS-302-EXTRACTION-QA.md`.
+
+### Nightspeed Mini Collection (2026)
+- Source: `Modern Special Series/Nightspeed Mini Collection (2026) _ Hot Wheels Wiki _ Fandom.html`; blob SHA `13fd6f5ab31726e52b85615cd2327c38dbb96f39`; manifest SHA-256 `AA94BB915F4F0C7B65E701C17D9BB5A95E4009158F7003156316654DA77CE000`; size 333992 bytes; Fandom revision 809805.
+- 1 product tables, 21 product rows, 21 embedded table image references, 43 links in product cells.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-NIGHTSPEED-MINI-COLLECTION-2026.csv`; QA report: `research/extractions/MODERN-SPECIAL-SERIES-NIGHTSPEED-MINI-COLLECTION-2026-EXTRACTION-QA.md`.
+
+### Nostalgic Brands
+- Source: `Modern Special Series/Nostalgic Brands _ Hot Wheels Wiki _ Fandom.html`; blob SHA `659e20ad36d08a0b09c4537f9c3142efe6db4052`; manifest SHA-256 `D0926300F9374EB153CC5A15B77E90BEEB95ABB3CB835A10954CFEEF56911FA8`; size 468857 bytes; Fandom revision 798356.
+- 12 product tables, 91 product rows, 176 embedded table image references, 358 links in product cells.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-NOSTALGIC-BRANDS.csv`; QA report: `research/extractions/MODERN-SPECIAL-SERIES-NOSTALGIC-BRANDS-EXTRACTION-QA.md`.
+
+### Pocket Bikester
+- Source: `Modern Special Series/Pocket Bikester _ Hot Wheels Wiki _ Fandom.html`; blob SHA `37b9aa764dd0b6494f468e7ff516af5fa3e4e7e8`; manifest SHA-256 `5C8610030B0449DA4AE6908B889664BCF39620E6B2C2276BB25DE66AB8BAB652`; size 359448 bytes; Fandom revision 796823.
+- 1 product tables, 7 product rows, 7 embedded table image references, 25 links in product cells.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-POCKET-BIKESTER.csv`; QA report: `research/extractions/MODERN-SPECIAL-SERIES-POCKET-BIKESTER-EXTRACTION-QA.md`.
