@@ -33,7 +33,7 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total. 27 of 33 pages extracted and
 | `Sugar Caddy _ Hot Wheels Wiki _ Fandom.html` | `550488166f32055add61cba2d38393306c9b8b62` | 360833 | Extracted + QA |
 | `Super Chromes (1976) _ Hot Wheels Wiki _ Fandom.html` | `658a01422af975de2968285f809f07cbdbc8f272` | 376448 | Extracted + QA |
 | `Super Streeters _ Hot Wheels Wiki _ Fandom.html` | `963b63c8a2df9d844fcc4404df9e7c0c4e5778aa` | 358718 | Extracted + QA |
-| `TNT-Bird _ Hot Wheels Wiki _ Fandom.html` | `fc25ac24e5f93d71789f2649de64a304f70db561` | 360478 | Not yet extracted |
+| `TNT-Bird _ Hot Wheels Wiki _ Fandom.html` | `fc25ac24e5f93d71789f2649de64a304f70db561` | 360478 | Extracted + QA |
 | `The Heavies _ Hot Wheels Wiki _ Fandom.html` | `44d592cfc35a9c1c747410900307c127172d776a` | 333247 | Not yet extracted |
 | `The Hot Ones (1981) _ Hot Wheels Wiki _ Fandom.html` | `4daab13e074187fcc2dece60a0ab5add4968a53e` | 559506 | Not yet extracted |
 | `Trailbusters _ Hot Wheels Wiki _ Fandom.html` | `f35ce4e7cbf57e651d6fa0badfa56f4ae9872811` | 395265 | Not yet extracted |
@@ -289,3 +289,11 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total. 27 of 33 pages extracted and
 - 11 distinct Toy # values; 9241 appears three times. Collector # values have 10 distinct values; 59 appears three times and 36 twice. Repeated model labels Corvette Stingray (3) and Super Van (2) remain separate rows.
 - Eight gallery items cover patch/mail-away and card imagery. Raw source HTML, source order, links and image metadata retained.
 - Export: `research/extractions/EARLY-COLLECTIONS-SUPER-STREETERS.csv`; QA: `research/extractions/EARLY-COLLECTIONS-SUPER-STREETERS-EXTRACTION-QA.md`.
+
+
+### TNT-Bird
+- Source: `Early Collections/TNT-Bird _ Hot Wheels Wiki _ Fandom.html`; Git blob SHA `fc25ac24e5f93d71789f2649de64a304f70db561`; manifest SHA-256 `DB87462B499536336E8B029308157350F752890864C1450E9CEE00BF65591335`; Fandom revision 776418.
+- Two separate product tables: Original Versions (11 rows) and Re-Tooled Versions (3 rows), each with 12 columns. Eight separate Gallery items, for 22 CSV records total.
+- Both tables preserve Year, Series, Color, Tampo, base/window/interior colors, Wheel Type, Toy #, Country, Notes and Photo. Re-Tooled rows remain distinct from Original Versions.
+- Eight gallery assets retained with file links, captions/alt text and image metadata. Article-level headings (Debut series, Produced, Designer, Number, Contents, Description) remain article context rather than being invented as product columns.
+- Export: `research/extractions/EARLY-COLLECTIONS-TNT-BIRD.csv`; QA: `research/extractions/EARLY-COLLECTIONS-TNT-BIRD-EXTRACTION-QA.md`.
