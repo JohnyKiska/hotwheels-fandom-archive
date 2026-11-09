@@ -385,3 +385,10 @@ Next: continue with the remaining Early Collections pages in inventory order, re
 - Super Chromes: 46 product rows across three year-specific tables (1976: 25; 1977: 19; 1978: 2), plus 4 separate Gallery records (50 CSV records total).
 - All 46 rows have Toy #; 13 distinct values. Repeated Toy # values remain separate source records; 9505 appears 12 times. 46 embedded image references and 4 gallery assets retained.
 - Outputs: `research/extractions/EARLY-COLLECTIONS-SUPER-CHROMES-1976.csv` and `research/extractions/EARLY-COLLECTIONS-SUPER-CHROMES-1976-EXTRACTION-QA.md`; detailed progress: `research/EARLY-COLLECTIONS-PROCESSING-INDEX.md`.
+
+
+### Early Collections update: Super Streeters
+- Processing status: 27 of 33 pages extracted and QA-reviewed.
+- Super Streeters: 13 product rows from one 9-column table, plus 8 separate Gallery records (21 CSV records). No Year column; Photo Loose/Carded cells are blank.
+- 11 distinct Toy # values (9241 repeated 3 times), 10 distinct Collector # values (59 repeated 3 times, 36 twice). Repeated model names preserved. Eight separate gallery entries retained.
+- Outputs: `research/extractions/EARLY-COLLECTIONS-SUPER-STREETERS.csv` and `research/extractions/EARLY-COLLECTIONS-SUPER-STREETERS-EXTRACTION-QA.md`; detailed progress: `research/EARLY-COLLECTIONS-PROCESSING-INDEX.md`.
