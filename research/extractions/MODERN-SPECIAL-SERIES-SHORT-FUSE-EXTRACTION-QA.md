@@ -2,8 +2,8 @@
 
 - Source: `Modern Special Series/Short Fuse _ Hot Wheels Wiki _ Fandom.html`
 - Source blob SHA: `acec941afe0d399a1ca22d6dddcaae44ef5026f6`
-- Source manifest SHA-256: `undefined`
-- Source size (bytes): NaN
+- Source manifest SHA-256: `D07EDE5BC8E5547F9005E64C8C1A9A7E0066663D726BC37053C8D9815841D635`
+- Source size (bytes): 335313
 - Fandom revision ID: 696092
 - Product tables extracted: 1
 - Product rows extracted: 1
