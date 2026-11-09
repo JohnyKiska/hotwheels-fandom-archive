@@ -2,7 +2,7 @@
 
 Scope: source HTML/HTM pages in `Early Special Series/` on `main`. Folder membership is provenance only and does not establish a canonical Hot Wheels product hierarchy.
 
-Inventory: 39 HTML/HTM files. 16 of 39 pages extracted and QA-reviewed.
+Inventory: 39 HTML/HTM files. 20 of 39 pages extracted and QA-reviewed.
 
 ## Source inventory and processing status
 
@@ -24,10 +24,10 @@ Inventory: 39 HTML/HTM files. 16 of 39 pages extracted and QA-reviewed.
 | `Flippers _ Hot Wheels Wiki _ Fandom.html` | `6b55836c7505ffe72d93bd0305004857668ef827` | 467036 | Extracted + QA |
 | `Gran Toros _ Hot Wheels Wiki _ Fandom.html` | `9f3a177f5e5f926c919cb8adb45acfc75dca05de` | 375117 | Extracted + QA |
 | `HiWay Hauler _ Hot Wheels Wiki _ Fandom.html` | `50f5de8ba31f82c0f3477ec48ecfc63e5d4994e8` | 328792 | Extracted + QA |
-| `Hot Birds _ Hot Wheels Wiki _ Fandom.html` | `e4a375f569c30b6832d785e203bbf02a314d22c6` | 364004 | Not yet extracted |
-| `Hot Line _ Hot Wheels Wiki _ Fandom.html` | `0dd9d1f3ab47c606d3a9ff39a8c7b519ed5897e3` | 349562 | Not yet extracted |
-| `Hot Shots _ Hot Wheels Wiki _ Fandom.html` | `7430382b9ad5dc34da10fba5de070829a1e2cf8f` | 336993 | Not yet extracted |
-| `Hot Wheels U.S.A. _ Hot Wheels Wiki _ Fandom.html` | `ee198fd68a06113dcce3995d3b1271fbf647412c` | 327009 | Not yet extracted |
+| `Hot Birds _ Hot Wheels Wiki _ Fandom.html` | `e4a375f569c30b6832d785e203bbf02a314d22c6` | 364004 | Extracted + QA |
+| `Hot Line _ Hot Wheels Wiki _ Fandom.html` | `0dd9d1f3ab47c606d3a9ff39a8c7b519ed5897e3` | 349562 | Extracted + QA |
+| `Hot Shots _ Hot Wheels Wiki _ Fandom.html` | `7430382b9ad5dc34da10fba5de070829a1e2cf8f` | 336993 | Extracted + QA |
+| `Hot Wheels U.S.A. _ Hot Wheels Wiki _ Fandom.html` | `ee198fd68a06113dcce3995d3b1271fbf647412c` | 327009 | Extracted + QA |
 | `Hot Wheels World _ Hot Wheels Wiki _ Fandom.html` | `41a17342653d697ad1092dfad6fc59fc905379d0` | 495434 | Not yet extracted |
 | `Law Mill _ Hot Wheels Wiki _ Fandom.html` | `694347971c042d95df6d998ac6a8e0fb6a2a5e8e` | 325473 | Not yet extracted |
 | `Motorized X-V Racers _ Hot Wheels Wiki _ Fandom.html` | `c5d096b35a3f2e4e80d588bfb8084d8ee78ae63d` | 512082 | Not yet extracted |
@@ -88,7 +88,11 @@ Inventory: 39 HTML/HTM files. 16 of 39 pages extracted and QA-reviewed.
 - Flippers: 4 tables, 37 product rows, 142 embedded images, 216 links.
 - Gran Toros: 2 tables, 29 product rows, 29 embedded images, 55 links.
 - HiWay Hauler: 1 table, 4 product rows, 4 embedded images, 16 links.
-- CSV and per-page QA created. Remaining pages in this batch: Hot Birds, Hot Line, Hot Shots, Hot Wheels U.S.A.
+- Hot Birds: 3 tables, 15 product rows, 15 embedded images, 16 links.
+- Hot Line: 4 tables, 20 product rows, 20 embedded images, 41 links.
+- Hot Shots: 1 table, 8 product rows, 8 embedded images, 40 links.
+- Hot Wheels U.S.A.: 1 table, 14 product rows, 14 embedded images, 14 links.
+- CSV and per-page QA created. Batch 2 complete: 20 of 39 pages processed overall.
 
 ## Completed extraction records
 
