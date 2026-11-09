@@ -9,7 +9,9 @@
 - Product rows extracted: 317
 - Embedded table image references: 582
 - Links retained from product cells: 1213
-- CSV: `research/extractions/MODERN-SPECIAL-SERIES-STAR-WARS-CHARACTER-CARS.csv`
+- CSV part 1: `research/extractions/MODERN-SPECIAL-SERIES-STAR-WARS-CHARACTER-CARS.csv`
+- CSV part 2: `research/extractions/MODERN-SPECIAL-SERIES-STAR-WARS-CHARACTER-CARS-PART-02.csv`
+- CSV parts: 2 ordered parts (split to remain below the GitHub file-size handling threshold).
 
 ## Extraction checks
 
