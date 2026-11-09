@@ -5,8 +5,8 @@ Scope: archived source HTML under `Other Modern Series/`, including all nested f
 ## Inventory summary
 
 - Source pages: 83
-- Extracted + QA: 43
-- Remaining: 40
+- Extracted + QA: 56
+- Remaining: 27
 
 ## File inventory and processing status
 
@@ -55,20 +55,20 @@ Scope: archived source HTML under `Other Modern Series/`, including all nested f
 | `Other Modern Series/Hot Wheels Monster Trucks/2022 Hot Wheels Monster Trucks _ Hot Wheels Wiki _ Fandom.html` | 595537 | `01F05778B38D9B47455084C0DFBAE80AF44D79971232494EAD40B95BAC39E6E6` | Extracted + QA |
 | `Other Modern Series/Hot Wheels Monster Trucks/2023 Hot Wheels Monster Trucks _ Hot Wheels Wiki _ Fandom.html` | 585452 | `67B24B9D8EFFF7DD2D71186D55E0D0C1974BD6B65C8E702AC4625CC995023FFA` | Extracted + QA |
 | `Other Modern Series/Hot Wheels Monster Trucks/2024 Hot Wheels Monster Trucks _ Hot Wheels Wiki _ Fandom.html` | 600822 | `2D5625FBAB74672E722106D1667DD284A5EFD23E7B09709DB404326AFD37B6E5` | Extracted + QA |
-| `Other Modern Series/Hot Wheels Monster Trucks/2025 Hot Wheels Monster Trucks _ Hot Wheels Wiki _ Fandom.html` | 699139 | `BC483DF0FF29E379CD76631B3702527AB973F1316A3D26C382D3CAEC481ADB15` | Pending |
-| `Other Modern Series/Hot Wheels Monster Trucks/2026 Hot Wheels Monster Trucks _ Hot Wheels Wiki _ Fandom.html` | 730647 | `90B0C7CCEA1FA12BD5B516AAE43800D4492BF76E6D7540B2B1E3B077DC07142B` | Pending |
+| `Other Modern Series/Hot Wheels Monster Trucks/2025 Hot Wheels Monster Trucks _ Hot Wheels Wiki _ Fandom.html` | 699139 | `BC483DF0FF29E379CD76631B3702527AB973F1316A3D26C382D3CAEC481ADB15` | Extracted + QA |
+| `Other Modern Series/Hot Wheels Monster Trucks/2026 Hot Wheels Monster Trucks _ Hot Wheels Wiki _ Fandom.html` | 730647 | `90B0C7CCEA1FA12BD5B516AAE43800D4492BF76E6D7540B2B1E3B077DC07142B` | Extracted + QA |
 | `Other Modern Series/Hot Wheels Monster Trucks/Hot Wheels Monster Trucks _ Hot Wheels Wiki _ Fandom.html` | 410056 | `C1254DF47CE9FA1AC11C2A49CFDC7DF3CCFECD32D5E08DCFEC7F33DA29542486` | Pending |
-| `Other Modern Series/Hot Wheels RacerVerse/2023 Hot Wheels RacerVerse _ Hot Wheels Wiki _ Fandom.html` | 393497 | `C397D320EF2CD304A26E628B6B294DBB853C150DBA6159DF4FFF1DE12AC803B1` | Pending |
-| `Other Modern Series/Hot Wheels RacerVerse/2024 Hot Wheels RacerVerse _ Hot Wheels Wiki _ Fandom.html` | 445175 | `80AE30E4F3BEC5275A509F375317FE65EA0B6B6867E506D670E4E406D0513702` | Pending |
-| `Other Modern Series/Hot Wheels RacerVerse/2025 Hot Wheels RacerVerse _ Hot Wheels Wiki _ Fandom.html` | 470336 | `0CB275151F7CCB559884C5CD0A1FD4AD016EABBFBF4B5F497879C7C56C2C0EB2` | Pending |
-| `Other Modern Series/Hot Wheels RacerVerse/2026 Hot Wheels RacerVerse _ Hot Wheels Wiki _ Fandom.html` | 337545 | `EE1AFF5D4B6BE90F72C9C41375C973442C8C7EF450D87E83B71064770F6D0B26` | Pending |
-| `Other Modern Series/Hot Wheels RC _ Hot Wheels Wiki _ Fandom.html` | 463117 | `4DAF6AEBE2FD9D75D25669023C529903494A12D909873CF7DC6EB8F26DDA2FC3` | Pending |
-| `Other Modern Series/Hot Wheels Skate/2022 Hot Wheels Skate _ Hot Wheels Wiki _ Fandom.html` | 407531 | `FA606D76DACDE36290E96A9CDF14D2BEAF5210094CBA6FAC7D854CC51F19BE3D` | Pending |
-| `Other Modern Series/Hot Wheels Skate/2023 Hot Wheels Skate _ Hot Wheels Wiki _ Fandom.html` | 448335 | `39656D6D55F6331B950E7532CFA744EEBF79A5773E6D9F6304E85F8EC45A40DF` | Pending |
-| `Other Modern Series/Hot Wheels Skate/2024 Hot Wheels Skate _ Hot Wheels Wiki _ Fandom.html` | 513953 | `C34DE6C8B423206C1AEB1AD1624C0D2671119786218BFBAF9DD1A6F25BDFB4D8` | Pending |
-| `Other Modern Series/Hot Wheels Skate/2025 Hot Wheels Skate _ Hot Wheels Wiki _ Fandom.html` | 398957 | `B6C636D17A98B42DE10DA86C05FB0A823590B76AE75DC1E14FBADA373B1619E7` | Pending |
-| `Other Modern Series/Hot Wheels Skate/2026 Hot Wheels Skate _ Hot Wheels Wiki _ Fandom.html` | 337820 | `CC564EF6DF111F907A40FEEEE6E0C96AD1AEE856BB14B4F42A32C6A19998BD3D` | Pending |
-| `Other Modern Series/Lightyear _ Hot Wheels Wiki _ Fandom.html` | 355818 | `F5D3F8864860E8A66746437749E739CE90F7DBAEAEA2DC0362042F0C95938931` | Pending |
+| `Other Modern Series/Hot Wheels RacerVerse/2023 Hot Wheels RacerVerse _ Hot Wheels Wiki _ Fandom.html` | 393497 | `C397D320EF2CD304A26E628B6B294DBB853C150DBA6159DF4FFF1DE12AC803B1` | Extracted + QA |
+| `Other Modern Series/Hot Wheels RacerVerse/2024 Hot Wheels RacerVerse _ Hot Wheels Wiki _ Fandom.html` | 445175 | `80AE30E4F3BEC5275A509F375317FE65EA0B6B6867E506D670E4E406D0513702` | Extracted + QA |
+| `Other Modern Series/Hot Wheels RacerVerse/2025 Hot Wheels RacerVerse _ Hot Wheels Wiki _ Fandom.html` | 470336 | `0CB275151F7CCB559884C5CD0A1FD4AD016EABBFBF4B5F497879C7C56C2C0EB2` | Extracted + QA |
+| `Other Modern Series/Hot Wheels RacerVerse/2026 Hot Wheels RacerVerse _ Hot Wheels Wiki _ Fandom.html` | 337545 | `EE1AFF5D4B6BE90F72C9C41375C973442C8C7EF450D87E83B71064770F6D0B26` | Extracted + QA |
+| `Other Modern Series/Hot Wheels RC _ Hot Wheels Wiki _ Fandom.html` | 463117 | `4DAF6AEBE2FD9D75D25669023C529903494A12D909873CF7DC6EB8F26DDA2FC3` | Extracted + QA |
+| `Other Modern Series/Hot Wheels Skate/2022 Hot Wheels Skate _ Hot Wheels Wiki _ Fandom.html` | 407531 | `FA606D76DACDE36290E96A9CDF14D2BEAF5210094CBA6FAC7D854CC51F19BE3D` | Extracted + QA |
+| `Other Modern Series/Hot Wheels Skate/2023 Hot Wheels Skate _ Hot Wheels Wiki _ Fandom.html` | 448335 | `39656D6D55F6331B950E7532CFA744EEBF79A5773E6D9F6304E85F8EC45A40DF` | Extracted + QA |
+| `Other Modern Series/Hot Wheels Skate/2024 Hot Wheels Skate _ Hot Wheels Wiki _ Fandom.html` | 513953 | `C34DE6C8B423206C1AEB1AD1624C0D2671119786218BFBAF9DD1A6F25BDFB4D8` | Extracted + QA |
+| `Other Modern Series/Hot Wheels Skate/2025 Hot Wheels Skate _ Hot Wheels Wiki _ Fandom.html` | 398957 | `B6C636D17A98B42DE10DA86C05FB0A823590B76AE75DC1E14FBADA373B1619E7` | Extracted + QA |
+| `Other Modern Series/Hot Wheels Skate/2026 Hot Wheels Skate _ Hot Wheels Wiki _ Fandom.html` | 337820 | `CC564EF6DF111F907A40FEEEE6E0C96AD1AEE856BB14B4F42A32C6A19998BD3D` | Extracted + QA |
+| `Other Modern Series/Lightyear _ Hot Wheels Wiki _ Fandom.html` | 355818 | `F5D3F8864860E8A66746437749E739CE90F7DBAEAEA2DC0362042F0C95938931` | Extracted + QA |
 | `Other Modern Series/Long Haulers _ Hot Wheels Wiki _ Fandom.html` | 418252 | `FC4AB1DC68C42434D44C4B4AF6BBFE03066396E6F141936A142081735D51636E` | Pending |
 | `Other Modern Series/Modifighters _ Hot Wheels Wiki _ Fandom.html` | 344736 | `E39C1D3AB7666EFEB7A3D8651DC142850A86E9372B2602C7F05D9B091E3DA858` | Pending |
 | `Other Modern Series/Monster Trucks (Dollar Tree) _ Hot Wheels Wiki _ Fandom.html` | 406351 | `3B0DF3A3312E9C25EFB73FC577836E3D97ADC743C7DA1AD80C2CC9D36CC18DE4` | Pending |
@@ -193,3 +193,18 @@ Processed 10 source pages across the Hot Wheels Monster Trucks collection. Produ
 | 2024 | 18 | 195 |
 
 Batch totals: **10 pages, 142 product tables, 1,442 product rows**. Gallery extraction remains deferred.
+
+
+## Batch 6: Monster Trucks 2025–2026, RacerVerse, RC, Skate, and Lightyear
+
+Processed 13 source pages. Product-table extraction totals: **143 product tables and 1,193 product rows**. Every page has a 21-column CSV and QA report. All 13 CSVs were re-fetched and validated: 21 columns and zero malformed-width rows. Collapsible navigation tables were excluded where present.
+
+| Group | Pages | Product tables | Product rows |
+|---|---:|---:|---:|
+| Hot Wheels Monster Trucks 2025–2026 | 2 | 40 | 468 |
+| Hot Wheels RacerVerse 2023–2026 | 4 | 34 | 199 |
+| Hot Wheels RC | 1 | 2 | 24 |
+| Hot Wheels Skate 2022–2026 | 5 | 63 | 483 |
+| Lightyear | 1 | 4 | 19 |
+
+Batch totals: **13 pages, 143 product tables, 1,193 product rows**. Gallery extraction remains deferred.
