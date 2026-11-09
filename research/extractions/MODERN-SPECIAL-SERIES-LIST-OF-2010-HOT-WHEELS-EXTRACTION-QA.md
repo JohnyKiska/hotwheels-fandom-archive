@@ -11,7 +11,6 @@
 - Embedded table images: 440
 - Links in product cells: 1017
 - CSV columns: 21
+- CSV parts: 2 ordered parts (`research/extractions/MODERN-SPECIAL-SERIES-LIST-OF-2010-HOT-WHEELS-PART-01.csv`, `research/extractions/MODERN-SPECIAL-SERIES-LIST-OF-2010-HOT-WHEELS-PART-02.csv`)
 - Excluded table: Yearly Lists of Basic Line and Other collections (if present)
 - Gallery-only items: not independently extracted in this pass.
-
-CSV: `research/extractions/MODERN-SPECIAL-SERIES-LIST-OF-2010-HOT-WHEELS.csv`
