@@ -719,3 +719,31 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 - Source: `Modern Special Series/Character Cars/Sanrio Character Cars _ Hot Wheels Wiki _ Fandom.html`; blob SHA `a97d4cc212c10ae38ed7306d64ac6556ec0bf2ea`; manifest SHA-256 `A4B82D7E5E1CD90F15B675EA01B625F16E155F1A9FFBBFA8206D0273DF18E3CD`; size 375508 bytes; Fandom revision 512364.
 - 4 product tables, 15 product rows, 26 embedded table image references, 56 links in product cells.
 - CSV: `research/extractions/MODERN-SPECIAL-SERIES-SANRIO-CHARACTER-CARS.csv`; QA report: `research/extractions/MODERN-SPECIAL-SERIES-SANRIO-CHARACTER-CARS-EXTRACTION-QA.md`.
+
+
+## Latest extraction batch: Character Cars (Sonic through Street Fighter V)
+
+### Sonic the Hedgehog Character Cars
+- Source: `Modern Special Series/Character Cars/Sonic the Hedgehog Character Cars _ Hot Wheels Wiki _ Fandom.html`; blob SHA `39854e3dd5aef78722bde9930bcca5e541bb6e07`; manifest SHA-256 `7A52D11A2CE5AFCACAC329413DA61606BCC2A29EC088492905F7B64CEAB1C30A`; size 356852 bytes; Fandom revision 792671.
+- 2 product tables, 4 product rows, 8 embedded table image references, 16 links in product cells.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-SONIC-THE-HEDGEHOG-CHARACTER-CARS.csv`; QA report: `research/extractions/MODERN-SPECIAL-SERIES-SONIC-THE-HEDGEHOG-CHARACTER-CARS-EXTRACTION-QA.md`.
+
+### Space Jam: A New Legacy Character Cars
+- Source: `Modern Special Series/Character Cars/Space Jam_ A New Legacy Character Cars _ Hot Wheels Wiki _ Fandom.html`; blob SHA `093da4b7b9ba0a96986f0e804786ae7eaaaf24ff`; manifest SHA-256 `D62E37D13141F80A825101F86F121F11DF5A14324DBE86F4BC1244B3F97DCBA2`; size 357360 bytes; Fandom revision 729057.
+- 1 product tables, 7 product rows, 14 embedded table image references, 28 links in product cells.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-SPACE-JAM-A-NEW-LEGACY-CHARACTER-CARS.csv`; QA report: `research/extractions/MODERN-SPECIAL-SERIES-SPACE-JAM-A-NEW-LEGACY-CHARACTER-CARS-EXTRACTION-QA.md`.
+
+### SpongeBob SquarePants Character Cars
+- Source: `Modern Special Series/Character Cars/SpongeBob SquarePants Character Cars _ Hot Wheels Wiki _ Fandom.html`; blob SHA `99e5d1aa85a35956f6a393798e9de45a31179886`; manifest SHA-256 `ED05C8AEC5823D80E4FACC640D799A57BCF0DD652CD8219098200971291CE147`; size 373240 bytes; Fandom revision 687095.
+- 7 product tables, 25 product rows, 50 embedded table image references, 100 links in product cells.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-SPONGEBOB-SQUAREPANTS-CHARACTER-CARS.csv`; QA report: `research/extractions/MODERN-SPECIAL-SERIES-SPONGEBOB-SQUAREPANTS-CHARACTER-CARS-EXTRACTION-QA.md`.
+
+### Star Wars Character Cars
+- Source: `Modern Special Series/Character Cars/Star Wars Character Cars _ Hot Wheels Wiki _ Fandom.html`; blob SHA `e1a71f27cfe72e51eecc6d58b8ed3c60d81390d1`; manifest SHA-256 `DBA8B280814373986DAB14AB82AB77724AD4CD73E9B9EA459B4C89CB0D8FE944`; size 887617 bytes; Fandom revision 778377.
+- 33 product tables, 317 product rows, 582 embedded table image references, 1213 links in product cells.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-STAR-WARS-CHARACTER-CARS.csv` and `research/extractions/MODERN-SPECIAL-SERIES-STAR-WARS-CHARACTER-CARS-PART-02.csv` (two ordered parts); QA report: `research/extractions/MODERN-SPECIAL-SERIES-STAR-WARS-CHARACTER-CARS-EXTRACTION-QA.md`.
+
+### Street Fighter V Character Cars
+- Source: `Modern Special Series/Character Cars/Street Fighter V Character Cars _ Hot Wheels Wiki _ Fandom.html`; blob SHA `a40e3c20b066c9c36bb7b4be06c386c1ecf22e06`; manifest SHA-256 `1C724D568AE53D6AA32888BBF904DC20F2B002D308A9255017419D2E92C8BD72`; size 352966 bytes; Fandom revision 655518.
+- 1 product tables, 5 product rows, 10 embedded table image references, 20 links in product cells.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-STREET-FIGHTER-V-CHARACTER-CARS.csv`; QA report: `research/extractions/MODERN-SPECIAL-SERIES-STREET-FIGHTER-V-CHARACTER-CARS-EXTRACTION-QA.md`.
