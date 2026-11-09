@@ -7,7 +7,7 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 - Source pages: 223
 - Total source size: 92,291,750 bytes (88.02 MiB)
 - Inventory source: repository `MANIFEST.csv` and GitHub directory/tree entries.
-- Extraction status: 121 of 223 source pages have CSV and QA artifacts confirmed; remaining 102 pages are marked Not yet extracted.
+- Extraction status: 128 of 223 source pages have CSV and QA artifacts confirmed; remaining 95 pages are marked Not yet extracted.
 - This index is an inventory baseline, not a claim that each file represents one distinct product series.
 
 ## Source folder breakdown
@@ -155,13 +155,13 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 | `Modern Special Series/Fast & Furious Premium Series/2020 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html` | `9118f65579c4c741ecb83647c5dd955d99cb03d1` | 362086 | `06E14189243B0EB1FDAEBFD66A50A7194522DA9F83E3D2F32F0A940DEE4535D0` | Extracted + QA |
 | `Modern Special Series/Fast & Furious Premium Series/2021 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html` | `9fc816bed1b164bbabf2ef8257cef6e34a8f4b3f` | 356404 | `71497AB5735CF2B752B2C37F997272DD34244F804568F9BF7B972AE8A1B64EEF` | Extracted + QA |
 | `Modern Special Series/Fast & Furious Premium Series/2023 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html` | `5a3e839e670a870448defe6630bfe5feacb641b5` | 387858 | `193D9862E08DEBA801C8E739E7DC911EECD5F7B0759B81CDFDE5E7FA4A983743` | Extracted + QA |
-| `Modern Special Series/Fast & Furious Premium Series/2024 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html` | `08f278713133dd43b6679d9618eb1dc01245ecd2` | 354910 | `AB3394378BD3795D17D873FC5CBC33543B51BE7F4F5C0545C85D1E6AA03D770B` | Not yet extracted |
-| `Modern Special Series/Fast & Furious Premium Series/2025 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html` | `6862d9d14244965682573931811141903d734093` | 367067 | `6AF6F898703D3204A30A16D019A4C13B7F11D8880401F844ED23CB8E4A78AD92` | Not yet extracted |
-| `Modern Special Series/Fast & Furious Premium Series/2026 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html` | `445e2b518c580ef9d20f610a035a9871f8352bfa` | 373639 | `735FE10CB656DB9263540D7B069AC3ADADF1C16C2490887ED199166514971406` | Not yet extracted |
-| `Modern Special Series/Flying Customs/Flying Customs Series (2006) _ Hot Wheels Wiki _ Fandom.html` | `ec222b9a851d226e5041bb5d9a9ae828252577cc` | 366928 | `060CB10A9CD28C313BD5807DA7D639A39E6135CE54BF7DAE8EBE18C010F74FE9` | Not yet extracted |
-| `Modern Special Series/Flying Customs/Flying Customs Series (2013) _ Hot Wheels Wiki _ Fandom.html` | `78cbf5e8c286b728938f40769a839029dc15684f` | 372985 | `EB015686421892A2CC02DA80E2D4B32B719C2D9B18A96C9A4442A214930F59D1` | Not yet extracted |
-| `Modern Special Series/Flying Customs/Flying Customs Series (2020) _ Hot Wheels Wiki _ Fandom.html` | `5723c6e4183f27f66ea168c022e33456a1ff02b2` | 398310 | `856B663B1B3682467F26EE9DDF1757ECDECC73C6781E7D7F718255D3A55E06B2` | Not yet extracted |
-| `Modern Special Series/Formula One Collection/2025 Formula One Collection _ Hot Wheels Wiki _ Fandom.html` | `cdee0e721320db0e68d84771e174bc6fad42fb42` | 351079 | `91189BB8B1609C3B398259501B73A352A63C9EAD2E3DEB0E47DB7B026F3335B6` | Not yet extracted |
+| `Modern Special Series/Fast & Furious Premium Series/2024 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html` | `08f278713133dd43b6679d9618eb1dc01245ecd2` | 354910 | `AB3394378BD3795D17D873FC5CBC33543B51BE7F4F5C0545C85D1E6AA03D770B` | Extracted + QA |
+| `Modern Special Series/Fast & Furious Premium Series/2025 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html` | `6862d9d14244965682573931811141903d734093` | 367067 | `6AF6F898703D3204A30A16D019A4C13B7F11D8880401F844ED23CB8E4A78AD92` | Extracted + QA |
+| `Modern Special Series/Fast & Furious Premium Series/2026 Fast & Furious Premium Series _ Hot Wheels Wiki _ Fandom.html` | `445e2b518c580ef9d20f610a035a9871f8352bfa` | 373639 | `735FE10CB656DB9263540D7B069AC3ADADF1C16C2490887ED199166514971406` | Extracted + QA |
+| `Modern Special Series/Flying Customs/Flying Customs Series (2006) _ Hot Wheels Wiki _ Fandom.html` | `ec222b9a851d226e5041bb5d9a9ae828252577cc` | 366928 | `060CB10A9CD28C313BD5807DA7D639A39E6135CE54BF7DAE8EBE18C010F74FE9` | Extracted + QA |
+| `Modern Special Series/Flying Customs/Flying Customs Series (2013) _ Hot Wheels Wiki _ Fandom.html` | `78cbf5e8c286b728938f40769a839029dc15684f` | 372985 | `EB015686421892A2CC02DA80E2D4B32B719C2D9B18A96C9A4442A214930F59D1` | Extracted + QA |
+| `Modern Special Series/Flying Customs/Flying Customs Series (2020) _ Hot Wheels Wiki _ Fandom.html` | `5723c6e4183f27f66ea168c022e33456a1ff02b2` | 398310 | `856B663B1B3682467F26EE9DDF1757ECDECC73C6781E7D7F718255D3A55E06B2` | Extracted + QA |
+| `Modern Special Series/Formula One Collection/2025 Formula One Collection _ Hot Wheels Wiki _ Fandom.html` | `cdee0e721320db0e68d84771e174bc6fad42fb42` | 351079 | `91189BB8B1609C3B398259501B73A352A63C9EAD2E3DEB0E47DB7B026F3335B6` | Extracted + QA |
 | `Modern Special Series/Formula One Collection/2026 Formula One Collection _ Hot Wheels Wiki _ Fandom.html` | `556c57913522b2197e96b76a501ac1f2051f9470` | 403482 | `CD2EBA75F27A1E06BA38EDB153747445F3F4E41EC924AF580325BF53FD4D96FE` | Not yet extracted |
 | `Modern Special Series/Garage Series _ Hot Wheels Wiki _ Fandom.html` | `c604c03bc80576d01019e6d0b2f1737f9d059589` | 429285 | `9B9D82DF9D525A35F2EFBCD9717E57E6CB33E6E55050A1DDB9FEE9B973DA4A7B` | Not yet extracted |
 | `Modern Special Series/Global Technology Summit 2005 _ Hot Wheels Wiki _ Fandom.html` | `8945fbef8474f2def5f27d0e94695e15fdb65ee9` | 328294 | `9ADEC2790F5C4BBC4D02C72BCBD7E1E323E954A867061033B4C73A5D6275169F` | Not yet extracted |
