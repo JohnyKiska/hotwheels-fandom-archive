@@ -54,7 +54,7 @@ The repository tree contains same-stem QA reports for seven of the nine CSVs. No
 
 ## Third-stage CSV structural audit (2026-11-09)
 
-The audit has expanded from stratified sampling to sequential file-by-file validation. A total of **74 of 633 CSV files** have now been inspected (the original 28-file sample plus 46 additional files?); this remains an in-progress audit, not a completion claim.
+The audit has expanded from stratified sampling to sequential file-by-file validation. A total of **74 distinct CSV files out of 633** have now been inspected; this remains an in-progress audit, not a completion claim.
 
 Checks applied to the inspected files:
 - CSV-aware parsing with quoted fields, escaped double quotes, and embedded line breaks.
