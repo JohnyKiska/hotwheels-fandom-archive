@@ -7,7 +7,7 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 - Source pages: 223
 - Total source size: 92,291,750 bytes (88.02 MiB)
 - Inventory source: repository `MANIFEST.csv` and GitHub directory/tree entries.
-- Extraction status: 112 of 223 source pages extracted and QA-reviewed; remaining pages are marked `Not yet extracted`.
+- Extraction status: 117 of 223 source pages extracted and QA-reviewed; remaining pages are marked `Not yet extracted`.
 - This index is an inventory baseline, not a claim that each file represents one distinct product series.
 
 ## Source folder breakdown
@@ -105,11 +105,11 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 | `Modern Special Series/Character Cars/Marvel Character Cars _ Hot Wheels Wiki _ Fandom.html` | `85aa6572f0f636a6af26c400a6a0617d7d1ea5e2` | 775918 | `A65BDA74B60B511104DF722E2D45E644B0A730A96D1F0CFC116D6A9D0659D114` | Extracted + QA |
 | `Modern Special Series/Character Cars/Masters of the Universe Character Cars _ Hot Wheels Wiki _ Fandom.html` | `2b5bb7cc178b401b1a1a13c0500621be9e3b105a` | 376818 | `089F68896BFC284EAFDCA7AB7B66885DF14A4FAD26287CB47A74CD76CC6D6571` | Extracted + QA |
 | `Modern Special Series/Character Cars/Minecraft Character Cars _ Hot Wheels Wiki _ Fandom.html` | `bbc10c09af097f398558b8209b4c5443a2a1c985` | 396289 | `3257DCEAFFE0A5FFF80A49CAFCD0FE0E117FE1B85131392F67EEB6CAF1F23569` | Extracted + QA |
-| `Modern Special Series/Character Cars/Minions Character Cars _ Hot Wheels Wiki _ Fandom.html` | `af61bccc5d0616a9cdf35244b5c4c598a454a659` | 384672 | `A2638AD0D73FC98E749303F84B784F3F80210265F1B75A6798F666615993344C` | Not yet extracted |
-| `Modern Special Series/Character Cars/Overwatch Character Cars _ Hot Wheels Wiki _ Fandom.html` | `58dd862846e24c575d14a4ee283ce71d0f735339` | 363567 | `EC8E531F5438E9F4BF282DE048C159E55472BC83AC98B2A51735D834531198E0` | Not yet extracted |
-| `Modern Special Series/Character Cars/Power Rangers Megaforce _ Hot Wheels Wiki _ Fandom.html` | `0f7be6cad8f86a917c4b3866b7f2b1794c9b07ed` | 345514 | `4C7DEE569DE0F1AD6897B1E65B0A5D33A09E9F02C5C72A82F08F97DC55C7AC05` | Not yet extracted |
-| `Modern Special Series/Character Cars/Rugrats Character Cars _ Hot Wheels Wiki _ Fandom.html` | `ebe7d2c673dbd0e41b5d4ee89fa1ad7722902bf4` | 326127 | `C066325EE99D0093448BA5134A11995FD3D40865EF14CCA74AFCDED51A111927` | Not yet extracted |
-| `Modern Special Series/Character Cars/Sanrio Character Cars _ Hot Wheels Wiki _ Fandom.html` | `a97d4cc212c10ae38ed7306d64ac6556ec0bf2ea` | 375508 | `A4B82D7E5E1CD90F15B675EA01B625F16E155F1A9FFBBFA8206D0273DF18E3CD` | Not yet extracted |
+| `Modern Special Series/Character Cars/Minions Character Cars _ Hot Wheels Wiki _ Fandom.html` | `af61bccc5d0616a9cdf35244b5c4c598a454a659` | 384672 | `A2638AD0D73FC98E749303F84B784F3F80210265F1B75A6798F666615993344C` | Extracted + QA |
+| `Modern Special Series/Character Cars/Overwatch Character Cars _ Hot Wheels Wiki _ Fandom.html` | `58dd862846e24c575d14a4ee283ce71d0f735339` | 363567 | `EC8E531F5438E9F4BF282DE048C159E55472BC83AC98B2A51735D834531198E0` | Extracted + QA |
+| `Modern Special Series/Character Cars/Power Rangers Megaforce _ Hot Wheels Wiki _ Fandom.html` | `0f7be6cad8f86a917c4b3866b7f2b1794c9b07ed` | 345514 | `4C7DEE569DE0F1AD6897B1E65B0A5D33A09E9F02C5C72A82F08F97DC55C7AC05` | Extracted + QA |
+| `Modern Special Series/Character Cars/Rugrats Character Cars _ Hot Wheels Wiki _ Fandom.html` | `ebe7d2c673dbd0e41b5d4ee89fa1ad7722902bf4` | 326127 | `C066325EE99D0093448BA5134A11995FD3D40865EF14CCA74AFCDED51A111927` | Extracted + QA |
+| `Modern Special Series/Character Cars/Sanrio Character Cars _ Hot Wheels Wiki _ Fandom.html` | `a97d4cc212c10ae38ed7306d64ac6556ec0bf2ea` | 375508 | `A4B82D7E5E1CD90F15B675EA01B625F16E155F1A9FFBBFA8206D0273DF18E3CD` | Extracted + QA |
 | `Modern Special Series/Character Cars/Sonic the Hedgehog Character Cars _ Hot Wheels Wiki _ Fandom.html` | `39854e3dd5aef78722bde9930bcca5e541bb6e07` | 356852 | `7A52D11A2CE5AFCACAC329413DA61606BCC2A29EC088492905F7B64CEAB1C30A` | Not yet extracted |
 | `Modern Special Series/Character Cars/Space Jam_ A New Legacy Character Cars _ Hot Wheels Wiki _ Fandom.html` | `093da4b7b9ba0a96986f0e804786ae7eaaaf24ff` | 357360 | `D62E37D13141F80A825101F86F121F11DF5A14324DBE86F4BC1244B3F97DCBA2` | Not yet extracted |
 | `Modern Special Series/Character Cars/SpongeBob SquarePants Character Cars _ Hot Wheels Wiki _ Fandom.html` | `99e5d1aa85a35956f6a393798e9de45a31179886` | 373240 | `ED05C8AEC5823D80E4FACC640D799A57BCF0DD652CD8219098200971291CE147` | Not yet extracted |
