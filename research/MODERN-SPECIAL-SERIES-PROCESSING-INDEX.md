@@ -7,7 +7,7 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 - Source pages: 223
 - Total source size: 92,291,750 bytes (88.02 MiB)
 - Inventory source: repository `MANIFEST.csv` and GitHub directory/tree entries.
-- Extraction status: 107 of 223 source pages have CSV and QA artifacts confirmed; remaining 116 pages are marked Not yet extracted.
+- Extraction status: 114 of 223 source pages have CSV and QA artifacts confirmed; remaining 109 pages are marked Not yet extracted.
 - This index is an inventory baseline, not a claim that each file represents one distinct product series.
 
 ## Source folder breakdown
@@ -141,13 +141,13 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 | `Modern Special Series/Color Shifters/2024 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `bffecf415edd9d1f5e59c3e2fcab106da8da7a2f` | 331441 | `49B9F8E95594F8E6583B0F4A30C8CAEFC76AB988B1A638A01DD1F894B588A136` | Extracted + QA |
 | `Modern Special Series/Color Shifters/2025 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `22308b1c1dc35bd04d947be744bf3d8198af06c7` | 363239 | `EE4C375003C61BA54D41E7B73D23B6C314FB02023B939BE534B6D00BDEE70F93` | Extracted + QA |
 | `Modern Special Series/Color Shifters/2026 Color Shifters _ Hot Wheels Wiki _ Fandom.html` | `4c34c8390f06fcedafd0c006f2fad94af995aa85` | 368276 | `FFF72AAD51E2B971D8B455E772C025A73376BAB6B0809CA87A6492C417A29A22` | Extracted + QA |
-| `Modern Special Series/Cool Classics _ Hot Wheels Wiki _ Fandom.html` | `fa8644151d5641c63087cfcca6f034330631392c` | 423606 | `5461808915A500B5DB9CEF694132397E8C922B745C91AD807CE99FEF47A6756A` | Not yet extracted |
-| `Modern Special Series/Corvette 4-Rotor _ Hot Wheels Wiki _ Fandom.html` | `da08319e73900886655cae46d21d52452552b163` | 340971 | `9DA31200D46190289FA38C7E298B55A54089310488EE09D007D95FB7459A2DCB` | Not yet extracted |
-| `Modern Special Series/Crashers (2007) _ Hot Wheels Wiki _ Fandom.html` | `2cc9b0d21683dbe60541452c73fa92375128a4b7` | 416496 | `4E9B9C69034E5D247423D0A8B39B8CAEA27E666C10362E8377CD5197924C5D62` | Not yet extracted |
-| `Modern Special Series/Dark Shadow _ Hot Wheels Wiki _ Fandom.html` | `4cfa7685d41261940f32ec982166fb17c7eb46b2` | 328393 | `4C64F61DBAB3BF7433078DA01A496FF30748A0642CBC4C6E9CB954867B6C44CF` | Not yet extracted |
-| `Modern Special Series/Deora II _ Hot Wheels Wiki _ Fandom.html` | `fb1d9200675f564445d1daa944a3548aea720482` | 661888 | `9E45D94F410AB47CCBCC0C73A31271FF9352D69B630EDF7F267DC700F9F39394` | Not yet extracted |
-| `Modern Special Series/Deora III _ Hot Wheels Wiki _ Fandom.html` | `8ceab7c798a0f96e1a1bbe7277ac1248774498fd` | 377963 | `1E431E30C25990B0C43DBDAF1C6E1B69B414E31D72B4C35DF88E0C4788D979CE` | Not yet extracted |
-| `Modern Special Series/Dragstrip Demons _ Hot Wheels Wiki _ Fandom.html` | `6b601e241572f98ed44728e7f5bf3e0021eef027` | 497132 | `5E8CC60B4F4559FBD73A2FF16FAFC2F7537377D43D3751778D9F11E9812393B9` | Not yet extracted |
+| `Modern Special Series/Cool Classics _ Hot Wheels Wiki _ Fandom.html` | `fa8644151d5641c63087cfcca6f034330631392c` | 423606 | `5461808915A500B5DB9CEF694132397E8C922B745C91AD807CE99FEF47A6756A` | Extracted + QA |
+| `Modern Special Series/Corvette 4-Rotor _ Hot Wheels Wiki _ Fandom.html` | `da08319e73900886655cae46d21d52452552b163` | 340971 | `9DA31200D46190289FA38C7E298B55A54089310488EE09D007D95FB7459A2DCB` | Extracted + QA |
+| `Modern Special Series/Crashers (2007) _ Hot Wheels Wiki _ Fandom.html` | `2cc9b0d21683dbe60541452c73fa92375128a4b7` | 416496 | `4E9B9C69034E5D247423D0A8B39B8CAEA27E666C10362E8377CD5197924C5D62` | Extracted + QA |
+| `Modern Special Series/Dark Shadow _ Hot Wheels Wiki _ Fandom.html` | `4cfa7685d41261940f32ec982166fb17c7eb46b2` | 328393 | `4C64F61DBAB3BF7433078DA01A496FF30748A0642CBC4C6E9CB954867B6C44CF` | Extracted + QA |
+| `Modern Special Series/Deora II _ Hot Wheels Wiki _ Fandom.html` | `fb1d9200675f564445d1daa944a3548aea720482` | 661888 | `9E45D94F410AB47CCBCC0C73A31271FF9352D69B630EDF7F267DC700F9F39394` | Extracted + QA |
+| `Modern Special Series/Deora III _ Hot Wheels Wiki _ Fandom.html` | `8ceab7c798a0f96e1a1bbe7277ac1248774498fd` | 377963 | `1E431E30C25990B0C43DBDAF1C6E1B69B414E31D72B4C35DF88E0C4788D979CE` | Extracted + QA |
+| `Modern Special Series/Dragstrip Demons _ Hot Wheels Wiki _ Fandom.html` | `6b601e241572f98ed44728e7f5bf3e0021eef027` | 497132 | `5E8CC60B4F4559FBD73A2FF16FAFC2F7537377D43D3751778D9F11E9812393B9` | Extracted + QA |
 | `Modern Special Series/Dream Garage _ Hot Wheels Wiki _ Fandom.html` | `6c538fbd1c96a9e2b57cf138660de72b4b04269e` | 442174 | `3A914BD4307BFD6465ADBBBBA6C23318695352AD6BA6D2A5B9D2447ED9424F83` | Not yet extracted |
 | `Modern Special Series/Duracell _ Hot Wheels Wiki _ Fandom.html` | `d4ca52d27510bceb088c62ec27b5461a580129fb` | 353827 | `D6E0EB7D4E34ABECBBECF1DEE6D20989C6434F83479334D93BE4B73F11A97B70` | Not yet extracted |
 | `Modern Special Series/Eggshelleracer _ Hot Wheels Wiki _ Fandom.html` | `002c2ad1a179a3b4a4f6208d16ef065cc11a4dc3` | 347409 | `B62CA31231DC723828ECBCDCE56D79ACCB52C44B5028C51C3E4DFE8E89D3796A` | Not yet extracted |
