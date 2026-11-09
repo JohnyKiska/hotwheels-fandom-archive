@@ -2,7 +2,7 @@
 
 Scope: archived Fandom pages in `Early Collections/` on `main`. This folder name is retained as source provenance only and is not treated as a verified product-hierarchy node.
 
-Inventory: 33 HTML/HTM files, 12834928 bytes total. 21 of 33 pages extracted and QA-reviewed.
+Inventory: 33 HTML/HTM files, 12834928 bytes total. 22 of 33 pages extracted and QA-reviewed.
 
 | Source file | Git blob SHA | Size (bytes) | Processing status |
 |---|---|---:|---|
@@ -242,3 +242,11 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total. 21 of 33 pages extracted and
 - All 22 Toy # cells are populated; 11 distinct Toy # values and 11 model-name labels. Repeated identifiers/name groups are preserved without deduplication.
 - No standard Wikia gallery items. Loose and carded photos are embedded in table cells; image metadata, links, source headers, raw cells and cell HTML retained.
 - Export: `research/extractions/EARLY-COLLECTIONS-SPEED-DEMONS.csv`; QA: `research/extractions/EARLY-COLLECTIONS-SPEED-DEMONS-EXTRACTION-QA.md`.
+
+
+### Speed Fleet
+- Source: `Early Collections/Speed Fleet _ Hot Wheels Wiki _ Fandom.html`; Git blob SHA `69ab0490c53bcde8ee008ec0c620619a49bf302a`; manifest SHA-256 `B748220CC3F40B55F8FF3D9FFF2769D505422FA673DF02AAAA8170C8EDBED00A`; Fandom revision 799650.
+- Extracted 76 product rows across two 9-column tables: Speed Fleet Blue Card (80) and Speed Fleet Rainbow Card (72).
+- 152 embedded table-cell image references (76 loose, 76 carded); lazy-loaded URLs and filenames retained. No standard Wikia gallery items.
+- Toy # values: 76 populated, 56 distinct; repeated values and model-name labels remain separate source rows.
+- Export: `research/extractions/EARLY-COLLECTIONS-SPEED-FLEET.csv`; QA: `research/extractions/EARLY-COLLECTIONS-SPEED-FLEET-EXTRACTION-QA.md`.
