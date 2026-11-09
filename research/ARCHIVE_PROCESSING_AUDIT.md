@@ -453,3 +453,11 @@ The archived `Early Collections/` inventory contains 33 HTML/HTM pages. 32 of 33
 - Output: `research/extractions/EARLY-COLLECTIONS-WORKHORSES.csv` (86 records).
 - QA: `research/extractions/EARLY-COLLECTIONS-WORKHORSES-EXTRACTION-QA.md`.
 - Early Collections archive extraction is now complete: 33/33 pages.
+
+
+## 8. Modern Special Series archive inventory
+
+- Initial inventory completed: 223 archived HTML pages, 92,291,750 bytes total (88.02 MiB).
+- Sources are distributed across 151 immediate source folders, including several large multi-year families. Folder names are retained as provenance and are not canonical product taxonomy.
+- No page-level extraction is marked complete in the new index yet. Processing will proceed in small batches with per-page extraction and QA.
+- Detailed inventory: `research/MODERN-SPECIAL-SERIES-PROCESSING-INDEX.md`.
