@@ -36,3 +36,8 @@
 
 ## Output
 - `research/extractions/EARLY-COLLECTIONS-30TH-ANNIVERSARY-4-CAR-SET.csv`
+
+## CSV audit correction (2026-11-09)
+- The initial CSV export contained one surplus empty field immediately before `Photo filename` in each of the four product rows. This shifted the photo filename, alt text, URL, and trailing provenance fields one column to the right.
+- Removed only that surplus empty field from each affected row. All four rows now match the 20-column header; product values, raw source cells, rowspan context, and cell links were preserved.
+- The source photo URL cells for King 'Kuda and Light My Firebird still contain lazy-load `data:image/gif` placeholders; their real `data-src` URLs remain present in the raw source HTML. This is recorded for the later Gallery extraction/image URL pass, not silently rewritten during this structural correction.
