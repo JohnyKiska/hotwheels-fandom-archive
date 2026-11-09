@@ -202,11 +202,11 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 | `Modern Special Series/Pop Culture/2015 Pop Culture _ Hot Wheels Wiki _ Fandom.html` | `656987232b460afc03b827ebb2a7e3e4d24e6451` | 393780 | `F132C8B5C1BE7BC11707249FCC9BDF013AFC4DB58DCEDDF437462672F62D8CBA` | Extracted + QA |
 | `Modern Special Series/Pop Culture/2016 Pop Culture _ Hot Wheels Wiki _ Fandom.html` | `3694a23e692827af31251898d633e801675bcce0` | 387973 | `2A08F2C37BBCD99E3F7CA0E8D3349E2E391B10228809A48C70F369AEB7849FAE` | Extracted + QA |
 | `Modern Special Series/Pop Culture/2017 Pop Culture _ Hot Wheels Wiki _ Fandom.html` | `9cb2cd7deacef0f47b6ae42f3992c7c7e9702b80` | 380856 | `B88855B559B25A93CD17FEAD288CC3C99F6151845A42B994A87FABA7D64BC8A3` | Extracted + QA |
-| `Modern Special Series/Pop Culture/2018 Pop Culture _ Hot Wheels Wiki _ Fandom.html` | `1544bcb70e84e4867f9844945f7886880284ce01` | 369491 | `664D21011704A2266D184B0701755700686F82C4B931598BB4BB5C4C1A802FC3` | Not yet extracted |
-| `Modern Special Series/Pop Culture/2019 Pop Culture _ Hot Wheels Wiki _ Fandom.html` | `2ed5f4df47a706561acd4d02b53c6a54f2467e96` | 357120 | `CD2179D4687EEDDB836769F4919B470197D57AB0A2B653D5038ED8B279E7B6FA` | Not yet extracted |
-| `Modern Special Series/Pop Culture/2020 Pop Culture _ Hot Wheels Wiki _ Fandom.html` | `b9fb8552e51619cb73199202108f91174410aadc` | 358339 | `9A2023CC54A88CFB40FBEF3F71EACB77758F27AB1B7C61848E40FD847ACD05DA` | Not yet extracted |
-| `Modern Special Series/Pop Culture/2021 Pop Culture _ Hot Wheels Wiki _ Fandom.html` | `6e440d914704929b2fbd3c0640cc15d4c0f4e229` | 353782 | `DFD866970206BDC9161DB43464EDAF5E776E08E3A1C207CE0A257F3CA8824D9A` | Not yet extracted |
-| `Modern Special Series/Pop Culture/2022 Pop Culture _ Hot Wheels Wiki _ Fandom.html` | `ccd2dca6d1156bf108cc3bdc68e0636e4ad38df1` | 356080 | `33EB74EB99F5055AACC28E69C0F03723E218DB748809510103C00FF0A4B5E3C5` | Not yet extracted |
+| `Modern Special Series/Pop Culture/2018 Pop Culture _ Hot Wheels Wiki _ Fandom.html` | `1544bcb70e84e4867f9844945f7886880284ce01` | 369491 | `664D21011704A2266D184B0701755700686F82C4B931598BB4BB5C4C1A802FC3` | Extracted + QA |
+| `Modern Special Series/Pop Culture/2019 Pop Culture _ Hot Wheels Wiki _ Fandom.html` | `2ed5f4df47a706561acd4d02b53c6a54f2467e96` | 357120 | `CD2179D4687EEDDB836769F4919B470197D57AB0A2B653D5038ED8B279E7B6FA` | Extracted + QA |
+| `Modern Special Series/Pop Culture/2020 Pop Culture _ Hot Wheels Wiki _ Fandom.html` | `b9fb8552e51619cb73199202108f91174410aadc` | 358339 | `9A2023CC54A88CFB40FBEF3F71EACB77758F27AB1B7C61848E40FD847ACD05DA` | Extracted + QA |
+| `Modern Special Series/Pop Culture/2021 Pop Culture _ Hot Wheels Wiki _ Fandom.html` | `6e440d914704929b2fbd3c0640cc15d4c0f4e229` | 353782 | `DFD866970206BDC9161DB43464EDAF5E776E08E3A1C207CE0A257F3CA8824D9A` | Extracted + QA |
+| `Modern Special Series/Pop Culture/2022 Pop Culture _ Hot Wheels Wiki _ Fandom.html` | `ccd2dca6d1156bf108cc3bdc68e0636e4ad38df1` | 356080 | `33EB74EB99F5055AACC28E69C0F03723E218DB748809510103C00FF0A4B5E3C5` | Extracted + QA |
 | `Modern Special Series/Pop Culture/2023 Pop Culture _ Hot Wheels Wiki _ Fandom.html` | `bc50caae16648d86439ec32935bc75038e3ba1e5` | 356459 | `FE2A86D28979C7A41F73CCCF82E55E2551DE45B558D8117ED26768FF67597E5B` | Not yet extracted |
 | `Modern Special Series/Pop Culture/2024 Pop Culture _ Hot Wheels Wiki _ Fandom.html` | `d7ba5432cd34f14aaffe1d3b7eaca20a84ee9c4c` | 382411 | `15D0CD4F5B2FBBC3DE2617D795612B6E57403ADF5C30EB5959ACC0BCA12FF2EE` | Not yet extracted |
 | `Modern Special Series/Pop Culture/2025 Pop Culture _ Hot Wheels Wiki _ Fandom.html` | `05ad65da6ec212f09683ea4bc42ccc1b1a7b24ea` | 376749 | `6D93C61B8DC49DF8C72AA0BE7956EEF2499B76E07F5A1B3C177654E2738505E1` | Not yet extracted |
@@ -886,3 +886,33 @@ Five annual source pages extracted and QA-reviewed. Batch total: 39 retained pro
 - Source: `Modern Special Series/Pop Culture/2017 Pop Culture _ Hot Wheels Wiki _ Fandom.html`; blob SHA `9cb2cd7deacef0f47b6ae42f3992c7c7e9702b80`; manifest SHA-256 `B88855B559B25A93CD17FEAD288CC3C99F6151845A42B994A87FABA7D64BC8A3`; size 380856 bytes; Fandom revision 760100.
 - 7 product tables, 32 product rows, 64 embedded table image references, 127 links in product cells.
 - CSV: `research/extractions/MODERN-SPECIAL-SERIES-2017-POP-CULTURE.csv`; QA report: `research/extractions/MODERN-SPECIAL-SERIES-2017-POP-CULTURE-EXTRACTION-QA.md`.
+
+
+## Latest extraction batch: Pop Culture 2018–2022, 2026-11-09
+
+Five annual source pages extracted and QA-reviewed. Batch total: 28 retained product tables, 118 product rows, 216 embedded table image references, and 510 links in product cells. Each page has a 21-column CSV and individual QA report. CSV row/column structure was checked during generation. Separate Gallery items have not been independently extracted in this pass.
+
+### 2018 Pop Culture
+- Source: `Modern Special Series/Pop Culture/2018 Pop Culture _ Hot Wheels Wiki _ Fandom.html`; blob SHA `1544bcb70e84e4867f9844945f7886880284ce01`; manifest SHA-256 `664D21011704A2266D184B0701755700686F82C4B931598BB4BB5C4C1A802FC3`; size 369491 bytes; Fandom revision 760103.
+- 7 product tables, 28 product rows, 52 embedded table image references, 120 links in product cells.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-2018-POP-CULTURE.csv`; QA report: `research/extractions/MODERN-SPECIAL-SERIES-2018-POP-CULTURE-EXTRACTION-QA.md`.
+
+### 2019 Pop Culture
+- Source: `Modern Special Series/Pop Culture/2019 Pop Culture _ Hot Wheels Wiki _ Fandom.html`; blob SHA `2ed5f4df47a706561acd4d02b53c6a54f2467e96`; manifest SHA-256 `CD2179D4687EEDDB836769F4919B470197D57AB0A2B653D5038ED8B279E7B6FA`; size 357120 bytes; Fandom revision 760104.
+- 5 product tables, 22 product rows, 40 embedded table image references, 96 links in product cells.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-2019-POP-CULTURE.csv`; QA report: `research/extractions/MODERN-SPECIAL-SERIES-2019-POP-CULTURE-EXTRACTION-QA.md`.
+
+### 2020 Pop Culture
+- Source: `Modern Special Series/Pop Culture/2020 Pop Culture _ Hot Wheels Wiki _ Fandom.html`; blob SHA `b9fb8552e51619cb73199202108f91174410aadc`; manifest SHA-256 `9A2023CC54A88CFB40FBEF3F71EACB77758F27AB1B7C61848E40FD847ACD05DA`; size 358339 bytes; Fandom revision 760105.
+- 6 product tables, 24 product rows, 44 embedded table image references, 101 links in product cells.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-2020-POP-CULTURE.csv`; QA report: `research/extractions/MODERN-SPECIAL-SERIES-2020-POP-CULTURE-EXTRACTION-QA.md`.
+
+### 2021 Pop Culture
+- Source: `Modern Special Series/Pop Culture/2021 Pop Culture _ Hot Wheels Wiki _ Fandom.html`; blob SHA `6e440d914704929b2fbd3c0640cc15d4c0f4e229`; manifest SHA-256 `DFD866970206BDC9161DB43464EDAF5E776E08E3A1C207CE0A257F3CA8824D9A`; size 353782 bytes; Fandom revision 693965.
+- 5 product tables, 22 product rows, 40 embedded table image references, 96 links in product cells.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-2021-POP-CULTURE.csv`; QA report: `research/extractions/MODERN-SPECIAL-SERIES-2021-POP-CULTURE-EXTRACTION-QA.md`.
+
+### 2022 Pop Culture
+- Source: `Modern Special Series/Pop Culture/2022 Pop Culture _ Hot Wheels Wiki _ Fandom.html`; blob SHA `ccd2dca6d1156bf108cc3bdc68e0636e4ad38df1`; manifest SHA-256 `33EB74EB99F5055AACC28E69C0F03723E218DB748809510103C00FF0A4B5E3C5`; size 356080 bytes; Fandom revision 760109.
+- 5 product tables, 22 product rows, 40 embedded table image references, 97 links in product cells.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-2022-POP-CULTURE.csv`; QA report: `research/extractions/MODERN-SPECIAL-SERIES-2022-POP-CULTURE-EXTRACTION-QA.md`.
