@@ -7,7 +7,7 @@ Scope: archived HTML/HTM source pages under `Notable Modern Themed Assortments/`
 - Source pages: 57
 - Total source size: 20,744,066 bytes
 - Inventory source: recursive Git tree and repository `MANIFEST.csv`.
-- Extraction status: 40 of 57 pages extracted and QA-reviewed; 17 remaining.
+- Extraction status: 45 of 57 pages extracted and QA-reviewed; 12 remaining.
 - Source SHA-256 values are copied from the repository manifest. Git blob SHAs identify the exact archived HTML blobs.
 
 ## File inventory and processing status
@@ -54,11 +54,11 @@ Scope: archived HTML/HTM source pages under `Notable Modern Themed Assortments/`
 | `Notable Modern Themed Assortments/Pearl and Chrome Anniversary Series/Blue and Pink Series (2022) _ Hot Wheels Wiki _ Fandom.html` | `ade227e1a96ae3cf264174cfdc906cddb8ba5681` | 337743 | `04824AE40C3CE1C10535EE7B7256D803A5923D4A990CB4B08921E10C73B12B00` | Extracted + QA |
 | `Notable Modern Themed Assortments/Pearl and Chrome Anniversary Series/Green and Gold Series (2024) _ Hot Wheels Wiki _ Fandom.html` | `4c73e36e1bedd15c181690b551bb35fdec6a0a4a` | 345327 | `871ED602DDE6A5C68051D076779D3AC99680DC8B13A7A17A8E7ECD2CFFDE64C3` | Extracted + QA |
 | `Notable Modern Themed Assortments/Pearl and Chrome Anniversary Series/Orange and Blue Series (2021) _ Hot Wheels Wiki _ Fandom.html` | `a02e6e8a0c08e5d96eabf2efa59e51980289ee93` | 345921 | `ADACFEDD1188D3C107126B17194CF184F40D39AB1AA2C08A153B0F53715D472B` | Extracted + QA |
-| `Notable Modern Themed Assortments/Pearl and Chrome Anniversary Series/Pearl and Chrome Series (2020) _ Hot Wheels Wiki _ Fandom.html` | `ab40f16465e78c60e9c4258e4db4334a9d85b558` | 326484 | `E6FE94F33E5D4F87EA176FB20088B84B0E2EFDC12E4FE8E961D6B0B783609540` | Not yet extracted |
-| `Notable Modern Themed Assortments/Pearl and Chrome Anniversary Series/Purple and Gold Series (2025) _ Hot Wheels Wiki _ Fandom.html` | `fe29cc1fd488eaa5aa2771047f25c2e3de1d1b91` | 376746 | `94FD7CCE0748F58373118E4396ED57F66FE109B198D040CE7DC7C9D4A32CD4BC` | Not yet extracted |
-| `Notable Modern Themed Assortments/Pearl and Chrome Anniversary Series/Satin and Chrome Series (2019) _ Hot Wheels Wiki _ Fandom.html` | `8db7f33b27c80763758f2f1d3248c480d1980443` | 326610 | `0E05533FD6F8763E0BBFFDE574976069CF470F41471BE323B0A24F2A14884862` | Not yet extracted |
-| `Notable Modern Themed Assortments/Retro Style Series (2016) _ Hot Wheels Wiki _ Fandom.html` | `b88c15518ebcc03391d19107528e87e6e9da47b5` | 379239 | `06462FD77C0322C4A1CDA614C1AC88E5143B36C539A12430F13DD092857A431C` | Not yet extracted |
-| `Notable Modern Themed Assortments/Spring/Spring Series (2018) _ Hot Wheels Wiki _ Fandom.html` | `c7c4bcb443f4c87a07a562c5199ee6ec8579f03a` | 321096 | `3B6EA6C702A52E1464330F2443D7EEA426B0D10B01557775010CB0652777D7FE` | Not yet extracted |
+| `Notable Modern Themed Assortments/Pearl and Chrome Anniversary Series/Pearl and Chrome Series (2020) _ Hot Wheels Wiki _ Fandom.html` | `ab40f16465e78c60e9c4258e4db4334a9d85b558` | 326484 | `E6FE94F33E5D4F87EA176FB20088B84B0E2EFDC12E4FE8E961D6B0B783609540` | Extracted + QA |
+| `Notable Modern Themed Assortments/Pearl and Chrome Anniversary Series/Purple and Gold Series (2025) _ Hot Wheels Wiki _ Fandom.html` | `fe29cc1fd488eaa5aa2771047f25c2e3de1d1b91` | 376746 | `94FD7CCE0748F58373118E4396ED57F66FE109B198D040CE7DC7C9D4A32CD4BC` | Extracted + QA |
+| `Notable Modern Themed Assortments/Pearl and Chrome Anniversary Series/Satin and Chrome Series (2019) _ Hot Wheels Wiki _ Fandom.html` | `8db7f33b27c80763758f2f1d3248c480d1980443` | 326610 | `0E05533FD6F8763E0BBFFDE574976069CF470F41471BE323B0A24F2A14884862` | Extracted + QA |
+| `Notable Modern Themed Assortments/Retro Style Series (2016) _ Hot Wheels Wiki _ Fandom.html` | `b88c15518ebcc03391d19107528e87e6e9da47b5` | 379239 | `06462FD77C0322C4A1CDA614C1AC88E5143B36C539A12430F13DD092857A431C` | Extracted + QA |
+| `Notable Modern Themed Assortments/Spring/Spring Series (2018) _ Hot Wheels Wiki _ Fandom.html` | `c7c4bcb443f4c87a07a562c5199ee6ec8579f03a` | 321096 | `3B6EA6C702A52E1464330F2443D7EEA426B0D10B01557775010CB0652777D7FE` | Extracted + QA |
 | `Notable Modern Themed Assortments/Spring/Spring Series (2019) _ Hot Wheels Wiki _ Fandom.html` | `d9b3bf0100ff4dd5dd327ec393e7f4b5b52b9464` | 326334 | `CA953523031C84B6E73351D4C8162AC4671E023AC89A33AC7F518B8F8AAF4353` | Not yet extracted |
 | `Notable Modern Themed Assortments/Spring/Spring Series (2020) _ Hot Wheels Wiki _ Fandom.html` | `420940c71a8bcaa660397683c8976524ec368e3a` | 321411 | `6DC8DD757B6A4C9419DFFEA4A0DD8A4A8D595C6030E95AC01B378AC7ED3ABF51` | Not yet extracted |
 | `Notable Modern Themed Assortments/Spring/Spring Series (2021) _ Hot Wheels Wiki _ Fandom.html` | `824baa80200a4a53da8dcf970632c4fd3af319f2` | 323290 | `23B3B6A1FCA3FF262E3C3E10A7307C3165E2504BBC09E62144E6D44F9A00C48D` | Not yet extracted |
@@ -232,3 +232,22 @@ Each page has a 21-column source-preserving CSV and an individual QA report. Sou
 ## Next batch
 
 Continue with the next five unprocessed pages in inventory order: Pearl and Chrome Series (2020), Purple and Gold Series (2025), Satin and Chrome Series (2019), Retro Style Series (2016), and Spring Series (2018).
+
+
+## Batch 9: Pearl and Chrome Anniversary, Retro Style, and Spring, 2026-11-09
+
+Five source pages extracted and QA-reviewed. Batch total: 11 product tables, 63 product rows, 120 embedded table image references, and 216 links retained from product cells.
+
+| Source page | Revision | Tables | Product rows | Images | Links | CSV | QA |
+|---|---:|---:|---:|---:|---:|---|---|
+| Pearl and Chrome Series (2020) | 615333 | 1 | 7 | 14 | 28 | `research/extractions/NOTABLE-MODERN-THEMED-ASSORTMENTS-PEARL-AND-CHROME-SERIES-2020.csv` | `research/extractions/NOTABLE-MODERN-THEMED-ASSORTMENTS-PEARL-AND-CHROME-SERIES-2020-EXTRACTION-QA.md` |
+| Purple and Gold Series (2025) | 788844 | 3 | 12 | 24 | 48 | `research/extractions/NOTABLE-MODERN-THEMED-ASSORTMENTS-PURPLE-AND-GOLD-SERIES-2025.csv` | `research/extractions/NOTABLE-MODERN-THEMED-ASSORTMENTS-PURPLE-AND-GOLD-SERIES-2025-EXTRACTION-QA.md` |
+| Satin and Chrome Series (2019) | 621877 | 1 | 7 | 14 | 29 | `research/extractions/NOTABLE-MODERN-THEMED-ASSORTMENTS-SATIN-AND-CHROME-SERIES-2019.csv` | `research/extractions/NOTABLE-MODERN-THEMED-ASSORTMENTS-SATIN-AND-CHROME-SERIES-2019-EXTRACTION-QA.md` |
+| Retro Style Series (2016) | 808184 | 5 | 31 | 62 | 93 | `research/extractions/NOTABLE-MODERN-THEMED-ASSORTMENTS-RETRO-STYLE-SERIES-2016.csv` | `research/extractions/NOTABLE-MODERN-THEMED-ASSORTMENTS-RETRO-STYLE-SERIES-2016-EXTRACTION-QA.md` |
+| Spring Series (2018) | 673082 | 1 | 6 | 6 | 18 | `research/extractions/NOTABLE-MODERN-THEMED-ASSORTMENTS-SPRING-SERIES-2018.csv` | `research/extractions/NOTABLE-MODERN-THEMED-ASSORTMENTS-SPRING-SERIES-2018-EXTRACTION-QA.md` |
+
+Each page has a 21-column source-preserving CSV and an individual QA report. Source blob SHA, manifest SHA-256, source size, and Fandom revision ID are recorded in the artifacts. Purple and Gold contains one table with no retained non-empty product rows; this is explicitly recorded in its QA report rather than silently discarded.
+
+## Next batch
+
+Continue with the next five unprocessed pages in inventory order: Spring Series (2019), Spring Series (2020), Spring Series (2021), Spring Series (2022), and Spring Series (2023).
