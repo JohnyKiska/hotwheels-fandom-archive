@@ -371,3 +371,10 @@ Next: continue with the remaining Early Collections pages in inventory order, re
 - Speedway Specials: 17 product rows from one 9-column table, plus 2 separate Gallery items (19 CSV records). The table has no Year column; article prose identifies the Patch Card mail-away theme as produced in 1978 and 1979.
 - 14 distinct Toy # values; repeated Toy # groups 17, 21 and 38 and repeated model labels remain separate source rows. 34 table-cell image references and 2 unique Gallery image assets retained.
 - Outputs: `research/extractions/EARLY-COLLECTIONS-SPEEDWAY-SPECIALS.csv` and `research/extractions/EARLY-COLLECTIONS-SPEEDWAY-SPECIALS-EXTRACTION-QA.md`; detailed progress: `research/EARLY-COLLECTIONS-PROCESSING-INDEX.md`.
+
+
+### Early Collections update: Sugar Caddy
+- Processing status: 25 of 33 pages extracted and QA-reviewed.
+- Sugar Caddy: 16 product rows across three source tables (Original Versions 12, CIPSA Versions 3, Retooled Versions 1) with different schemas; plus 4 separate Gallery records (20 CSV records total).
+- Toy # is present in 13 rows; 6418 repeats 12 times and P2141 appears once. CIPSA has no Toy # or Year columns. 17 embedded image references and 4 gallery assets retained.
+- Outputs: `research/extractions/EARLY-COLLECTIONS-SUGAR-CADDY.csv` and `research/extractions/EARLY-COLLECTIONS-SUGAR-CADDY-EXTRACTION-QA.md`; detailed progress: `research/EARLY-COLLECTIONS-PROCESSING-INDEX.md`.
