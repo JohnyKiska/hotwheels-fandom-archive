@@ -2,7 +2,7 @@
 
 Scope: archived Fandom pages in `Early Collections/` on `main`. This folder name is retained as source provenance only and is not treated as a verified product-hierarchy node.
 
-Inventory: 33 HTML/HTM files, 12834928 bytes total. 25 of 33 pages extracted and QA-reviewed.
+Inventory: 33 HTML/HTM files, 12834928 bytes total. 26 of 33 pages extracted and QA-reviewed.
 
 | Source file | Git blob SHA | Size (bytes) | Processing status |
 |---|---|---:|---|
@@ -31,7 +31,7 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total. 25 of 33 pages extracted and
 | `Speed Machines (1983) _ Hot Wheels Wiki _ Fandom.html` | `e449ee168e898686c0bb46fced0b523081bfea47` | 366238 | Extracted and QA-reviewed |
 | `Speedway Specials _ Hot Wheels Wiki _ Fandom.html` | `de473d47ac484f9feb903c8448b23794d6052eaf` | 352847 | Extracted + QA |
 | `Sugar Caddy _ Hot Wheels Wiki _ Fandom.html` | `550488166f32055add61cba2d38393306c9b8b62` | 360833 | Extracted + QA |
-| `Super Chromes (1976) _ Hot Wheels Wiki _ Fandom.html` | `658a01422af975de2968285f809f07cbdbc8f272` | 376448 | Not yet extracted |
+| `Super Chromes (1976) _ Hot Wheels Wiki _ Fandom.html` | `658a01422af975de2968285f809f07cbdbc8f272` | 376448 | Extracted + QA |
 | `Super Streeters _ Hot Wheels Wiki _ Fandom.html` | `963b63c8a2df9d844fcc4404df9e7c0c4e5778aa` | 358718 | Not yet extracted |
 | `TNT-Bird _ Hot Wheels Wiki _ Fandom.html` | `fc25ac24e5f93d71789f2649de64a304f70db561` | 360478 | Not yet extracted |
 | `The Heavies _ Hot Wheels Wiki _ Fandom.html` | `44d592cfc35a9c1c747410900307c127172d776a` | 333247 | Not yet extracted |
@@ -273,3 +273,11 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total. 25 of 33 pages extracted and
 - Toy # appears in 13 rows across Original and Retooled Versions; 2 distinct values, with 6418 repeated 12 times. CIPSA table has no Toy # or Year columns. Source-specific schemas retained.
 - 17 product-table image references and 4 separate gallery assets retained.
 - Export: `research/extractions/EARLY-COLLECTIONS-SUGAR-CADDY.csv`; QA: `research/extractions/EARLY-COLLECTIONS-SUGAR-CADDY-EXTRACTION-QA.md`.
+
+
+### Super Chromes (1976)
+- Source: `Early Collections/Super Chromes (1976) _ Hot Wheels Wiki _ Fandom.html`; Git blob SHA `658a01422af975de2968285f809f07cbdbc8f272`; manifest SHA-256 `A6C523DD16C5B102392FEC26D70C9E3415998B8B2A49025242B96B8146FB27E2`; Fandom revision 714219.
+- Three year-specific tables: 1976 (25 rows), 1977 (19 rows), 1978 (2 rows), all with 11 columns. Total 46 product rows plus 4 separate Gallery items (50 CSV records).
+- All 46 product rows have Toy #; 13 distinct values. Repeated values preserved, including 9505 (12 rows), 9208 (5), and 9205 (4).
+- 46 embedded product-table image references and 4 separate Gallery assets retained. Year-specific header wording differences are preserved.
+- Export: `research/extractions/EARLY-COLLECTIONS-SUPER-CHROMES-1976.csv`; QA: `research/extractions/EARLY-COLLECTIONS-SUPER-CHROMES-1976-EXTRACTION-QA.md`.
