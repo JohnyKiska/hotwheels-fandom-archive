@@ -229,3 +229,11 @@ Next: continue with the remaining Early Collections pages in inventory order, re
 - One product table, 9 rows and 11 source columns. Loose and carded photo references were retained separately.
 - Repeated Toy # groups: [["4342",2],["5905",2]]. All source rows remain distinct.
 - Export: `research/extractions/EARLY-COLLECTIONS-EXTRAS.csv`; QA: `research/extractions/EARLY-COLLECTIONS-EXTRAS-EXTRACTION-QA.md`.
+
+
+### Flying Colors extraction checkpoint
+
+- Source: `Early Collections/Flying_Colors.htm`; Git blob SHA `7416dad03fc92b77384fc132e0001366744148ac`; manifest SHA-256 `40EA1A76B9A5C2890E2D6439D2033651EE819CC02C00BA5CB51B9D7E6241EFB2`; Fandom revision 795936.
+- Five annual product tables (1974–1978), 212 rows. The separate Track Sets heading has no product table and was not merged into annual rows.
+- Source schemas differ across years; original headers and row values are preserved. Loose and carded photo references are extracted separately.
+- Export: `research/extractions/EARLY-COLLECTIONS-FLYING-COLORS.csv`; QA: `research/extractions/EARLY-COLLECTIONS-FLYING-COLORS-EXTRACTION-QA.md`.
