@@ -2,7 +2,7 @@
 
 Scope: archived Fandom pages in `Early Collections/` on `main`. This folder name is retained as source provenance only and is not treated as a verified product-hierarchy node.
 
-Inventory: 33 HTML/HTM files, 12834928 bytes total. 31 of 33 pages extracted and QA-reviewed.
+Inventory: 33 HTML/HTM files, 12834928 bytes total. 32 of 33 pages extracted and QA-reviewed.
 
 | Source file | Git blob SHA | Size (bytes) | Processing status |
 |---|---|---:|---|
@@ -37,7 +37,7 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total. 31 of 33 pages extracted and
 | `The Heavies _ Hot Wheels Wiki _ Fandom.html` | `44d592cfc35a9c1c747410900307c127172d776a` | 333247 | Extracted + QA |
 | `The Hot Ones (1981) _ Hot Wheels Wiki _ Fandom.html` | `4daab13e074187fcc2dece60a0ab5add4968a53e` | 559506 | Extracted + QA |
 | `Trailbusters _ Hot Wheels Wiki _ Fandom.html` | `f35ce4e7cbf57e651d6fa0badfa56f4ae9872811` | 395265 | Extracted + QA |
-| `Ultra Hots Series (1984) _ Hot Wheels Wiki _ Fandom.html` | `63c0056a0bdfeb092efbc49ae1fa5fc1c9e42b73` | 366058 | Not yet extracted |
+| `Ultra Hots Series (1984) _ Hot Wheels Wiki _ Fandom.html` | `63c0056a0bdfeb092efbc49ae1fa5fc1c9e42b73` | 366058 | Extracted + QA |
 | `Workhorses _ Hot Wheels Wiki _ Fandom.html` | `e0e72cc553f2b6eedf235cf863801f0346f76a27` | 485493 | Not yet extracted |
 
 ## Completed extractions
@@ -329,3 +329,10 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total. 31 of 33 pages extracted and
 - One unheaded article table, 49 product rows, 9 source columns. 97 embedded image references in Photo Loose/Carded cells; no separate standard Gallery items detected.
 - 18 distinct Toy # values; 17 repeated Toy # groups preserved as individual rows. 15 distinct Model Name labels.
 - Export: `research/extractions/EARLY-COLLECTIONS-TRAILBUSTERS.csv`; QA: `research/extractions/EARLY-COLLECTIONS-TRAILBUSTERS-EXTRACTION-QA.md`.
+
+
+### Ultra Hots Series (1984)
+- Source: `Early Collections/Ultra Hots Series (1984) _ Hot Wheels Wiki _ Fandom.html`; Git blob SHA `63c0056a0bdfeb092efbc49ae1fa5fc1c9e42b73`; manifest SHA-256 `F6CDF2E0BAE426690D6989DE58AF92DB73146A79450DBA9EC55B658CA7701C97`; Fandom revision 742335.
+- Six product tables across 1984, 1985, 1986, Stamper 3-Pack, 4-Pack and Gift Pack; 26 product rows. 44 embedded image references; no separate standard Gallery items detected.
+- Annual tables preserve Toy # and Country fields; pack tables retain their distinct schemas, including Gift Pack's source header `Photo Set`.
+- Export: `research/extractions/EARLY-COLLECTIONS-ULTRA-HOTS-SERIES-1984.csv`; QA: `research/extractions/EARLY-COLLECTIONS-ULTRA-HOTS-SERIES-1984-EXTRACTION-QA.md`.
