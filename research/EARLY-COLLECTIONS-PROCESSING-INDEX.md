@@ -2,7 +2,7 @@
 
 Scope: archived Fandom pages in `Early Collections/` on `main`. This folder name is retained as source provenance only and is not treated as a verified product-hierarchy node.
 
-Inventory: 33 HTML/HTM files, 12834928 bytes total. 30 of 33 pages extracted and QA-reviewed.
+Inventory: 33 HTML/HTM files, 12834928 bytes total. 31 of 33 pages extracted and QA-reviewed.
 
 | Source file | Git blob SHA | Size (bytes) | Processing status |
 |---|---|---:|---|
@@ -36,7 +36,7 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total. 30 of 33 pages extracted and
 | `TNT-Bird _ Hot Wheels Wiki _ Fandom.html` | `fc25ac24e5f93d71789f2649de64a304f70db561` | 360478 | Extracted + QA |
 | `The Heavies _ Hot Wheels Wiki _ Fandom.html` | `44d592cfc35a9c1c747410900307c127172d776a` | 333247 | Extracted + QA |
 | `The Hot Ones (1981) _ Hot Wheels Wiki _ Fandom.html` | `4daab13e074187fcc2dece60a0ab5add4968a53e` | 559506 | Extracted + QA |
-| `Trailbusters _ Hot Wheels Wiki _ Fandom.html` | `f35ce4e7cbf57e651d6fa0badfa56f4ae9872811` | 395265 | Not yet extracted |
+| `Trailbusters _ Hot Wheels Wiki _ Fandom.html` | `f35ce4e7cbf57e651d6fa0badfa56f4ae9872811` | 395265 | Extracted + QA |
 | `Ultra Hots Series (1984) _ Hot Wheels Wiki _ Fandom.html` | `63c0056a0bdfeb092efbc49ae1fa5fc1c9e42b73` | 366058 | Not yet extracted |
 | `Workhorses _ Hot Wheels Wiki _ Fandom.html` | `e0e72cc553f2b6eedf235cf863801f0346f76a27` | 485493 | Not yet extracted |
 
@@ -322,3 +322,10 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total. 30 of 33 pages extracted and
 - 189 embedded product-table image references (180 in Vehicles, 4 in Patch Card 3-Pack, 5 in Stamper 3-Pack).
 - Source-specific table schemas, row order, raw cells/HTML, links, and cell image metadata retained.
 - Export: `research/extractions/EARLY-COLLECTIONS-THE-HOT-ONES-1981.csv`; QA: `research/extractions/EARLY-COLLECTIONS-THE-HOT-ONES-1981-EXTRACTION-QA.md`.
+
+
+### Trailbusters
+- Source: `Early Collections/Trailbusters _ Hot Wheels Wiki _ Fandom.html`; Git blob SHA `f35ce4e7cbf57e651d6fa0badfa56f4ae9872811`; manifest SHA-256 `64C7037EFB58AEB1E93D8ED704262DA7E87AB149F4CB4AD77EE0EC22D90F3B4A`; Fandom revision 763267.
+- One unheaded article table, 49 product rows, 9 source columns. 97 embedded image references in Photo Loose/Carded cells; no separate standard Gallery items detected.
+- 18 distinct Toy # values; 17 repeated Toy # groups preserved as individual rows. 15 distinct Model Name labels.
+- Export: `research/extractions/EARLY-COLLECTIONS-TRAILBUSTERS.csv`; QA: `research/extractions/EARLY-COLLECTIONS-TRAILBUSTERS-EXTRACTION-QA.md`.
