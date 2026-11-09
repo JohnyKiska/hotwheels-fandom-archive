@@ -641,7 +641,7 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 ### Disney Character Cars
 - Source: `Modern Special Series/Character Cars/Disney Character Cars _ Hot Wheels Wiki _ Fandom.html`; blob SHA `76428a8f14b805bdfaa2d7790e3decae76dfd675`; manifest SHA-256 `C07AFC0DF36D53F632BA0CC48FCEB99EC166820B85E22FDA44D6C4A887258839`.
 - 22 product tables, 165 rows, 313 embedded table image references.
-- CSV: `research/extractions/MODERN-SPECIAL-SERIES-DISNEY-CHARACTER-CARS.csv`; QA report: matching `-EXTRACTION-QA.md`.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-DISNEY-CHARACTER-CARS.csv`, split into two ordered parts (base file + `-PART-02.csv`); QA report: matching `-EXTRACTION-QA.md`.
 
 ### DreamWorks Character Cars
 - Source: `Modern Special Series/Character Cars/DreamWorks Character Cars _ Hot Wheels Wiki _ Fandom.html`; blob SHA `e1602d0b0dfd35c5f9d8db37721d5c1e6549eedc`; manifest SHA-256 `B0693EC66545809C321080B04D2D39A787CE3589DCCCCF19D2E6C156E39C7B3C`.
