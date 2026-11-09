@@ -2,7 +2,7 @@
 
 Scope: source HTML/HTM pages in `Early Special Series/` on `main`. Folder membership is provenance only and does not establish a canonical Hot Wheels product hierarchy.
 
-Inventory: 39 HTML/HTM files. 30 of 39 pages extracted and QA-reviewed.
+Inventory: 39 HTML/HTM files. 39 of 39 pages extracted and QA-reviewed.
 
 ## Source inventory and processing status
 
@@ -38,15 +38,15 @@ Inventory: 39 HTML/HTM files. 30 of 39 pages extracted and QA-reviewed.
 | `Revvers _ Hot Wheels Wiki _ Fandom.html` | `7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7` | 367105 | Extracted + QA |
 | `RRRumblers _ Hot Wheels Wiki _ Fandom.html` | `156c3b674b930078bbb82d44662eaa7b60ad4848` | 405961 | Extracted + QA |
 | `Scorchers _ Hot Wheels Wiki _ Fandom.html` | `dfd9bf51ee5a25c738ed1bb633ce29d441e57140` | 364502 | Extracted + QA |
-| `Shift Kickers _ Hot Wheels Wiki _ Fandom.html` | `39a382a2829e7cf7c1b7e0353957b042aea03ba0` | 322655 | Not yet extracted |
-| `Sizzlers _ Hot Wheels Wiki _ Fandom.html` | `b7a19948b52818e22a71ce7bc11ddf9e0b0a8af3` | 486564 | Not yet extracted |
-| `Small Shots _ Hot Wheels Wiki _ Fandom.html` | `4da6e277464d3bb2bc4196b0d650376dea29c774` | 415616 | Not yet extracted |
-| `Steering Rigs _ Hot Wheels Wiki _ Fandom.html` | `ce3a05a93b130526cb65fd83fe323c0970a50b9f` | 420696 | Not yet extracted |
-| `Steering Trailer _ Hot Wheels Wiki _ Fandom.html` | `8ab69d30f912f7562dc75bca08d073cbdf90a9a7` | 324966 | Not yet extracted |
-| `Super California Custom _ Hot Wheels Wiki _ Fandom.html` | `bcce76bc558a6d6f3bbe81d449443421b2e28a81` | 429259 | Not yet extracted |
-| `Truck Co. _ Hot Wheels Wiki _ Fandom.html` | `e0286ef0c99972a53228d0a968de36f965c37120` | 353701 | Not yet extracted |
-| `X-V Racers _ Hot Wheels Wiki _ Fandom.html` | `8296a5d3313ec79726382c6114cebde9f252b787` | 348084 | Not yet extracted |
-| `Zowees _ Hot Wheels Wiki _ Fandom.html` | `f3979571fec03cc90a911b9b21821343509b4738` | 383261 | Not yet extracted |
+| `Shift Kickers _ Hot Wheels Wiki _ Fandom.html` | `39a382a2829e7cf7c1b7e0353957b042aea03ba0` | 322655 | Extracted + QA |
+| `Sizzlers _ Hot Wheels Wiki _ Fandom.html` | `b7a19948b52818e22a71ce7bc11ddf9e0b0a8af3` | 486564 | Extracted + QA |
+| `Small Shots _ Hot Wheels Wiki _ Fandom.html` | `4da6e277464d3bb2bc4196b0d650376dea29c774` | 415616 | Extracted + QA |
+| `Steering Rigs _ Hot Wheels Wiki _ Fandom.html` | `ce3a05a93b130526cb65fd83fe323c0970a50b9f` | 420696 | Extracted + QA |
+| `Steering Trailer _ Hot Wheels Wiki _ Fandom.html` | `8ab69d30f912f7562dc75bca08d073cbdf90a9a7` | 324966 | Extracted + QA |
+| `Super California Custom _ Hot Wheels Wiki _ Fandom.html` | `bcce76bc558a6d6f3bbe81d449443421b2e28a81` | 429259 | Extracted + QA |
+| `Truck Co. _ Hot Wheels Wiki _ Fandom.html` | `e0286ef0c99972a53228d0a968de36f965c37120` | 353701 | Extracted + QA |
+| `X-V Racers _ Hot Wheels Wiki _ Fandom.html` | `8296a5d3313ec79726382c6114cebde9f252b787` | 348084 | Extracted + QA |
+| `Zowees _ Hot Wheels Wiki _ Fandom.html` | `f3979571fec03cc90a911b9b21821343509b4738` | 383261 | Extracted + QA |
 
 ## Processing rules
 
@@ -127,3 +127,28 @@ CSV and per-page QA files are in `research/extractions/` and use the `EARLY-SPEC
 | RRRumblers | 2 | 60 | 60 | 146 |
 | Scorchers | 1 | 24 | 24 | 72 |
 
+
+
+## Batch 4: final 9 pages
+
+- Product tables scanned: 26
+- Product rows extracted: 176
+- Embedded table image references: 301
+- Links retained from product cells: 602
+- CSV/QA artifacts created and verified: 18
+
+| Source page | Tables scanned | Product rows | Images | Links |
+|---|---:|---:|---:|---:|
+| Shift Kickers | 1 | 6 | 6 | 18 |
+| Sizzlers | 9 | 65 | 104 | 246 |
+| Small Shots | 4 | 14 | 26 | 54 |
+| Steering Rigs | 2 | 34 | 90 | 124 |
+| Steering Trailer | 1 | 1 | 1 | 4 |
+| Super California Custom | 6 | 12 | 12 | 36 |
+| Truck Co. | 1 | 20 | 30 | 54 |
+| X-V Racers | 1 | 10 | 10 | 30 |
+| Zowees | 1 | 14 | 22 | 36 |
+
+## Completion
+
+All 39 of 39 Early Special Series source pages have source-preserving CSV extraction and per-page QA records. Gallery entries remain outside this extraction pass.
