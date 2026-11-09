@@ -2,7 +2,7 @@
 
 Scope: source HTML/HTM pages in `Early Special Series/` on `main`. Folder membership is provenance only and does not establish a canonical Hot Wheels product hierarchy.
 
-Inventory: 39 HTML/HTM files. 20 of 39 pages extracted and QA-reviewed.
+Inventory: 39 HTML/HTM files. 30 of 39 pages extracted and QA-reviewed.
 
 ## Source inventory and processing status
 
@@ -28,16 +28,16 @@ Inventory: 39 HTML/HTM files. 20 of 39 pages extracted and QA-reviewed.
 | `Hot Line _ Hot Wheels Wiki _ Fandom.html` | `0dd9d1f3ab47c606d3a9ff39a8c7b519ed5897e3` | 349562 | Extracted + QA |
 | `Hot Shots _ Hot Wheels Wiki _ Fandom.html` | `7430382b9ad5dc34da10fba5de070829a1e2cf8f` | 336993 | Extracted + QA |
 | `Hot Wheels U.S.A. _ Hot Wheels Wiki _ Fandom.html` | `ee198fd68a06113dcce3995d3b1271fbf647412c` | 327009 | Extracted + QA |
-| `Hot Wheels World _ Hot Wheels Wiki _ Fandom.html` | `41a17342653d697ad1092dfad6fc59fc905379d0` | 495434 | Not yet extracted |
-| `Law Mill _ Hot Wheels Wiki _ Fandom.html` | `694347971c042d95df6d998ac6a8e0fb6a2a5e8e` | 325473 | Not yet extracted |
-| `Motorized X-V Racers _ Hot Wheels Wiki _ Fandom.html` | `c5d096b35a3f2e4e80d588bfb8084d8ee78ae63d` | 512082 | Not yet extracted |
-| `Needle Nose _ Hot Wheels Wiki _ Fandom.html` | `0631d4e88d1949f423efbe4ac503c4a6644b709d` | 328768 | Not yet extracted |
-| `Planet Micro _ Hot Wheels Wiki _ Fandom.html` | `ca6b67633db6a8e38e0d5b9da6f54b060e47f99e` | 637218 | Not yet extracted |
-| `Ram Rocket _ Hot Wheels Wiki _ Fandom.html` | `ab84b1056b7701d7d778b687bf577bfd8a94ae51` | 329111 | Not yet extracted |
-| `Red Baron (Sizzlers) _ Hot Wheels Wiki _ Fandom.html` | `afd04c7f51bfeceff9860a42cfa259d55cceb1b7` | 318324 | Not yet extracted |
-| `Revvers _ Hot Wheels Wiki _ Fandom.html` | `7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7` | 367105 | Not yet extracted |
-| `RRRumblers _ Hot Wheels Wiki _ Fandom.html` | `156c3b674b930078bbb82d44662eaa7b60ad4848` | 405961 | Not yet extracted |
-| `Scorchers _ Hot Wheels Wiki _ Fandom.html` | `dfd9bf51ee5a25c738ed1bb633ce29d441e57140` | 364502 | Not yet extracted |
+| `Hot Wheels World _ Hot Wheels Wiki _ Fandom.html` | `41a17342653d697ad1092dfad6fc59fc905379d0` | 495434 | Extracted + QA |
+| `Law Mill _ Hot Wheels Wiki _ Fandom.html` | `694347971c042d95df6d998ac6a8e0fb6a2a5e8e` | 325473 | Extracted + QA |
+| `Motorized X-V Racers _ Hot Wheels Wiki _ Fandom.html` | `c5d096b35a3f2e4e80d588bfb8084d8ee78ae63d` | 512082 | Extracted + QA |
+| `Needle Nose _ Hot Wheels Wiki _ Fandom.html` | `0631d4e88d1949f423efbe4ac503c4a6644b709d` | 328768 | Extracted + QA |
+| `Planet Micro _ Hot Wheels Wiki _ Fandom.html` | `ca6b67633db6a8e38e0d5b9da6f54b060e47f99e` | 637218 | Extracted + QA |
+| `Ram Rocket _ Hot Wheels Wiki _ Fandom.html` | `ab84b1056b7701d7d778b687bf577bfd8a94ae51` | 329111 | Extracted + QA |
+| `Red Baron (Sizzlers) _ Hot Wheels Wiki _ Fandom.html` | `afd04c7f51bfeceff9860a42cfa259d55cceb1b7` | 318324 | Extracted + QA |
+| `Revvers _ Hot Wheels Wiki _ Fandom.html` | `7eb3e5a88bdda82bf30558fb1668cc28bf43c6e7` | 367105 | Extracted + QA |
+| `RRRumblers _ Hot Wheels Wiki _ Fandom.html` | `156c3b674b930078bbb82d44662eaa7b60ad4848` | 405961 | Extracted + QA |
+| `Scorchers _ Hot Wheels Wiki _ Fandom.html` | `dfd9bf51ee5a25c738ed1bb633ce29d441e57140` | 364502 | Extracted + QA |
 | `Shift Kickers _ Hot Wheels Wiki _ Fandom.html` | `39a382a2829e7cf7c1b7e0353957b042aea03ba0` | 322655 | Not yet extracted |
 | `Sizzlers _ Hot Wheels Wiki _ Fandom.html` | `b7a19948b52818e22a71ce7bc11ddf9e0b0a8af3` | 486564 | Not yet extracted |
 | `Small Shots _ Hot Wheels Wiki _ Fandom.html` | `4da6e277464d3bb2bc4196b0d650376dea29c774` | 415616 | Not yet extracted |
@@ -104,3 +104,26 @@ CSV and per-page QA files are in `research/extractions/` and use the `EARLY-SPEC
 - Continue with the next 10 unprocessed source pages in alphabetical order.
 - Pages with unusual tables, multipacks, accessories, regional aliases, or no-header tables require explicit QA notes before normalization.
 - Gallery entries are not yet independently extracted; embedded images inside product rows are retained.
+
+
+## Batch 3: 10 pages
+
+- Product tables scanned: 80
+- Product rows extracted: 552
+- Embedded table image references: 618
+- Links retained from product cells: 1,334
+- CSV/QA artifacts created: 20
+
+| Source page | Tables scanned | Product rows | Images | Links |
+|---|---:|---:|---:|---:|
+| Hot Wheels World | 9 | 117 | 131 | 227 |
+| Law Mill | 1 | 2 | 2 | 8 |
+| Motorized X-V Racers | 7 | 101 | 100 | 386 |
+| Needle Nose | 1 | 5 | 5 | 20 |
+| Planet Micro | 56 | 197 | 250 | 330 |
+| Ram Rocket | 1 | 4 | 4 | 16 |
+| Red Baron (Sizzlers) | 1 | 1 | 1 | 4 |
+| Revvers | 1 | 41 | 41 | 125 |
+| RRRumblers | 2 | 60 | 60 | 146 |
+| Scorchers | 1 | 24 | 24 | 72 |
+
