@@ -635,3 +635,31 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 - Source: `Modern Special Series/Character Cars/Despicable Me 3 Character Cars _ Hot Wheels Wiki _ Fandom.html`; blob SHA `a729f03e2331f900ccd62c03e37edc3c6b9e1a67`; manifest SHA-256 `95768CDD3D7BC3169B6C1539DD7B34F6821D120118EC227B0DE7F2EAE1F57644`.
 - 2 tables, 8 rows, 12 embedded image references.
 - CSV: `research/extractions/MODERN-SPECIAL-SERIES-DESPICABLE-ME-3-CHARACTER-CARS.csv`; QA report: matching `-EXTRACTION-QA.md`.
+
+
+
+### Disney Character Cars
+- Source: `Modern Special Series/Character Cars/Disney Character Cars _ Hot Wheels Wiki _ Fandom.html`; blob SHA `76428a8f14b805bdfaa2d7790e3decae76dfd675`; manifest SHA-256 `C07AFC0DF36D53F632BA0CC48FCEB99EC166820B85E22FDA44D6C4A887258839`.
+- 22 product tables, 165 rows, 313 embedded table image references.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-DISNEY-CHARACTER-CARS.csv`; QA report: matching `-EXTRACTION-QA.md`.
+
+### DreamWorks Character Cars
+- Source: `Modern Special Series/Character Cars/DreamWorks Character Cars _ Hot Wheels Wiki _ Fandom.html`; blob SHA `e1602d0b0dfd35c5f9d8db37721d5c1e6549eedc`; manifest SHA-256 `B0693EC66545809C321080B04D2D39A787CE3589DCCCCF19D2E6C156E39C7B3C`.
+- 4 product tables, 13 rows, 26 embedded table image references.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-DREAMWORKS-CHARACTER-CARS.csv`; QA report: matching `-EXTRACTION-QA.md`.
+
+### Godzilla Character Cars
+- Source: `Modern Special Series/Character Cars/Godzilla Character Cars _ Hot Wheels Wiki _ Fandom.html`; blob SHA `cad502a944c63a7bc9104060dcd7b7485c57469a`; manifest SHA-256 `22DD51CED40523BBBFE36A2E38D201D137B9592FF275C57610B62D441BF40CF5`.
+- 2 product tables, 2 rows, 4 embedded table image references.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-GODZILLA-CHARACTER-CARS.csv`; QA report: matching `-EXTRACTION-QA.md`.
+
+### Good Luck Trolls Character Cars
+- Source: `Modern Special Series/Character Cars/Good Luck Trolls Character Cars _ Hot Wheels Wiki _ Fandom.html`; blob SHA `abb57d9390cab73dc3697b4ba882c865987132c6`; manifest SHA-256 `786F05F918542215F70DDF419921BDBF92C8FD968512B4619E1E124009246B25`.
+- 1 product table, 1 row, 2 embedded table image references.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-GOOD-LUCK-TROLLS-CHARACTER-CARS.csv`; QA report: matching `-EXTRACTION-QA.md`.
+
+### Jurassic World Character Cars
+- Source: `Modern Special Series/Character Cars/Jurassic World Character Cars _ Hot Wheels Wiki _ Fandom.html`; blob SHA `8dd42f0c56fa9b2a55e1be3cb99b4375193ba355`; manifest SHA-256 `523764535333F78918A91D82BC67F34322184D3AA921BE2982BA3D416CE37881`.
+- 7 product tables, 25 rows, 44 embedded table image references.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-JURASSIC-WORLD-CHARACTER-CARS.csv`; QA report: matching `-EXTRACTION-QA.md`.
+
