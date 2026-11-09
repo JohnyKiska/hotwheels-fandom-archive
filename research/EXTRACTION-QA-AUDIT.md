@@ -429,3 +429,39 @@ All 25 CSVs passed structural validation: zero row-width errors, blank rows, exa
 QA reconciliation: 24 files with standalone QA reports match their declared source/product-row totals exactly. `MAINLINE-2010-USA.csv` has no standalone QA report path in the manifest (`no_standalone_qa_found`); its 440 data rows and structural checks were recorded, but the row count is explicitly not marked as QA-reconciled. The separate 2010 International list has its own QA report and reconciles at 228 rows. No CSV source values were normalized, deduplicated, or modified.
 
 Total data rows inspected in this batch: **2,535**. Manifest update commit: `6cbf51bb9ac2469d22366ef3e396deda0aae0027`. The manifest records the branch HEAD before this audit update: `9036b5defc2df1b83d67105f5b27285a441d15f5`.
+
+## CSV structural audit batch 11 (2026-11-09)
+
+The next 25 pending exports in the manifest were audited: Miscellaneous / Multipacks 5-Packs for 2002–2024, plus the 2011 and 2023 Multi-Pack Exclusives exports. Each CSV was fetched from `main`, parsed with CSV-aware quoting rules, and checked against its own header. Checks covered row-width consistency, physical blank/whitespace-only lines, exact duplicate full rows, malformed quotes, BOM, U+FFFD, empty/duplicate headers, and trailing delimiters. The exact QA report paths declared in the manifest were fetched for every file.
+
+| CSV | Data rows | Columns | Width errors | Blank rows | Exact duplicate extra rows |
+|---|---:|---:|---:|---:|---:|
+| MISCELLANEOUS-2002-5-PACKS-PRODUCT-TABLES.csv | 13 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-2003-5-PACKS-PRODUCT-TABLES.csv | 12 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-2004-5-PACKS-PRODUCT-TABLES.csv | 12 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-2005-5-PACKS-PRODUCT-TABLES.csv | 13 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-2006-5-PACKS-PRODUCT-TABLES.csv | 14 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-2007-5-PACKS-PRODUCT-TABLES.csv | 19 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-2008-5-PACKS-PRODUCT-TABLES.csv | 16 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-2009-5-PACKS-PRODUCT-TABLES.csv | 18 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-2010-5-PACKS-PRODUCT-TABLES.csv | 19 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-2011-5-PACKS-PRODUCT-TABLES.csv | 25 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-2011-MULTI-PACK-EXCLUSIVES-PRODUCT-TABLES.csv | 22 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-2012-5-PACKS-PRODUCT-TABLES.csv | 18 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-2013-5-PACKS-PRODUCT-TABLES.csv | 23 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-2014-5-PACKS-PRODUCT-TABLES.csv | 20 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-2015-5-PACKS-PRODUCT-TABLES.csv | 17 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-2016-5-PACKS-PRODUCT-TABLES.csv | 18 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-2017-5-PACKS-PRODUCT-TABLES.csv | 20 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-2018-5-PACKS-PRODUCT-TABLES.csv | 19 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-2019-5-PACKS-PRODUCT-TABLES.csv | 17 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-2020-5-PACKS-PRODUCT-TABLES.csv | 18 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-2021-5-PACKS-PRODUCT-TABLES.csv | 17 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-2022-5-PACKS-PRODUCT-TABLES.csv | 18 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-2023-5-PACKS-PRODUCT-TABLES.csv | 18 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-2023-MULTI-PACK-EXCLUSIVES-PRODUCT-TABLES.csv | 68 | 21 | 0 | 0 | 0 |
+| MISCELLANEOUS-2024-5-PACKS-PRODUCT-TABLES.csv | 17 | 21 | 0 | 0 | 0 |
+
+All 25 CSVs passed every structural check: zero row-width errors, physical blank rows, exact duplicate full rows, malformed quotes, BOMs, U+FFFD characters, empty headers, duplicate headers, or trailing delimiters. All 25 row counts matched their corresponding QA reports, including the two Multi-Pack Exclusives exports (22 and 68 product rows respectively). The ancillary/navigation tables documented in those QA reports remain excluded from the product CSVs by design. No CSV source values were normalized, deduplicated, or modified.
+
+Total data rows inspected in this batch: **491**. Manifest update commit records pre-audit branch HEAD: `bcb18810b882cb17d4380323bc2355de73cfa61c`.
