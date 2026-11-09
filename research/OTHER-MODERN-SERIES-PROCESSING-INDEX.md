@@ -5,8 +5,8 @@ Scope: archived source HTML under `Other Modern Series/`, including all nested f
 ## Inventory summary
 
 - Source pages: 83
-- Extracted + QA: 25
-- Remaining: 58
+- Extracted + QA: 33
+- Remaining: 50
 
 ## File inventory and processing status
 
@@ -37,14 +37,14 @@ Scope: archived source HTML under `Other Modern Series/`, including all nested f
 | `Other Modern Series/Hot Wheels Monster Jam/2008 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 391568 | `E652D86492E182D1734E4AF0FA4EE92D224A7B92950DF3515ADF32ABFE813340` | Extracted + QA |
 | `Other Modern Series/Hot Wheels Monster Jam/2009 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 409400 | `AB3D3D001AAFE10D37B814868FC84229FB948089C5D522A8AB324FFA5DE931A0` | Extracted + QA |
 | `Other Modern Series/Hot Wheels Monster Jam/2010 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 521565 | `A8BA4393623D976F9711D0D017D81FEA0D30C9C87B8E80304807F4D50AF2F719` | Extracted + QA |
-| `Other Modern Series/Hot Wheels Monster Jam/2011 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 456743 | `0D4B875ED2C9384F1AD833C546C3656AE6E60F42C9B33D4BCC294CB597FF1C79` | Pending |
-| `Other Modern Series/Hot Wheels Monster Jam/2012 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 453323 | `E8C7D4F982F278741ECBDB1CE16D33B3FAAB3E299CA66517E87FB17486EAFCEA` | Pending |
-| `Other Modern Series/Hot Wheels Monster Jam/2013 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 421568 | `DAA24386E1AE29D866EA5C9AEE96513DCC0746517830758AAF0312132AC937F6` | Pending |
-| `Other Modern Series/Hot Wheels Monster Jam/2014 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 440119 | `DFE1590CED4AE8C820F7DB8DC1214D24D99A633D93B33D8A7A0F8EE0A7374C4D` | Pending |
-| `Other Modern Series/Hot Wheels Monster Jam/2015 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 417505 | `C81397A74A695BAD78A40E88F0FDA98AE77B8B0478F152EA06AA851EED0E8D23` | Pending |
-| `Other Modern Series/Hot Wheels Monster Jam/2016 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 442019 | `AB4E3FB3C326E1E7B78575627ABB5444FAF9B64FF76C610F665DCB2F9B162CB4` | Pending |
-| `Other Modern Series/Hot Wheels Monster Jam/2017 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 441745 | `2156999250415001FB785624CC847CC43D6C5C623B2F5BA79EBB4101B826ED57` | Pending |
-| `Other Modern Series/Hot Wheels Monster Jam/2018 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 446545 | `0B5CDB5053761CEA84A44850FF5C7512DE031039534E6278FE4C2CAECB900F1C` | Pending |
+| `Other Modern Series/Hot Wheels Monster Jam/2011 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 456743 | `0D4B875ED2C9384F1AD833C546C3656AE6E60F42C9B33D4BCC294CB597FF1C79` | Extracted + QA |
+| `Other Modern Series/Hot Wheels Monster Jam/2012 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 453323 | `E8C7D4F982F278741ECBDB1CE16D33B3FAAB3E299CA66517E87FB17486EAFCEA` | Extracted + QA |
+| `Other Modern Series/Hot Wheels Monster Jam/2013 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 421568 | `DAA24386E1AE29D866EA5C9AEE96513DCC0746517830758AAF0312132AC937F6` | Extracted + QA |
+| `Other Modern Series/Hot Wheels Monster Jam/2014 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 440119 | `DFE1590CED4AE8C820F7DB8DC1214D24D99A633D93B33D8A7A0F8EE0A7374C4D` | Extracted + QA |
+| `Other Modern Series/Hot Wheels Monster Jam/2015 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 417505 | `C81397A74A695BAD78A40E88F0FDA98AE77B8B0478F152EA06AA851EED0E8D23` | Extracted + QA |
+| `Other Modern Series/Hot Wheels Monster Jam/2016 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 442019 | `AB4E3FB3C326E1E7B78575627ABB5444FAF9B64FF76C610F665DCB2F9B162CB4` | Extracted + QA |
+| `Other Modern Series/Hot Wheels Monster Jam/2017 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 441745 | `2156999250415001FB785624CC847CC43D6C5C623B2F5BA79EBB4101B826ED57` | Extracted + QA |
+| `Other Modern Series/Hot Wheels Monster Jam/2018 Monster Jam Series _ Hot Wheels Wiki _ Fandom.html` | 446545 | `0B5CDB5053761CEA84A44850FF5C7512DE031039534E6278FE4C2CAECB900F1C` | Extracted + QA |
 | `Other Modern Series/Hot Wheels Monster Trucks Big Rigs _ Hot Wheels Wiki _ Fandom.html` | 399155 | `FF51993D4C5A2805CB8434F9AC895C1F77EDECFE1EEF061CEC8B4FB33779278F` | Pending |
 | `Other Modern Series/Hot Wheels Monster Trucks Mystery Trucks _ Hot Wheels Wiki _ Fandom.html` | 381956 | `43528BC8D5812702B0AB0335F1A3ECEEB1B075C5F727FBC8932AD6E74311E71F` | Pending |
 | `Other Modern Series/Hot Wheels Monster Trucks Oversized _ Hot Wheels Wiki _ Fandom.html` | 663400 | `54981C5A75A16E15FB35DA99AD1124498D670D80C29F49F0CEB3A6A23A559A43` | Pending |
@@ -154,3 +154,22 @@ Processed 10 nested Hot Wheels Monster Jam source pages. Product-table extractio
 | 2010 | 5 | 97 |
 
 Batch totals: **10 pages, 34 product tables, 648 product rows**. One collapsible navigation table per page was excluded. Gallery extraction remains deferred.
+
+
+
+## Batch 4: Monster Jam 2011–2018
+
+Processed 8 nested Hot Wheels Monster Jam source pages. Product-table extraction totals: **76 product tables and 1024 product rows**. Each page has a 21-column CSV and a QA report. All eight CSV exports were re-fetched from GitHub and validated for 21 columns with zero malformed-width rows.
+
+| Year | Product tables | Product rows |
+|---|---:|---:|
+| 2011 | 9 | 126 |
+| 2012 | 11 | 135 |
+| 2013 | 6 | 108 |
+| 2014 | 8 | 138 |
+| 2015 | 7 | 113 |
+| 2016 | 9 | 124 |
+| 2017 | 7 | 154 |
+| 2018 | 19 | 126 |
+
+Batch totals: **8 pages, 76 product tables, 1,024 product rows**. Gallery extraction remains deferred.
