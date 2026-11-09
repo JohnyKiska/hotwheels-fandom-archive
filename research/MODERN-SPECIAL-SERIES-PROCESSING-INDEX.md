@@ -35,7 +35,7 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 | Source file | Git blob SHA | Size (bytes) | Manifest SHA-256 | Processing status |
 |---|---|---:|---|---|
 | `Modern Special Series/100% Hot Wheels/100% Hot Wheels 1_43 Scale _ Hot Wheels Wiki _ Fandom.html` | `1a35ab14174d248b1c2aaa68ce2fe28b12ad9e0b` | 328283 | `AE2961F1F4B3A6A4E5F3CF89B7C9C65B60B59F3A924415B9C277418CA6914046` | Extracted + QA |
-| `Modern Special Series/100% Hot Wheels/100% Hot Wheels 40th Anniversary _ Hot Wheels Wiki _ Fandom.html` | `ecf952b0e06c79c1f2a6b30feef3a9d25dd273f0` | 396986 | `421A637A37D12968DA905EDDE3776864F302279808826E306518A3B38E22E57C` | Not yet extracted |
+| `Modern Special Series/100% Hot Wheels/100% Hot Wheels 40th Anniversary _ Hot Wheels Wiki _ Fandom.html` | `ecf952b0e06c79c1f2a6b30feef3a9d25dd273f0` | 396986 | `421A637A37D12968DA905EDDE3776864F302279808826E306518A3B38E22E57C` | Extracted + QA |
 | `Modern Special Series/100% Hot Wheels/100% Preferred _ Hot Wheels Wiki _ Fandom.html` | `260c9fc19cbeae63cac3c7c42cb6f402085cc210` | 606374 | `CD40A4359A40CD93F368B4A7699171AC5F9FDE3ABF39963655BC5D032E34975D` | Not yet extracted |
 | `Modern Special Series/100% Hot Wheels/1999 Cool Collectibles _ Hot Wheels Wiki _ Fandom.html` | `41e99d8650a0ec143cdef5a79388ddc13f56f01b` | 332528 | `CD9956B25AA111AD0E17414EF27457039A9BF3F82F2D4371BB356DD294EEB52D` | Not yet extracted |
 | `Modern Special Series/100% Hot Wheels/2000 Cool Collectibles _ Hot Wheels Wiki _ Fandom.html` | `d9281a2bfb4e390e319e2eeddb375c07dc3469fc` | 410745 | `7CFFE057490F5F5CC2F794FAE6544B44A8A478E2D667B89402F1FA97F4A6790B` | Not yet extracted |
@@ -278,3 +278,11 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 - 13 populated Toy # cells (13 distinct values); 13 distinct casting-name labels; 0 repeated casting-name groups preserved separately.
 - No separate standard Gallery items detected.
 - CSV: `research/extractions/MODERN-SPECIAL-SERIES-100-PERCENT-HOT-WHEELS-1-43-SCALE.csv`; QA: `research/extractions/MODERN-SPECIAL-SERIES-100-PERCENT-HOT-WHEELS-1-43-SCALE-EXTRACTION-QA.md`.
+
+
+### 100% Hot Wheels 40th Anniversary
+- Source: `Modern Special Series/100% Hot Wheels/100% Hot Wheels 40th Anniversary _ Hot Wheels Wiki _ Fandom.html`; Fandom revision 803409.
+- 10 product tables, 39 product rows, 58 embedded image references. Single Cars and named 2-Car Set tables kept separate.
+- 20 populated Toy # values (20 distinct); 35 distinct casting-name labels; 4 repeated-name groups.
+- Navigation tables excluded; empty Photo cells retained.
+- CSV: `research/extractions/MODERN-SPECIAL-SERIES-100-PERCENT-HOT-WHEELS-40TH-ANNIVERSARY.csv`; QA: `research/extractions/MODERN-SPECIAL-SERIES-100-PERCENT-HOT-WHEELS-40TH-ANNIVERSARY-EXTRACTION-QA.md`.
