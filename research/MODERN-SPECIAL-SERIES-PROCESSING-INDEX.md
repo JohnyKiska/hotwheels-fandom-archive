@@ -1102,3 +1102,20 @@ Five source pages were scanned in inventory order. Gallery extraction is tracked
 **Batch total:** 1 gallery containers and 23 gallery items across 5 source pages; 1 pages contained Gallery content. All five source blob SHAs matched the current inventory. Gallery assets are recorded as source URLs and file-page links; binaries are not downloaded in this pass.
 
 Next gallery batch: continue with the next five source pages in Modern Special Series inventory order.
+
+
+## Gallery extraction batch 2: 100% Hot Wheels 2001–2005, 2026-11-09
+
+Five source pages were scanned in inventory order. Gallery extraction remains separate from product-table extraction.
+
+| Source page | Gallery headings | Gallery containers | Gallery items | Result |
+|---|---:|---:|---:|---|
+| `2001 100% Hot Wheels` | 0 | 0 | 0 | Explicit zero-item CSV and QA |
+| `2002 100% Hot Wheels` | 0 | 0 | 0 | Explicit zero-item CSV and QA |
+| `2003 100% Hot Wheels` | 0 | 0 | 0 | Explicit zero-item CSV and QA |
+| `2004 Showcase Hot Wheels` | 1 | 1 | 33 | Extracted |
+| `2005 Showcase Hot Wheels` | 0 | 0 | 0 | Explicit zero-item CSV and QA |
+
+**Batch total:** 1 gallery containers and 33 gallery items across 5 source pages; 1 pages contained Gallery content. All five source blob SHAs matched the current inventory. Gallery assets are recorded as source URLs and file-page links; binaries are not downloaded in this pass.
+
+Next gallery batch: continue with the next five source pages in Modern Special Series inventory order.
