@@ -7,7 +7,7 @@
 - Source HTML length: 324368 characters.
 - Product tables: 0; standard Wikia gallery items: 0.
 - The article contains prose, one figure, a 12-image slideshow, and linked disambiguation/related-series lists.
-- Extracted record counts: article_text 5; reference_link 13; illustration 1. Total records: 19.
-- Slideshow image filenames are preserved in source order; image URLs and raw source HTML are retained. The prototype tire illustration is stored separately.
+- Extracted record counts: article_text 5; reference_link 13; illustration 1; slideshow_image 12. Total records: 35.
+- Slideshow image filenames, URLs and source order are preserved; the prototype tire illustration is stored separately.
 - Related links are preserved as references, not treated as product releases or series entries.
 - No casting, release, package or wheel variant identities were inferred. No product rows were invented from illustrative images.
