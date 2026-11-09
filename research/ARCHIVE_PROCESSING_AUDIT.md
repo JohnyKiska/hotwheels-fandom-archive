@@ -364,3 +364,10 @@ Next: continue with the remaining Early Collections pages in inventory order, re
 - Processing status: 23 of 33 pages extracted and QA-reviewed.
 - Speed Machines (1983): 27 product rows in one 6-column Versions table, plus 1 separate Gallery record. The source table has no Toy # or Year columns; original source structure retained.
 - Outputs: `research/extractions/EARLY-COLLECTIONS-SPEED-MACHINES-1983.csv` and `research/extractions/EARLY-COLLECTIONS-SPEED-MACHINES-1983-EXTRACTION-QA.md`; detailed progress: `research/EARLY-COLLECTIONS-PROCESSING-INDEX.md`.
+
+
+### Early Collections update: Speedway Specials
+- Processing status: 24 of 33 pages extracted and QA-reviewed.
+- Speedway Specials: 17 product rows from one 9-column table, plus 2 separate Gallery items (19 CSV records). The table has no Year column; article prose identifies the Patch Card mail-away theme as produced in 1978 and 1979.
+- 14 distinct Toy # values; repeated Toy # groups 17, 21 and 38 and repeated model labels remain separate source rows. 34 table-cell image references and 2 unique Gallery image assets retained.
+- Outputs: `research/extractions/EARLY-COLLECTIONS-SPEEDWAY-SPECIALS.csv` and `research/extractions/EARLY-COLLECTIONS-SPEEDWAY-SPECIALS-EXTRACTION-QA.md`; detailed progress: `research/EARLY-COLLECTIONS-PROCESSING-INDEX.md`.
