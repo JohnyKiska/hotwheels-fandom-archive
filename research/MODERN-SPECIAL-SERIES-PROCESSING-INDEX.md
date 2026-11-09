@@ -212,11 +212,11 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 | `Modern Special Series/Pop Culture/2025 Pop Culture _ Hot Wheels Wiki _ Fandom.html` | `05ad65da6ec212f09683ea4bc42ccc1b1a7b24ea` | 376749 | `6D93C61B8DC49DF8C72AA0BE7956EEF2499B76E07F5A1B3C177654E2738505E1` | Extracted + QA |
 | `Modern Special Series/Pop Culture/2026 Pop Culture _ Hot Wheels Wiki _ Fandom.html` | `4d3f7706cf44b26ac1491e7112446560dbc20c19` | 388929 | `852DE68E243B30577ADF35853032DE2C01F2E49CEEC3CD861A4DE4CE5B716079` | Extracted + QA |
 | `Modern Special Series/Premium Collector Set _ Hot Wheels Wiki _ Fandom.html` | `5f4d11c2b0ffd91141758a90569fde9422fba639` | 545811 | `D4C75995CAFD29CB82AD86F0A515344CC9D3E9FFF63FCAD618EF63376C7FEDD9` | Extracted + QA |
-| `Modern Special Series/Pro Racing/1997 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | `17fb275932b3e7ec349c869b1e62f14995bbaac8` | 479062 | `0933D965A8630F4836C5B92F98E24342E89F23322B6CCAC2019BED14613B0B40` | Not yet extracted |
-| `Modern Special Series/Pro Racing/1998 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | `3cdef4e5b8c4bf3e39b9830fa3322b68d3ae9bed` | 704612 | `06B428524AAE486E5B9B25BA65B36FD3A3C825E55A73B24607BD0E90B4A7777F` | Not yet extracted |
-| `Modern Special Series/Pro Racing/1999 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | `77854fc8ea06ec2d09df5ccd1c4c4299b74ddad2` | 676850 | `CCA36FBF3B96EF3BEBFD00F8C801BD544DDE6AD2F262CA9D598995F07B85C7BA` | Not yet extracted |
-| `Modern Special Series/Pro Racing/2000 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | `a3423d040af99c15800343cf6b26781e48dbe352` | 647030 | `CC078290001F2DADA6FAB461822E148A4AB2D1CADA809FE00E437D7867225D15` | Not yet extracted |
-| `Modern Special Series/Pro Racing/2001 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | `9011f6900c3841b1c467b52e7fc1aa0bf7480daa` | 421812 | `8DC58756AA5B046AF4A22B54EE92658E9437321C7D627E715F587AF75D9FDB3B` | Not yet extracted |
+| `Modern Special Series/Pro Racing/1997 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | `17fb275932b3e7ec349c869b1e62f14995bbaac8` | 479062 | `0933D965A8630F4836C5B92F98E24342E89F23322B6CCAC2019BED14613B0B40` | Extracted + QA |
+| `Modern Special Series/Pro Racing/1998 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | `3cdef4e5b8c4bf3e39b9830fa3322b68d3ae9bed` | 704612 | `06B428524AAE486E5B9B25BA65B36FD3A3C825E55A73B24607BD0E90B4A7777F` | Extracted + QA |
+| `Modern Special Series/Pro Racing/1999 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | `77854fc8ea06ec2d09df5ccd1c4c4299b74ddad2` | 676850 | `CCA36FBF3B96EF3BEBFD00F8C801BD544DDE6AD2F262CA9D598995F07B85C7BA` | Extracted + QA |
+| `Modern Special Series/Pro Racing/2000 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | `a3423d040af99c15800343cf6b26781e48dbe352` | 647030 | `CC078290001F2DADA6FAB461822E148A4AB2D1CADA809FE00E437D7867225D15` | Extracted + QA |
+| `Modern Special Series/Pro Racing/2001 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | `9011f6900c3841b1c467b52e7fc1aa0bf7480daa` | 421812 | `8DC58756AA5B046AF4A22B54EE92658E9437321C7D627E715F587AF75D9FDB3B` | Extracted + QA |
 | `Modern Special Series/Pro Racing/2002 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | `241780a762a326f782fc272e5de373fa4e669d62` | 416604 | `6357E9A35A0ED64CCD1BD96B592F87F40A86F0DA195DAE0FDD763255CC4A2125` | Not yet extracted |
 | `Modern Special Series/Pro Racing/2003 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | `79b5c55a7be437c2229f933848e66b400d351db0` | 459507 | `FBBB140D25D21BCA1137969E85155B6642693198ADE2C6CF4889F1040F994809` | Not yet extracted |
 | `Modern Special Series/Pro Racing/2004 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | `e2ed0061bb2b378d92a03eaa18f720d93a688c0b` | 391687 | `6447AAD4B82DE771EB984D50CD76DC4D9EC75116562C2037334869C7EF7A9154` | Not yet extracted |
@@ -946,3 +946,18 @@ Five source pages extracted and QA-reviewed. Batch total: 57 retained product ta
 - Source: `Modern Special Series/Premium Collector Set _ Hot Wheels Wiki _ Fandom.html`; blob SHA `5f4d11c2b0ffd91141758a90569fde9422fba639`; manifest SHA-256 `D4C75995CAFD29CB82AD86F0A515344CC9D3E9FFF63FCAD618EF63376C7FEDD9`; size 545811 bytes; Fandom revision 808975.
 - 31 product tables, 123 product rows, 151 embedded table image references, 725 links in product cells.
 - CSV: `research/extractions/MODERN-SPECIAL-SERIES-PREMIUM-COLLECTOR-SET.csv`; QA report: `research/extractions/MODERN-SPECIAL-SERIES-PREMIUM-COLLECTOR-SET-EXTRACTION-QA.md`.
+
+
+## Latest extraction batch: Pro Racing 1997–2001, 2026-11-09
+
+| Source page | Revision | Tables | Rows | Images | Links | CSV | QA |
+|---|---:|---:|---:|---:|---:|---|---|
+| `Modern Special Series/Pro Racing/1997 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | 783371 | 6 | 83 | 156 | 356 | `research/extractions/MODERN-SPECIAL-SERIES-1997-PRO-RACING.csv` | `research/extractions/MODERN-SPECIAL-SERIES-1997-PRO-RACING-EXTRACTION-QA.md` |
+| `Modern Special Series/Pro Racing/1998 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | 764854 | 14 | 205 | 400 | 848 | `research/extractions/MODERN-SPECIAL-SERIES-1998-PRO-RACING.csv` | `research/extractions/MODERN-SPECIAL-SERIES-1998-PRO-RACING-EXTRACTION-QA.md` |
+| `Modern Special Series/Pro Racing/1999 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | 801821 | 18 | 185 | 343 | 752 | `research/extractions/MODERN-SPECIAL-SERIES-1999-PRO-RACING.csv` | `research/extractions/MODERN-SPECIAL-SERIES-1999-PRO-RACING-EXTRACTION-QA.md` |
+| `Modern Special Series/Pro Racing/2000 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | 809610 | 19 | 155 | 304 | 639 | `research/extractions/MODERN-SPECIAL-SERIES-2000-PRO-RACING.csv` | `research/extractions/MODERN-SPECIAL-SERIES-2000-PRO-RACING-EXTRACTION-QA.md` |
+| `Modern Special Series/Pro Racing/2001 Pro Racing _ Hot Wheels Wiki _ Fandom.html` | 792684 | 16 | 93 | 94 | 192 | `research/extractions/MODERN-SPECIAL-SERIES-2001-PRO-RACING.csv` | `research/extractions/MODERN-SPECIAL-SERIES-2001-PRO-RACING-EXTRACTION-QA.md` |
+
+**Batch totals:** 73 product tables, 721 product rows, 1297 embedded image references, 2787 retained links.
+
+Source blob SHAs, manifest SHA-256 values, and byte sizes are retained in each CSV and QA report.
