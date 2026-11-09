@@ -11,4 +11,4 @@
 - Excluded tables: none
 - CSV schema: 21 columns
 - Gallery extraction: deferred
-- CSV validation: pending.
+- CSV validation: re-fetched from GitHub; header has 21 columns, 85 data rows, malformed-width records: 0.
