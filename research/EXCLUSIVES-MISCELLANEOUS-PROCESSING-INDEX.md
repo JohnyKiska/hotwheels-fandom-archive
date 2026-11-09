@@ -7,8 +7,8 @@ Scope: archived source HTML under Exclusives/ and Miscellaneous/ in the main bra
 - Exclusives source pages: 4
 - Miscellaneous source pages (including Multipacks): 49
 - Total source pages: 53
-- Extracted + QA: 50
-- Remaining: 3
+- Extracted + QA: 53
+- Remaining: 0
 
 ## File inventory and processing status
 
@@ -64,9 +64,9 @@ Scope: archived source HTML under Exclusives/ and Miscellaneous/ in the main bra
 | `Miscellaneous/Multipacks/5-Packs/2022 5-Packs _ Hot Wheels Wiki _ Fandom.html` | 337245 | `0215CB69C09709B4A0D62496B15557A88F7C630122F51D919F56FDEDE40886EF` | Extracted + QA |
 | `Miscellaneous/Multipacks/5-Packs/2023 5-Packs _ Hot Wheels Wiki _ Fandom.html` | 337615 | `B6954930EBAAD3C2A34AAE796AE6CB54C0C2E336A907F6BA317557B6836FB9DD` | Extracted + QA |
 | `Miscellaneous/Multipacks/5-Packs/2024 5-Packs _ Hot Wheels Wiki _ Fandom.html` | 336310 | `6E3B8407ECCD1FB06968AE5898BA0C7EF3B84E1F4BAC1FE40D85C84FFBD3B340` | Extracted + QA |
-| `Miscellaneous/Multipacks/5-Packs/2025 5-Packs _ Hot Wheels Wiki _ Fandom.html` | 338619 | `88AB721E12E57F30ECF4D8770172CF1823A369DB0F81CDABC2AE911D97D9FD0C` | Not yet extracted |
-| `Miscellaneous/Multipacks/5-Packs/2026 5-Packs _ Hot Wheels Wiki _ Fandom.html` | 338040 | `AE6B7CB371AB6AF925B477A3D88999825BF1937388BC528EC4B0552028F1C517` | Not yet extracted |
-| `Miscellaneous/Multipacks/6-Pack _ Hot Wheels Wiki _ Fandom.html` | 412373 | `B99BE05C06306FA09EDA1B1B83AE7D0CE8C2E595FAC4959974E749B0B161215C` | Not yet extracted |
+| `Miscellaneous/Multipacks/5-Packs/2025 5-Packs _ Hot Wheels Wiki _ Fandom.html` | 338619 | `88AB721E12E57F30ECF4D8770172CF1823A369DB0F81CDABC2AE911D97D9FD0C` | Extracted + QA |
+| `Miscellaneous/Multipacks/5-Packs/2026 5-Packs _ Hot Wheels Wiki _ Fandom.html` | 338040 | `AE6B7CB371AB6AF925B477A3D88999825BF1937388BC528EC4B0552028F1C517` | Extracted + QA |
+| `Miscellaneous/Multipacks/6-Pack _ Hot Wheels Wiki _ Fandom.html` | 412373 | `B99BE05C06306FA09EDA1B1B83AE7D0CE8C2E595FAC4959974E749B0B161215C` | Extracted + QA |
 
 ## Batch 1: Exclusives and Miscellaneous root page
 
@@ -209,3 +209,20 @@ Processed 10 pages: 2015 through 2024 5-Packs.
 Batch 8 totals: 10 pages, 10 product tables, 179 product rows. All CSVs re-fetched and validated: 21 columns, zero malformed-width records. All 10 QA files include source metadata, exclusions, and validation results. Gallery extraction remains deferred.
 
 Next batch: 2025 5-Packs, 2026 5-Packs, and 6-Pack.
+
+
+## Batch 9: Final Miscellaneous pages
+
+Processed the final 3 source pages:
+
+| Source page | Product tables | Product rows | CSV |
+|---|---:|---:|---|
+| `Miscellaneous/Multipacks/5-Packs/2025 5-Packs _ Hot Wheels Wiki _ Fandom.html` | 1 | 18 | `research/extractions/MISCELLANEOUS-2025-5-PACKS-PRODUCT-TABLES.csv` |
+| `Miscellaneous/Multipacks/5-Packs/2026 5-Packs _ Hot Wheels Wiki _ Fandom.html` | 1 | 17 | `research/extractions/MISCELLANEOUS-2026-5-PACKS-PRODUCT-TABLES.csv` |
+| `Miscellaneous/Multipacks/6-Pack _ Hot Wheels Wiki _ Fandom.html` | 15 | 71 | `research/extractions/MISCELLANEOUS-6-PACK-PRODUCT-TABLES.csv` |
+
+Batch 9 totals: 3 pages, 17 product tables, 106 product rows. All CSVs were re-fetched and validated: 21 columns, zero malformed-width records. QA files updated with validation results.
+
+## Scope completion
+
+**Exclusives + Miscellaneous: 53/53 source HTML pages processed.** All 53 pages have product-table extraction CSVs and QA reports. Aggregate totals: 145 product tables and 2,631 product rows. Gallery extraction remains deferred to the dedicated gallery phase. This completes HTML product-table extraction for this scope; it does not mark gallery extraction complete.
