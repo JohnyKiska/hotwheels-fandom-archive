@@ -459,7 +459,7 @@ The archived `Early Collections/` inventory contains 33 HTML/HTM pages. 32 of 33
 
 - Initial inventory completed: 223 archived HTML pages, 92,291,750 bytes total (88.02 MiB).
 - Sources are distributed across 151 immediate source folders, including several large multi-year families. Folder names are retained as provenance and are not canonical product taxonomy.
-- Twelve of 223 pages have now been extracted and QA-reviewed. Processing proceeds in batches with per-page extraction and QA.
+- Seventeen of 223 pages have now been extracted and QA-reviewed. Processing proceeds in batches with per-page extraction and QA.
 - Detailed inventory: `research/MODERN-SPECIAL-SERIES-PROCESSING-INDEX.md`.
 
 
@@ -495,3 +495,14 @@ The archived `Early Collections/` inventory contains 33 HTML/HTM pages. 32 of 33
 - All ten CSV and QA outputs were re-fetched from GitHub and verified for non-empty content and expected structure.
 - The complete `100% Hot Wheels` source folder is now extracted and QA-reviewed: 12 of 12 pages.
 - Detailed source-level counts and output paths are recorded in `research/MODERN-SPECIAL-SERIES-PROCESSING-INDEX.md`.
+
+
+### Modern Special Series batch: 2027 Racing Culture, 24/Seven, and AcceleRacers
+- Five additional pages extracted; total progress is now 17 of 223 pages.
+- 2027 Racing Culture: 4 tables, 12 rows, 20 embedded image references. One table has no detected headers and is flagged for semantic review.
+- 24/Seven: 2 tables, 33 rows, 32 embedded image references, 44 separate Gallery items. One unheaded table retained for review.
+- AcceleRacers (figure series): 4 tables, 20 rows, 20 embedded image references, 8 Gallery items.
+- AcceleRacers Coin Bank: 1 table, 4 rows, 1 embedded image reference; table is unheaded and flagged for semantic review.
+- AcceleRacers Collectible Card Game: 2 tables, 279 rows (4 Releases and 275 Cards), 554 embedded image references, 2 Gallery items.
+- CSV and QA files were created for all five pages. Each page-level QA records source path, Git blob SHA, manifest SHA-256, source size, table boundaries, and extracted counts.
+- Detailed source-level records: `research/MODERN-SPECIAL-SERIES-PROCESSING-INDEX.md`.
