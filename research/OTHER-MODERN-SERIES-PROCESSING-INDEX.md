@@ -159,17 +159,17 @@ Batch totals: **10 pages, 34 product tables, 648 product rows**. One collapsible
 
 ## Batch 4: Monster Jam 2011–2018
 
-Processed 8 nested Hot Wheels Monster Jam source pages. Product-table extraction totals: **76 product tables and 1024 product rows**. Each page has a 21-column CSV and a QA report. All eight CSV exports were re-fetched from GitHub and validated for 21 columns with zero malformed-width rows.
+Processed 8 nested Hot Wheels Monster Jam source pages. Product-table extraction totals: **68 product tables and 1,016 product rows**. Each page has a 21-column CSV and a QA report. All eight exports were re-fetched and validated: 21 columns and zero malformed-width records. The single collapsible navigation table on each page was excluded.
 
 | Year | Product tables | Product rows |
 |---|---:|---:|
-| 2011 | 9 | 126 |
-| 2012 | 11 | 135 |
-| 2013 | 6 | 108 |
-| 2014 | 8 | 138 |
-| 2015 | 7 | 113 |
-| 2016 | 9 | 124 |
-| 2017 | 7 | 154 |
-| 2018 | 19 | 126 |
+| 2011 | 8 | 125 |
+| 2012 | 10 | 134 |
+| 2013 | 5 | 107 |
+| 2014 | 7 | 137 |
+| 2015 | 6 | 112 |
+| 2016 | 8 | 123 |
+| 2017 | 6 | 153 |
+| 2018 | 18 | 125 |
 
-Batch totals: **8 pages, 76 product tables, 1,024 product rows**. Gallery extraction remains deferred.
+Batch totals: **8 pages, 68 product tables, 1,016 product rows**. Gallery extraction remains deferred.
