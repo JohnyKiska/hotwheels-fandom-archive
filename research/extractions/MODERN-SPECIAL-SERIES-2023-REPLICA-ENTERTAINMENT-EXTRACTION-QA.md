@@ -2,8 +2,8 @@
 
 - Source: `Modern Special Series/Replica Entertainment/2023 Replica Entertainment _ Hot Wheels Wiki _ Fandom.html`
 - Source blob SHA: `857eafb5c8c4c450d8a5cd3b481bd3782ceac5c8`
-- Source manifest SHA-256: `undefined`
-- Source size (bytes): NaN
+- Source manifest SHA-256: `2F646F84FC21BC64938FBBF480A9ED510B9A0CAB76259A3158AB5605CD9C2758`
+- Source size (bytes): 353528
 - Fandom revision ID: 776150
 - Product tables extracted: 4
 - Product rows extracted: 19
