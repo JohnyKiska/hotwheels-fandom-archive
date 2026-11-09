@@ -3,7 +3,7 @@
 - Source: `Notable Modern Themed Assortments/50th Anniversary Favorites _ Hot Wheels Wiki _ Fandom.html`
 - Source blob SHA: `b2b2ee0221649b8c92cefd8eda37fa7c03b64b71`
 - Source size (bytes): 344120
-- Fandom revision ID: not present in source HTML
+- Fandom revision ID: 741838
 - Top-level HTML tables scanned: 1
 - Product rows extracted: 11
 - Embedded table image references: 22
