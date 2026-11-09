@@ -693,3 +693,16 @@ The final two Character Cars source pages were extracted and QA-documented. The 
 Batch total: 5 product tables, 15 product rows, 30 embedded table image references, and 60 links retained from product cells. Two CSV files and two QA reports were committed. The Character Cars category is now fully processed (all 32 source pages in this archive category have extraction records and QA reports). Product rows retain source order, table/row indices, headers, raw row HTML, cell HTML/text, links, and embedded image metadata. Navigation/year-index tables and header-only rows are excluded. Separate Gallery items have not been independently extracted in this pass and remain a follow-up task.
 
 Detailed source metadata and extraction paths: `research/MODERN-SPECIAL-SERIES-PROCESSING-INDEX.md`.
+
+
+## Fandom archive extraction progress update (2026-11-09): Color Reveal and Color Shifters, 2008–2011
+
+Five additional source pages were extracted and QA-documented. The Modern Special Series processing count is now 88 of 223 pages.
+
+- Color Reveal: 5 product tables, 124 product rows, 372 embedded table image references, 615 links. CSV stored as two ordered parts due to file size.
+- 2008 Color Shifters: 2 product tables, 33 product rows, 64 embedded table image references, 119 links.
+- 2009 Color Shifters: 2 product tables, 32 product rows, 60 embedded table image references, 112 links.
+- 2010 Color Shifters: 3 product tables, 50 product rows, 123 embedded table image references, 190 links.
+- 2011 Color Shifters: 2 product tables, 41 product rows, 81 embedded table image references, 139 links.
+
+Batch total: 14 product tables, 280 product rows, 700 embedded table image references, and 1,175 links retained from product cells. Five QA reports and six CSV files/parts were committed. Product rows retain source order, table/row indices, headers, raw row HTML, cell HTML/text, links, and embedded image metadata. Navigation/year-index tables and tables without product data rows are excluded. Separate Gallery items have not been independently extracted in this pass and remain a follow-up task. Detailed source metadata and extraction paths are recorded in `research/MODERN-SPECIAL-SERIES-PROCESSING-INDEX.md`.
