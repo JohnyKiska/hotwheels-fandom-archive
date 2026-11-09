@@ -17,7 +17,7 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total.
 | `Grand Prix _ Hot Wheels Wiki _ Fandom.html` | `d23ef8f6f24209353e1c8e9af4c8861fd5d7c25a` | 326614 | Extracted + QA |
 | `Heavy Chevy _ Hot Wheels Wiki _ Fandom.html` | `1b710580762e9947170e92376c9410c4c8683d92` | 454373 | Extracted + QA |
 | `Heavyweights _ Hot Wheels Wiki _ Fandom.html` | `03da68718f75d6951cb802b9c3aa11e949a0d89f` | 327948 | Extracted + QA |
-| `HiRakers _ Hot Wheels Wiki _ Fandom.html` | `15ce02f85796913b6b1cd9f27b66348f9416e18e` | 354036 | Not yet extracted |
+| `HiRakers _ Hot Wheels Wiki _ Fandom.html` | `15ce02f85796913b6b1cd9f27b66348f9416e18e` | 354036 | Extracted + QA |
 | `Hot Wheels 30th Anniversary 4-Car Set _ Hot Wheels Wiki _ Fandom.html` | `b278df831c1539c16f123cf442511afe4892015e` | 326597 | Not yet extracted |
 | `King Kuda _ Hot Wheels Wiki _ Fandom.html` | `5a5572d63d083f36a105c7b810728a7d02134c6d` | 480117 | Not yet extracted |
 | `Light My Firebird _ Hot Wheels Wiki _ Fandom.html` | `49971146f54ec92309098b45b9d807ab13d94ff4` | 385941 | Not yet extracted |
@@ -152,3 +152,10 @@ Inventory: 33 HTML/HTM files, 12834928 bytes total.
 - No conventional product table. 13 gallery references: 6 under Castings In Series (no explicit year heading) and 7 explicitly under 1971.
 - Image metadata and links retained; no unstated year, Toy # or product facts inferred.
 - Export: `research/extractions/EARLY-COLLECTIONS-HEAVYWEIGHTS.csv`; QA: `research/extractions/EARLY-COLLECTIONS-HEAVYWEIGHTS-EXTRACTION-QA.md`.
+
+
+### HiRakers
+- Source blob SHA `15ce02f85796913b6b1cd9f27b66348f9416e18e`; manifest SHA-256 `071EB7131AACB81DEE42E1AFF777F64D523B1C516810A751885B1AA82CAD5D9A`; Fandom revision 798213.
+- One product table: 16 rows, 10 source columns; 2 separate gallery references.
+- Years in table: 1980, 1981, 1982, 1983, 1984. Repeated Toy # values retained as separate source records; cell image metadata and raw source values preserved.
+- Export: `research/extractions/EARLY-COLLECTIONS-HIRAKERS.csv`; QA: `research/extractions/EARLY-COLLECTIONS-HIRAKERS-EXTRACTION-QA.md`.
