@@ -2,7 +2,7 @@
 
 - Source path: `Notable Modern Themed Assortments/Fright Cars Series _ Hot Wheels Wiki _ Fandom.html`
 - Source Git blob SHA: `d983b23ed4ac0f6a899e81ed7668b5754d561bc7`
-- Source size (bytes): 552864
+- Source size (bytes): 552878
 - Manifest SHA-256: `3A5C485FB3C0022910970DF38EBB844577835DF39C35586A6F22395EA6294358`
 - Fandom revision ID: 772768
 - Content area located: yes
