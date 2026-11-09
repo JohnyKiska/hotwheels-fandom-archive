@@ -7,7 +7,7 @@ Scope: archived HTML/HTM source pages under `Notable Modern Themed Assortments/`
 - Source pages: 57
 - Total source size: 20,744,066 bytes
 - Inventory source: recursive Git tree and repository `MANIFEST.csv`.
-- Extraction status: 5 of 57 pages extracted and QA-reviewed; 52 remaining.
+- Extraction status: 10 of 57 pages extracted and QA-reviewed; 47 remaining.
 - Source SHA-256 values are copied from the repository manifest. Git blob SHAs identify the exact archived HTML blobs.
 
 ## File inventory and processing status
@@ -17,11 +17,11 @@ Scope: archived HTML/HTM source pages under `Notable Modern Themed Assortments/`
 | `Notable Modern Themed Assortments/50th Anniversary Favorites _ Hot Wheels Wiki _ Fandom.html` | `b2b2ee0221649b8c92cefd8eda37fa7c03b64b71` | 344120 | `23BC0467693B4F841EDC51ED62B5FDD00F8858753268549AE7B61D1BCF9DBCAD` | Extracted + QA |
 | `Notable Modern Themed Assortments/50th Anniversary Originals Series _ Hot Wheels Wiki _ Fandom.html` | `b9b4d9416e2f29634f6a44625628bd3bdd5d852f` | 353948 | `A477EE0419A668080CDAE1DD284B918E4FE81959C986E66D4B279111B0550053` | Extracted + QA |
 | `Notable Modern Themed Assortments/50th Anniversary Throwback Series _ Hot Wheels Wiki _ Fandom.html` | `8c06c625a53a9a48ef8fed50872017a13f703598` | 368963 | `BE4590151EEAF89450A3C72B6B5C119145D9ED5008D386B02AF10F25D0653916` | Extracted + QA |
-| `Notable Modern Themed Assortments/Batman/Batman Series (2015) _ Hot Wheels Wiki _ Fandom.html` | `c667f9c19604347424f2f6a7f11c9d0438e3ca7c` | 311277 | `B7246B7F5E65F7ED1B903C349F42295134F01D17F25D3BA8FC6D73BC47061082` | Not yet extracted |
-| `Notable Modern Themed Assortments/Batman/Batman Series (2018) _ Hot Wheels Wiki _ Fandom.html` | `8ab4169f221323bb21449fae98cc0a3b8b97593b` | 329636 | `35147FBE9EF88B3177F47F384BD7B17155AF44591CDEC873C49597A0828AF71A` | Not yet extracted |
-| `Notable Modern Themed Assortments/Batman/Batman Series (2019) _ Hot Wheels Wiki _ Fandom.html` | `73f26521b2d22c94d7d7784e2fc6b6a8756938dd` | 314693 | `ABFAB7798D8751EFE7FECCF1FF22D4FC47B90085127F60C5FB79025ADBF7E5F1` | Not yet extracted |
-| `Notable Modern Themed Assortments/Batman/Batman Series (2021) _ Hot Wheels Wiki _ Fandom.html` | `de66ebea33453db45dff115403be77884768cf55` | 315881 | `AEEDDA2F8916A4FE2524409335C90D8B40D2B86CB389AC450E7C5556E861B6B5` | Not yet extracted |
-| `Notable Modern Themed Assortments/Batman/Batman Series (2022) _ Hot Wheels Wiki _ Fandom.html` | `a2dd3ab4331affedc18d514087442590865879df` | 352632 | `C94C035B803C317E78E3AF1CBFFA0BBF9BCAFFFE09EFA46002980A2142A954A1` | Not yet extracted |
+| `Notable Modern Themed Assortments/Batman/Batman Series (2015) _ Hot Wheels Wiki _ Fandom.html` | `c667f9c19604347424f2f6a7f11c9d0438e3ca7c` | 311277 | `B7246B7F5E65F7ED1B903C349F42295134F01D17F25D3BA8FC6D73BC47061082` | Extracted + QA |
+| `Notable Modern Themed Assortments/Batman/Batman Series (2018) _ Hot Wheels Wiki _ Fandom.html` | `8ab4169f221323bb21449fae98cc0a3b8b97593b` | 329636 | `35147FBE9EF88B3177F47F384BD7B17155AF44591CDEC873C49597A0828AF71A` | Extracted + QA |
+| `Notable Modern Themed Assortments/Batman/Batman Series (2019) _ Hot Wheels Wiki _ Fandom.html` | `73f26521b2d22c94d7d7784e2fc6b6a8756938dd` | 314693 | `ABFAB7798D8751EFE7FECCF1FF22D4FC47B90085127F60C5FB79025ADBF7E5F1` | Extracted + QA |
+| `Notable Modern Themed Assortments/Batman/Batman Series (2021) _ Hot Wheels Wiki _ Fandom.html` | `de66ebea33453db45dff115403be77884768cf55` | 315881 | `AEEDDA2F8916A4FE2524409335C90D8B40D2B86CB389AC450E7C5556E861B6B5` | Extracted + QA |
+| `Notable Modern Themed Assortments/Batman/Batman Series (2022) _ Hot Wheels Wiki _ Fandom.html` | `a2dd3ab4331affedc18d514087442590865879df` | 352632 | `C94C035B803C317E78E3AF1CBFFA0BBF9BCAFFFE09EFA46002980A2142A954A1` | Extracted + QA |
 | `Notable Modern Themed Assortments/Batman/Batman Series (2023) _ Hot Wheels Wiki _ Fandom.html` | `93d9836ddeb6954aec4a4986c58b438a6b2dad61` | 346881 | `41770E07EE319C6F95BBC2248DEC3E65CF640B4C6B8654869B10034469B00AB7` | Not yet extracted |
 | `Notable Modern Themed Assortments/Batman/Batman Series (2024) _ Hot Wheels Wiki _ Fandom.html` | `1f712b9ea7c8a80440d3ea1710b3efa9ef2a045e` | 357415 | `B3BB50B1F03B5FBCD297C5BB9E43991505966A87E981F28603093D9E3F14B0BA` | Not yet extracted |
 | `Notable Modern Themed Assortments/Batman/Batman Series (2025) _ Hot Wheels Wiki _ Fandom.html` | `b171559de736c5c2dca5b2b570fbc8c55662980f` | 359409 | `E67BA76CED6351791BB2D36B9432AABEC9F8807C0B4DC13F51C50EB3B57B1201` | Not yet extracted |
@@ -98,3 +98,22 @@ Each page has a 21-column source-preserving CSV and a per-page QA report in `res
 ## Completion
 
 This category is not yet complete. Continue with the next unprocessed source page in inventory order: `Easter Eggsclusives _ Hot Wheels Wiki _ Fandom.html`.
+
+
+## Batch 2: Batman Series (2015) through Batman Series (2022), 2026-11-09
+
+Five Batman source pages extracted and QA-reviewed. Batch total: 8 product tables, 45 product rows, 82 embedded table image references, and 163 links retained from product cells.
+
+| Source page | Tables | Product rows | Images | Links |
+|---|---:|---:|---:|---:|
+| Batman Series (2015) | 1 | 8 | 8 | 17 |
+| Batman Series (2018) | 1 | 6 | 12 | 25 |
+| Batman Series (2019) | 1 | 6 | 12 | 23 |
+| Batman Series (2021) | 1 | 5 | 10 | 20 |
+| Batman Series (2022) | 4 | 20 | 40 | 78 |
+
+Each page has a 21-column source-preserving CSV and a per-page QA report. Source blob SHA, size, revision ID (where present), and manifest SHA-256 are retained in the artifacts. Fandom revision IDs were not detected in these five HTML files and are explicitly left unavailable in QA.
+
+## Next batch
+
+Continue with the next five unprocessed pages in inventory order: Batman Series (2023), Batman Series (2024), Batman Series (2025), Batman Vehicles Then and Now Series (2012), and Cars of the Decades Series only if already marked unprocessed (otherwise continue in listed inventory order).
