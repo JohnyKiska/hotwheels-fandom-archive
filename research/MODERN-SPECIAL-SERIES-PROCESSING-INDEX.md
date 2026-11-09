@@ -247,11 +247,11 @@ Scope: archived source files under `Modern Special Series/` in the `main` branch
 | `Modern Special Series/Spine Buster (Crashers) _ Hot Wheels Wiki _ Fandom.html` | `9665eaf62e7409a2bf57a4637dc392e6d449b3f2` | 327651 | `A4D6B02F388006AEF93CF091E45011A666B4D2B70718BA9E3F611FA0084DE016` | Extracted + QA |
 | `Modern Special Series/Super Chromes Series (2006) _ Hot Wheels Wiki _ Fandom.html` | `63046520e09475e771ff1ca191f9198e89941947` | 374744 | `C1721178F55CA19EA4D78FADBDE190BA758BA7E75C24DB387229C3088BCBFDBB` | Extracted + QA |
 | `Modern Special Series/Team Hot Wheels High-Speed Wheel Series _ Hot Wheels Wiki _ Fandom.html` | `1376e17d37ab1924772deea1a742bfd49bda3438` | 349519 | `4926AD6CDA6D823D48D8B8357A1076385D70D7455D6F26442A7A016063D023A8` | Extracted + QA |
-| `Modern Special Series/The Hot Ones/The Hot Ones (2011) _ Hot Wheels Wiki _ Fandom.html` | `39c4c5a795266997aeb0b07565686926629ef320` | 652694 | `FE88FB9C927D557183A9BC05B4AA3BCF8563FFFF4BB9397C52F67AA4FD97AFDC` | Not yet extracted |
-| `Modern Special Series/The Hot Ones/The Hot Ones (2025) _ Hot Wheels Wiki _ Fandom.html` | `32d2320530c24fb7c73838fb686ad07cf65da436` | 417259 | `FA8DC43FE4735BFC4376C5DD9F3F733A740F9F365CA17A6D3F93D476FC960964` | Not yet extracted |
-| `Modern Special Series/The Vantom _ Hot Wheels Wiki _ Fandom.html` | `f36c736720b50d2157544d7a320aea5b6d11410f` | 325971 | `934623769CA0D2C6F0C5D3BE5E43AC0A0198E06DB63843B3AAD694338B922D92` | Not yet extracted |
-| `Modern Special Series/Then and Now Mini Collection (2024) _ Hot Wheels Wiki _ Fandom.html` | `2123551e64d30d39fbeac2c53fcd7e6fa322785f` | 318828 | `7576895FB6FE89F987F074F69B4A4A2ADD8309DD7705D82A3C68BA85922A0E17` | Not yet extracted |
-| `Modern Special Series/Tilt Cab _ Hot Wheels Wiki _ Fandom.html` | `f640a981c28883cbb3840368a6b742272d7e417f` | 356995 | `9B22464D6733205753FCA00C774980B41436FD86CD68F93DD74154B9BA41A46B` | Not yet extracted |
+| `Modern Special Series/The Hot Ones/The Hot Ones (2011) _ Hot Wheels Wiki _ Fandom.html` | `39c4c5a795266997aeb0b07565686926629ef320` | 652694 | `FE88FB9C927D557183A9BC05B4AA3BCF8563FFFF4BB9397C52F67AA4FD97AFDC` | Extracted + QA |
+| `Modern Special Series/The Hot Ones/The Hot Ones (2025) _ Hot Wheels Wiki _ Fandom.html` | `32d2320530c24fb7c73838fb686ad07cf65da436` | 417259 | `FA8DC43FE4735BFC4376C5DD9F3F733A740F9F365CA17A6D3F93D476FC960964` | Extracted + QA |
+| `Modern Special Series/The Vantom _ Hot Wheels Wiki _ Fandom.html` | `f36c736720b50d2157544d7a320aea5b6d11410f` | 325971 | `934623769CA0D2C6F0C5D3BE5E43AC0A0198E06DB63843B3AAD694338B922D92` | Extracted + QA |
+| `Modern Special Series/Then and Now Mini Collection (2024) _ Hot Wheels Wiki _ Fandom.html` | `2123551e64d30d39fbeac2c53fcd7e6fa322785f` | 318828 | `7576895FB6FE89F987F074F69B4A4A2ADD8309DD7705D82A3C68BA85922A0E17` | Extracted + QA |
+| `Modern Special Series/Tilt Cab _ Hot Wheels Wiki _ Fandom.html` | `f640a981c28883cbb3840368a6b742272d7e417f` | 356995 | `9B22464D6733205753FCA00C774980B41436FD86CD68F93DD74154B9BA41A46B` | Extracted + QA |
 | `Modern Special Series/Toy Fair _ Hot Wheels Wiki _ Fandom.html` | `f51899691bcddbdb91788e57b548c78ffe59fdb3` | 363211 | `8C389F16BBFE308BE771839AA6615885C85F8407C5557AF99320D5D19B104C73` | Not yet extracted |
 | `Modern Special Series/Ultra Hots Series (2006) _ Hot Wheels Wiki _ Fandom.html` | `aeb36b9a2fa32b2a3284b41a52969e209173a5d5` | 451892 | `AB439FBB7C2EE75D7A26CB3A295DBD27E098A46B4FF962456DC6B2568649C6EE` | Not yet extracted |
 | `Modern Special Series/Vintage Racing Series (2011) _ Hot Wheels Wiki _ Fandom.html` | `67c874f1eed9c4c5ce768e46993165e93140e4b8` | 412223 | `CF53B5803A6BC30E3B07C1252048D3B91C06E015D794F48EB6695CDC16D26DCA` | Not yet extracted |
@@ -1053,5 +1053,20 @@ Five source pages extracted and QA-reviewed. Batch total: 16 retained product ta
 | `Spine Buster (Crashers)` | 612503 | 1 | 1 | 1 | 4 | `research/extractions/MODERN-SPECIAL-SERIES-SPINE-BUSTER-CRASHERS.csv` | `research/extractions/MODERN-SPECIAL-SERIES-SPINE-BUSTER-CRASHERS-EXTRACTION-QA.md` |
 | `Super Chromes Series (2006)` | 714375 | 3 | 32 | 55 | 87 | `research/extractions/MODERN-SPECIAL-SERIES-SUPER-CHROMES-SERIES-2006.csv` | `research/extractions/MODERN-SPECIAL-SERIES-SUPER-CHROMES-SERIES-2006-EXTRACTION-QA.md` |
 | `Team Hot Wheels High-Speed Wheel Series` | 757115 | 1 | 33 | 33 | 99 | `research/extractions/MODERN-SPECIAL-SERIES-TEAM-HOT-WHEELS-HIGH-SPEED-WHEEL-SERIES.csv` | `research/extractions/MODERN-SPECIAL-SERIES-TEAM-HOT-WHEELS-HIGH-SPEED-WHEEL-SERIES-EXTRACTION-QA.md` |
+
+Source blob SHAs, manifest SHA-256 values, and byte sizes are retained in each CSV and QA report.
+
+
+## Latest extraction batch: The Hot Ones (2011) through Tilt Cab, 2026-11-09
+
+Five source pages extracted and QA-reviewed. Batch total: 16 retained product tables, 252 product rows, 437 embedded table image references, and 1627 links in product cells. Each page has a 21-column CSV and individual QA report. Separate Gallery items have not been independently extracted in this pass.
+
+| Source page | Revision | Tables | Rows | Images | Links | CSV | QA |
+|---|---:|---:|---:|---:|---:|---|---|
+| `The Hot Ones (2011)` | 816880 | 8 | 193 | 348 | 1057 | `research/extractions/MODERN-SPECIAL-SERIES-THE-HOT-ONES-2011.csv` | `research/extractions/MODERN-SPECIAL-SERIES-THE-HOT-ONES-2011-EXTRACTION-QA.md` |
+| `The Hot Ones (2025)` | 816046 | 5 | 34 | 64 | 493 | `research/extractions/MODERN-SPECIAL-SERIES-THE-HOT-ONES-2025.csv` | `research/extractions/MODERN-SPECIAL-SERIES-THE-HOT-ONES-2025-EXTRACTION-QA.md` |
+| `The Vantom` | 652735 | 1 | 2 | 2 | 8 | `research/extractions/MODERN-SPECIAL-SERIES-THE-VANTOM.csv` | `research/extractions/MODERN-SPECIAL-SERIES-THE-VANTOM-EXTRACTION-QA.md` |
+| `Then and Now Mini Collection (2024)` | 812967 | 1 | 13 | 13 | 29 | `research/extractions/MODERN-SPECIAL-SERIES-THEN-AND-NOW-MINI-COLLECTION-2024.csv` | `research/extractions/MODERN-SPECIAL-SERIES-THEN-AND-NOW-MINI-COLLECTION-2024-EXTRACTION-QA.md` |
+| `Tilt Cab` | 730803 | 1 | 10 | 10 | 40 | `research/extractions/MODERN-SPECIAL-SERIES-TILT-CAB.csv` | `research/extractions/MODERN-SPECIAL-SERIES-TILT-CAB-EXTRACTION-QA.md` |
 
 Source blob SHAs, manifest SHA-256 values, and byte sizes are retained in each CSV and QA report.
