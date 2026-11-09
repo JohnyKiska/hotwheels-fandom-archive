@@ -237,3 +237,10 @@ Next: continue with the remaining Early Collections pages in inventory order, re
 - Five annual product tables (1974–1978), 212 rows. The separate Track Sets heading has no product table and was not merged into annual rows.
 - Source schemas differ across years; original headers and row values are preserved. Loose and carded photo references are extracted separately.
 - Export: `research/extractions/EARLY-COLLECTIONS-FLYING-COLORS.csv`; QA: `research/extractions/EARLY-COLLECTIONS-FLYING-COLORS-EXTRACTION-QA.md`.
+
+
+### Flying Colors extraction refinement
+
+- The CSV now retains cell-level image metadata, including wheel-type images that appear in the Wheel Type column rather than as text. Loose and carded photo metadata remain separate.
+- The Track Sets section contains a separate Thundershift 500 reference, exported as a non-product `section_reference` row.
+- Five annual tables remain 212 product rows for 1974–1978. No product rows were merged.
