@@ -318,3 +318,11 @@ Next: continue with the remaining Early Collections pages in inventory order, re
 - Extracted 18 product rows across 3 tables, plus 24 Gallery items. Combined CSV records: 42.
 - Preserved table-specific source schemas, source order, raw cells, links and per-cell image metadata; Gallery captions, image filenames and file links are separate records.
 - Export: `research/extractions/EARLY-COLLECTIONS-NITTY-GRITTY-KITTY.csv`; QA: `research/extractions/EARLY-COLLECTIONS-NITTY-GRITTY-KITTY-EXTRACTION-QA.md`.
+
+
+### Oldies But Goodies extraction checkpoint
+
+- Source: `Early Collections/Oldies But Goodies _ Hot Wheels Wiki _ Fandom.html`; Git blob SHA `d8bac5f967b3a4dd0b0baf79c8708414318fac53`; manifest SHA-256 `B8CA045892B79F667D6333B3F65DC19C1150A246C075DC5C3002AF0AEB5A28CA`; Fandom revision 767721.
+- Extracted 8 product rows from one 9-column source table and 2 separate Gallery records, for 10 CSV records. All eight Toy # values are populated and distinct.
+- Preserved source headers/cells, raw cell HTML, links, cell-level image metadata, and the separate patch/card gallery references. No rows were deduplicated and no identity relationships inferred.
+- Export: `research/extractions/EARLY-COLLECTIONS-OLDIES-BUT-GOODIES.csv`; QA: `research/extractions/EARLY-COLLECTIONS-OLDIES-BUT-GOODIES-EXTRACTION-QA.md`.
