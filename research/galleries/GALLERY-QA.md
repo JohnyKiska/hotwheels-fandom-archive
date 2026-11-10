@@ -953,3 +953,37 @@ Twenty previously unscanned pages were checked directly against their archived H
 **Batch totals:** 20 pages; 5 with Gallery markup; 15 without dedicated Gallery markup; 19 Gallery item occurrences; 5 Gallery containers; 335 ordinary image elements; 0 suspected cases.
 
 NO_GALLERY classifies only dedicated Gallery markup. Ordinary images are counted separately. The 19 Gallery item occurrences from this batch are recorded in GALLERY-SCAN.csv and GALLERY-PROGRESS.csv. They still require reconciliation with the oversized GALLERY-EXTRACTION.csv master register.
+
+
+# Gallery scan batch 56
+
+Date: 2026-11-10
+
+Twenty previously unscanned pages were checked directly against their archived HTML source files.
+
+| Source page | Revision | Gallery containers | Gallery items | General img elements | Status |
+|---|---:|---:|---:|---:|---|
+| 2004 5-Packs | 808237 | 0 | 0 | 19 | NO_GALLERY |
+| 2005 5-Packs | 806318 | 0 | 0 | 21 | NO_GALLERY |
+| 2006 5-Packs | 806256 | 0 | 0 | 23 | NO_GALLERY |
+| 2007 5-Packs | 806183 | 0 | 0 | 27 | NO_GALLERY |
+| 2008 5-Packs | 806178 | 0 | 0 | 22 | NO_GALLERY |
+| 2009 5-Packs | 806170 | 0 | 0 | 24 | NO_GALLERY |
+| 2010 5-Packs | 736717 | 0 | 0 | 25 | NO_GALLERY |
+| 2011 5-Packs | 688193 | 0 | 0 | 32 | NO_GALLERY |
+| 2012 5-Packs | 684955 | 0 | 0 | 26 | NO_GALLERY |
+| 2013 5-Packs | 806146 | 0 | 0 | 29 | NO_GALLERY |
+| 2014 5-Packs | 806113 | 0 | 0 | 27 | NO_GALLERY |
+| 2015 5-Packs | 763113 | 0 | 0 | 24 | NO_GALLERY |
+| 2016 5-Packs | 806106 | 0 | 0 | 24 | NO_GALLERY |
+| 2017 5-Packs | 806105 | 0 | 0 | 26 | NO_GALLERY |
+| 2018 5-Packs | 639207 | 0 | 0 | 25 | NO_GALLERY |
+| 2019 5-Packs | 692066 | 0 | 0 | 23 | NO_GALLERY |
+| 2020 5-Packs | 806098 | 0 | 0 | 24 | NO_GALLERY |
+| 2021 5-Packs | 736724 | 0 | 0 | 23 | NO_GALLERY |
+| 2022 5-Packs | 762326 | 0 | 0 | 24 | NO_GALLERY |
+| 2023 5-Packs | 693937 | 0 | 0 | 24 | NO_GALLERY |
+
+**Batch totals:** 20 pages; 0 with Gallery markup; 20 without dedicated Gallery markup; 0 Gallery item occurrences; 0 Gallery containers; 492 ordinary image elements; 0 suspected cases.
+
+NO_GALLERY classifies only dedicated Gallery markup. Ordinary images are counted separately. The 0 Gallery item occurrences from this batch are recorded in GALLERY-SCAN.csv and GALLERY-PROGRESS.csv. They still require reconciliation with the oversized GALLERY-EXTRACTION.csv master register.
