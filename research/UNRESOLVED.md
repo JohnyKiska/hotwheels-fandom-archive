@@ -1507,3 +1507,15 @@
 - [ ] Установить назначение Side View / Top View / Base View в Showcase Variation 2004 и связать эти labels с image evidence, если source HTML подтверждает.
 - [ ] Сверить Series labels Pro Racing Recreational Series, Treasure Hunt, STOCKERZ, Race Day, Showcase, Artist Collection, Justice League и Cars Movie Promo с release/assortment entities, сохраняя точный source scope.
 - [ ] Разобрать 2001–2005 unheaded tables: отделить navigation-only rows от image-view/evidence tables и product rows.
+
+
+## Data model validation: Basic Pro Racing and Pro Racing 1:43 Scale (2026-11-10)
+
+- [ ] Сопоставить Basic Pro Racing rows с annual Pro Racing 1997–2002 по упаковке/каталогам; не дедуплицировать автоматически по Casting, Team/Number или Toy #.
+- [ ] Проверить Toy #17416 Basic Pro Racing 1997 variants и alphanumeric Toy # BA003-0910; хранить идентификаторы как strings.
+- [ ] Уточнить точные product/packaging types для Basic Pro Racing Cart, Grand Prix Kart Racing, Roush Racing/Valvoline Diamond Anniversary и 2002 baggie-series entry.
+- [ ] Для 1:43 проверить Toy #55573 и остальные пустые Toy # по упаковке; не выводить их из racing number в Tampo.
+- [ ] Уточнить семантику 1:43 Year (race season vs product release year) и сохранить scale scope отдельно от года.
+- [ ] Классифицировать 1:43 Photo labels: Image Not Available, website assets, prototype/sample images и multi-image semicolon values; сохранить raw cell text.
+- [ ] Проверить set membership для 1:43 Single Pack, 2-Pack, 3-Pack, 4-Pack и Book package; создавать component relationships только при явном подтверждении.
+- [ ] Проверить неопределённые notes вроде `Might be a 2nd version` по независимым evidence; не превращать их в подтверждённые variants.
