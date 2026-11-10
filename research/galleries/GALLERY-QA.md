@@ -1367,3 +1367,6 @@ McLaren FEP follow-up: Gallery items 12–14 form one evidence group. Their shar
 
 
 Jaguar FEP follow-up: Gallery items 15–16 share the filename stem `FEP_Signed_2000_Jaguar_Terry_Proto`; the product-table image (3) is attached specifically to the 2000 Jaguar R2 row, supporting a high-confidence text-level association with Jaguar R2 rather than Jaguar R1. Two Gallery records remain one evidence group. “Signed by many employees” and collection attribution remain unverified source captions because image binaries were not visually inspected. No product or Gallery master rows changed.
+
+
+King of the Desert follow-up: Gallery items 17–19 use the filename stem `2004_King_of_the_Desert_Sample_Terry_Proto` and map to the product-table Ferrari F2004 / 2004 / King of the Desert row, whose thumbnail is file (1). High-confidence text-level association; the table thumbnail is not a fourth Gallery record. The “Comes with some dirt?” caption is a question and does not prove intentional mud/dirt deco. Image binaries were not visually inspected; no product or Gallery master rows changed.
