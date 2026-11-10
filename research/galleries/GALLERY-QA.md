@@ -730,3 +730,18 @@ Five additional Early Collections pages scanned directly from archived HTML. Two
 | Speed Machines (1983) | 714212 | 1 | 1 | 62 | GALLERY_FOUND |
 
 Source blob SHA, MANIFEST size/SHA-256, and Fandom revisions are recorded in GALLERY-SCAN.csv. The 3 Gallery item occurrences are pending reconciliation with GALLERY-EXTRACTION.csv because the oversized master registry remains unreadable through the current file-content connector; it was not overwritten. The 933 ordinary images remain outside Gallery extraction scope and are candidates for the separate Inline Image extraction stage.
+
+
+## Gallery scan batch 48: Early Collections, 2026-11-10
+
+Five additional Early Collections pages scanned directly from archived HTML. All 5 pages contain dedicated Gallery markup (5 Gallery containers; 20 Gallery items). Ordinary HTML img elements: 208.
+
+| Page | Revision | Containers | Items | img | Status |
+|---|---:|---:|---:|---:|---|
+| Speedway Specials | 767746 | 1 | 2 | 44 | GALLERY_FOUND |
+| Sugar Caddy | 807115 | 1 | 4 | 32 | GALLERY_FOUND |
+| Super Chromes (1976) | 714219 | 1 | 4 | 60 | GALLERY_FOUND |
+| Super Streeters | 789451 | 1 | 8 | 48 | GALLERY_FOUND |
+| The Heavies | 767755 | 1 | 2 | 24 | GALLERY_FOUND |
+
+Source blob SHA, MANIFEST size/SHA-256, and Fandom revisions are recorded in GALLERY-SCAN.csv. The 20 Gallery item occurrences are pending reconciliation with GALLERY-EXTRACTION.csv because the oversized master registry remains unreadable through the current file-content connector; it was not overwritten. Ordinary inline images remain outside Gallery extraction scope and are candidates for the separate Inline Image extraction stage.
