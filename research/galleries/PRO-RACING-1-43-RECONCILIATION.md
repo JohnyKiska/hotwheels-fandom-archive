@@ -120,3 +120,22 @@ The product table has a 2003 **Ferrari F2003-GA** row whose thumbnail is `2003 F
 The Terry Choy collection attribution is retained as an archived caption claim, not authenticated provenance. The “Back” caption is only a view label. Image binaries were not visually inspected, so physical details, sample authenticity and provenance remain unverified.
 
 **Disposition:** link Gallery items 20–21 to the 2003 Ferrari F2003-GA product-table row as one sample evidence group, high text-level confidence. Do not create a new product row or change product/Gallery master data.
+
+
+## Follow-up: Chrome Constructors Champions 4-pack, Gallery item 22
+
+Gallery item 22 is a single set-level evidence record:
+- File: `Ferrari F1 Chrome Constructors Champs 4 pack (1).PNG`
+- Archived caption: “Chrome Constructors Champs 4 pack (Terry Choy collection)”.
+
+The product table contains four distinct 2002 catalog rows explicitly titled as parts of the **Chrome Constructors Champions 4 Pack**, each identifying the represented racing year:
+- Ferrari F399 — represents 1999.
+- Ferrari F1-2000 — represents 2000.
+- Ferrari F2001 — represents 2001.
+- Ferrari F2002 — represents 2002.
+
+The Gallery filename and caption directly identify the same four-pack set. This supports a high-confidence set-level association with those four linked catalog rows. It does **not** establish four separate Gallery subjects, nor does this single Gallery image independently verify the physical identity or decoration of each car. The row-level four-pack descriptions are the evidence for the four represented years/models; retain item 22 as one set image, not four duplicated product images.
+
+The Terry Choy collection attribution is an archived caption claim, not authenticated provenance. Image binaries were not visually inspected, so the package contents, car details and authenticity remain unverified.
+
+**Disposition:** associate Gallery item 22 with the Chrome Constructors Champions 4-pack as one set-level evidence record spanning the four explicitly linked catalog rows (F399 / F1-2000 / F2001 / F2002). Do not create four Gallery records or alter product/Gallery master data.
