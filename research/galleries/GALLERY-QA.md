@@ -490,3 +490,13 @@ Five dedicated Gallery items extracted from the source HTML and consolidated in 
 | 2025 Car Culture: Team Transport | 768859 | 1 | 9 | 66 |
 
 The existing page-level extraction CSV was revalidated against the current HTML source blob (`ab7a0ec32ccdd994a25bfb87ebf2b824094abcc4`): all nine rows carry the matching source blob SHA, revision ID, and actual Gallery ID `gallery-0`; the HTML contains exactly nine dedicated gallery-item markers. The nine page-level records were appended to the consolidated master. Ordinary article/product images remain reserved for Inline Image extraction.
+
+
+## Gallery extraction batch 26: 2025 Car Culture verification
+
+- Source revision: `816325`; source Git blob SHA: `ea4d1a0dbf111f28e1c60a6a6e4d6f183481b6dc`.
+- MANIFEST inventory size: 410735 bytes; SHA-256: `D075C1D2096DB2F5B8F515A7C0244DB7AD55EFB97FBA93673ED2FF20A952FECB`.
+- Re-fetched HTML verification: 0 Gallery headings, 0 dedicated Gallery containers, 0 `wikia-gallery-item` entries, 0 Gallery markers, 102 ordinary `<img>` elements.
+- Page extraction CSV is header-only (15 columns); page QA independently records 0 extracted Gallery items.
+- Classification confirmed: `NO_GALLERY`. The 102 ordinary images remain outside Gallery extraction scope and are candidates for the separate Inline Image extraction stage.
+- Completed the previously blank inventory metadata in `GALLERY-SCAN.csv`; no master extraction rows were added.
