@@ -250,3 +250,6 @@ Five additional pages extracted and QA-reviewed: Fast & Furious Spy Racers Serie
 
 
 - 2026-11-10: Data Model Validation, партия 6. Проверены Pro Racing 1997–2000: 628 строк в 57 таблицах, 1,203 embedded image references и 2,595 ссылок. Выявлены разные racing schemas (NASCAR Team / Number vs open-wheel Team n°/Team/Year #/Series), повторное использование Toy # между секциями/вариантами, Tool Box как отдельный product type и явные Packaged with relationships. Gallery extraction для этих страниц остаётся отдельной задачей. Подробности: DATA-MODEL-VALIDATION.md.
+
+
+- 2026-11-10: Data Model Validation, партия 7. Проверены Pro Racing 2001–2005: 412 строк в 56 таблицах, 427 embedded image references и 874 ссылки. Зафиксированы source labels Team n°/Team #, отдельный Series context, `NEVER RELEASED` как release-status assertion внутри photo fields, пустые Item Number в 2004 и unheaded Showcase Variation image-view rows. Подробности: DATA-MODEL-VALIDATION.md.
