@@ -1303,7 +1303,7 @@ Recovery allocation for this pass:
 | GALLERY-EXTRACTION-12.csv | 202 | 250 | READY |
 | GALLERY-EXTRACTION-13.csv | 186 | 250 | READY |
 | GALLERY-EXTRACTION-14.csv | 100 | 100 | READY |
-| **Total** | **497** | **850** | **All parts READY** |
+| **Total** | **561** | **850** | **All parts READY** |
 
 Note: the first 10 pages in this recovery queue contributed 144 records (9 into part 11 and 135 into part 12); the next 10 pages contributed 131 (67 into part 12 and 64 into part 13); pages 21-30 contributed 75 into part 13; the final five pages contributed 211 (111 into part 13 and 100 into part 14).
 
