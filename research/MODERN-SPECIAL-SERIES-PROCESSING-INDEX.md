@@ -1372,3 +1372,26 @@ Ten 15-column Gallery CSVs and ten page-specific QA reports were created. Pages 
 
 Next Gallery batch: continue with the next source pages in Modern Special Series inventory order.
 
+
+
+## Gallery extraction batch 18: Color Shifters (2010–2020), 2026-11-10
+
+Ten source pages were scanned in Modern Special Series inventory order. The 2013 page is absent from the source inventory. No dedicated Gallery headings or containers were detected on these ten pages. General HTML image elements remain candidates for the separate Inline Image extraction. Source Git blob SHAs, MANIFEST inventory sizes and SHA-256 values, and Fandom revision IDs are recorded in individual QA files. Fetched text character lengths are not treated as byte-for-byte source verification.
+
+| Source page | Revision | Gallery headings | Gallery containers | Gallery items | General HTML image elements | CSV | QA |
+|---|---:|---:|---:|---:|---:|---|---|
+| `2010 Color Shifters` | 781149 | 0 | 0 | 0 | 129 | `research/galleries/MODERN-SPECIAL-SERIES-2010-COLOR-SHIFTERS-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-2010-COLOR-SHIFTERS-GALLERY-QA.md` |
+| `2011 Color Shifters` | 781159 | 0 | 0 | 0 | 87 | `research/galleries/MODERN-SPECIAL-SERIES-2011-COLOR-SHIFTERS-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-2011-COLOR-SHIFTERS-GALLERY-QA.md` |
+| `2012 Color Shifters` | 781158 | 0 | 0 | 0 | 34 | `research/galleries/MODERN-SPECIAL-SERIES-2012-COLOR-SHIFTERS-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-2012-COLOR-SHIFTERS-GALLERY-QA.md` |
+| `2014 Color Shifters` | 796334 | 0 | 0 | 0 | 104 | `research/galleries/MODERN-SPECIAL-SERIES-2014-COLOR-SHIFTERS-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-2014-COLOR-SHIFTERS-GALLERY-QA.md` |
+| `2015 Color Shifters` | 781166 | 0 | 0 | 0 | 82 | `research/galleries/MODERN-SPECIAL-SERIES-2015-COLOR-SHIFTERS-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-2015-COLOR-SHIFTERS-GALLERY-QA.md` |
+| `2016 Color Shifters` | 781181 | 0 | 0 | 0 | 50 | `research/galleries/MODERN-SPECIAL-SERIES-2016-COLOR-SHIFTERS-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-2016-COLOR-SHIFTERS-GALLERY-QA.md` |
+| `2017 Color Shifters` | 781196 | 0 | 0 | 0 | 48 | `research/galleries/MODERN-SPECIAL-SERIES-2017-COLOR-SHIFTERS-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-2017-COLOR-SHIFTERS-GALLERY-QA.md` |
+| `2018 Color Shifters` | 781197 | 0 | 0 | 0 | 42 | `research/galleries/MODERN-SPECIAL-SERIES-2018-COLOR-SHIFTERS-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-2018-COLOR-SHIFTERS-GALLERY-QA.md` |
+| `2019 Color Shifters` | 810102 | 0 | 0 | 0 | 54 | `research/galleries/MODERN-SPECIAL-SERIES-2019-COLOR-SHIFTERS-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-2019-COLOR-SHIFTERS-GALLERY-QA.md` |
+| `2020 Color Shifters` | 781210 | 0 | 0 | 0 | 53 | `research/galleries/MODERN-SPECIAL-SERIES-2020-COLOR-SHIFTERS-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-2020-COLOR-SHIFTERS-GALLERY-QA.md` |
+| **Batch total** | | **0** | **0** | **0** | **683** | | |
+
+Ten 15-column Gallery CSVs and ten page-specific QA reports were created. All CSVs are header-only because no dedicated Gallery containers were found. Inline/article/product images remain reserved for the separate Inline Image extraction; Gallery image binaries are not downloaded in this pass.
+
+Next Gallery batch: continue with the next source pages in Modern Special Series inventory order.
