@@ -1425,3 +1425,9 @@ Ten additional Modern Special Series pages scanned in inventory order. 7 pages c
 | High Speed Racing Wheels Series | 811747 | 2 | 7 | 72 | GALLERY_FOUND |
 
 Records appended to shared `GALLERY-SCAN.csv` and `GALLERY-EXTRACTION.csv`; source Git blob SHA, MANIFEST size and SHA-256, and Fandom revision retained.
+
+## Gallery scan batch 22
+
+Date: 2026-11-10
+
+Thirty additional Modern Special Series pages scanned in inventory order, continuing after High Speed Racing Wheels Series. Results: 20 GALLERY_FOUND, 9 GALLERY_SUSPECTED, 1 NO_GALLERY; 148 Gallery item records extracted; 4153 ordinary HTML img elements observed. Detailed per-page results and source provenance are recorded in `research/galleries/GALLERY-SCAN.csv`; extracted item markup is in `research/galleries/GALLERY-EXTRACTION.csv`; QA notes are in `research/galleries/GALLERY-QA.md`.
