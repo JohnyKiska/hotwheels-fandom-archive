@@ -1364,3 +1364,6 @@ Follow-up: Brian-Anna Gallery items 1–9 were split by consecutive order and ca
 
 
 McLaren FEP follow-up: Gallery items 12–14 form one evidence group. Their shared `2002_McLaren_Terry_Choy_Proto` filename stem and explicit FEP caption match the product-table image file (4) on the 2002 McLaren MP4/16 / Kimi row. This supports a strong text-level catalog association, not visual authentication. FEP = Final Engineering Pilot, per Hot Wheels Graphics explanation by Steve Vandervate (12 April 2018): https://community.creations.mattel.com/forums/topic/110257-thanks-to-brendon/. The archived captions say “No UPC Code” and “Blank Base”; these have not been independently visually verified and do not alone prove stage or provenance. Three Gallery records remain one evidence group; no product or Gallery master rows changed.
+
+
+Jaguar FEP follow-up: Gallery items 15–16 share the filename stem `FEP_Signed_2000_Jaguar_Terry_Proto`; the product-table image (3) is attached specifically to the 2000 Jaguar R2 row, supporting a high-confidence text-level association with Jaguar R2 rather than Jaguar R1. Two Gallery records remain one evidence group. “Signed by many employees” and collection attribution remain unverified source captions because image binaries were not visually inspected. No product or Gallery master rows changed.
