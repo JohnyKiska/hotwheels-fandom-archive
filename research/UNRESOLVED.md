@@ -711,3 +711,13 @@
 - [ ] Проверить whether Toy #2534 collision is source error or genuine identifier reuse.
 - [ ] Verify set-only entries and country-specific variants with packaging/catalogues.
 - [ ] Выполнить межгодовое сравнение Mainline 1986 с 1985/1987.
+
+
+## Data model validation: Other Early Series (2026-11-10)
+
+- [ ] Investigate the Action Racers Toy # 2415 collision (BMW M3 vs Ferrari 328 GTS) against source HTML/catalog evidence; do not resolve by choosing one row or assigning a global Toy # key. Source: `research/extractions/OTHER-EARLY-SERIES-ACTION-RACERS.csv`.
+- [ ] Determine whether Action Cycles Toy # 8345 represents one SKU with color variants, multiple market/product records, or source-level reuse; retain each source row separately. Source: `research/extractions/OTHER-EARLY-SERIES-ACTION-CYCLES.csv`.
+- [ ] Establish the semantics and entity type of Attack Pack `Allegiance` values (e.g. Heroic Cat Pack); do not equate them with Series, Team, or manufacturer without evidence. Source: `research/extractions/OTHER-EARLY-SERIES-ATTACK-PACK.csv`.
+- [ ] Verify the role and scope of Hot Wheels Railroad `Number` values (e.g. 5590/5591), and distinguish rolling-stock products from bundle-level numbers. Source: `research/extractions/OTHER-EARLY-SERIES-HOT-WHEELS-RAILROAD.csv`.
+- [ ] Resolve component strings in Railroad `Car 1`–`Car 3` and `Cars included` into ordered component relationships only when evidence supports a match; preserve the original text. Source: same Railroad CSV.
+- [ ] Verify Key Force `Allegiance` semantics and the mechanism/function of Key Force and Action Cycles using model-level source pages; current extraction alone does not establish mechanics. Sources: corresponding CSVs and source HTML pages.
