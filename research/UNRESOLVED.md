@@ -1497,3 +1497,13 @@
 - [ ] Разрешить состав multi-car/set sections (Roush Racing Set, PLAYERS INC, Toy Story 2 and other special sets) по явным component evidence.
 - [ ] Выполнить отдельный Gallery extraction для страниц Pro Racing 1997–2000; не считать navigation rows из основного CSV Gallery items.
 - [ ] Сверить open-wheel Team n°/Team/Year #/Series records (Reynard 97I, Swift 007.i) с источниками и определить тип значения Team без автоматического отождествления с NASCAR team field.
+
+
+## Data model validation: Pro Racing 2001–2005 (2026-11-10)
+
+- [ ] Проверить Team n°/Team # и Team values по упаковке/каталогам; определить, какие значения являются гоночной командой, спонсором или ливрейным label, не теряя source label.
+- [ ] Проверить `NEVER RELEASED` rows 2001–2003 по независимым источникам; фиксировать статус на уровне конкретной версии/записи, не casting-wide.
+- [ ] Проверить, относятся ли пустые Item Number values 2004 к отсутствию SKU или к неразмеченным/неопубликованным значениям; не заменять их Team n°.
+- [ ] Установить назначение Side View / Top View / Base View в Showcase Variation 2004 и связать эти labels с image evidence, если source HTML подтверждает.
+- [ ] Сверить Series labels Pro Racing Recreational Series, Treasure Hunt, STOCKERZ, Race Day, Showcase, Artist Collection, Justice League и Cars Movie Promo с release/assortment entities, сохраняя точный source scope.
+- [ ] Разобрать 2001–2005 unheaded tables: отделить navigation-only rows от image-view/evidence tables и product rows.
