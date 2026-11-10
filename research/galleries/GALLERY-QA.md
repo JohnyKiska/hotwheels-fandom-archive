@@ -987,3 +987,34 @@ Twenty previously unscanned pages were checked directly against their archived H
 **Batch totals:** 20 pages; 0 with Gallery markup; 20 without dedicated Gallery markup; 0 Gallery item occurrences; 0 Gallery containers; 492 ordinary image elements; 0 suspected cases.
 
 NO_GALLERY classifies only dedicated Gallery markup. Ordinary images are counted separately. The 0 Gallery item occurrences from this batch are recorded in GALLERY-SCAN.csv and GALLERY-PROGRESS.csv. They still require reconciliation with the oversized GALLERY-EXTRACTION.csv master register.
+
+## Gallery scan batch 57, 2026-11-10
+
+Twenty previously unscanned pages were checked in inventory order: 2024–2026 5-Packs, 6-Pack, Car Culture Factory Set, Universal Character Cars, Warner Bros. Character Cars, Color Reveal, and Color Shifters (2008–2020, excluding 2013).
+
+| Page | Revision | Containers | Items | img | Status |
+|---|---:|---:|---:|---:|---|
+| 2024 5-Packs | 790663 | 0 | 0 | 23 | NO_GALLERY |
+| 2025 5-Packs | 812262 | 0 | 0 | 25 | NO_GALLERY |
+| 2026 5-Packs | 810857 | 0 | 0 | 23 | NO_GALLERY |
+| 6-Pack | 608320 | 1 | 1 | 80 | GALLERY_FOUND |
+| Car Culture Factory Set | 766209 | 0 | 0 | 25 | NO_GALLERY |
+| Universal Character Cars | 638829 | 0 | 0 | 12 | NO_GALLERY |
+| Warner Bros. Character Cars | 605652 | 0 | 0 | 30 | NO_GALLERY |
+| Color Reveal | 763421 | 0 | 0 | 379 | NO_GALLERY |
+| 2008 Color Shifters | 800144 | 1 | 4 | 78 | GALLERY_FOUND |
+| 2009 Color Shifters | 800200 | 1 | 4 | 74 | GALLERY_FOUND |
+| 2010 Color Shifters | 781149 | 0 | 0 | 129 | NO_GALLERY |
+| 2011 Color Shifters | 781159 | 0 | 0 | 87 | NO_GALLERY |
+| 2012 Color Shifters | 781158 | 0 | 0 | 34 | NO_GALLERY |
+| 2014 Color Shifters | 796334 | 0 | 0 | 104 | NO_GALLERY |
+| 2015 Color Shifters | 781166 | 0 | 0 | 82 | NO_GALLERY |
+| 2016 Color Shifters | 781181 | 0 | 0 | 50 | NO_GALLERY |
+| 2017 Color Shifters | 781196 | 0 | 0 | 48 | NO_GALLERY |
+| 2018 Color Shifters | 781197 | 0 | 0 | 42 | NO_GALLERY |
+| 2019 Color Shifters | 810102 | 0 | 0 | 54 | NO_GALLERY |
+| 2020 Color Shifters | 781210 | 0 | 0 | 53 | NO_GALLERY |
+
+**Batch totals:** 20 pages; 3 GALLERY_FOUND; 17 NO_GALLERY; 3 Gallery containers; 9 Gallery items; 1432 ordinary HTML img elements; 0 GALLERY_SUSPECTED.
+
+NO_GALLERY applies only to dedicated Gallery markup. Ordinary page images remain available for the separate Inline Image extraction workflow. The batch was recorded in GALLERY-SCAN.csv and GALLERY-PROGRESS.csv; this QA section documents the same classification and source revisions.
