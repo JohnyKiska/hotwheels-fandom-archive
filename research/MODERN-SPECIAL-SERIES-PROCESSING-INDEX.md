@@ -1430,4 +1430,4 @@ Records appended to shared `GALLERY-SCAN.csv` and `GALLERY-EXTRACTION.csv`; sour
 
 Date: 2026-11-10
 
-Thirty additional Modern Special Series pages scanned in inventory order, continuing after High Speed Racing Wheels Series. Results: 20 GALLERY_FOUND, 9 GALLERY_SUSPECTED, 1 NO_GALLERY; 148 Gallery item records extracted; 4153 ordinary HTML img elements observed. Detailed per-page results and source provenance are recorded in `research/galleries/GALLERY-SCAN.csv`; extracted item markup is in `research/galleries/GALLERY-EXTRACTION.csv`; QA notes are in `research/galleries/GALLERY-QA.md`.
+Thirty additional Modern Special Series pages scanned in inventory order, continuing after High Speed Racing Wheels Series. Results: 21 GALLERY_FOUND, 9 GALLERY_SUSPECTED, 0 NO_GALLERY; 166 Gallery item records extracted; 5443 ordinary HTML img elements observed. Detailed per-page results and source provenance are recorded in `research/galleries/GALLERY-SCAN.csv`; extracted item markup is in `research/galleries/GALLERY-EXTRACTION.csv`; QA notes are in `research/galleries/GALLERY-QA.md`.
