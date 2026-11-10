@@ -702,3 +702,16 @@ Three additional Early Collections pages scanned against MANIFEST. All 3 pages c
 | Megaforce Series | 714197 | 1 | 1 | 23 | GALLERY_FOUND |
 
 All three source pages were present in MANIFEST and were scanned directly from the archived HTML. Source blob SHA, MANIFEST size/SHA-256, and Fandom revisions are recorded in GALLERY-SCAN.csv. The 69 Gallery item occurrences are pending reconciliation with GALLERY-EXTRACTION.csv because GitHub's file-content connector returns an empty payload for the 1,142,028-byte master registry. The master file was not overwritten. Ordinary inline images remain outside Gallery extraction scope.
+
+
+## Gallery scan batch 46: Early Collections, 2026-11-10
+
+Three additional Early Collections pages scanned directly from archived HTML. Two pages contain dedicated Gallery markup (2 Gallery containers; 26 Gallery items). One page is classified NO_GALLERY. Ordinary HTML img elements: 119.
+
+| Page | Revision | Containers | Items | img | Status |
+|---|---:|---:|---:|---:|---|
+| Nitty Gritty Kitty | 813920 | 1 | 24 | 73 | GALLERY_FOUND |
+| Oldies But Goodies | 767721 | 1 | 2 | 27 | GALLERY_FOUND |
+| Real Riders | 813974 | 0 | 0 | 19 | NO_GALLERY |
+
+Source blob SHA, MANIFEST size/SHA-256, and Fandom revisions are recorded in GALLERY-SCAN.csv. The 26 Gallery item occurrences are pending reconciliation with GALLERY-EXTRACTION.csv because the oversized master registry remains unreadable through the current file-content connector; it was not overwritten. Real Riders retains its ordinary images for the separate Inline Image extraction stage.
