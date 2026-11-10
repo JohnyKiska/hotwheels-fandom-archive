@@ -1485,3 +1485,15 @@
 - [ ] Типизировать New Casting и New Die-Cast Chassis как разные source assertions с датой/контекстом; проверить их по source pages/packaging.
 - [ ] Сверить 9 Gallery items 2025 года из обеих CSV parts с исходной Gallery на странице; сохранить их отдельно от embedded product-table images.
 - [ ] Проверить все image metadata, где img src является data URI, а file URL находится в anchor href; убедиться, что исходная ссылка не теряется.
+
+
+## Data model validation: Pro Racing 1997–2000 (2026-11-10)
+
+- [ ] Разобрать `Team / Number` на исходные team identity и racing number только там, где текст/ссылка однозначно поддерживают split; сохранять исходную строку. Не приравнивать это поле к `Team` в open-wheel schema.
+- [ ] Проверить, какие значения `Primary Sponsor` обозначают спонсора, а какие могут совпадать с названием команды/организации; не объединять sponsor и team.
+- [ ] Сопоставить повторяющиеся Toy # в Collector, Short Track, Superspeedway, Pit Crew и Trading Paint sections с packaging/catalog evidence; отличать повторное перечисление от реального варианта.
+- [ ] Проверить вариации Toy #17407–17414 (1997), #22555/#22570/#25001–#25004 (1999) и #28351 (2000) по notes, photos и упаковке.
+- [ ] Уточнить relationship semantics `Packaged with ...` в Tool Box tables; установить точные комплектные связи только по фото/упаковке.
+- [ ] Разрешить состав multi-car/set sections (Roush Racing Set, PLAYERS INC, Toy Story 2 and other special sets) по явным component evidence.
+- [ ] Выполнить отдельный Gallery extraction для страниц Pro Racing 1997–2000; не считать navigation rows из основного CSV Gallery items.
+- [ ] Сверить open-wheel Team n°/Team/Year #/Series records (Reynard 97I, Swift 007.i) с источниками и определить тип значения Team без автоматического отождествления с NASCAR team field.
