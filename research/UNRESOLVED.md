@@ -1474,3 +1474,14 @@
 - [ ] Review headerless exclusive tables in 2018–2022 against source HTML and section context; do not discard or infer missing headers without evidence.
 - [ ] Confirm exact retailer/territory/availability scope for Supreme Exclusive and Walmart Legends Tour Exclusive; section names alone are not sufficient proof of distribution details.
 - [ ] Validate New Casting notes and multiple Base codes at component level; preserve the original Notes text as evidence.
+
+
+## Data model validation: Car Culture Team Transport 2023–2026 (2026-11-10)
+
+- [ ] Проверить bundle-level Toy #/Series # и компонентные строки во всех годовых таблицах 2023–2026; сохранять исходный rowspan и отдельно вычисленный inherited context. Источники: соответствующие Team Transport CSV/QA.
+- [ ] Уточнить component roles (hauler/truck, trailer, passenger/race car и др.) по source HTML и фото; не выводить тип компонента только из порядка строки или имени.
+- [ ] Проверить, как Fast & Furious section 2023 соотносится с конкретными лицензированными компонентами/releases; не выводить юридическую лицензию только из section label.
+- [ ] Подтвердить distribution scope и значение Walmart Legends Tour Exclusive в 2023–2026; сохранять label как source assertion, пока retailer/territory не подтверждены.
+- [ ] Типизировать New Casting и New Die-Cast Chassis как разные source assertions с датой/контекстом; проверить их по source pages/packaging.
+- [ ] Сверить 9 Gallery items 2025 года из обеих CSV parts с исходной Gallery на странице; сохранить их отдельно от embedded product-table images.
+- [ ] Проверить все image metadata, где img src является data URI, а file URL находится в anchor href; убедиться, что исходная ссылка не теряется.
