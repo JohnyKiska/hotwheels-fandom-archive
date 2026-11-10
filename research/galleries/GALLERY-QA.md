@@ -312,3 +312,11 @@ A robust CSV parse found 4 pre-existing blank logical records in the master regi
 - Duplicate key check (`source_file + gallery_id + gallery_item_index`): 0 duplicates.
 - Appended 4 source data rows. Page-specific CSV and QA remain unchanged.
 - Master registry verified in-memory after append: 399 non-empty data rows.
+
+## Legacy consolidation check: Color Shifters 2010–2012
+
+- **2010 Color Shifters** (Fandom revision 781149): 0 dedicated Gallery containers, 0 Gallery items, 129 ordinary HTML `<img>` elements. Page CSV `research/galleries/MODERN-SPECIAL-SERIES-2010-COLOR-SHIFTERS-GALLERY.csv` is correctly header-only; no rows to merge. The per-page QA report confirms `NO_GALLERY`; ordinary images remain in scope for separate Inline Image extraction.
+- **2011 Color Shifters** (Fandom revision 781159): 0 dedicated Gallery containers, 0 Gallery items, 87 ordinary HTML `<img>` elements. Page CSV `research/galleries/MODERN-SPECIAL-SERIES-2011-COLOR-SHIFTERS-GALLERY.csv` is correctly header-only; no rows to merge. The per-page QA report confirms `NO_GALLERY`; ordinary images remain in scope for separate Inline Image extraction.
+- **2012 Color Shifters** (Fandom revision 781158): 0 dedicated Gallery containers, 0 Gallery items, 34 ordinary HTML `<img>` elements. Page CSV `research/galleries/MODERN-SPECIAL-SERIES-2012-COLOR-SHIFTERS-GALLERY.csv` is correctly header-only; no rows to merge. The per-page QA report confirms `NO_GALLERY`; ordinary images remain in scope for separate Inline Image extraction.
+
+Consolidation outcome: 3 source CSVs checked, 0 Gallery records added, 0 duplicate records, master registry left unchanged. This is a confirmed no-Gallery classification, not a claim that the pages contain no images.
