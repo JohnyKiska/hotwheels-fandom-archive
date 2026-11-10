@@ -1201,3 +1201,20 @@ Five source pages were scanned in inventory order. Gallery extraction remains se
 **Batch total:** 0 dedicated Gallery headings, 0 gallery containers, and 0 gallery items across 5 source pages. However, the source HTML contains 254 general image elements. These are inline article/product images in mix, version, or infobox content, not items in a dedicated Gallery section. The zero-item result is therefore scoped to Gallery extraction and must not be interpreted as an image-free page. All CSVs use the 15-column schema and explicitly record zero Gallery items. Gallery binaries are not downloaded in this pass.
 
 Next gallery batch: continue with the next five source pages in Modern Special Series inventory order.
+
+
+## Gallery extraction batch 8: 2017–2019 Car Culture, 2026-11-10
+
+Five source pages were scanned in inventory order. Gallery extraction remains separate from product-table and inline article-image extraction. Source blob SHAs were fetched from the repository; inventory sizes and manifest SHA-256 values match MANIFEST.csv.
+
+| Source page | Revision | Gallery headings | Gallery containers | Gallery items | General image elements observed | CSV | QA |
+|---|---:|---:|---:|---:|---:|---|---|
+| `2017 Car Culture` | 801358 | 0 | 0 | 0 | 66 | `research/galleries/MODERN-SPECIAL-SERIES-2017-CAR-CULTURE-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-2017-CAR-CULTURE-GALLERY-QA.md` |
+| `2018 Car Culture` | 760101 | 0 | 0 | 0 | 66 | `research/galleries/MODERN-SPECIAL-SERIES-2018-CAR-CULTURE-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-2018-CAR-CULTURE-GALLERY-QA.md` |
+| `2018 Car Culture: Team Transport` | 740997 | 0 | 0 | 0 | 24 | `research/galleries/MODERN-SPECIAL-SERIES-2018-CAR-CULTURE-TEAM-TRANSPORT-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-2018-CAR-CULTURE-TEAM-TRANSPORT-GALLERY-QA.md` |
+| `2019 Car Culture` | 742363 | 0 | 0 | 0 | 66 | `research/galleries/MODERN-SPECIAL-SERIES-2019-CAR-CULTURE-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-2019-CAR-CULTURE-GALLERY-QA.md` |
+| `2019 Car Culture: Team Transport` | 780158 | 0 | 0 | 0 | 36 | `research/galleries/MODERN-SPECIAL-SERIES-2019-CAR-CULTURE-TEAM-TRANSPORT-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-2019-CAR-CULTURE-TEAM-TRANSPORT-GALLERY-QA.md` |
+
+**Batch total:** 0 dedicated Gallery headings, 0 gallery containers, and 0 gallery items across 5 source pages. However, the source HTML contains 258 general image elements. These are inline article/product images in mix, version, or infobox content, not items in a dedicated Gallery section. The zero-item result is scoped to Gallery extraction and must not be interpreted as an image-free page. All five CSVs use the 15-column schema and explicitly record zero Gallery items. Gallery binaries are not downloaded in this pass.
+
+Next gallery batch: continue with the next five source pages in Modern Special Series inventory order.
