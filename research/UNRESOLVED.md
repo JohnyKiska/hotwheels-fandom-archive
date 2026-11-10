@@ -721,3 +721,13 @@
 - [ ] Verify the role and scope of Hot Wheels Railroad `Number` values (e.g. 5590/5591), and distinguish rolling-stock products from bundle-level numbers. Source: `research/extractions/OTHER-EARLY-SERIES-HOT-WHEELS-RAILROAD.csv`.
 - [ ] Resolve component strings in Railroad `Car 1`–`Car 3` and `Cars included` into ordered component relationships only when evidence supports a match; preserve the original text. Source: same Railroad CSV.
 - [ ] Verify Key Force `Allegiance` semantics and the mechanism/function of Key Force and Action Cycles using model-level source pages; current extraction alone does not establish mechanics. Sources: corresponding CSVs and source HTML pages.
+
+
+## Data model validation: Character Cars (2026-11-10)
+
+- [ ] Determine whether each Character Cars Casting Name denotes a character identity, a character-shaped toy casting, or both; model the relationship explicitly and retain the source's original field label. Sources: Minecraft, Marvel, Star Wars, Sonic the Hedgehog and Jurassic World extraction CSVs.
+- [ ] Verify IP/franchise and licensing attribution at release/packaging level; do not assume page category alone establishes the legal licensor, licensee, territory, or term.
+- [ ] Define Series Position scope for formats such as 1/6, 01, 1 and rows where Series # is absent; preserve display formatting. Sources: corresponding Character Cars CSVs.
+- [ ] Classify Photo Loose, Photo Carded and placeholder images as distinct evidence roles; specifically do not treat Sonic's `Image Not Available` loose image as a product photograph.
+- [ ] Resolve Jurassic World Complete Collection, Dominion 5-Car Collector Set and Playsets as aggregate/set/playset products, and establish component links only where source evidence is explicit.
+- [ ] Parse multiple Base codes and Wheel Type code/finish combinations as source-backed attributes without discarding original Notes or linked code-page evidence.
