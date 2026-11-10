@@ -371,3 +371,20 @@ Consolidation outcome: 3 source CSVs checked, 0 Gallery records added, 0 duplica
 Consolidation outcome: 3 source CSVs checked, 0 Gallery records added, 0 duplicates, master registry unchanged. All three are confirmed `NO_GALLERY` classifications; none of the pages is image-free.
 
 Inventory note: the scan manifest also lists 2020 Boulevard, Fast & Furious Premium Series, Flying Customs, Pop Culture, and Replica Entertainment as `NO_GALLERY`; their page-specific Gallery CSV/QA pairs were not present at the expected legacy paths in this check, so they are not counted as consolidated legacy CSVs here.
+
+
+## 2020 NO_GALLERY inventory completion: Boulevard, Fast & Furious, Flying Customs, Pop Culture, Replica Entertainment
+
+The five 2020 source HTML pages listed in `GALLERY-SCAN.csv` were fetched directly and re-counted. All five have 0 Gallery headings, 0 dedicated `wikia-gallery` containers, and 0 Gallery items. Their page-specific 15-column CSVs and QA reports are now present; all CSVs are header-only. Ordinary HTML images remain outside Gallery scope.
+
+| Source page | Revision | Ordinary HTML `<img>` elements | Gallery items | Status |
+|---|---:|---:|---:|---|
+| 2020 Hot Wheels Boulevard | 795807 | 50 | 0 | `NO_GALLERY` |
+| 2020 Fast & Furious Premium Series | 784994 | 52 | 0 | `NO_GALLERY` |
+| Flying Customs Series (2020) | 765122 | 90 | 0 | `NO_GALLERY` |
+| 2020 Pop Culture | 760105 | 50 | 0 | `NO_GALLERY` |
+| 2020 Replica Entertainment | 792794 | 46 | 0 | `NO_GALLERY` |
+
+Consolidation outcome: 5 source pages validated, 5 header-only page CSVs present, 5 page QA reports present, 0 Gallery rows added, 0 duplicate keys, and 288 ordinary HTML image elements reserved for separate Inline Image extraction. The Boulevard scan-manifest row was corrected to record its directly verified count of 50 ordinary image elements.
+
+The earlier inventory note above is superseded: these five pages are now documented with page-specific CSV/QA pairs. `NO_GALLERY` is not an image-free classification.
