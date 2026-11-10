@@ -472,3 +472,42 @@ QA для всех четырёх лет подтверждает сохране
 28. Team n°/Team #, Team label, Series и Item Number являются разными source concepts; team number не заменяет product identifier.
 29. NEVER RELEASED в фото-колонках является release-status assertion, а не изображением или пустым фото.
 30. Showcase Variation подтверждает необходимость классифицировать unheaded tables по содержимому и роли; Side/Top/Base View могут описывать угол image evidence.
+
+
+## Проверочная партия 8: Basic Pro Racing и Pro Racing 1:43 Scale
+
+Проверены Basic Pro Racing Series и Larger Scale Pro Racing 1:43 Scale.
+
+| Dataset | Таблиц | Строк | Embedded images | Ссылок |
+|---|---:|---:|---:|---:|
+| Basic Pro Racing Series | 11 | 124 | 245 | 504 |
+| Pro Racing 1:43 Scale | 1 | 41 | QA не сообщает | QA не сообщает |
+
+### 32. Basic Pro Racing is a separate release scope, not a duplicate of annual Pro Racing
+
+Basic Pro Racing Series содержит 124 строки за 1997–2002 годы, включая Basic Pro Racing Cart, Grand Prix Kart Racing и отдельную Roush Racing/Valvoline Diamond Anniversary section. Основная схема совпадает с ранними NASCAR-like таблицами (`Casting`, `Team / Number`, `Primary Sponsor`, body/base, wheel, Toy #, Country, Notes, package/loose photos), но это отдельный source dataset и assortment context. В 2002 встречается alphanumeric Toy # `BA003-0910`; другая строка имеет пустой Toy # и note о baggie series, содержащей преимущественно premium cars.
+
+Подтверждение:
+- Не объединять Basic Pro Racing и annual Pro Racing только по совпадению Casting/Team/Toy #; хранить source dataset, page, section и release context.
+- Toy # должен храниться как строковый идентификатор, поддерживающий alphanumeric values и leading zeros; не приводить к integer.
+- Baggie series и Kart Racing sections требуют собственных product/packaging context; не предполагать стандартную blister/card упаковку.
+- Повтор Toy #17416 в Basic Pro Racing 1997 с разными sponsor/variant descriptions показывает, что Toy # не является ключом для одной неизменной конфигурации.
+
+### 33. Pro Racing 1:43 has a distinct scale-specific source schema
+
+1:43 dataset содержит одну таблицу Vehicles и 41 строку. Исходные 11 headers: Casting, Year, Color, Tampo, Base Color, Interior Color, Wheel Type, Toy #, Country, Notes, Photo. Export дополнительно содержит нормализованные поля Col #, Series, Sticker и другие; однако Col #, Series и Sticker отсутствуют в исходных headers и должны оставаться null/unsupported, а не заполняться догадками.
+
+Подтверждение:
+- 1:43 scale — scope этой таблицы/коллекции; его следует сохранять на уровне source collection/release, не выводить из Casting name.
+- `Year` обозначает год гоночной машины/модельного представления в source table, не обязательно год выпуска игрушки.
+- `Tampo` содержит как racing numbers (`#17`, `#18`, `#1`, `#2`), так и driver names (`David`, `Mika`, `Kimi`); это marking/decal evidence, не Toy # и не автоматически отдельный Driver entity.
+- В 41 строке Toy # заполнен только у одной записи (55573); остальные пустые значения не следует восстанавливать из Tampo/Year.
+- Notes содержат packaging relationships: Single Pack, World Champions 2-Pack, Constructors Champions 4 Pack, Part of a 3 Pack, Comes in a 2 Pack, Book package. Set/package membership должна быть отдельной связью.
+- Photo values смешивают Image Not Available placeholders, website assets, prototype/sample references и несколько связанных image labels в одной ячейке. Это не однородный image URL field; сохранять raw value и тип evidence.
+- Notes вроде `Might be a 2nd version` — неопределённое source assertion, а не подтверждённый variant relationship.
+
+## Обновлённые выводы после партии 8
+
+32. Basic Pro Racing — отдельный assortment/source scope; повторные идентификаторы и похожие поля не дают основания сливать его строки с annual Pro Racing.
+33. Toy # должен поддерживать буквенно-цифровые строки; Year в 1:43 таблице относится к машине/гоночному сезону, а не автоматически к выпуску игрушки.
+34. 1:43 Tampo может хранить racing numbers и driver-name markings, тогда как Photo/Notes могут содержать placeholder, website asset, prototype и set-package evidence; эти роли требуют раздельной типизации.
