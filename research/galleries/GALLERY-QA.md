@@ -1080,3 +1080,46 @@ Twenty next-in-queue pages in Notable Modern Themed Assortments were scanned, co
 **Batch totals:** 20 pages; 11 GALLERY_FOUND; 9 NO_GALLERY; 12 Gallery containers; 62 Gallery items; 1589 ordinary HTML img elements; 1406 file-link markers; 0 GALLERY_SUSPECTED.
 
 NO_GALLERY means no dedicated Gallery container was detected. Inline/file-linked images are counted separately and remain in scope for Inline Image extraction.
+
+## Gallery scan batch 60, 2026-11-10
+
+Thirty next-in-queue pages scanned across HW Winter, Neon Speeders, Pantone, Pearl and Chrome Anniversary, Retro Style, Spring, Stars & Stripes, The Beatles Yellow Submarine, Throwback, Ultra Hots, and Vintage Racing Club.
+
+| Page | Revision | Containers | Items | img | File links | Status |
+|---|---:|---:|---:|---:|---:|---|
+| HW Winter Series (2020) | 675206 | 1 | 3 | 24 | 15 | GALLERY_FOUND |
+| HW Winter Series (2021) | 692068 | 0 | 0 | 16 | 10 | NO_GALLERY |
+| HW Winter Series (2022) | 675210 | 1 | 3 | 22 | 13 | GALLERY_FOUND |
+| HW Winter Series (2023) | 675211 | 0 | 0 | 16 | 10 | NO_GALLERY |
+| HW Winter Series (2024) | 675212 | 1 | 8 | 32 | 18 | GALLERY_FOUND |
+| Neon Speeders Series (2023) | 812896 | 1 | 7 | 213 | 200 | GALLERY_FOUND |
+| Pantone Series (2026) | 813979 | 1 | 10 | 67 | 51 | GALLERY_FOUND |
+| 50th Anniversary Black and Gold Series (2018) | 785115 | 1 | 10 | 40 | 24 | GALLERY_FOUND |
+| 55th Anniversary Black and Yellow Series (2023) | 733641 | 0 | 0 | 31 | 25 | NO_GALLERY |
+| Blue and Gold Series (2026) | 816057 | 1 | 15 | 62 | 41 | GALLERY_FOUND |
+| Blue and Pink Series (2022) | 689959 | 0 | 0 | 28 | 22 | NO_GALLERY |
+| Green and Gold Series (2024) | 714283 | 1 | 1 | 32 | 25 | GALLERY_FOUND |
+| Orange and Blue Series (2021) | 615337 | 1 | 2 | 32 | 24 | GALLERY_FOUND |
+| Pearl and Chrome Series (2020) | 615333 | 0 | 0 | 20 | 14 | NO_GALLERY |
+| Purple and Gold Series (2025) | 788844 | 1 | 2 | 34 | 26 | GALLERY_FOUND |
+| Satin and Chrome Series (2019) | 621877 | 0 | 0 | 20 | 14 | NO_GALLERY |
+| Retro Style Series (2016) | 808184 | 0 | 0 | 68 | 62 | NO_GALLERY |
+| Spring Series (2018) | 673082 | 0 | 0 | 12 | 6 | NO_GALLERY |
+| Spring Series (2019) | 673085 | 0 | 0 | 18 | 12 | NO_GALLERY |
+| Spring Series (2020) | 701516 | 0 | 0 | 12 | 6 | NO_GALLERY |
+| Spring Series (2021) | 673087 | 0 | 0 | 16 | 10 | NO_GALLERY |
+| Spring Series (2022) | 673090 | 0 | 0 | 16 | 10 | NO_GALLERY |
+| Spring Series (2023) | 673092 | 0 | 0 | 16 | 10 | NO_GALLERY |
+| Spring Series (2024) | 694043 | 1 | 4 | 25 | 15 | GALLERY_FOUND |
+| Spring Series (2025) | 673095 | 0 | 0 | 16 | 10 | GALLERY_SUSPECTED |
+| Stars & Stripes Series | 762846 | 0 | 0 | 98 | 92 | NO_GALLERY |
+| The Beatles Yellow Submarine Series (2016) | 653516 | 0 | 0 | 18 | 12 | NO_GALLERY |
+| Throwback Series (2019) | 746888 | 1 | 8 | 54 | 40 | GALLERY_FOUND |
+| Ultra Hots Series (2022) | 815791 | 1 | 7 | 121 | 108 | GALLERY_FOUND |
+| Vintage Racing Club Series (2024) | 703020 | 1 | 1 | 31 | 24 | GALLERY_FOUND |
+
+**Batch totals:** 30 pages; 14 GALLERY_FOUND; 15 NO_GALLERY; 1 GALLERY_SUSPECTED; 14 Gallery containers; 81 Gallery items; 1210 ordinary HTML img elements; 949 file-link markers.
+
+**Manual-review note:** Spring Series (2025) contains a Gallery heading but no dedicated gallery container or gallery items in the archived HTML. It is marked GALLERY_SUSPECTED rather than NO_GALLERY to avoid losing a possible extraction target.
+
+NO_GALLERY means no dedicated Gallery container was detected. Inline/file-linked images are counted separately and remain in scope for Inline Image extraction.
