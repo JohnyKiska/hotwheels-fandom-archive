@@ -779,3 +779,37 @@ Totals: 5 pages; 7 Gallery containers; 294 Gallery items; 1,126 ordinary HTML im
 Classification: GALLERY_FOUND=5; GALLERY_SUSPECTED=0; NO_GALLERY=0.
 
 Extraction master CSV reconciliation remains pending. These 294 item occurrences are recorded in GALLERY-SCAN and GALLERY-PROGRESS, but have not yet been appended to GALLERY-EXTRACTION.csv. Do not count them as consolidated extraction rows until that reconciliation is completed.
+
+
+## Gallery scan batch 51: Early Special Series, 2026-11-10
+
+Twenty additional Early Special Series pages scanned in manifest order using the expanded batch workflow. 16 pages contain Gallery markup (23 Gallery containers; 242 Gallery items). 4 pages are classified NO_GALLERY. Ordinary HTML img elements: 1602. No pages require GALLERY_SUSPECTED review.
+
+| Page | Revision | Containers | Items | img | Status |
+|---|---:|---:|---:|---:|---|
+| Color FX | 801858 | 1 | 36 | 138 | GALLERY_FOUND |
+| Convertables | 794672 | 1 | 25 | 71 | GALLERY_FOUND |
+| Crack-Ups | 775587 | 1 | 18 | 86 | GALLERY_FOUND |
+| Crashers (1999) | 771989 | 2 | 12 | 49 | GALLERY_FOUND |
+| Crashers (2007) | 756909 | 1 | 6 | 117 | GALLERY_FOUND |
+| Farbs | 792207 | 1 | 3 | 19 | GALLERY_FOUND |
+| Fireworks | 705092 | 1 | 3 | 17 | GALLERY_FOUND |
+| Flip Outs | 771465 | 1 | 7 | 35 | GALLERY_FOUND |
+| Flippers | 796617 | 2 | 20 | 189 | GALLERY_FOUND |
+| Gran Toros | 814941 | 1 | 16 | 68 | GALLERY_FOUND |
+| HiWay Hauler | 705096 | 0 | 0 | 11 | NO_GALLERY |
+| Hot Birds | 811914 | 1 | 16 | 54 | GALLERY_FOUND |
+| Hot Line | 774797 | 1 | 3 | 33 | GALLERY_FOUND |
+| Hot Shots | 770326 | 1 | 4 | 23 | GALLERY_FOUND |
+| Hot Wheels U.S.A. | 706375 | 0 | 0 | 20 | NO_GALLERY |
+| Hot Wheels World | 813763 | 2 | 17 | 172 | GALLERY_FOUND |
+| Law Mill | 705110 | 0 | 0 | 9 | NO_GALLERY |
+| Motorized X-V Racers | 797677 | 1 | 42 | 192 | GALLERY_FOUND |
+| Needle Nose | 705107 | 0 | 0 | 12 | NO_GALLERY |
+| Planet Micro | 804429 | 5 | 14 | 287 | GALLERY_FOUND |
+
+Totals: 20 pages; 23 Gallery containers; 242 Gallery items; 1602 ordinary HTML img elements.
+
+Classification: GALLERY_FOUND=16; GALLERY_SUSPECTED=0; NO_GALLERY=4.
+
+NO_GALLERY pages retain their ordinary inline images for the separate Inline Image extraction workflow. Master GALLERY-EXTRACTION.csv reconciliation remains pending; these 242 item occurrences are logged in the scan/progress ledgers but are not yet counted as consolidated extraction rows.
