@@ -62,3 +62,23 @@ The nine consecutive Brian-Anna image records resolve into three source-captione
 | 7–9 | Item 7 caption: Williams Package prototype; files Brian Anna F1 (7)–(9) | One Williams package-prototype evidence group, three views | Williams FW21 (1999) is a possible candidate, but package-to-casting identity is not confirmed |
 
 The grouping is based on consecutive gallery order, filenames and the first caption in each three-image run. The six uncaptained images inherit no new factual description beyond their placement in those runs. Image binaries were not visually inspected, so package artwork, exact model identity, prototype status and release relationship remain unverified. These are three evidence groups, not nine products. No product rows were added or altered.
+
+
+## Follow-up: McLaren FEP Gallery items 12–14
+
+Archived HTML confirms that Gallery items 12–14 form one three-image evidence group. Their file names share the stem `2002_McLaren_Terry_Choy_Proto` and the archived captions are:
+- Item 12: `FEP 2002 McLaren F1 (Terry Choy collection)`, file `2002 McLaren Terry Choy Proto (1).png`.
+- Item 13: `No UPC Code`, file `2002 McLaren Terry Choy Proto (3).png`.
+- Item 14: `Blank Base`, file `2002 McLaren Terry Choy Proto (2).png`.
+
+The same archived page's product table contains a 2002 `McLaren MP4/16` row, driver `Kimi`, with its table image file named `2002 McLaren Terry Choy Proto (4).png`. The shared distinctive filename stem, matching year and McLaren description, and the table's explicit MP4/16/Kimi row make **McLaren MP4/16 (2002, Kimi) a strong catalog association** for this evidence group. This is substantially stronger than a year-only guess. The row image is a fourth related file in the table, not an additional Gallery item.
+
+Terminology check: FEP means **Final Engineering Pilot** in Hot Wheels' own development terminology. In a 2018 Ask Hot Wheels forum explanation, Steve Vandervate, identified as Hot Wheels Graphics, describes an FEP as a decorated sample sent to Graphics for review of fit, finish and execution; Graphics, Engineering/Planning and Marketing receive copies. This is a late-stage engineering/deco review sample, not simply a generic synonym for any prototype. Source: https://community.creations.mattel.com/forums/topic/110257-thanks-to-brendon/ (Steve Vandervate post, 12 April 2018). The Hot Wheels Wiki also has a dedicated FEP glossary entry: https://hotwheels.fandom.com/wiki/Final_engineering_pilot.
+
+Interpretation limits:
+- The archived captions identify the Gallery subject as an FEP and label two views as showing no UPC and a blank base. We have not visually inspected the image binaries, so these physical features are recorded as source-caption claims, not independently verified observations.
+- Missing UPC and a blank base are consistent with a pre-production engineering sample, but neither feature alone proves the exact development stage or authenticates provenance.
+- The page attributes the material to the Terry Choy collection. That attribution is preserved as page metadata, not independently authenticated provenance.
+- The catalog association to MP4/16 is strong at the page-record level; exact casting/deco comparison and sample authenticity remain unverified.
+
+**Disposition:** retain items 12–14 as one FEP evidence group and link it to the 2002 McLaren MP4/16 / Kimi catalog row with high text-level confidence, evidence basis `shared filename stem + explicit Gallery caption + matching 2002 McLaren table row`. Do not create a new product row or change the product master. No image binary was visually inspected.
