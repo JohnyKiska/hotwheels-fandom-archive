@@ -329,3 +329,10 @@ Consolidation outcome: 3 source CSVs checked, 0 Gallery records added, 0 duplica
 - **2015 Color Shifters** (Fandom revision 781166): 0 Gallery containers and 0 Gallery items. `research/galleries/MODERN-SPECIAL-SERIES-2015-COLOR-SHIFTERS-GALLERY.csv` is correctly header-only; no Gallery records to merge. Per-page QA explicitly records zero Gallery items. Ordinary HTML images, where present, remain queued for separate Inline Image extraction.
 
 Consolidation outcome: 4 source CSVs checked, 0 Gallery records added, 0 duplicates, master registry unchanged.
+
+## Legacy consolidation check: 2016 Car Culture and Color Shifters
+
+- **2016 Car Culture** (Fandom revision 801361): 0 Gallery headings, 0 Gallery containers, and 0 Gallery items. Page CSV `research/galleries/MODERN-SPECIAL-SERIES-2016-CAR-CULTURE-GALLERY.csv` is header-only and its per-page QA confirms an explicit zero-item result. The source contains 46 ordinary HTML image elements, which remain queued for separate Inline Image extraction.
+- **2016 Color Shifters** (Fandom revision 781181): 0 Gallery headings, 0 exact `wikia-gallery` containers, and 0 Gallery items. Page CSV `research/galleries/MODERN-SPECIAL-SERIES-2016-COLOR-SHIFTERS-GALLERY.csv` is header-only and its per-page QA confirms no dedicated Gallery. The source contains 50 ordinary HTML image elements, which remain queued for separate Inline Image extraction.
+
+Consolidation outcome: 2 source CSVs checked, 0 Gallery records added, 0 duplicates, master registry unchanged. These are confirmed `NO_GALLERY` classifications, not claims that the pages contain no images.
