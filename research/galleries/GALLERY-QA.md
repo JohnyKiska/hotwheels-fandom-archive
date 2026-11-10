@@ -664,3 +664,15 @@ Three additional Early Collections pages scanned against MANIFEST. All 3 pages c
 | Evil Weevil | 772324 | 1 | 24 | 68 | GALLERY_FOUND |
 
 All 28 Gallery item occurrences were checked against the existing extraction register by source page and filename and appended once. The generic filename Back of Patch Card.jpg occurs on two different source pages and both page-specific occurrences are retained. Each record preserves source HTML, image metadata, captions, file-page links, and image URLs. Source blob SHA, MANIFEST size/SHA-256, and Fandom revisions are recorded in the scan register.
+
+## Gallery scan batch 43: Early Collections, 2026-11-10
+
+Three additional Early Collections pages scanned against MANIFEST. 2 pages contain dedicated Gallery markup (2 Gallery containers; 34 Gallery items). 1 page classified NO_GALLERY. Ordinary HTML img elements: 160.
+
+| Page | Revision | Containers | Items | img | Status |
+|---|---:|---:|---:|---:|---|
+| Extras | 765024 | 0 | 0 | 24 | NO_GALLERY |
+| Grand Prix | 787981 | 1 | 1 | 19 | GALLERY_FOUND |
+| Heavy Chevy | 808320 | 1 | 33 | 117 | GALLERY_FOUND |
+
+All 34 Gallery items were checked against the extraction register by source page and filename and appended once. Ordinary images on Extras are retained for future Inline Image Extraction.
