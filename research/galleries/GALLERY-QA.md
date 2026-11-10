@@ -715,3 +715,18 @@ Three additional Early Collections pages scanned directly from archived HTML. Tw
 | Real Riders | 813974 | 0 | 0 | 19 | NO_GALLERY |
 
 Source blob SHA, MANIFEST size/SHA-256, and Fandom revisions are recorded in GALLERY-SCAN.csv. The 26 Gallery item occurrences are pending reconciliation with GALLERY-EXTRACTION.csv because the oversized master registry remains unreadable through the current file-content connector; it was not overwritten. Real Riders retains its ordinary images for the separate Inline Image extraction stage.
+
+
+## Gallery scan batch 47: Early Collections, 2026-11-10
+
+Five additional Early Collections pages scanned directly from archived HTML. Two pages contain dedicated Gallery markup (2 Gallery containers; 3 Gallery items). Three pages are classified NO_GALLERY. Ordinary HTML img elements: 933.
+
+| Page | Revision | Containers | Items | img | Status |
+|---|---:|---:|---:|---:|---|
+| Flying Colors | 795936 | 0 | 0 | 641 | NO_GALLERY |
+| Rescue Team | 767735 | 1 | 2 | 22 | GALLERY_FOUND |
+| Speed Demons | 726384 | 0 | 0 | 50 | NO_GALLERY |
+| Speed Fleet | 799650 | 0 | 0 | 158 | NO_GALLERY |
+| Speed Machines (1983) | 714212 | 1 | 1 | 62 | GALLERY_FOUND |
+
+Source blob SHA, MANIFEST size/SHA-256, and Fandom revisions are recorded in GALLERY-SCAN.csv. The 3 Gallery item occurrences are pending reconciliation with GALLERY-EXTRACTION.csv because the oversized master registry remains unreadable through the current file-content connector; it was not overwritten. The 933 ordinary images remain outside Gallery extraction scope and are candidates for the separate Inline Image extraction stage.
