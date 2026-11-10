@@ -1168,3 +1168,19 @@ Five source pages were scanned in inventory order. Gallery extraction remains se
 **Batch total:** 2 gallery containers and 7 gallery items across 5 source pages; 2 pages contained Gallery items. All five source blob SHAs matched the current inventory. Gallery assets are recorded as source URLs and file-page links; binaries are not downloaded in this pass.
 
 Next gallery batch: continue with the next five source pages in Modern Special Series inventory order.
+
+## Gallery extraction batch 6: 2013 through 2023 Hot Wheels Boulevard, 2026-11-10
+
+Five source pages were scanned in inventory order. Gallery extraction remains separate from product-table extraction.
+
+| Source page | Revision | Gallery headings | Gallery containers | Gallery items | CSV | QA |
+|---|---:|---:|---:|---:|---|---|
+| `2013 Hot Wheels Boulevard` | 699818 | 0 | 0 | 0 | `research/galleries/MODERN-SPECIAL-SERIES-2013-HOT-WHEELS-BOULEVARD-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-2013-HOT-WHEELS-BOULEVARD-GALLERY-QA.md` |
+| `2020 Hot Wheels Boulevard` | 795807 | 0 | 0 | 0 | `research/galleries/MODERN-SPECIAL-SERIES-2020-HOT-WHEELS-BOULEVARD-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-2020-HOT-WHEELS-BOULEVARD-GALLERY-QA.md` |
+| `2021 Hot Wheels Boulevard` | 774850 | 0 | 0 | 0 | `research/galleries/MODERN-SPECIAL-SERIES-2021-HOT-WHEELS-BOULEVARD-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-2021-HOT-WHEELS-BOULEVARD-GALLERY-QA.md` |
+| `2022 Hot Wheels Boulevard` | 705948 | 0 | 0 | 0 | `research/galleries/MODERN-SPECIAL-SERIES-2022-HOT-WHEELS-BOULEVARD-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-2022-HOT-WHEELS-BOULEVARD-GALLERY-QA.md` |
+| `2023 Hot Wheels Boulevard` | 690403 | 0 | 0 | 0 | `research/galleries/MODERN-SPECIAL-SERIES-2023-HOT-WHEELS-BOULEVARD-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-2023-HOT-WHEELS-BOULEVARD-GALLERY-QA.md` |
+
+**Batch total:** 0 gallery containers and 0 gallery items across 5 source pages; 0 pages contained Gallery items. All five source blob SHAs matched the current inventory. Gallery assets are recorded as source URLs and file-page links; binaries are not downloaded in this pass.
+
+Next gallery batch: continue with the next five source pages in Modern Special Series inventory order.
