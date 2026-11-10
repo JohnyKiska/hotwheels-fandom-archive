@@ -13,5 +13,6 @@
 - Output CSV: `research/galleries/MODERN-SPECIAL-SERIES-2024-POP-CULTURE-GALLERY.csv`
 - Schema: 15 columns, matching the consolidated Gallery extraction schema.
 - Duplicate key check: passed (`source_file + gallery_id + gallery_item_index`).
+- Consolidation note: four pre-existing records for this source used synthetic IDs (`gallery-1` through `gallery-4`); these duplicate records were replaced by the four source-accurate records using the actual Gallery ID (`gallery-0`).
 - Raw item markup retained for all four records.
 - Result: four dedicated Gallery items. General article/product images remain outside this extraction.
