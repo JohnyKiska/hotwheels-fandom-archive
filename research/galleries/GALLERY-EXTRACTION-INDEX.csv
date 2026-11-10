@@ -9,7 +9,7 @@ GALLERY-EXTRACTION-07.csv,1501,1750,250,250,READY,Recovered from existing master
 GALLERY-EXTRACTION-08.csv,1751,2000,250,250,READY,Recovered from existing master CSV; source rows preserved
 GALLERY-EXTRACTION-09.csv,2001,2250,250,250,READY,Recovered from existing master CSV; source rows preserved
 GALLERY-EXTRACTION-10.csv,2251,2500,250,250,READY,Recovered from existing master CSV; source rows preserved
-GALLERY-EXTRACTION-11.csv,2501,2546,46,250,PARTIAL,Recovered from existing master CSV; source rows preserved
-GALLERY-EXTRACTION-12.csv,2547,2796,0,250,PENDING,Reserved for missing source-derived Gallery item records
-GALLERY-EXTRACTION-13.csv,2797,3046,0,250,PENDING,Reserved for missing source-derived Gallery item records
-GALLERY-EXTRACTION-14.csv,3047,3296,0,250,PENDING,Reserved for missing source-derived Gallery item records
+GALLERY-EXTRACTION-11.csv,2501,2750,46,250,PARTIAL,46 existing records; 204 slots remain for source-derived recovery
+GALLERY-EXTRACTION-12.csv,2751,3000,0,250,PENDING,Reserved for missing source-derived Gallery item records
+GALLERY-EXTRACTION-13.csv,3001,3250,0,250,PENDING,Reserved for missing source-derived Gallery item records
+GALLERY-EXTRACTION-14.csv,3251,3350,0,100,PENDING,Final part; 100 records expected
