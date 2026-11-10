@@ -1341,3 +1341,8 @@ Annual pages with Gallery: 1998 (4 items), 1999 (12), 2000 (12), 2002 (1). Annua
 Master verification: all 100 expected records already exist in `GALLERY-EXTRACTION.csv`; each page count matches `GALLERY-SCAN.csv`; all 100 source-page/gallery/item keys are unique. No additional rows were appended, avoiding duplication. `GALLERY-PROGRESS.csv` already lists all 13 pages as SCANNED with matching counts.
 
 Evidence note: gallery contents include international card artwork, packaging/set views, pre-production sample imagery, advertising inserts, prototypes, and website assets. Gallery membership alone does not establish a product identity or variant. Raw item markup, filename, alt text, caption, file-page link, and image URL remain part of the evidence record.
+
+
+## Pro Racing inline image audit, 2026-11-10
+
+Audited all five annual Pro Racing pages classified NO_GALLERY (1997, 2001, 2003, 2004, 2005). Across 527 HTML image elements, 497 occur inside product tables and are already preserved in the corresponding annual extraction CSVs through `cell_image_metadata_json` and `raw_row_html`. The other 30 are site/community header and Fandom footer branding assets. No additional article-body inline images were found outside product tables. No duplicate image stream or Gallery rows were created. See `research/extractions/PRO-RACING-INLINE-IMAGE-AUDIT.md` for page-level counts and source blob SHAs.
