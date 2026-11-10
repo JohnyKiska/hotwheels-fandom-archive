@@ -1449,3 +1449,7 @@ The first ten Modern Special Series inventory pages from legacy Gallery extracti
 ## Gallery legacy migration tranche 2
 
 Inventory pages 11–20 from legacy Gallery extraction batches 3–4 were reconciled into the consolidated Gallery registers. Ten page-specific CSV/QA pairs were validated; 72 Gallery item rows were appended. This tranche contains 6 GALLERY_FOUND pages and 4 NO_GALLERY pages. Cumulative legacy migration now covers 20 pages and 128 Gallery item rows. General HTML image and Gallery marker counts remain blank where original QA did not record them.
+
+## Gallery legacy migration tranche 3
+
+Inventory pages 21–30 from legacy Gallery extraction batches 5–6 were reconciled into the consolidated Gallery registers. Ten page-specific CSV/QA pairs were validated; 7 Gallery item rows were appended. This tranche contains 2 GALLERY_FOUND pages and 8 NO_GALLERY pages. Cumulative legacy migration now covers 30 pages and 135 Gallery item rows, with 10 GALLERY_FOUND and 20 NO_GALLERY. General HTML image and Gallery marker counts remain blank where original QA did not record them.
