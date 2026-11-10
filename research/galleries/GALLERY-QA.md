@@ -652,3 +652,15 @@ Three additional Early Collections pages scanned against MANIFEST. 1 page contai
 | Classics | 757207 | 0 | 0 | 56 | NO_GALLERY |
 
 All 22 Boss Hoss Gallery items were checked against the existing extraction register by filename and appended once with source HTML, image metadata, captions, file-page links, and image URLs. NO_GALLERY pages retain ordinary images for future Inline Image Extraction. Source blob SHA, MANIFEST size/SHA-256, and Fandom revisions are recorded in the scan register.
+
+## Gallery scan batch 42: Early Collections, 2026-11-10
+
+Three additional Early Collections pages scanned against MANIFEST. All 3 pages contain dedicated Gallery markup (3 Gallery containers; 28 Gallery items). Ordinary HTML img elements: 147.
+
+| Page | Revision | Containers | Items | img | Status |
+|---|---:|---:|---:|---:|---|
+| Classy Customs | 767675 | 1 | 2 | 35 | GALLERY_FOUND |
+| Drag Strippers | 767718 | 1 | 2 | 44 | GALLERY_FOUND |
+| Evil Weevil | 772324 | 1 | 24 | 68 | GALLERY_FOUND |
+
+All 28 Gallery item occurrences were checked against the existing extraction register by source page and filename and appended once. The generic filename Back of Patch Card.jpg occurs on two different source pages and both page-specific occurrences are retained. Each record preserves source HTML, image metadata, captions, file-page links, and image URLs. Source blob SHA, MANIFEST size/SHA-256, and Fandom revisions are recorded in the scan register.
