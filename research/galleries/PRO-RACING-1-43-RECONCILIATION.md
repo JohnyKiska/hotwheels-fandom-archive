@@ -93,3 +93,17 @@ Archived HTML confirms two Gallery views in one evidence group:
 The product table has separate 2000 rows for Jaguar R1 and Jaguar R2. The Jaguar R2 row specifically carries the image file `FEP Signed 2000 Jaguar Terry Proto (3).png`, sharing the distinctive filename stem with the two Gallery views. This creates a strong page-record association with **Jaguar R2 (2000)**, not Jaguar R1. The third file is the table-row image, not a third Gallery item.
 
 Disposition: group Gallery items 15–16 with the Jaguar R2 row at high text-level confidence, based on shared filename stem and direct placement of the matching (3) file in that row. Do not create a new product row or alter the product master. The archived caption's “signed by many employees” and Terry Choy collection attribution are recorded as source claims only. Image binaries were not visually inspected; the signatures, base details, casting/deco identity, sample authenticity and provenance remain unverified. The FEP terminology is defined in the preceding McLaren follow-up. No Gallery master rows were changed.
+
+
+## Follow-up: King of the Desert Ferrari F2004 Gallery evidence
+
+The archived Gallery contains three views in one sample group:
+- Item 17: `2004 King of the Desert Sample Terry Proto (2).jpg`, caption “King of the Desert Sample piece (Terry Choy collection)”.
+- Item 18: `2004 King of the Desert Sample Terry Proto (3).jpg`, caption “Comes with some dirt?”
+- Item 19: `2004 King of the Desert Sample Terry Proto (5).jpg`, no caption.
+
+The product table has a distinct 2004 **Ferrari F2004 / King of the Desert** row. Its table image is `2004 King of the Desert Sample Terry Proto (1).jpg`, sharing the exact distinctive filename stem with all three Gallery records. This makes the association direct and high-confidence at the archived page-record level. The table image is a separate product-row image, not a fourth Gallery item.
+
+The “Comes with some dirt?” caption is explicitly a question. It does not establish whether dirt/mud is a deliberate deco feature, residue on the sample, or merely a visual impression. The Terry Choy collection attribution is preserved as source metadata, not authenticated provenance. Image binaries were not visually inspected, so no claims are made about the physical sample's finish, dirt, casting details or authenticity.
+
+**Disposition:** retain Gallery items 17–19 as one sample evidence group linked to the 2004 Ferrari F2004 / King of the Desert catalog row, high text-level confidence based on exact shared filename stem and matching row title/year. No new product row and no product/Gallery master edits.
