@@ -415,3 +415,60 @@ QA для всех четырёх лет подтверждает сохране
 25. Повтор Toy # между ассортиментами, вариантами ливреи и упаковки подтверждает, что он не является глобальным ключом; исходные строки остаются самостоятельными source records.
 26. Tool Box и тематические sets показывают, что racing context может быть у неавтомобильных продуктов и упаковок; необходимы отдельные product type и package/component relationships.
 27. Схема Pro Racing зависит от года и гоночной дисциплины; source headers и table scope должны сохраняться без насильственного сведения к единому набору колонок.
+
+
+## Проверочная партия 7: Pro Racing (2001–2005)
+
+Проверены годовые QA и CSV за 2001–2005 годы.
+
+| Год | Таблиц | Строк | Embedded images | Ссылок |
+|---|---:|---:|---:|---:|
+| 2001 | 16 | 93 | 94 | 192 |
+| 2002 | 13 | 93 | 86 | 189 |
+| 2003 | 16 | 134 | 139 | 268 |
+| 2004 | 7 | 71 | 70 | 157 |
+| 2005 | 4 | 21 | 38 | 68 |
+| **Всего** | **56** | **412** | **427** | **874** |
+
+### 28. Team number and team/livery labels persist, but Series context changes
+
+В 2001–2004 основная схема — `Team n°`, `Team`, `Wheels`, `Series`, `Photo`; в 2005 заголовок меняется на `Team #`. `Team` содержит значения вроде Kelloggs, Pfizer, M&M's Yellow, Alltel, Tide, Valvoline и другие, то есть это source label для командно-спонсорской/ливрейной идентичности, а не надёжно выделенное юридическое имя гоночной команды. В 2003 STOCKERZ появляется отдельная схема `Casting`, `Team`, `Team #`, `Wheels`, `Photo`, `Photo Sealed`.
+
+Подтверждение:
+- Сохранять Team n° и Team # как разные source header labels, даже если нормализованный слой позднее сопоставит их с одним concept.
+- Team number не является Toy #; у большинства записей 2001–2005 Toy # вообще отсутствует в source schema.
+- `Team` не следует автоматически трактовать как manufacturer, formal racing team или Primary Sponsor без отдельного подтверждения.
+- `Series` является отдельным source context: Pro Racing, Pro Racing Recreational Series, Pro Racing Treasure Hunt, STOCKERZ, Race Day, Pro Racing Showcase, Pro Racing Artist Collection, Pro Racing Justice League и Cars Movie Promo.
+
+### 29. Never-released status is not a missing photo
+
+В 2001, 2002 и 2003 строки содержат текст `NEVER RELEASED` в колонках Photo, Photo Loose или Photo Carded. Примеры: Anglia Panel Truck #45 (2001), несколько моделей в 2002, а также ATV/Bass Boat/Hammered Coupe entries в 2003.
+
+Подтверждение:
+- Значение `NEVER RELEASED` — содержательное source assertion о статусе выпуска, а не filename, image URL или обычное пустое поле изображения.
+- Image evidence и release status должны быть разными типами данных; не терять текст статуса при нормализации фото-колонок.
+- Не превращать статус в глобальное утверждение о casting: он относится к конкретной строке/версии/заявленному ассортименту источника, пока не проверен отдельно.
+
+### 30. Item Number, team number and product identifier are distinct
+
+В 2004 появляется дополнительный `Item Number` в таблице Dodge Intrepid Stocker, но проверенные значения пусты; строка Pit Cruiser также имеет пустой Item Number при заполненных Team n° и Team. В 2001 четыре строки используют дополнительные поля Toy # и Card, но основной schema Toy # не содержит.
+
+Подтверждение:
+- Не подставлять Team n°/Team # в Item Number или Toy #.
+- Отсутствие значения Item Number при наличии колонки — missing value, а отсутствие самой колонки в других таблицах — schema scope.
+- Разные source schemas могут быть локальными даже на одной странице/в одном году.
+
+### 31. Showcase variation tables preserve image-view and unheaded context
+
+В 2004 секция Showcase Variation содержит две строки в таблице без detected headers: первая перечисляет `Side View`, `Top View`, `Base View`, вторая содержит пустые значения. Другие unheaded tables в 2001–2005 содержат годовые навигационные ссылки; они остаются в extraction как source rows, но не являются товарными позициями.
+
+Подтверждение:
+- Unheaded table не должна автоматически становиться product table; требуется учитывать cell content и section context.
+- Side/Top/Base View — image-view labels, потенциально относящиеся к evidence angles, а не атрибуты casting или release.
+- Навигационные строки сохраняются как raw source data, но исключаются из product entity creation.
+
+## Обновлённые выводы после партии 7
+
+28. Team n°/Team #, Team label, Series и Item Number являются разными source concepts; team number не заменяет product identifier.
+29. NEVER RELEASED в фото-колонках является release-status assertion, а не изображением или пустым фото.
+30. Showcase Variation подтверждает необходимость классифицировать unheaded tables по содержимому и роли; Side/Top/Base View могут описывать угол image evidence.
