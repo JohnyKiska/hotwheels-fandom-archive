@@ -82,3 +82,14 @@ Interpretation limits:
 - The catalog association to MP4/16 is strong at the page-record level; exact casting/deco comparison and sample authenticity remain unverified.
 
 **Disposition:** retain items 12–14 as one FEP evidence group and link it to the 2002 McLaren MP4/16 / Kimi catalog row with high text-level confidence, evidence basis `shared filename stem + explicit Gallery caption + matching 2002 McLaren table row`. Do not create a new product row or change the product master. No image binary was visually inspected.
+
+
+## Follow-up: signed Jaguar FEP Gallery items 15–16
+
+Archived HTML confirms two Gallery views in one evidence group:
+- Item 15: `FEP Signed 2000 Jaguar Terry Proto (1).png`, captioned “Signed by many Employees FEP Prototoype (Terry Choy collection)”.
+- Item 16: `FEP Signed 2000 Jaguar Terry Proto (2).png`, captioned “Base”.
+
+The product table has separate 2000 rows for Jaguar R1 and Jaguar R2. The Jaguar R2 row specifically carries the image file `FEP Signed 2000 Jaguar Terry Proto (3).png`, sharing the distinctive filename stem with the two Gallery views. This creates a strong page-record association with **Jaguar R2 (2000)**, not Jaguar R1. The third file is the table-row image, not a third Gallery item.
+
+Disposition: group Gallery items 15–16 with the Jaguar R2 row at high text-level confidence, based on shared filename stem and direct placement of the matching (3) file in that row. Do not create a new product row or alter the product master. The archived caption's “signed by many employees” and Terry Choy collection attribution are recorded as source claims only. Image binaries were not visually inspected; the signatures, base details, casting/deco identity, sample authenticity and provenance remain unverified. The FEP terminology is defined in the preceding McLaren follow-up. No Gallery master rows were changed.
