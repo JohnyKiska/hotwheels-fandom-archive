@@ -139,3 +139,27 @@ The Gallery filename and caption directly identify the same four-pack set. This 
 The Terry Choy collection attribution is an archived caption claim, not authenticated provenance. Image binaries were not visually inspected, so the package contents, car details and authenticity remain unverified.
 
 **Disposition:** associate Gallery item 22 with the Chrome Constructors Champions 4-pack as one set-level evidence record spanning the four explicitly linked catalog rows (F399 / F1-2000 / F2001 / F2002). Do not create four Gallery records or alter product/Gallery master data.
+
+
+
+## Follow-up: Gallery items 23–25, 2001 Ferrari World Champion and Williams Compaq samples
+
+A closer item-by-item comparison corrects the earlier broad grouping of items 23–25. These are two distinct evidence groups, not one Compaq cluster.
+
+**Gallery item 23 — Ferrari F2001 World Champion**
+- Gallery file: `2001 World Champion Sample Terry (2).jpg`.
+- Archived caption: “2001 World Champion Sample piece (Terry Choy collection)”.
+- The product table contains a separate `Ferrari F2001 2001 World Champion Single Pack` row with thumbnail `2001 World Champion Sample Terry (1).jpg`.
+- The shared distinctive filename stem, matching 2001 World Champion wording and direct table-row image placement support a high-confidence text-level association with the Ferrari F2001 World Champion Single Pack row.
+- The table thumbnail (1) is not an additional Gallery item. The Gallery record (2) remains one evidence image.
+
+**Gallery items 24–25 — Williams FW21 Compaq samples**
+- Item 24: `2001 Compaq Terry Sample (2).jpg`, captioned “2001 Compaq Sample piece (Terry Choy collection)”.
+- Item 25: `2001 Compaq Terry Sample (3).jpg`, no caption.
+- The product table has two 2001 Williams FW21 Compaq/racing-decal rows: #5 (yellow helmet) and #6 (white helmet). The #5 row carries thumbnail `2001 Compaq Terry Sample (1).jpg`, sharing the distinctive filename stem with Gallery items 24–25.
+- This supports a high-confidence text-level association of the two Gallery records with the Williams FW21 Compaq sample family. It does not establish whether item 24 or 25 depicts #5 or #6; no item-level split is asserted.
+
+**Evidence limits and disposition**
+The Gallery captions and table filenames are archived text/metadata. Image binaries were not visually inspected. The Terry Choy collection attribution is preserved as a source-caption claim, not authenticated provenance. No physical sample details, helmet colors, signatures or authenticity claims are made from the image filenames.
+
+Retain item 23 as one Ferrari F2001 World Champion evidence record. Retain items 24–25 as one two-view Williams FW21 Compaq evidence group, with the #5/#6 row-level mapping unresolved. Do not merge item 23 into the Compaq group, create new products, or modify product/Gallery master rows.
