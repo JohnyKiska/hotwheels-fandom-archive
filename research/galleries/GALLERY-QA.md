@@ -402,3 +402,15 @@ Four 2021 source HTML pages were fetched directly. The fetched Git blob SHA matc
 | 2021 Replica Entertainment | 737627 | 46 | 0 | `NO_GALLERY` |
 
 Consolidation outcome: 4 source pages checked, 4 header-only page CSVs verified, 4 page QA reports present, 0 Gallery rows added, 0 duplicates, and 184 ordinary HTML image elements reserved for separate Inline Image extraction. The master Gallery extraction register is unchanged.
+
+
+## 2021 Car Culture and Team Transport: direct source verification
+
+The two 2021 Car Culture source pages were fetched directly. Their Git blob SHAs match the page-specific QA records. Both have 0 Gallery headings, 0 Gallery item markers, and 0 Gallery items. Their page CSVs are header-only and QA files already exist. Missing inventory metadata in the two scan-manifest rows has now been restored from the page QA records.
+
+| Source page | Revision | Gallery items | Ordinary HTML `<img>` elements | Status |
+|---|---:|---:|---:|---|
+| 2021 Car Culture | 703018 | 0 | 86 | `NO_GALLERY` |
+| 2021 Car Culture: Team Transport | 789564 | 0 | 46 | `NO_GALLERY` |
+
+Consolidation outcome: 2 pages re-fetched, 2 header-only CSVs verified, 2 QA reports verified, 0 Gallery rows added, 0 duplicates, and 132 ordinary HTML images reserved for separate Inline Image extraction. The two incomplete `GALLERY-SCAN.csv` rows were corrected with source blob SHA, manifest byte size, manifest SHA-256, zero Gallery counts, and image counts.
