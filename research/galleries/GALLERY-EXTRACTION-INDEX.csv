@@ -1,0 +1,15 @@
+part_file,first_record,last_record,current_records,target_records,state,notes
+GALLERY-EXTRACTION-01.csv,1,250,250,250,READY,Recovered from existing master CSV; source rows preserved
+GALLERY-EXTRACTION-02.csv,251,500,250,250,READY,Recovered from existing master CSV; source rows preserved
+GALLERY-EXTRACTION-03.csv,501,750,250,250,READY,Recovered from existing master CSV; source rows preserved
+GALLERY-EXTRACTION-04.csv,751,1000,250,250,READY,Recovered from existing master CSV; source rows preserved
+GALLERY-EXTRACTION-05.csv,1001,1250,250,250,READY,Recovered from existing master CSV; source rows preserved
+GALLERY-EXTRACTION-06.csv,1251,1500,250,250,READY,Recovered from existing master CSV; source rows preserved
+GALLERY-EXTRACTION-07.csv,1501,1750,250,250,READY,Recovered from existing master CSV; source rows preserved
+GALLERY-EXTRACTION-08.csv,1751,2000,250,250,READY,Recovered from existing master CSV; source rows preserved
+GALLERY-EXTRACTION-09.csv,2001,2250,250,250,READY,Recovered from existing master CSV; source rows preserved
+GALLERY-EXTRACTION-10.csv,2251,2500,250,250,READY,Recovered from existing master CSV; source rows preserved
+GALLERY-EXTRACTION-11.csv,2501,2546,46,250,PARTIAL,Recovered from existing master CSV; source rows preserved
+GALLERY-EXTRACTION-12.csv,2547,2796,0,250,PENDING,Reserved for missing source-derived Gallery item records
+GALLERY-EXTRACTION-13.csv,2797,3046,0,250,PENDING,Reserved for missing source-derived Gallery item records
+GALLERY-EXTRACTION-14.csv,3047,3296,0,250,PENDING,Reserved for missing source-derived Gallery item records
