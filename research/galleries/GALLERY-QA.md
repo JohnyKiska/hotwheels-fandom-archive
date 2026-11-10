@@ -1351,3 +1351,10 @@ Audited all five annual Pro Racing pages classified NO_GALLERY (1997, 2001, 2003
 ## Pro Racing Gallery evidence classification, 2026-11-10
 
 First-pass evidence-type classification completed for all 100 existing Pro Racing Gallery records. Counts: 9 card artwork/card variations; 41 packaging, set and packaging-comparison images; 4 advertising/promotional records; 35 prototype/pre-production/sample records; 2 damaged-packaging records; 2 resin-driver-figure records; 5 website assets; 1 signed hauler/variant evidence record; and 1 unclassified Racing Selects lot image. This is not product-level identity confirmation. Multiple views remain grouped as evidence for one candidate subject; uncertain captions/associations are retained. No Gallery master rows were changed. See `PRO-RACING-GALLERY-CLASSIFICATION.md`.
+
+
+## Pro Racing 1:43 Gallery-to-catalog reconciliation, 2026-11-10
+
+Compared all 55 Gallery items on the archived Pro Racing 1:43 Scale page (Fandom revision 815866) with the page's 41 product-table rows. Created `research/galleries/PRO-RACING-1-43-RECONCILIATION.md` with 14 candidate evidence clusters, candidate row references, confidence notes and unresolved cases. Strong text-level candidates include King of the Desert / Ferrari F2004, 2003 Ferrari F1 / F2003-GA, the Chrome Constructors Champions 4-pack, 2003 World Champions, 150 GP Wins / Ferrari F2002, and the Ferrari F1 World Champions six-car set. The six-car set remains one candidate subject with 14 images, not 14 products.
+
+This pass used archived captions, filenames and table text; image binaries were not visually inspected. Candidate links are not confirmed product identities. No Gallery master rows or product master rows were changed. Uncertain Brian-Anna packaging, resin driver, McLaren/Jaguar FEP, Compaq image assignment, Bahrain/Sakhir split, Racing Helmet EP, website assets and 1999 Ferrari? prototype remain explicitly unresolved.
