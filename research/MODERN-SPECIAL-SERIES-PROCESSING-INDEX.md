@@ -1286,3 +1286,18 @@ Five source pages were scanned. One page, `DC Character Cars`, contains two dedi
 **Batch total:** 2 dedicated Gallery section headings, 2 gallery containers, 4 Gallery items, and 438 general HTML image elements across 5 source pages. Five 15-column CSVs and five QA reports were created. Gallery image binaries are not downloaded in this pass.
 
 Next Gallery batch: continue with the next source pages in Modern Special Series inventory order.
+
+## Gallery extraction batch 13
+
+Processed five Character Cars source pages:
+- `Disney Character Cars`: 22 Gallery item(s) in `research/galleries/MODERN-SPECIAL-SERIES-DISNEY-CHARACTER-CARS-GALLERY.csv`; QA: `research/galleries/MODERN-SPECIAL-SERIES-DISNEY-CHARACTER-CARS-GALLERY-QA.md`.
+- `DreamWorks Character Cars`: 0 Gallery item(s) in `research/galleries/MODERN-SPECIAL-SERIES-DREAMWORKS-CHARACTER-CARS-GALLERY.csv`; QA: `research/galleries/MODERN-SPECIAL-SERIES-DREAMWORKS-CHARACTER-CARS-GALLERY-QA.md`.
+- `Godzilla Character Cars`: 0 Gallery item(s) in `research/galleries/MODERN-SPECIAL-SERIES-GODZILLA-CHARACTER-CARS-GALLERY.csv`; QA: `research/galleries/MODERN-SPECIAL-SERIES-GODZILLA-CHARACTER-CARS-GALLERY-QA.md`.
+- `Good Luck Trolls Character Cars`: 0 Gallery item(s) in `research/galleries/MODERN-SPECIAL-SERIES-GOOD-LUCK-TROLLS-CHARACTER-CARS-GALLERY.csv`; QA: `research/galleries/MODERN-SPECIAL-SERIES-GOOD-LUCK-TROLLS-CHARACTER-CARS-GALLERY-QA.md`.
+- `Jurassic World Character Cars`: 0 Gallery item(s) in `research/galleries/MODERN-SPECIAL-SERIES-JURASSIC-WORLD-CHARACTER-CARS-GALLERY.csv`; QA: `research/galleries/MODERN-SPECIAL-SERIES-JURASSIC-WORLD-CHARACTER-CARS-GALLERY-QA.md`.
+
+- **Total source `<img>` elements:** 463
+- **Total Gallery items:** 22
+- **Gallery CSV schema:** 15 columns.
+- Pages without dedicated Gallery containers still have header-only CSVs and QA records; inline/article/product images remain for the separate Inline Image extraction.
+- Source blob SHA, manifest size/SHA-256, and Fandom revision IDs are recorded in each QA file.
