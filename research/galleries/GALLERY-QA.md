@@ -96,3 +96,10 @@ Segment totals: 7 GALLERY_FOUND; 3 GALLERY_SUSPECTED; 0 NO_GALLERY; 28 Gallery i
 | 2013 Pop Culture _ Hot Wheels Wiki _ Fandom.html | 811399 | 0 | 0 | 126 | GALLERY_SUSPECTED |
 
 Segment totals: 6 GALLERY_FOUND; 4 GALLERY_SUSPECTED; 0 NO_GALLERY; 58 Gallery items; 854 ordinary img elements.
+
+
+## Gallery scan batch 22: consolidated totals
+
+30 pages processed in three internal segments. 20 pages contain standard Gallery markup; 9 are classified GALLERY_SUSPECTED for review; 1 are classified NO_GALLERY. Gallery item records added: 148. Ordinary HTML img elements observed: 4153. Gallery class tags counted: 42.
+
+Classification totals: GALLERY_FOUND=20; GALLERY_SUSPECTED=9; NO_GALLERY=1. The GALLERY_SUSPECTED pages require manual inspection of non-standard markup; NO_GALLERY does not mean image-free, and ordinary images remain queued for Inline Image extraction.
