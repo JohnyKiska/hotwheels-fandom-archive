@@ -78,3 +78,21 @@ Segment totals: 7 GALLERY_FOUND; 2 GALLERY_SUSPECTED; 1 NO_GALLERY; 62 Gallery i
 | List of 2015 Hot Wheels _ Hot Wheels Wiki _ Fandom.html | 790646 | 0 | 0 | 443 | GALLERY_SUSPECTED |
 
 Segment totals: 7 GALLERY_FOUND; 3 GALLERY_SUSPECTED; 0 NO_GALLERY; 28 Gallery items; 2092 ordinary img elements.
+
+
+## Gallery scan batch 22, segment 3/3
+
+| Page | Revision | Containers | Items | img | Status |
+|---|---:|---:|---:|---:|---|
+| Live Wire (Sizzlers) _ Hot Wheels Wiki _ Fandom.html | 710348 | 0 | 0 | 20 | GALLERY_SUSPECTED |
+| Longcount _ Hot Wheels Wiki _ Fandom.html | 697556 | 2 | 2 | 12 | GALLERY_FOUND |
+| Mario Kart _ Hot Wheels Wiki _ Fandom.html | 811416 | 2 | 24 | 360 | GALLERY_FOUND |
+| McDonald's AcceleRacers Series _ Hot Wheels Wiki _ Fandom.html | 760783 | 2 | 17 | 56 | GALLERY_FOUND |
+| Moon Ghost _ Hot Wheels Wiki _ Fandom.html | 716200 | 0 | 0 | 8 | GALLERY_SUSPECTED |
+| Mustang Boss 302 _ Hot Wheels Wiki _ Fandom.html | 810620 | 2 | 3 | 25 | GALLERY_FOUND |
+| Nightspeed Mini Collection (2026) _ Hot Wheels Wiki _ Fandom.html | 809805 | 0 | 0 | 27 | GALLERY_SUSPECTED |
+| Nostalgic Brands _ Hot Wheels Wiki _ Fandom.html | 798356 | 2 | 1 | 184 | GALLERY_FOUND |
+| Pocket Bikester _ Hot Wheels Wiki _ Fandom.html | 796823 | 2 | 11 | 36 | GALLERY_FOUND |
+| 2013 Pop Culture _ Hot Wheels Wiki _ Fandom.html | 811399 | 0 | 0 | 126 | GALLERY_SUSPECTED |
+
+Segment totals: 6 GALLERY_FOUND; 4 GALLERY_SUSPECTED; 0 NO_GALLERY; 58 Gallery items; 854 ordinary img elements.
