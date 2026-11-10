@@ -1166,3 +1166,7 @@ Thirty next-in-queue pages scanned in inventory order, beginning with Other Earl
 **Manual-review note:** Hot Wheels Monster Jam Series (2008) contains a Gallery heading but no dedicated Gallery container or items in the archived HTML. It is marked GALLERY_SUSPECTED rather than NO_GALLERY pending review.
 
 NO_GALLERY means no dedicated Gallery container was detected. Inline/file-linked images are counted separately and remain in scope for Inline Image extraction.
+
+## Inventory denominator correction after batch 61
+
+A fresh row count of GALLERY-PROGRESS.csv shows 560 inventory records, not 530 as stated in the batch 60 summary. The earlier 442/530 figure therefore used an incorrect denominator. After batch 61, the verified totals are 472 SCANNED and 88 NOT_SCANNED, which is 84.3% of the 560-page inventory. Status totals among scanned pages: 211 GALLERY_FOUND, 250 NO_GALLERY, and 11 GALLERY_SUSPECTED. No source records were dropped; this correction reconciles the denominator only.
