@@ -1370,3 +1370,6 @@ Jaguar FEP follow-up: Gallery items 15–16 share the filename stem `FEP_Signed_
 
 
 King of the Desert follow-up: Gallery items 17–19 use the filename stem `2004_King_of_the_Desert_Sample_Terry_Proto` and map to the product-table Ferrari F2004 / 2004 / King of the Desert row, whose thumbnail is file (1). High-confidence text-level association; the table thumbnail is not a fourth Gallery record. The “Comes with some dirt?” caption is a question and does not prove intentional mud/dirt deco. Image binaries were not visually inspected; no product or Gallery master rows changed.
+
+
+Ferrari F2003-GA follow-up: Gallery items 20–21 (`2003 Ferrari F1 Sample Terry (1).jpg` and `(3).jpg`) share the distinctive filename stem with the 2003 Ferrari F2003-GA table thumbnail `(2).jpg`, supporting one high-confidence text-level sample-group association. The adjacent F1 World Champions row has a different image stem and remains separate. Terry Choy attribution is an unverified archived caption; image binaries were not visually inspected. No product or Gallery master rows changed.
