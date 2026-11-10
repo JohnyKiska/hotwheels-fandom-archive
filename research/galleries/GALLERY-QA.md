@@ -343,3 +343,11 @@ Consolidation outcome: 2 source CSVs checked, 0 Gallery records added, 0 duplica
 - **2017 Color Shifters** (Fandom revision 781196): 0 Gallery headings, 0 exact `wikia-gallery` containers, and 0 Gallery items. Its page-specific CSV is header-only and the per-page QA confirms no dedicated Gallery. The source contains 48 ordinary HTML image elements, reserved for separate Inline Image extraction.
 
 Consolidation outcome: 2 source CSVs checked, 0 Gallery records added, 0 duplicates, master registry unchanged. Both are confirmed `NO_GALLERY` classifications; neither page is image-free.
+
+
+## Legacy consolidation check: 2018 Car Culture and Color Shifters
+
+- **2018 Car Culture** (Fandom revision 760101): 0 Gallery headings, 0 Gallery containers, and 0 Gallery items. Its page-specific CSV is header-only; the per-page QA confirms an explicit zero-item result. The source contains 66 ordinary HTML image elements, reserved for separate Inline Image extraction.
+- **2018 Color Shifters** (Fandom revision 781197): 0 Gallery headings, 0 exact `wikia-gallery` containers, and 0 Gallery items. Its page-specific CSV is header-only; the per-page QA confirms no dedicated Gallery. The source contains 42 ordinary HTML image elements, reserved for separate Inline Image extraction.
+
+Consolidation outcome: 2 source CSVs checked, 0 Gallery records added, 0 duplicates, master registry unchanged. Both are confirmed `NO_GALLERY` classifications; neither page is image-free.
