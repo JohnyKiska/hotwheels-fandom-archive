@@ -463,3 +463,12 @@ Three 2024 source HTML pages were fetched directly and recounted. Each has 0 Gal
 | Then and Now Mini Collection (2024) | 812967 | 0 | 20 | `NO_GALLERY` |
 
 Consolidation outcome: 3 pages verified, 3 header-only CSVs checked, 3 QA reports present, 0 Gallery rows added, 0 duplicates, and 136 ordinary HTML images reserved for separate Inline Image extraction.
+
+
+## Gallery extraction batch 23: 2024 Pop Culture
+
+| Page | Revision | Containers | Items | General img |
+|---|---:|---:|---:|---:|
+| 2024 Pop Culture | 795063 | 1 | 4 | 70 |
+
+Four dedicated Gallery items extracted from the source HTML and appended to the consolidated master. Page CSV and QA created; duplicate-key check passed. Ordinary article/product images remain reserved for Inline Image extraction.
