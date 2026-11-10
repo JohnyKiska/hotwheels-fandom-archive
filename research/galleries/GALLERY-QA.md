@@ -1373,3 +1373,6 @@ King of the Desert follow-up: Gallery items 17–19 use the filename stem `2004_
 
 
 Ferrari F2003-GA follow-up: Gallery items 20–21 (`2003 Ferrari F1 Sample Terry (1).jpg` and `(3).jpg`) share the distinctive filename stem with the 2003 Ferrari F2003-GA table thumbnail `(2).jpg`, supporting one high-confidence text-level sample-group association. The adjacent F1 World Champions row has a different image stem and remains separate. Terry Choy attribution is an unverified archived caption; image binaries were not visually inspected. No product or Gallery master rows changed.
+
+
+Chrome Constructors Champions 4-pack follow-up: Gallery item 22 (`Ferrari F1 Chrome Constructors Champs 4 pack (1).PNG`) is one set-level record. Its filename/caption match four product-table rows explicitly describing the 2002 Chrome Constructors Champions 4 Pack: Ferrari F399 (represents 1999), Ferrari F1-2000 (2000), Ferrari F2001 (2001), and Ferrari F2002 (2002). Treat this as one Gallery image associated with the four-pack, not four separate Gallery subjects or four independently verified car images. Terry Choy attribution remains an unverified archived caption; image binaries were not visually inspected. No product or Gallery master rows changed.
