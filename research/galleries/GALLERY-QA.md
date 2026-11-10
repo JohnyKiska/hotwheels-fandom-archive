@@ -1256,3 +1256,18 @@ The final 28 pages in the inventory were scanned. This completes the Gallery Ext
 ## Gallery Extraction completion, 2026-11-10
 
 All 530 unique inventory pages have been scanned. Final status totals: 242 GALLERY_FOUND, 277 NO_GALLERY, and 11 GALLERY_SUSPECTED. Across all 530 pages, the scan recorded 3,350 Gallery item occurrences in 321 Gallery containers, 45,745 ordinary HTML img elements, and 6,403 File-link markers. NO_GALLERY means no dedicated Gallery container was detected; it does not mean the page contains no images. Inline images remain a separate extraction stream. The 11 GALLERY_SUSPECTED records remain flagged for manual review rather than being silently classified as NO_GALLERY.
+
+
+## Manual resolution batch 25: suspected markers, 2026-11-10
+
+Five earliest unresolved `GALLERY_SUSPECTED` pages in Modern Special Series inventory order were reviewed against their archived HTML. All five source blob SHAs matched the inventory and their Fandom revision IDs were confirmed. Each page had zero Gallery headings, zero dedicated Gallery containers, and zero Gallery items. The single legacy marker on each page was the advertising targeting value `loc:"gallery"`, not an article gallery. All five scan-register statuses were resolved to `NO_GALLERY`.
+
+| Source page | Revision | Source blob SHA | Source size (bytes) | General HTML img elements | Result |
+|---|---:|---|---:|---:|---|
+| `Hot Wheels Garage Series (2016)` | 693533 | `2c8c5377e4ed2f43f0913cd1f0478c403d9e2283` | 329921 | 26 | NO_GALLERY |
+| `HW Designed By Mini Collection (2025)` | 699726 | `aab02dec426191f3ad25b814b33b3e66a06173e6` | 316665 | 16 | NO_GALLERY |
+| `List of 2013 Hot Wheels` | 790643 | `71b9118f2d89bcb902f5af2f150c215171221878` | 827451 | 445 | NO_GALLERY |
+| `List of 2014 Hot Wheels` | 804340 | `1e783b2afc09b732525ecd936e795ad4c5674bf9` | 831825 | 443 | NO_GALLERY |
+| `List of 2015 Hot Wheels` | 790646 | `8b28669c7960e0eaf0b8ceb47ca44ab51b48d200` | 815228 | 443 | NO_GALLERY |
+
+**Batch total:** 5 pages; 0 Gallery headings; 0 Gallery containers; 0 Gallery items; 1,373 ordinary HTML img elements observed and left outside this Gallery pass. Five 15-column header-only CSVs and five page-specific QA reports were created. Product-table and inline/article images were not extracted.
