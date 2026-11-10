@@ -1317,3 +1317,19 @@ Five source pages were scanned. Dedicated Gallery containers were identified by 
 **Batch total:** 0 Gallery items and 609 general HTML image elements across five pages. Five 15-column CSVs and five QA reports were created. Gallery image binaries are not downloaded in this pass.
 
 Next Gallery batch: continue with the next source pages in Modern Special Series inventory order.
+
+
+## Gallery extraction batch 15
+
+Processed five Character Cars source pages:
+
+| Source page | `<img>` tags | Gallery containers | Gallery items |
+|---|---:|---:|---:|
+| Minions Character Cars | 42 | 0 | 0 |
+| Overwatch Character Cars | 29 | 0 | 0 |
+| Power Rangers Megaforce | 31 | 1 | 1 |
+| Rugrats Character Cars | 16 | 0 | 0 |
+| Sanrio Character Cars | 32 | 0 | 0 |
+| **Total** | **150** | **1** | **1** |
+
+Each page has a 15-column Gallery CSV and a page-specific QA report. Inline/article/product images remain outside this stage and are candidates for the separate Inline Image extraction. All ten outputs are subject to post-write fetch verification.
