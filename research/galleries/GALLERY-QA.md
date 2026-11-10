@@ -1123,3 +1123,46 @@ Thirty next-in-queue pages scanned across HW Winter, Neon Speeders, Pantone, Pea
 **Manual-review note:** Spring Series (2025) contains a Gallery heading but no dedicated gallery container or gallery items in the archived HTML. It is marked GALLERY_SUSPECTED rather than NO_GALLERY to avoid losing a possible extraction target.
 
 NO_GALLERY means no dedicated Gallery container was detected. Inline/file-linked images are counted separately and remain in scope for Inline Image extraction.
+
+## Gallery scan batch 61, 2026-11-10
+
+Thirty next-in-queue pages scanned in inventory order, beginning with Other Early Series and continuing through Hot Wheels Monster Jam (2010). Each archived HTML source was fetched from the repository and checked for Fandom Gallery containers, item markup, headings, ordinary image elements, and File links. Source Git blob SHA, MANIFEST size and SHA-256, and Fandom revision are retained in GALLERY-SCAN.csv.
+
+| Source page | Revision | Containers | Items | img | File links | Status |
+|---|---:|---:|---:|---:|---:|---|
+| Action Cycles | 805727 | 1 | 23 | 79 | 23 | GALLERY_FOUND |
+| Action Racers | 804304 | 2 | 155 | 384 | 155 | GALLERY_FOUND |
+| Attack Pack | 814556 | 1 | 17 | 132 | 17 | GALLERY_FOUND |
+| Hot Wheels Railroad | 719660 | 0 | 0 | 38 | 0 | NO_GALLERY |
+| Key Force | 810055 | 1 | 29 | 82 | 29 | GALLERY_FOUND |
+| 1_50 Dropstars | 816784 | 0 | 0 | 149 | 0 | NO_GALLERY |
+| 2026 Superstar Speeders | 816197 | 1 | 6 | 66 | 6 | GALLERY_FOUND |
+| Atomix | 815732 | 3 | 16 | 196 | 16 | GALLERY_FOUND |
+| Bash-Ups | 781658 | 0 | 0 | 22 | 0 | NO_GALLERY |
+| Battle X | 759461 | 0 | 0 | 24 | 0 | NO_GALLERY |
+| Custom Classics | 790518 | 1 | 88 | 269 | 88 | GALLERY_FOUND |
+| Custom Motors | 778729 | 1 | 21 | 49 | 21 | GALLERY_FOUND |
+| Extreme Shoxx | 676390 | 1 | 4 | 33 | 4 | GALLERY_FOUND |
+| Ferrari X-V | 809740 | 1 | 8 | 34 | 8 | GALLERY_FOUND |
+| G-Machines | 790520 | 0 | 0 | 168 | 0 | NO_GALLERY |
+| Hot Import Nights | 663201 | 1 | 2 | 75 | 2 | GALLERY_FOUND |
+| Hot Tunerz | 797673 | 0 | 0 | 79 | 0 | NO_GALLERY |
+| Hot Wheels 1_87 Scale Series | 800134 | 1 | 29 | 123 | 29 | GALLERY_FOUND |
+| Hot Wheels Haulers | 814771 | 1 | 13 | 439 | 13 | GALLERY_FOUND |
+| 2000 Monster Jam Series | 665635 | 1 | 2 | 18 | 2 | GALLERY_FOUND |
+| 2001 Monster Jam Series | 759244 | 0 | 0 | 21 | 0 | NO_GALLERY |
+| 2002 Monster Jam Series | 759245 | 1 | 6 | 52 | 6 | GALLERY_FOUND |
+| 2003 Monster Jam Series | 759230 | 1 | 8 | 69 | 8 | GALLERY_FOUND |
+| 2004 Monster Jam Series | 759218 | 1 | 17 | 107 | 17 | GALLERY_FOUND |
+| 2005 Monster Jam Series | 779739 | 1 | 2 | 72 | 2 | GALLERY_FOUND |
+| 2006 Monster Jam Series | 779740 | 1 | 3 | 69 | 3 | GALLERY_FOUND |
+| 2007 Monster Jam Series | 757572 | 1 | 3 | 94 | 3 | GALLERY_FOUND |
+| 2008 Monster Jam Series | 691314 | 0 | 0 | 89 | 0 | GALLERY_SUSPECTED |
+| 2009 Monster Jam Series | 691330 | 0 | 0 | 111 | 0 | NO_GALLERY |
+| 2010 Monster Jam Series | 779743 | 1 | 76 | 255 | 76 | GALLERY_FOUND |
+
+**Batch totals:** 30 pages; 21 GALLERY_FOUND; 8 NO_GALLERY; 1 GALLERY_SUSPECTED; 24 Gallery containers; 528 Gallery items; 3398 ordinary HTML img elements; 528 File-link markers.
+
+**Manual-review note:** Hot Wheels Monster Jam Series (2008) contains a Gallery heading but no dedicated Gallery container or items in the archived HTML. It is marked GALLERY_SUSPECTED rather than NO_GALLERY pending review.
+
+NO_GALLERY means no dedicated Gallery container was detected. Inline/file-linked images are counted separately and remain in scope for Inline Image extraction.
