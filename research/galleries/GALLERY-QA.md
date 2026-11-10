@@ -108,3 +108,45 @@ Classification totals: GALLERY_FOUND=21; GALLERY_SUSPECTED=9; NO_GALLERY=0. The 
 ### Batch 22 source retrieval correction: Hot Wheels Classics
 
 The initial `fetch_file` response for this 1.44 MB HTML file was empty, so the page was temporarily recorded as NO_GALLERY. Retrieved the actual Git blob successfully and rescanned it. Corrected status to GALLERY_FOUND; revision 804424; 2 Gallery class tags; 18 Gallery items; 1290 ordinary img elements. Appended 18 extracted Gallery item records.
+
+
+## Gallery scan batch 23, 2026-11-10
+
+Thirty additional pages processed in Modern Special Series inventory order, continuing after 2013 Pop Culture. All source pages were retrieved from the repository and scanned for dedicated Fandom Gallery markup. Gallery item records preserve the source Git blob SHA, source size, Fandom revision, filenames, captions, file links, image URLs, and raw item HTML.
+
+| Source page | Revision | Gallery containers | Gallery items | General HTML img elements | Gallery markers | Status |
+|---|---:|---:|---:|---:|---:|---|
+| 2014 Pop Culture | 783625 | 0 | 0 | 114 | 0 | NO_GALLERY |
+| 2015 Pop Culture | 783697 | 0 | 0 | 78 | 0 | NO_GALLERY |
+| 2016 Pop Culture | 783413 | 0 | 0 | 78 | 0 | NO_GALLERY |
+| 2017 Pop Culture | 760100 | 0 | 0 | 70 | 0 | NO_GALLERY |
+| 2018 Pop Culture | 760103 | 0 | 0 | 58 | 0 | NO_GALLERY |
+| 2019 Pop Culture | 760104 | 0 | 0 | 46 | 0 | NO_GALLERY |
+| 2020 Pop Culture | 760105 | 0 | 0 | 50 | 0 | NO_GALLERY |
+| 2021 Pop Culture | 693965 | 0 | 0 | 46 | 0 | NO_GALLERY |
+| 2022 Pop Culture | 760109 | 0 | 0 | 46 | 0 | NO_GALLERY |
+| 2023 Pop Culture | 800211 | 0 | 0 | 46 | 0 | NO_GALLERY |
+| 2024 Pop Culture | 795063 | 1 | 4 | 70 | 16 | GALLERY_FOUND |
+| 2025 Pop Culture | 779713 | 0 | 0 | 67 | 0 | NO_GALLERY |
+| 2026 Pop Culture | 816093 | 1 | 5 | 74 | 18 | GALLERY_FOUND |
+| Premium Collector Set | 808975 | 0 | 0 | 157 | 0 | NO_GALLERY |
+| 1997 Pro Racing | 783371 | 0 | 0 | 162 | 0 | NO_GALLERY |
+| 1998 Pro Racing | 764854 | 2 | 4 | 414 | 24 | GALLERY_FOUND |
+| 1999 Pro Racing | 801821 | 4 | 12 | 373 | 56 | GALLERY_FOUND |
+| 2000 Pro Racing | 809610 | 1 | 12 | 334 | 32 | GALLERY_FOUND |
+| 2001 Pro Racing | 792684 | 0 | 0 | 100 | 0 | NO_GALLERY |
+| 2002 Pro Racing | 765107 | 1 | 1 | 94 | 10 | GALLERY_FOUND |
+| 2003 Pro Racing | 783974 | 0 | 0 | 145 | 0 | NO_GALLERY |
+| 2004 Pro Racing | 773614 | 0 | 0 | 76 | 0 | NO_GALLERY |
+| 2005 Pro Racing | 801554 | 0 | 0 | 44 | 0 | NO_GALLERY |
+| Basic Pro Racing Series | 815908 | 5 | 13 | 277 | 66 | GALLERY_FOUND |
+| Hot Wheels Racing Selects | 763674 | 1 | 1 | 120 | 10 | GALLERY_FOUND |
+| Team Transporter | 783311 | 1 | 2 | 151 | 12 | GALLERY_FOUND |
+| Quartett (2006) | 667574 | 1 | 1 | 76 | 10 | GALLERY_FOUND |
+| Racing Rigs | 803735 | 1 | 2 | 152 | 12 | GALLERY_FOUND |
+| RD-05 | 805217 | 1 | 15 | 57 | 38 | GALLERY_FOUND |
+| RD-06 | 812741 | 1 | 18 | 60 | 44 | GALLERY_FOUND |
+
+**Batch 23 totals:** 30 pages; 13 GALLERY_FOUND; 0 GALLERY_SUSPECTED; 17 NO_GALLERY; 21 Gallery containers; 90 Gallery items; 3,635 ordinary HTML img elements; 348 Gallery-related class markers.
+
+The 17 NO_GALLERY pages are not image-free. Their 2,168 ordinary HTML img elements remain candidates for the separate Inline Image extraction. The other 13 pages contributed 1,467 ordinary img elements and 90 dedicated Gallery items. Gallery binaries were not downloaded in this pass.
