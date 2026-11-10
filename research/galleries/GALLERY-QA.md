@@ -1290,3 +1290,25 @@ Pages recovered in part 12: Hot Wheels Haulers (13), 2000 Monster Jam Series (2)
 **Control totals after this pass:** 2,546 original records retained + 243 recovered = **2,789 records**. Against the 3,350-record scan total, **561 records across 35 pages remain**. No GALLERY-SCAN classifications were changed. The original GALLERY-EXTRACTION.csv remains untouched as the backup/master source; the split parts are the active recovery workspace.
 
 **Commits:** part 11 b5c1152126bffe41b0bbe86746b19b46302032a2; part 12 6a22a05006ad2bcb33c0f69cf5f1e0f08ee703f4; index f69bdca84e12466d4eae642ff2a8362a6834be3b.
+
+## Gallery extraction completion, 2026-11-10
+
+Completed recovery of all remaining **561 Gallery item records across 35 GALLERY_FOUND pages** from the preserved source HTML. This completes the 3,350-record extraction target.
+
+Recovery allocation for this pass:
+
+| Destination | Records added in this pass | Final records | State |
+|---|---:|---:|---|
+| GALLERY-EXTRACTION-11.csv | 9 | 250 | READY |
+| GALLERY-EXTRACTION-12.csv | 202 | 250 | READY |
+| GALLERY-EXTRACTION-13.csv | 186 | 250 | READY |
+| GALLERY-EXTRACTION-14.csv | 100 | 100 | READY |
+| **Total** | **497** | **850** | **All parts READY** |
+
+Note: the first 10 pages in this recovery queue contributed 144 records (9 into part 11 and 135 into part 12); the next 10 pages contributed 131 (67 into part 12 and 64 into part 13); pages 21-30 contributed 75 into part 13; the final five pages contributed 211 (111 into part 13 and 100 into part 14).
+
+Final five pages included Star Wars Starships (15), Thunder Cycles (2), Track Fleet (5), Truckin' Transporters (1), and Volkswagen 1:50 Scale Series (188).
+
+**Full repository QA verification:** all 14 extraction CSV parts were fetched again from GitHub. The combined row count is exactly **3,350**; all 3,350 keys (source page + Gallery index + item index) are unique; duplicate keys = 0; malformed-width or non-GALLERY_FOUND rows = 0; and all 242 GALLERY_FOUND pages match their expected gallery_item_count. GALLERY-SCAN classifications were not changed. The original GALLERY-EXTRACTION.csv backup/master remains untouched.
+
+**Final status: 3,350 / 3,350 records, 100%.**
