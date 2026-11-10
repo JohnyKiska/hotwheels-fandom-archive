@@ -1152,3 +1152,19 @@ Five source pages were scanned in inventory order. Gallery extraction remains se
 **Batch total:** 3 gallery containers and 16 gallery items across 5 source pages; 3 pages contained Gallery items. All five source blob SHAs matched the current inventory. Gallery assets are recorded as source URLs and file-page links; binaries are not downloaded in this pass.
 
 Next gallery batch: continue with Airy 8, Anteater, Auto Affinity, Bassline (Crashers), and 2012 Hot Wheels Boulevard.
+
+## Gallery extraction batch 5: Airy 8 through 2012 Hot Wheels Boulevard, 2026-11-10
+
+Five source pages were scanned in inventory order. Gallery extraction remains separate from product-table extraction.
+
+| Source page | Revision | Gallery headings | Gallery containers | Gallery items | CSV | QA |
+|---|---:|---:|---:|---:|---|---|
+| `Airy 8` | 800696 | 1 | 1 | 6 | `research/galleries/MODERN-SPECIAL-SERIES-AIRY-8-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-AIRY-8-GALLERY-QA.md` |
+| `Anteater` | 710320 | 0 | 0 | 0 | `research/galleries/MODERN-SPECIAL-SERIES-ANTEATER-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-ANTEATER-GALLERY-QA.md` |
+| `Auto Affinity` | 742659 | 0 | 0 | 0 | `research/galleries/MODERN-SPECIAL-SERIES-AUTO-AFFINITY-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-AUTO-AFFINITY-GALLERY-QA.md` |
+| `Bassline (Crashers)` | 612504 | 1 | 1 | 1 | `research/galleries/MODERN-SPECIAL-SERIES-BASSLINE-CRASHERS-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-BASSLINE-CRASHERS-GALLERY-QA.md` |
+| `2012 Hot Wheels Boulevard` | 810075 | 0 | 0 | 0 | `research/galleries/MODERN-SPECIAL-SERIES-2012-HOT-WHEELS-BOULEVARD-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-2012-HOT-WHEELS-BOULEVARD-GALLERY-QA.md` |
+
+**Batch total:** 2 gallery containers and 7 gallery items across 5 source pages; 2 pages contained Gallery items. All five source blob SHAs matched the current inventory. Gallery assets are recorded as source URLs and file-page links; binaries are not downloaded in this pass.
+
+Next gallery batch: continue with the next five source pages in Modern Special Series inventory order.
