@@ -292,3 +292,13 @@ A post-migration integrity check found that the large consolidated `GALLERY-EXTR
 ## Count clarification
 
 A robust CSV parse found 4 pre-existing blank logical records in the master registry. The prior 391-row count included those blank records; the verified non-empty data-row count immediately before this merge was 387. Blank records were preserved, not silently removed. After this merge the master contains 391 non-empty data rows.
+
+## Verified legacy merge: 2008 Color Shifters
+
+- Source CSV: `research/galleries/MODERN-SPECIAL-SERIES-2008-COLOR-SHIFTERS-GALLERY.csv`
+- Source QA: `research/galleries/MODERN-SPECIAL-SERIES-2008-COLOR-SHIFTERS-GALLERY-QA.md`
+- Source page: `Modern Special Series/Color Shifters/2008 Color Shifters _ Hot Wheels Wiki _ Fandom.html`
+- Source QA confirms 1 Gallery container and 4 extracted Gallery items; the source CSV header matches the consolidated extraction schema exactly (15 columns).
+- Duplicate key check (`source_file + gallery_id + gallery_item_index`): 0 duplicates.
+- Appended 4 source data rows. Source CSV and QA remain unchanged.
+- Master registry verified in-memory after append: 395 non-empty data rows.
