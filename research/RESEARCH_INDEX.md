@@ -240,3 +240,5 @@ Five additional pages extracted and QA-reviewed: Fast & Furious Spy Racers Serie
 
 
 - 2026-11-09: выполнен archive-wide coverage audit: recursive Git tree и MANIFEST.csv подтверждают 530 HTML/HTM файлов; восемь processing indexes покрывают все 530 страниц без Pending; в `research/extractions/` присутствуют 530 per-page QA reports и 633 CSV exports. Gallery extraction остаётся отдельным неполным этапом; в Modern Special Series уже есть три начальные Gallery batches (15 source pages, 112 items).
+
+- 2026-11-10: Data Model Validation, партия 3. Проверены 5 Character Cars CSV: Minecraft, Marvel, Star Wars, Sonic the Hedgehog и Jurassic World; 616 строк в 73 таблицах, 1,138 embedded image references и 2,375 ссылок. Зафиксированы отдельные уровни Franchise/IP, Character, character-inspired design, Release, Series Position и Packaging/Image Evidence; обнаружены смешанные set/playset строки и различия в форматах Series #. Подробности: DATA-MODEL-VALIDATION.md.
