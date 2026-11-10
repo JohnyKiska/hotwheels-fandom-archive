@@ -1049,3 +1049,34 @@ Twenty next-in-queue pages were scanned: Color Shifters (2021–2026), Cool Clas
 **Batch totals:** 20 pages; 8 GALLERY_FOUND; 12 NO_GALLERY; 8 Gallery containers; 189 Gallery items; 1332 ordinary HTML img elements; 1023 file-link markers; 0 GALLERY_SUSPECTED.
 
 NO_GALLERY means no dedicated Gallery container was detected. Inline/file-linked images are counted separately and remain in scope for Inline Image extraction.
+
+## Gallery scan batch 59, 2026-11-10
+
+Twenty next-in-queue pages in Notable Modern Themed Assortments were scanned, covering Batman (2022–2025 and Vehicles Then and Now), Cars of the Decades, Cop Rods, Easter Eggsclusives, Easter (2013, 2014, 2015, 2017), Fast & Furious, Fast & Furious Spy Racers, Fire Rods (2000, 2009), Fright Cars, Halloween Highway, Holiday Hot Rods, and HW Road Trippin' (2014).
+
+| Page | Revision | Containers | Items | img | File links | Status |
+|---|---:|---:|---:|---:|---:|---|
+| Batman Series (2022) | 790661 | 0 | 0 | 46 | 40 | NO_GALLERY |
+| Batman Series (2023) | 813760 | 0 | 0 | 46 | 40 | NO_GALLERY |
+| Batman Series (2024) | 724973 | 1 | 3 | 52 | 43 | GALLERY_FOUND |
+| Batman Series (2025) | 804654 | 1 | 3 | 54 | 45 | GALLERY_FOUND |
+| Batman Vehicles Then and Now Series (2012) | 805527 | 1 | 1 | 26 | 19 | GALLERY_FOUND |
+| Cars of the Decades Series | 808133 | 1 | 18 | 170 | 145 | GALLERY_FOUND |
+| Cop Rods Series (1999) | 786125 | 1 | 7 | 85 | 72 | GALLERY_FOUND |
+| Easter Eggsclusives | 787094 | 1 | 1 | 84 | 77 | GALLERY_FOUND |
+| Easter Series (2013) | 721513 | 0 | 0 | 22 | 16 | NO_GALLERY |
+| Easter Series (2014) | 674905 | 0 | 0 | 22 | 16 | NO_GALLERY |
+| Easter Series (2015) | 673114 | 0 | 0 | 18 | 12 | NO_GALLERY |
+| Easter Series (2017) | 567028 | 0 | 0 | 18 | 12 | NO_GALLERY |
+| Fast & Furious Series | 812768 | 0 | 0 | 78 | 72 | NO_GALLERY |
+| Fast & Furious Spy Racers Series | 729061 | 1 | 2 | 73 | 65 | GALLERY_FOUND |
+| Fire Rods Series (2000) | 779199 | 1 | 4 | 38 | 28 | GALLERY_FOUND |
+| Fire Rods Series (2009) | 807681 | 1 | 1 | 61 | 54 | GALLERY_FOUND |
+| Fright Cars Series | 772768 | 1 | 17 | 203 | 180 | GALLERY_FOUND |
+| Halloween Highway Series | 724846 | 0 | 0 | 43 | 37 | NO_GALLERY |
+| Holiday Hot Rods | 791903 | 2 | 5 | 338 | 327 | GALLERY_FOUND |
+| HW Road Trippin' Series (2014) | 815751 | 0 | 0 | 112 | 106 | NO_GALLERY |
+
+**Batch totals:** 20 pages; 11 GALLERY_FOUND; 9 NO_GALLERY; 12 Gallery containers; 62 Gallery items; 1589 ordinary HTML img elements; 1406 file-link markers; 0 GALLERY_SUSPECTED.
+
+NO_GALLERY means no dedicated Gallery container was detected. Inline/file-linked images are counted separately and remain in scope for Inline Image extraction.
