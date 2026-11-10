@@ -150,3 +150,44 @@ Thirty additional pages processed in Modern Special Series inventory order, cont
 **Batch 23 totals:** 30 pages; 13 GALLERY_FOUND; 0 GALLERY_SUSPECTED; 17 NO_GALLERY; 21 Gallery containers; 90 Gallery items; 3,635 ordinary HTML img elements; 348 Gallery-related class markers.
 
 The 17 NO_GALLERY pages are not image-free. Their 2,168 ordinary HTML img elements remain candidates for the separate Inline Image extraction. The other 13 pages contributed 1,467 ordinary img elements and 90 dedicated Gallery items. Gallery binaries were not downloaded in this pass.
+
+
+## Gallery scan batch 24, 2026-11-10
+
+Twenty-nine remaining source pages in the current Modern Special Series manifest segment were scanned, continuing after RD-06 and ending at X-cceleron. Every page was retrieved from the repository and checked for dedicated Fandom Gallery markup. Source Git blob SHA, manifest byte size and SHA-256, and Fandom revision are preserved in the consolidated scan register.
+
+| Page | Revision | Containers | Items | img | Status |
+|---|---:|---:|---:|---:|---|
+| 2013 Retro Entertainment | 810765 | 0 | 0 | 76 | NO_GALLERY |
+| 2014 Hot Wheels Entertainment | 710426 | 0 | 0 | 66 | NO_GALLERY |
+| 2015 Hot Wheels Entertainment | 792501 | 1 | 2 | 48 | GALLERY_FOUND |
+| 2016 Hot Wheels Entertainment | 693906 | 0 | 0 | 46 | NO_GALLERY |
+| 2017 Replica Entertainment | 691876 | 0 | 0 | 56 | NO_GALLERY |
+| 2018 Replica Entertainment | 792792 | 0 | 0 | 40 | NO_GALLERY |
+| 2019 Replica Entertainment | 792793 | 0 | 0 | 48 | NO_GALLERY |
+| 2020 Replica Entertainment | 792794 | 0 | 0 | 46 | NO_GALLERY |
+| 2021 Replica Entertainment | 737627 | 0 | 0 | 46 | NO_GALLERY |
+| 2022 Replica Entertainment | 792797 | 0 | 0 | 94 | NO_GALLERY |
+| 2023 Replica Entertainment | 776150 | 0 | 0 | 42 | NO_GALLERY |
+| Retro Style Series (2016) | 808184 | 0 | 0 | 68 | NO_GALLERY |
+| Short Fuse | 696092 | 1 | 4 | 16 | GALLERY_FOUND |
+| Side-Burn | 792585 | 1 | 7 | 31 | GALLERY_FOUND |
+| Since '68 Series | 800502 | 0 | 0 | 209 | NO_GALLERY |
+| Speed Machines (2010) | 771230 | 1 | 1 | 178 | GALLERY_FOUND |
+| Spine Buster (Crashers) | 612503 | 0 | 0 | 8 | NO_GALLERY |
+| Super Chromes Series (2006) | 714375 | 1 | 2 | 65 | GALLERY_FOUND |
+| Team Hot Wheels High-Speed Wheel Series | 757115 | 0 | 0 | 40 | NO_GALLERY |
+| The Hot Ones (2011) | 816880 | 1 | 1 | 357 | GALLERY_FOUND |
+| The Hot Ones (2025) | 816046 | 1 | 5 | 80 | GALLERY_FOUND |
+| The Vantom | 652735 | 0 | 0 | 9 | NO_GALLERY |
+| Then and Now Mini Collection (2024) | 812967 | 0 | 0 | 20 | NO_GALLERY |
+| Tilt Cab | 730803 | 1 | 12 | 41 | GALLERY_FOUND |
+| Toy Fair | 770072 | 1 | 2 | 58 | GALLERY_FOUND |
+| Ultra Hots Series (2006) | 742334 | 1 | 3 | 169 | GALLERY_FOUND |
+| Vintage Racing Series (2011) | 797035 | 1 | 2 | 71 | GALLERY_FOUND |
+| Virtual Garage | 814946 | 1 | 2 | 133 | GALLERY_FOUND |
+| X-cceleron | 814789 | 1 | 10 | 29 | GALLERY_FOUND |
+
+**Batch 24 totals:** 29 pages; 13 GALLERY_FOUND; 0 GALLERY_SUSPECTED; 16 NO_GALLERY; 13 Gallery containers; 53 Gallery item records extracted; 2,190 ordinary HTML img elements; 154 Gallery-related class markers.
+
+The 16 NO_GALLERY pages still contain 865 ordinary HTML img elements and remain candidates for the separate Inline Image extraction. The other 13 pages contain 1,325 ordinary img elements alongside the 53 dedicated Gallery items. Gallery image binaries were not downloaded in this pass.
