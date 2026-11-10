@@ -1018,3 +1018,34 @@ Twenty previously unscanned pages were checked in inventory order: 2024–2026 5
 **Batch totals:** 20 pages; 3 GALLERY_FOUND; 17 NO_GALLERY; 3 Gallery containers; 9 Gallery items; 1432 ordinary HTML img elements; 0 GALLERY_SUSPECTED.
 
 NO_GALLERY applies only to dedicated Gallery markup. Ordinary page images remain available for the separate Inline Image extraction workflow. The batch was recorded in GALLERY-SCAN.csv and GALLERY-PROGRESS.csv; this QA section documents the same classification and source revisions.
+
+## Gallery scan batch 58, 2026-11-10
+
+Twenty next-in-queue pages were scanned: Color Shifters (2021–2026), Cool Classics, Corvette 4-Rotor, Crashers (2007), Dark Shadow, Deora II, Deora III, Dragstrip Demons, 50th Anniversary Favorites, 50th Anniversary Originals Series, 50th Anniversary Throwback Series, and Batman Series (2015, 2018, 2019, 2021).
+
+| Page | Revision | Containers | Items | img | File links | Status |
+|---|---:|---:|---:|---:|---:|---|
+| 2021 Color Shifters | 781193 | 0 | 0 | 21 | 15 | NO_GALLERY |
+| 2022 Color Shifters | 781194 | 0 | 0 | 49 | 43 | NO_GALLERY |
+| 2023 Color Shifters | 781200 | 0 | 0 | 44 | 38 | NO_GALLERY |
+| 2024 Color Shifters | 781201 | 0 | 0 | 24 | 18 | NO_GALLERY |
+| 2025 Color Shifters | 814873 | 0 | 0 | 60 | 54 | NO_GALLERY |
+| 2026 Color Shifters | 812864 | 0 | 0 | 71 | 65 | NO_GALLERY |
+| Cool Classics | 709071 | 0 | 0 | 127 | 121 | NO_GALLERY |
+| Corvette 4-Rotor | 652725 | 1 | 8 | 24 | 9 | GALLERY_FOUND |
+| Crashers (2007) | 756909 | 1 | 6 | 117 | 105 | GALLERY_FOUND |
+| Dark Shadow | 652726 | 0 | 0 | 8 | 1 | NO_GALLERY |
+| Deora II | 817028 | 1 | 137 | 341 | 201 | GALLERY_FOUND |
+| Deora III | 812189 | 1 | 19 | 57 | 31 | GALLERY_FOUND |
+| Dragstrip Demons | 807648 | 1 | 4 | 184 | 174 | GALLERY_FOUND |
+| 50th Anniversary Favorites | 741838 | 1 | 2 | 32 | 24 | GALLERY_FOUND |
+| 50th Anniversary Originals Series | 754145 | 1 | 12 | 46 | 28 | GALLERY_FOUND |
+| 50th Anniversary Throwback Series | 787291 | 0 | 0 | 59 | 53 | NO_GALLERY |
+| Batman Series (2015) | 790647 | 0 | 0 | 14 | 8 | NO_GALLERY |
+| Batman Series (2018) | 790651 | 1 | 1 | 20 | 13 | GALLERY_FOUND |
+| Batman Series (2019) | 695745 | 0 | 0 | 18 | 12 | NO_GALLERY |
+| Batman Series (2021) | 695348 | 0 | 0 | 16 | 10 | NO_GALLERY |
+
+**Batch totals:** 20 pages; 8 GALLERY_FOUND; 12 NO_GALLERY; 8 Gallery containers; 189 Gallery items; 1332 ordinary HTML img elements; 1023 file-link markers; 0 GALLERY_SUSPECTED.
+
+NO_GALLERY means no dedicated Gallery container was detected. Inline/file-linked images are counted separately and remain in scope for Inline Image extraction.
