@@ -1332,4 +1332,4 @@ Processed five Character Cars source pages:
 | Sanrio Character Cars | 32 | 0 | 0 |
 | **Total** | **150** | **1** | **1** |
 
-Each page has a 15-column Gallery CSV and a page-specific QA report. Inline/article/product images remain outside this stage and are candidates for the separate Inline Image extraction. All ten outputs are subject to post-write fetch verification.
+Each page has a 15-column Gallery CSV and a page-specific QA report. Inline/article/product images remain outside this stage and are candidates for the separate Inline Image extraction. All ten outputs were re-fetched from GitHub after creation and confirmed present; the index entry was also re-fetched and confirmed.
