@@ -84,3 +84,77 @@
 ## Ограничение текущего этапа
 
 Это предварительная валидация требований на небольшой репрезентативной выборке, не утверждённая схема БД и не окончательная нормализация каталога.
+
+
+## Проверочная партия 2: Other Early Series (2026-11-10)
+
+Проверены пять source-preserving CSV и соответствующие QA:
+
+- `research/extractions/OTHER-EARLY-SERIES-ACTION-CYCLES.csv` — 26 строк, 1 таблица.
+- `research/extractions/OTHER-EARLY-SERIES-ACTION-RACERS.csv` — 67 строк, 2 таблицы.
+- `research/extractions/OTHER-EARLY-SERIES-ATTACK-PACK.csv` — 48 строк, 9 таблиц (включая отдельную yearly-list/navigation-like таблицу, не смешивать с товарными строками).
+- `research/extractions/OTHER-EARLY-SERIES-HOT-WHEELS-RAILROAD.csv` — 31 строка, 3 таблицы.
+- `research/extractions/OTHER-EARLY-SERIES-KEY-FORCE.csv` — 15 строк, 3 таблицы.
+
+### 4. Action Cycles
+
+В таблице Toy # 8345 повторяется для Bike 1 в нескольких цветовых записях (в том числе Orange Metallic, Blue и Green). Заголовки: Toy #, Name, Series, Color, Photo.
+
+Подтверждение:
+- Одинаковый Toy # может обозначать несколько строковых цветовых вариантов одной модели в рамках одной исходной страницы.
+- Нельзя ни считать Toy # глобальным идентификатором варианта, ни автоматически сливать строки в одну запись.
+- Color и Series остаются source attributes; Photo — evidence конкретной строки.
+
+### 5. Action Racers
+
+В первой таблице (65 строк) Toy # 2415 встречается как минимум в двух разных строках с разными названиями: BMW M3 и Ferrari 328 GTS. Вторая таблица содержит ещё 2 строки. QA фиксирует 2 таблицы, 67 строк, 109 ссылок.
+
+Подтверждение:
+- Toy # может коллидировать даже внутри одной таблицы/одной тематической страницы у разных названий.
+- Любой candidate key должен включать источник и scope (как минимум страницу/таблицу/строку), а Toy # сохраняется как typed source identifier без предположения об уникальности.
+- Name-to-casting links полезны как source assertions, но ссылка Fandom не должна автоматически становиться окончательным casting identity.
+
+### 6. Attack Pack
+
+В семи товарных таблицах 47 строк (таблица 9 отдельно отражает yearly lists и не является обычной товарной таблицей). Основные заголовки включают Toy #, Year, Casting Name, Allegiance, Country, Photo; в одной из таблиц Allegiance и/или Country отсутствуют в самой схеме. Например, Slashcat (Toy # 0692, 1992) имеет Allegiance = Heroic Cat Pack и Country = Global.
+
+Подтверждение:
+- Allegiance — отдельное исходное отношение/атрибут тематической принадлежности; не переименовывать автоматически в Series, Team или Manufacturer.
+- Значения Allegiance могут иметь собственные ссылки/изображения (в примере категория Heroic Cat Pack), значит сущность/термин принадлежности может быть отдельно разрешён позже.
+- Разные таблицы одной страницы имеют различающиеся наборы колонок; nullable поля и table-level schema обязательны.
+- Table 9 с 324 ссылками должна оставаться отдельным source artifact, не интерпретироваться как 324 товарных записи.
+
+### 7. Hot Wheels Railroad
+
+QA: 3 таблицы, 31 строка, 31 embedded image, 98 ссылок. Первая таблица (14 строк) описывает rolling stock: Year, Model Name, Color, Railroad/Company Represented, Base Color / Type, Country, Number, Photo. Например, Santa Fe F40PH Diesel (1983) связан с Atchison, Topeka and Santa Fe Railway и имеет Number 5590. Вторая таблица (5 строк) содержит Bundle name и Car 1–Car 3; третья (12 строк) — Name, Cars included и Notes.
+
+Подтверждение:
+- Railroad/Company Represented — внешняя организация/бренд-прототип, а не Hot Wheels Series и не производитель игрушки.
+- Number (например 5590) — отдельное типизированное поле, его нельзя автоматически считать Toy # или racing number.
+- Bundle name, Car 1–Car 3 и Cars included подтверждают необходимость моделировать набор как отдельный продукт/offer с упорядоченными компонентами; компонентные модели остаются самостоятельными сущностями.
+- У набора могут быть состав и заметки в виде текстового перечня, требующие component-resolution с provenance и confidence, а не безусловного парсинга.
+
+### 8. Key Force
+
+QA: 3 таблицы, 15 строк, 16 embedded image references, 43 ссылки. Первые две таблицы используют Toy #, Year, Casting Name, Allegiance, Photo; третья таблица не содержит Allegiance. Например, Toy # 3727 / Keymmander Police Car и Toy # 3704 / Jet Threat Rocket Bike имеют Allegiance = Keymasters.
+
+Подтверждение:
+- Тематическая/сюжетная принадлежность может отсутствовать в части таблиц, поэтому её нельзя делать обязательной на уровне Product.
+- Toy #, Year и Casting Name остаются разными полями с разными ролями.
+- Табличная структура и заголовки должны сохраняться для интерпретации пропущенных колонок.
+
+## Обновлённые выводы после партии 2
+
+6. Toy # collisions не являются только исторической аномалией: Action Racers показывает разные модели под одним Toy # в одной таблице. Source-row identity обязана быть независимой от Toy #.
+7. Один и тот же Toy # может повторяться и для цветовых записей одного имени (Action Cycles), и для разных имён (Action Racers). Нужны отдельные сущности SourceRecord, SourceIdentifier и Candidate Product/Casting match.
+8. Термины Allegiance, Railroad/Company Represented и Number семантически различны; нельзя сводить все «группы» и «номера» к универсальным Series/Team/Code.
+9. Наборы и rolling-stock bundles требуют relation table для компонентов с порядком, ролью и исходной формулировкой.
+10. Отсутствующие колонки зависят от таблицы, а не обязательно означают пустое значение в единой универсальной схеме.
+
+## Обновлённая очередь проверки
+
+- Современный лицензированный Character Cars продукт: отделить IP/franchise, character, vehicle/casting и license attribution.
+- Car Culture Team Transport: проверить роль hauler, trailer, car и set-level SKU.
+- Key Force / Action Cycles: отдельный follow-up по функции/механизму на основании описаний и страниц моделей; CSV сами по себе не доказывают механику.
+- Pro Racing: typed racing number, driver, team, sponsor и series scope.
+- Сверка кандидатов межкаталожных casting matches с доказательствами, не только совпадением названия.
