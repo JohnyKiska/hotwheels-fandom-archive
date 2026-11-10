@@ -158,3 +158,90 @@ QA: 3 таблицы, 15 строк, 16 embedded image references, 43 ссылк
 - Key Force / Action Cycles: отдельный follow-up по функции/механизму на основании описаний и страниц моделей; CSV сами по себе не доказывают механику.
 - Pro Racing: typed racing number, driver, team, sponsor и series scope.
 - Сверка кандидатов межкаталожных casting matches с доказательствами, не только совпадением названия.
+
+
+## Проверочная партия 3: Character Cars (2026-11-10)
+
+Проверены пять лицензированных/character-based страниц, их QA и исходные CSV (включая split parts для крупных страниц):
+
+| Источник | Таблиц | Строк | Изображений в таблицах | Ссылок |
+|---|---:|---:|---:|---:|
+| Minecraft Character Cars | 4 | 24 | 48 | 96 |
+| Marvel Character Cars | 27 | 246 | 456 | 955 |
+| Star Wars Character Cars | 33 | 317 | 582 | 1 213 |
+| Sonic the Hedgehog Character Cars | 2 | 4 | 8 | 16 |
+| Jurassic World Character Cars | 7 | 25 | 44 | 95 |
+| **Всего** | **73** | **616** | **1 138** | **2 375** |
+
+Источники:
+- `research/extractions/MODERN-SPECIAL-SERIES-MINECRAFT-CHARACTER-CARS.csv`
+- `research/extractions/MODERN-SPECIAL-SERIES-MARVEL-CHARACTER-CARS.csv` и `...-PART-02.csv`
+- `research/extractions/MODERN-SPECIAL-SERIES-STAR-WARS-CHARACTER-CARS.csv` и `...-PART-02.csv`
+- `research/extractions/MODERN-SPECIAL-SERIES-SONIC-THE-HEDGEHOG-CHARACTER-CARS.csv`
+- `research/extractions/MODERN-SPECIAL-SERIES-JURASSIC-WORLD-CHARACTER-CARS.csv`
+
+### 9. Общая структура Character Cars
+
+В типичной таблице используются Series #, Toy #, Casting Name, Body Color, Wheel Type, Notes, Photo Loose и Photo Carded. Например:
+- Minecraft 2017: Series # 1/6, Toy # DXT22, Casting Name Creeper.
+- Marvel 2014: Series # 1, Toy # BDM74, Casting Name Iron Man.
+- Star Wars 2014: Series # 01, Toy # CGW36, Casting Name Darth Vader.
+- Jurassic World 2018: Series # 1/5, Toy # FLJ04, Casting Name Tyrannosaurus Rex.
+
+Подтверждение:
+- Casting Name в этой продуктовой категории может быть именем персонажа/существа, а не названием обычного автомобильного кузова. Не следует насильно помещать его в поле `vehicle_model_name`.
+- Нужны отдельные типы/сущности для IP или franchise, character/creature, character-based toy design/casting и коммерческого release.
+- Связь между персонажем и дизайном машины должна быть явно типизированной (например, character-inspired design), а не подменять идентичность самого персонажа или реального автомобиля.
+- Лицензионная принадлежность страницы/серии не доказывает, что каждая строка имеет одинакового правообладателя на всех рынках и во все годы; сохранять source scope и evidence.
+
+### 10. Series Position и Toy #
+
+В Minecraft и Jurassic World позиции представлены как дроби (1/6, 1/5); Star Wars использует, например, 01; Marvel — числовые значения; Sonic в таблицах 2022 года вообще не имеет Series #. При этом Toy # остаётся отдельным алфавитно-цифровым идентификатором (DXT22, BDM74, CGW36, GRM47, FLJ04).
+
+Подтверждение:
+- Series Position необязателен и имеет локальный scope: год/таблица/assortment.
+- Сохранять исходное форматирование номера позиции (например 01 vs 1) и raw value; нормализованное числовое значение не должно уничтожать display form.
+- Toy # должен быть отдельным typed identifier, независимым от Series Position.
+
+### 11. Images and package evidence
+
+Стандартные таблицы разделяют Photo Loose и Photo Carded. В Sonic для loose image присутствует явный placeholder `Image Not Available`, в то время как carded photo доступно.
+
+Подтверждение:
+- Изображение должно иметь роль/тип (loose product, carded/package front, set/package evidence, placeholder), а не просто общий массив фотографий.
+- Отсутствующая фотография и изображение-заглушка — разные состояния; не считать placeholder подтверждением внешнего вида продукта.
+- Фото упаковки является evidence packaging/release, а не заменой фото loose item.
+- Image metadata, file link, alt text и связь с конкретной source row должны сохраняться.
+
+### 12. Notes, wheels and base codes
+
+В примерах Notes содержит текст `Base code(s):` и один или несколько кодов; Wheel Type сочетает описательный текст и ссылки на wheel-code pages (например Black DD8, Gold OH5SP, Chrome Red & Black PR5, RA6, Chrome Orange BLOR).
+
+Подтверждение:
+- Wheel configuration должна поддерживать сочетание finish/color и code, а не один свободный текстовый атрибут.
+- Base codes могут быть множественными и относиться к примечаниям исходной строки; хранить их как отдельные extracted assertions с provenance, не теряя исходный текст Notes.
+- Ссылка на страницу кода — доказательство того, что источник ссылается на этот код, но не независимое подтверждение фактической конфигурации каждого физического экземпляра.
+
+### 13. Jurassic World: mixed product and set scope
+
+QA фиксирует 7 таблиц и разные секции: годовые Character Cars, Complete Collection, Jurassic World Dominion 5-Car Collector Set и Playsets. Значит, одна страница Character Cars содержит не только отдельные character-car rows, но и строки агрегированных наборов/игровых комплектов.
+
+Подтверждение:
+- Не считать каждую строку страницы экземпляром одного и того же типа Product.
+- Нужны product subtype/category и relationships for set membership/components.
+- Complete Collection / 5-Car Collector Set могут описывать агрегаты, а Playsets — отдельные комплекты с дополнительными компонентами; компонентный состав должен быть сохранён в исходной формулировке до подтверждённого resolution.
+
+## Обновлённые выводы после партии 3
+
+11. Лицензированные Character Cars требуют моделировать как минимум Franchise/IP, Character, Character-inspired design/casting, Release, Series Position и Packaging/Image Evidence как разные понятия.
+12. Название персонажа в Casting Name не всегда является casting автомобиля в обычном смысле; модель данных должна поддерживать non-vehicle/character-shaped designs и их связи.
+13. Series Position может отсутствовать или иметь разные display formats в пределах одного тематического направления.
+14. Loose image и carded image несут разные типы доказательств; placeholder image нельзя считать реальным изображением модели.
+15. Одна Fandom-страница может объединять отдельные машины, коллекционные наборы и playsets. Тип строки и связи компонентов должны определяться по таблице/строке, а не по заголовку страницы.
+
+## Обновлённая очередь проверки
+
+- Car Culture Team Transport: отдельно проверить vehicle, hauler/trailer, bundle SKU и роли компонентов.
+- Pro Racing: typed racing number, driver, team, sponsor и series scope.
+- Сопоставить Character Cars с другими Hot Wheels releases, не объединяя персонажа и автомобильный casting по совпадению названия.
+- Проверить лицензии/IP и ownership assertions на конкретных строках и упаковках, где источник это явно подтверждает.
