@@ -1465,3 +1465,7 @@ Inventory pages 41–50 from legacy Gallery extraction batches 9–10 were recon
 ## Gallery legacy migration tranche 6
 
 Ten additional legacy Gallery page CSV/QA pairs covering Car Culture and Character Cars were reconciled into the consolidated registers. Fifteen Gallery item rows were appended; 3 pages are GALLERY_FOUND and 7 are NO_GALLERY. Cumulative legacy migration covers 60 pages, 150 Gallery item rows, 13 GALLERY_FOUND and 47 NO_GALLERY. `Car Culture Factory Set` remains unmatched because no corresponding page-specific Gallery CSV/QA pair is present; it requires separate source-level review and is excluded from the migrated-page count.
+
+## Gallery extraction integrity correction
+
+The consolidated `research/galleries/GALLERY-EXTRACTION.csv` was restored from the pre-migration checkpoint after a truncation was detected. The restored file was verified at 369 lines (header plus 368 data rows). Earlier legacy migration tranche notes refer to scan-register reconciliation; they do not mean that legacy item rows were successfully merged into the consolidated extraction register. Page-specific legacy CSVs remain intact and authoritative until a verified chunked merge is completed. The consolidated scan register remains updated and currently contains 179 unique nonblank source paths.
