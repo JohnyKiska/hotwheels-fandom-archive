@@ -1212,3 +1212,47 @@ Thirty next-in-queue pages were scanned, covering Monster Jam (2011–2018), Mon
 **Batch totals:** 30 pages; 10 GALLERY_FOUND; 20 NO_GALLERY; 0 GALLERY_SUSPECTED; 12 Gallery containers; 157 Gallery item occurrences; 5439 ordinary HTML img elements; 157 File-link markers.
 
 NO_GALLERY means no dedicated Gallery container was detected. Ordinary inline images remain in scope for the separate Inline Image extraction workflow.
+
+
+## Gallery scan batch 63, 2026-11-10, final batch
+
+The final 28 pages in the inventory were scanned. This completes the Gallery Extraction scan queue. Source Git blob SHA, MANIFEST size and SHA-256, and Fandom revision are recorded in GALLERY-SCAN.csv.
+
+| Source page | Revision | Containers | Items | img | File links | Status |
+|---|---:|---:|---:|---:|---:|---|
+| 2026 Hot Wheels Skate | 736606 | 0 | 0 | 30 | 0 | NO_GALLERY |
+| Lightyear | 519731 | 1 | 1 | 45 | 1 | GALLERY_FOUND |
+| Long Haulers | 753504 | 1 | 5 | 85 | 5 | GALLERY_FOUND |
+| Modifighters | 797454 | 1 | 5 | 31 | 5 | GALLERY_FOUND |
+| Monster Trucks (Dollar Tree) | 783922 | 1 | 1 | 59 | 1 | GALLERY_FOUND |
+| Moto Track Stars | 747392 | 1 | 14 | 67 | 15 | GALLERY_FOUND |
+| Motor Cycles | 798091 | 0 | 0 | 103 | 0 | NO_GALLERY |
+| Pavement Pounders | 793631 | 1 | 2 | 207 | 2 | GALLERY_FOUND |
+| Racing Rigs | 803735 | 1 | 2 | 152 | 2 | GALLERY_FOUND |
+| Rapid Transit Series | 797667 | 1 | 3 | 61 | 3 | GALLERY_FOUND |
+| Rev Tredz | 766150 | 1 | 3 | 148 | 3 | GALLERY_FOUND |
+| Road Beasts | 766301 | 1 | 1 | 16 | 1 | GALLERY_FOUND |
+| Robo Wheels | 774743 | 2 | 29 | 131 | 29 | GALLERY_FOUND |
+| Shogun Racers | 785507 | 1 | 10 | 41 | 11 | GALLERY_FOUND |
+| Skate Freaks | 515139 | 1 | 2 | 62 | 2 | GALLERY_FOUND |
+| Sky Busters | 800264 | 1 | 12 | 209 | 12 | GALLERY_FOUND |
+| Snap Rides | 762964 | 0 | 0 | 29 | 0 | NO_GALLERY |
+| Speed Cycles | 786712 | 1 | 3 | 107 | 3 | GALLERY_FOUND |
+| Speed Demons Series (2003) | 759256 | 1 | 10 | 137 | 10 | GALLERY_FOUND |
+| Star Wars Starships | 807559 | 2 | 15 | 522 | 15 | GALLERY_FOUND |
+| Star Wars Starships Select | 815052 | 0 | 0 | 159 | 0 | NO_GALLERY |
+| Thunder Cycles | 777374 | 1 | 2 | 52 | 2 | GALLERY_FOUND |
+| Track Fleet | 816545 | 1 | 5 | 105 | 5 | GALLERY_FOUND |
+| Track Stars Haulers | 815129 | 0 | 0 | 180 | 0 | NO_GALLERY |
+| Trackin' Trucks | 805208 | 0 | 0 | 43 | 0 | NO_GALLERY |
+| Truckin' Transporters | 774312 | 1 | 1 | 152 | 1 | GALLERY_FOUND |
+| Twisted Tredz | 770567 | 0 | 0 | 16 | 0 | NO_GALLERY |
+| Volkswagen 1_50 Scale Series | 796312 | 1 | 188 | 441 | 188 | GALLERY_FOUND |
+
+**Batch totals:** 28 pages; 21 GALLERY_FOUND; 7 NO_GALLERY; 0 GALLERY_SUSPECTED; 23 Gallery containers; 314 Gallery item occurrences; 3390 ordinary HTML img elements; 316 File-link markers.
+
+**Notable result:** Volkswagen 1:50 Scale Series contains 188 Gallery items, the largest discovery in this final batch. Robo Wheels has 29 items across two Gallery containers; Star Wars Starships has 15 items across two containers.
+
+## Gallery Extraction completion, 2026-11-10
+
+All 530 unique inventory pages have been scanned. Final status totals: 242 GALLERY_FOUND, 277 NO_GALLERY, and 11 GALLERY_SUSPECTED. Dedicated Gallery items found across the scan: 314 in the final batch, in addition to the 157 from batch 62 and earlier batches. NO_GALLERY means no dedicated Gallery container was detected; it does not mean the page contains no images. Inline images remain a separate extraction stream. The 11 GALLERY_SUSPECTED records remain flagged for manual review rather than being silently classified as NO_GALLERY.
