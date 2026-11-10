@@ -60,3 +60,21 @@ Records appended to shared `GALLERY-SCAN.csv` and `GALLERY-EXTRACTION.csv`; sour
 | HW Designed By Mini Collection (2025) _ Hot Wheels Wiki _ Fandom.html | 699726 | 0 | 0 | 16 | GALLERY_SUSPECTED |
 
 Segment totals: 7 GALLERY_FOUND; 2 GALLERY_SUSPECTED; 1 NO_GALLERY; 62 Gallery items; 1207 ordinary img elements.
+
+
+## Gallery scan batch 22, segment 2/3
+
+| Page | Revision | Containers | Items | img | Status |
+|---|---:|---:|---:|---:|---|
+| KFC _ Hot Wheels Wiki _ Fandom.html | 800236 | 2 | 2 | 37 | GALLERY_FOUND |
+| Kowloon'd Hypervan _ Hot Wheels Wiki _ Fandom.html | 807496 | 2 | 10 | 31 | GALLERY_FOUND |
+| Lamborghini Countach (Sizzlers) _ Hot Wheels Wiki _ Fandom.html | 728425 | 2 | 4 | 16 | GALLERY_FOUND |
+| Larry's Garage (2009) _ Hot Wheels Wiki _ Fandom.html | 755664 | 4 | 4 | 170 | GALLERY_FOUND |
+| Larry's Garage 21-Car Collection _ Hot Wheels Wiki _ Fandom.html | 796830 | 2 | 4 | 35 | GALLERY_FOUND |
+| Larry's Garage Holiday (2009) _ Hot Wheels Wiki _ Fandom.html | 785347 | 2 | 2 | 22 | GALLERY_FOUND |
+| List of 2010 Hot Wheels _ Hot Wheels Wiki _ Fandom.html | 815649 | 2 | 2 | 450 | GALLERY_FOUND |
+| List of 2013 Hot Wheels _ Hot Wheels Wiki _ Fandom.html | 790643 | 0 | 0 | 445 | GALLERY_SUSPECTED |
+| List of 2014 Hot Wheels _ Hot Wheels Wiki _ Fandom.html | 804340 | 0 | 0 | 443 | GALLERY_SUSPECTED |
+| List of 2015 Hot Wheels _ Hot Wheels Wiki _ Fandom.html | 790646 | 0 | 0 | 443 | GALLERY_SUSPECTED |
+
+Segment totals: 7 GALLERY_FOUND; 3 GALLERY_SUSPECTED; 0 NO_GALLERY; 28 Gallery items; 2092 ordinary img elements.
