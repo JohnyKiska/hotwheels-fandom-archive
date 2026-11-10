@@ -527,3 +527,8 @@ Basic Pro Racing Series содержит 124 строки за 1997–2002 го�
 ## Pro Racing inline image audit: NO_GALLERY annual pages (2026-11-10)
 
 Audited the five annual pages 1997, 2001, 2003, 2004, and 2005 that have no dedicated Gallery. Their source HTML contains 497 image elements inside product tables (156, 94, 139, 70, and 38 respectively); all 497 are already preserved in the corresponding annual extraction CSVs through `cell_image_metadata_json` and `raw_row_html`. The 30 remaining image elements are site/community header and Fandom footer branding assets. No additional article-body inline images were found. No second image CSV was created and no Gallery master rows were added. Detailed reconciliation: `research/extractions/PRO-RACING-INLINE-IMAGE-AUDIT.md`.
+
+
+## Pro Racing Gallery evidence classification (2026-11-10)
+
+First-pass evidence-type classification completed for all 100 existing Pro Racing Gallery items: 9 card-art/card-variation records; 41 packaging/set/comparison records; 4 advertising/promotional records; 35 prototype/pre-production/sample records; 2 damaged-packaging records; 2 resin-driver-figure records; 5 website assets; 1 signed hauler/variant evidence record; and 1 unclassified Racing Selects lot image. This is not product identity resolution: uncertain source associations remain explicit, and multiple views of one set/prototype are not separate products. Record-level mapping: `research/galleries/PRO-RACING-GALLERY-CLASSIFICATION.md`.
