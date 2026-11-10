@@ -1167,6 +1167,48 @@ Thirty next-in-queue pages scanned in inventory order, beginning with Other Earl
 
 NO_GALLERY means no dedicated Gallery container was detected. Inline/file-linked images are counted separately and remain in scope for Inline Image extraction.
 
-## Inventory denominator correction after batch 61
 
-A fresh row count of GALLERY-PROGRESS.csv shows 560 inventory records, not 530 as stated in the batch 60 summary. The earlier 442/530 figure therefore used an incorrect denominator. After batch 61, the verified totals are 472 SCANNED and 88 NOT_SCANNED, which is 84.3% of the 560-page inventory. Status totals among scanned pages: 211 GALLERY_FOUND, 250 NO_GALLERY, and 11 GALLERY_SUSPECTED. No source records were dropped; this correction reconciles the denominator only.
+## Inventory correction after batch 61
+
+A reconciliation found that the 30 records from batch 61 had been appended to GALLERY-PROGRESS.csv instead of replacing their existing NOT_SCANNED rows. This created 30 duplicate paths and inflated the apparent inventory from 530 to 560 rows. The progress file is now deduplicated by source_file, preserving the original inventory order and the latest verified status. The authoritative inventory is 530 unique pages. Before batch 62: 472 SCANNED and 58 NOT_SCANNED (89.1%).
+
+## Gallery scan batch 62, 2026-11-10
+
+Thirty next-in-queue pages were scanned, covering Monster Jam (2011–2018), Monster Trucks, RacerVerse, Hot Wheels RC, and Hot Wheels Skate (2022–2025). Source Git blob SHA, MANIFEST size and SHA-256, and Fandom revision are recorded in GALLERY-SCAN.csv.
+
+| Source page | Revision | Containers | Items | img | File links | Status |
+|---|---:|---:|---:|---:|---:|---|
+| 2011 Monster Jam Series | 757604 | 1 | 17 | 165 | 17 | GALLERY_FOUND |
+| 2012 Monster Jam Series | 692546 | 1 | 7 | 154 | 7 | GALLERY_FOUND |
+| 2013 Monster Jam Series | 691434 | 1 | 3 | 119 | 3 | GALLERY_FOUND |
+| 2014 Monster Jam Series | 757527 | 0 | 0 | 139 | 0 | NO_GALLERY |
+| 2015 Monster Jam Series | 757554 | 0 | 0 | 115 | 0 | NO_GALLERY |
+| 2016 Monster Jam Series | 684437 | 0 | 0 | 145 | 0 | NO_GALLERY |
+| 2017 Monster Jam Series | 757563 | 0 | 0 | 144 | 0 | NO_GALLERY |
+| 2018 Monster Jam Series | 690560 | 0 | 0 | 131 | 0 | NO_GALLERY |
+| Hot Wheels Monster Trucks Big Rigs | 800564 | 0 | 0 | 60 | 0 | NO_GALLERY |
+| Hot Wheels Monster Trucks Mystery Trucks | 740170 | 1 | 1 | 80 | 1 | GALLERY_FOUND |
+| Hot Wheels Monster Trucks Oversized | 808625 | 0 | 0 | 432 | 0 | NO_GALLERY |
+| 2018 Hot Wheels Monster Trucks | 705337 | 0 | 0 | 65 | 0 | NO_GALLERY |
+| 2019 Hot Wheels Monster Trucks | 669040 | 0 | 0 | 214 | 0 | NO_GALLERY |
+| 2020 Hot Wheels Monster Trucks | 784024 | 0 | 0 | 301 | 0 | NO_GALLERY |
+| 2021 Hot Wheels Monster Trucks | 735602 | 0 | 0 | 313 | 0 | NO_GALLERY |
+| 2022 Hot Wheels Monster Trucks | 692726 | 0 | 0 | 310 | 0 | NO_GALLERY |
+| 2023 Hot Wheels Monster Trucks | 789188 | 0 | 0 | 308 | 0 | NO_GALLERY |
+| 2024 Hot Wheels Monster Trucks | 796443 | 0 | 0 | 327 | 0 | NO_GALLERY |
+| 2025 Hot Wheels Monster Trucks | 812720 | 2 | 10 | 387 | 10 | GALLERY_FOUND |
+| 2026 Hot Wheels Monster Trucks | 815588 | 1 | 16 | 402 | 16 | GALLERY_FOUND |
+| Hot Wheels Monster Trucks | 807406 | 1 | 23 | 58 | 23 | GALLERY_FOUND |
+| 2023 Hot Wheels RacerVerse | 807612 | 1 | 6 | 80 | 6 | GALLERY_FOUND |
+| 2024 Hot Wheels RacerVerse | 781000 | 0 | 0 | 130 | 0 | NO_GALLERY |
+| 2025 Hot Wheels RacerVerse | 785493 | 0 | 0 | 151 | 0 | NO_GALLERY |
+| 2026 Hot Wheels RacerVerse | 767027 | 0 | 0 | 26 | 0 | NO_GALLERY |
+| Hot Wheels RC | 816862 | 2 | 70 | 174 | 70 | GALLERY_FOUND |
+| 2022 Hot Wheels Skate | 812709 | 0 | 0 | 93 | 0 | NO_GALLERY |
+| 2023 Hot Wheels Skate | 812707 | 0 | 0 | 129 | 0 | NO_GALLERY |
+| 2024 Hot Wheels Skate | 812721 | 1 | 4 | 196 | 4 | GALLERY_FOUND |
+| 2025 Hot Wheels Skate | 812704 | 0 | 0 | 91 | 0 | NO_GALLERY |
+
+**Batch totals:** 30 pages; 10 GALLERY_FOUND; 20 NO_GALLERY; 0 GALLERY_SUSPECTED; 12 Gallery containers; 157 Gallery item occurrences; 5439 ordinary HTML img elements; 157 File-link markers.
+
+NO_GALLERY means no dedicated Gallery container was detected. Ordinary inline images remain in scope for the separate Inline Image extraction workflow.
