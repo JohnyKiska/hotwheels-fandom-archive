@@ -1400,3 +1400,8 @@ Next Gallery batch: continue with the next source pages in Modern Special Series
 ## Gallery extraction batch 19
 
 Ten Modern Special Series pages processed. Dedicated Gallery containers were found on Corvette 4-Rotor (8 items) and Crashers (2007) (6 items). Across all ten pages: 2 Gallery containers, 14 Gallery items, and 545 general HTML image elements. Ten 15-column CSVs and ten QA reports are present under `research/galleries/`. Ordinary images remain reserved for Inline Image extraction.
+
+
+## Gallery scan batch 20: consolidated workflow, 2026-11-10
+
+Ten previously unscanned pages classified using the consolidated scan. Duracell and Eggshelleracer contain 4 Gallery containers and 11 Gallery items total. The other 8 pages are classified NO_GALLERY; their 558 ordinary HTML image elements remain reserved for Inline Image extraction. Consolidated artifacts: `research/galleries/GALLERY-SCAN.csv`, `research/galleries/GALLERY-EXTRACTION.csv`, and `research/galleries/GALLERY-QA.md`. Future batches will append to these shared registers instead of creating per-page CSV/QA pairs.
