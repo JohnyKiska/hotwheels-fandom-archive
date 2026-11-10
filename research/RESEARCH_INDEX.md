@@ -247,3 +247,6 @@ Five additional pages extracted and QA-reviewed: Fast & Furious Spy Racers Serie
 
 
 - 2026-11-10: Data Model Validation, партия 5. Проверены Car Culture Team Transport 2023–2026: 122 строки в 25 таблицах, 167 embedded image references и 9 отдельных Gallery items (все 9 за 2025 год, CSV разбит на две части). Подтверждена устойчивая bundle/component модель; зафиксированы Fast & Furious/Walmart Legends Tour Exclusive как release context, различие New Casting и New Die-Cast Chassis, отдельный Gallery evidence stream и необходимость читать image link href при data URI в img src. Подробности: DATA-MODEL-VALIDATION.md.
+
+
+- 2026-11-10: Data Model Validation, партия 6. Проверены Pro Racing 1997–2000: 628 строк в 57 таблицах, 1,203 embedded image references и 2,595 ссылок. Выявлены разные racing schemas (NASCAR Team / Number vs open-wheel Team n°/Team/Year #/Series), повторное использование Toy # между секциями/вариантами, Tool Box как отдельный product type и явные Packaged with relationships. Gallery extraction для этих страниц остаётся отдельной задачей. Подробности: DATA-MODEL-VALIDATION.md.
