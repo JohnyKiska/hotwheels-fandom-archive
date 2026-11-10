@@ -1235,3 +1235,20 @@ Five source pages were scanned. Dedicated Gallery extraction is kept separate fr
 **Batch total:** 0 dedicated Gallery headings, 0 gallery markers, 0 Gallery items, and 352 general HTML image elements across 5 source pages. These images remain candidates for the separate Inline Image extraction stage. All five 15-column CSVs explicitly record zero Gallery items; five corresponding QA reports document scope and source metadata. Gallery image binaries are not downloaded in this pass.
 
 Next gallery batch: continue with the next source pages in Modern Special Series inventory order.
+
+
+## Gallery extraction batch 10: 2022–2024 Car Culture, 2026-11-10
+
+Five source pages were scanned. Dedicated Gallery extraction remains separate from inline article/product image extraction. Source Git blob SHAs, MANIFEST inventory sizes and SHA-256 values, and Fandom revision IDs are recorded in the individual QA files. Fetched text character lengths differ from manifest byte-size fields, so this pass does not claim byte-for-byte size or SHA-256 verification.
+
+| Source page | Revision | Gallery headings | Gallery markers | Gallery items | General HTML image elements | CSV | QA |
+|---|---:|---:|---:|---:|---:|---|---|
+| `2022 Car Culture: Team Transport` | 816153 | 0 | 0 | 0 | 46 | `research/galleries/MODERN-SPECIAL-SERIES-2022-CAR-CULTURE-TEAM-TRANSPORT-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-2022-CAR-CULTURE-TEAM-TRANSPORT-GALLERY-QA.md` |
+| `2023 Car Culture` | 736899 | 0 | 0 | 0 | 82 | `research/galleries/MODERN-SPECIAL-SERIES-2023-CAR-CULTURE-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-2023-CAR-CULTURE-GALLERY-QA.md` |
+| `2023 Car Culture: Team Transport` | 753242 | 0 | 0 | 0 | 49 | `research/galleries/MODERN-SPECIAL-SERIES-2023-CAR-CULTURE-TEAM-TRANSPORT-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-2023-CAR-CULTURE-TEAM-TRANSPORT-GALLERY-QA.md` |
+| `2024 Car Culture` | 795931 | 0 | 0 | 0 | 92 | `research/galleries/MODERN-SPECIAL-SERIES-2024-CAR-CULTURE-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-2024-CAR-CULTURE-GALLERY-QA.md` |
+| `2024 Car Culture: Team Transport` | 804894 | 0 | 0 | 0 | 47 | `research/galleries/MODERN-SPECIAL-SERIES-2024-CAR-CULTURE-TEAM-TRANSPORT-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-2024-CAR-CULTURE-TEAM-TRANSPORT-GALLERY-QA.md` |
+
+**Batch total:** 0 dedicated Gallery headings, 0 gallery markers, 0 Gallery items, and 316 general HTML image elements across 5 source pages. These images remain candidates for the separate Inline Image extraction stage. Five 15-column CSVs explicitly record zero Gallery items; five corresponding QA reports document scope and source metadata. Gallery image binaries are not downloaded in this pass.
+
+Next Gallery batch: continue with the next source pages in Modern Special Series inventory order.
