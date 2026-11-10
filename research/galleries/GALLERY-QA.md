@@ -1271,3 +1271,22 @@ Five earliest unresolved `GALLERY_SUSPECTED` pages in Modern Special Series inve
 | `List of 2015 Hot Wheels` | 790646 | `8b28669c7960e0eaf0b8ceb47ca44ab51b48d200` | 815228 | 443 | NO_GALLERY |
 
 **Batch total:** 5 pages; 0 Gallery headings; 0 Gallery containers; 0 Gallery items; 1,373 ordinary HTML img elements observed and left outside this Gallery pass. Five 15-column header-only CSVs and five page-specific QA reports were created. Product-table and inline/article images were not extracted.
+
+
+## Gallery extraction recovery batch 1, 2026-11-10
+
+The first source-recovery pass restored **243 Gallery item records across 14 previously unextracted GALLERY_FOUND pages**. Every source HTML blob SHA was checked against GALLERY-SCAN.csv before parsing. For each page, the extracted wikia-gallery-item count was checked against gallery_item_count; each row preserves the source file path, blob SHA, source size, manifest SHA-256, Fandom revision, gallery and item indices, File page URL, image metadata, image URL, and raw caption HTML. Duplicate keys (source page + Gallery index + item index) were checked against the destination part before writing.
+
+| Destination | Pages recovered | Records added | Current records |
+|---|---:|---:|---:|
+| GALLERY-EXTRACTION-11.csv | 8 | 195 | 241 (9 slots remain) |
+| GALLERY-EXTRACTION-12.csv | 6 | 48 | 48 |
+| **Total** | **14** | **243** | **289 in recovery parts** |
+
+Pages recovered in part 11: Key Force (29), 2026 Superstar Speeders (6), Atomix (16), Custom Classics (88), Custom Motors (21), Extreme Shoxx (4), Hot Import Nights (2), and Hot Wheels 1:87 Scale Series (29).
+
+Pages recovered in part 12: Hot Wheels Haulers (13), 2000 Monster Jam Series (2), 2002 Monster Jam Series (6), 2003 Monster Jam Series (8), 2004 Monster Jam Series (17), and 2005 Monster Jam Series (2).
+
+**Control totals after this pass:** 2,546 original records retained + 243 recovered = **2,789 records**. Against the 3,350-record scan total, **561 records across 35 pages remain**. No GALLERY-SCAN classifications were changed. The original GALLERY-EXTRACTION.csv remains untouched as the backup/master source; the split parts are the active recovery workspace.
+
+**Commits:** part 11 b5c1152126bffe41b0bbe86746b19b46302032a2; part 12 6a22a05006ad2bcb33c0f69cf5f1e0f08ee703f4; index f69bdca84e12466d4eae642ff2a8362a6834be3b.
