@@ -481,3 +481,12 @@ Four dedicated Gallery items extracted from the source HTML and consolidated in 
 | 2026 Pop Culture | 816093 | 1 | 5 | 74 |
 
 Five dedicated Gallery items extracted from the source HTML and consolidated in the master. Five older records for the same source used synthetic Gallery IDs and incorrect section indices; these were replaced with source-accurate records using Gallery ID `gallery-0` and section index 1. Page CSV and QA created; duplicate-key check passed after normalization. Ordinary article/product images remain reserved for Inline Image extraction.
+
+
+## Gallery extraction batch 25: 2025 Car Culture: Team Transport
+
+| Page | Revision | Containers | Items | General img |
+|---|---:|---:|---:|---:|
+| 2025 Car Culture: Team Transport | 768859 | 1 | 9 | 66 |
+
+The existing page-level extraction CSV was revalidated against the current HTML source blob (`ab7a0ec32ccdd994a25bfb87ebf2b824094abcc4`): all nine rows carry the matching source blob SHA, revision ID, and actual Gallery ID `gallery-0`; the HTML contains exactly nine dedicated gallery-item markers. The nine page-level records were appended to the consolidated master. Ordinary article/product images remain reserved for Inline Image extraction.
