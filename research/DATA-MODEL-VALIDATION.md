@@ -245,3 +245,55 @@ QA фиксирует 7 таблиц и разные секции: годовы�
 - Pro Racing: typed racing number, driver, team, sponsor и series scope.
 - Сопоставить Character Cars с другими Hot Wheels releases, не объединяя персонажа и автомобильный casting по совпадению названия.
 - Проверить лицензии/IP и ownership assertions на конкретных строках и упаковках, где источник это явно подтверждает.
+
+
+## Проверочная партия 4: Car Culture Team Transport (2018–2022)
+
+Проверены годовые extraction QA и CSV за 2018–2022 годы:
+
+| Год | Таблиц | Строк | Embedded images |
+|---|---:|---:|---:|
+| 2018 | 3 | 14 | 18 |
+| 2019 | 6 | 22 | 30 |
+| 2020 | 4 | 22 | 30 |
+| 2021 | 6 | 29 | 40 |
+| 2022 | 6 | 29 | 40 |
+| **Всего** | **25** | **116** | **158** |
+
+Источники: `research/extractions/MODERN-SPECIAL-SERIES-{2018..2022}-CAR-CULTURE-TEAM-TRANSPORT.csv` и соответствующие `-EXTRACTION-QA.md`.
+
+### 14. Bundle identity vs component castings
+
+В годовых таблицах используются Toy #, Series #, Casting, Body Color, Wheel Type, Notes, Photo Loose и Photo Carded. В строках встречается HTML `rowspan="2"` для Toy #, Series # и/или изображения упаковки. Например, в 2018 Mix 1 Toy # FLF61 и Series # 1 повторяются контекстом rowspan для двух компонентных строк. В 2022 изображение упаковки явно показывает Ford C-800 and Galaxie.
+
+Подтверждение:
+- Toy # и Series # могут идентифицировать bundle/release, а не каждый входящий в него casting по отдельности.
+- Нужна сущность Bundle/Set Release и таблица BundleComponent с порядком, ролью компонента и ссылкой на отдельный casting/product release.
+- Rowspan — не просто форматирование: он передаёт наследуемый контекст, который должен быть восстановлен в derived interpretation, при этом исходная пустая ячейка и HTML атрибут должны оставаться сохранёнными.
+- Нельзя создавать два самостоятельных SKU только потому, что extraction содержит две строки Castings под одним rowspan Toy #.
+
+### 15. Mix, exclusives and source table boundaries
+
+По годам встречаются Mix 1–4 и отдельные эксклюзивные секции (например Supreme Exclusive в 2019, Walmart Legends Tour Exclusive в 2021–2022). Некоторые дополнительные таблицы содержат строки, но QA не обнаруживает в них заголовков (например таблицы с двумя строками после основных таблиц).
+
+Подтверждение:
+- Mix/Exclusive — scoped assortment/market-release context, а не автоматически отдельный глобальный product family.
+- Источник может содержать строки без заголовков, и QA корректно сохраняет их с флагом. Для интерпретации требуется raw HTML/context, а не отбрасывание.
+- Нужны market/exclusivity attributes с source provenance; нельзя выводить конкретного retailer/territory из одного только section name без подтверждения.
+
+### 16. Component-level attributes and package evidence
+
+В каждой компонентной строке отдельно указаны Casting, Body Color, Wheel Type и Notes; Notes может содержать несколько base codes и метки New Casting. Carded photo часто объединена rowspan и относится к общему комплекту, тогда как loose photos различаются по компонентам. В 2021 для некоторых rows используется placeholder Image Not Available.
+
+Подтверждение:
+- Bundle package image относится к bundle-level evidence; loose images относятся к component-level evidence.
+- Base codes, wheel configuration, body color и casting notes должны относиться к компоненту, если источник выводит их в component row.
+- Изображения-заглушки сохраняются как placeholders, не как реальные product photos.
+- New Casting — исходное утверждение о casting lifecycle, его следует хранить как source assertion с датой/контекстом, а не как необратимый boolean на всей сущности casting.
+
+## Обновлённые выводы после партии 4
+
+16. Team Transport подтверждает, что один Toy #/Series Position может описывать release-bundle, внутри которого несколько самостоятельных casting components.
+17. Нужна двухуровневая система provenance: bundle-level evidence (например carded packaging) и component-level evidence (loose photo, color, wheel, base code).
+18. Rowspan и headerless source tables нельзя сводить к простым пустым значениям; требуется source-preserving record плюс отдельно вычисленный inherited context.
+19. Mix и retailer exclusives — контекст выпуска/распределения; не обязательно самостоятельная идентичность casting или product family.
