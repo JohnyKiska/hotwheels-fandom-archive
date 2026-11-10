@@ -1441,3 +1441,7 @@ Thirty additional source pages scanned in inventory order, continuing after 2013
 ## Gallery scan batch 24
 
 Twenty-nine remaining Modern Special Series source pages processed in manifest order, continuing after RD-06 and ending at X-cceleron. Results: 13 GALLERY_FOUND, 0 GALLERY_SUSPECTED, 16 NO_GALLERY; 13 Gallery containers; 53 Gallery item records extracted; 2,190 ordinary HTML img elements. The 16 NO_GALLERY pages retain 865 ordinary img elements for the separate Inline Image extraction. Consolidated scan, extraction, QA and processing index updated. Gallery binaries were not downloaded.
+
+## Gallery legacy migration tranche 1
+
+The first ten Modern Special Series inventory pages from legacy Gallery extraction batches 1–3 were reconciled into `research/galleries/GALLERY-SCAN.csv` and `research/galleries/GALLERY-EXTRACTION.csv`. All ten page-specific CSV and QA pairs were present and validated. The migration appended 56 Gallery item rows; 2 pages were classified GALLERY_FOUND and 8 NO_GALLERY. General HTML image and Gallery marker counts are left blank when not recorded by the original QA artifacts.
