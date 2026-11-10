@@ -450,3 +450,16 @@ Both 2024 Car Culture source pages were fetched directly. Their Git blob SHAs ma
 | 2024 Car Culture: Team Transport | 804894 | 0 | 47 | `NO_GALLERY` |
 
 Consolidation outcome: 2 pages re-fetched, 2 header-only CSVs verified, 2 QA reports verified, 0 Gallery rows added, 0 duplicates, and 139 ordinary HTML images reserved for separate Inline Image extraction. Both scan-manifest rows now include source blob SHA, manifest byte size, manifest SHA-256, zero Gallery counts, and ordinary image counts.
+
+
+## Additional 2024 NO_GALLERY checks: Boulevard, Fast & Furious, Then and Now
+
+Three 2024 source HTML pages were fetched directly and recounted. Each has 0 Gallery headings, 0 dedicated `wikia-gallery` containers, and 0 Gallery items. Page-specific CSVs are header-only and the QA reports are present. Boulevard's existing QA was already complete; its scan-manifest row has now been corrected to include the verified ordinary image count.
+
+| Source page | Revision | Gallery items | Ordinary HTML `<img>` elements | Status |
+|---|---:|---:|---:|---|
+| 2024 Hot Wheels Boulevard | 777375 | 0 | 70 | `NO_GALLERY` |
+| 2024 Fast & Furious Premium Series | 714392 | 0 | 46 | `NO_GALLERY` |
+| Then and Now Mini Collection (2024) | 812967 | 0 | 20 | `NO_GALLERY` |
+
+Consolidation outcome: 3 pages verified, 3 header-only CSVs checked, 3 QA reports present, 0 Gallery rows added, 0 duplicates, and 136 ordinary HTML images reserved for separate Inline Image extraction.
