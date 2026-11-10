@@ -522,3 +522,8 @@ Basic Pro Racing Series содержит 124 строки за 1997–2002 го�
 Все 100 записей уже присутствуют в `GALLERY-EXTRACTION.csv`, все page-level counts совпадают с `GALLERY-SCAN.csv`, все 100 ключей `source page + gallery index + item index` уникальны. Новые строки в master не добавлялись, чтобы не создать дубликаты. `GALLERY-PROGRESS.csv` уже содержит все 13 страниц со статусом SCANNED и соответствующими counts.
 
 Модель данных: Gallery item является отдельным evidence record, а не автоматически product photo или отдельным товаром. Pro Racing examples включают international card artwork, multi-car/set packaging views, pre-production sample group photo, advertising inserts и 1:43 prototypes/website assets. Filename, alt, caption, file-page link, image URL и raw markup должны оставаться доступными; classification as carded/loose/prototype/advertisement requires caption/source context.
+
+
+## Pro Racing inline image audit: NO_GALLERY annual pages (2026-11-10)
+
+Audited the five annual pages 1997, 2001, 2003, 2004, and 2005 that have no dedicated Gallery. Their source HTML contains 497 image elements inside product tables (156, 94, 139, 70, and 38 respectively); all 497 are already preserved in the corresponding annual extraction CSVs through `cell_image_metadata_json` and `raw_row_html`. The 30 remaining image elements are site/community header and Fandom footer branding assets. No additional article-body inline images were found. No second image CSV was created and no Gallery master rows were added. Detailed reconciliation: `research/extractions/PRO-RACING-INLINE-IMAGE-AUDIT.md`.
