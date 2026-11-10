@@ -266,3 +266,13 @@ A post-migration integrity check found that the large consolidated `GALLERY-EXTR
 - Merged 23 rows into `GALLERY-EXTRACTION.csv`; no duplicate keys were found for `source_file + gallery_id + gallery_item_index`.
 - Integrity verification after commit: consolidated extraction register contains 390 data rows (previously 367), and the complete file was fetched again successfully at 810,552 characters.
 - The page-specific CSV and QA remain preserved as source records. This is the first completed legacy item-row merge; remaining legacy files are still pending individual validation and small-batch migration.
+
+
+## Legacy Gallery extraction merge: second verified page
+
+- Source page: `Modern Special Series/Character Cars/Power Rangers Megaforce _ Hot Wheels Wiki _ Fandom.html`
+- Source CSV: `research/galleries/MODERN-SPECIAL-SERIES-POWER-RANGERS-MEGAFORCE-GALLERY.csv`
+- Source QA confirms 1 Gallery container and 1 extracted Gallery item; the 15-column schema matches the consolidated extraction register.
+- Merged 1 row. No duplicate key was found for `source_file + gallery_id + gallery_item_index`.
+- Integrity verification after commit: consolidated extraction register contains 391 data rows and was fetched again in full at 812,547 characters.
+- The page-specific source CSV and QA remain preserved.
