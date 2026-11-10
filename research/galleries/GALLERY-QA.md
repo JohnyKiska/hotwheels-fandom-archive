@@ -616,3 +616,15 @@ The existing page-level extraction CSV was revalidated against the current HTML 
 - SpongeBob SquarePants Character Cars: source Git blob SHA 99e5d1aa85a35956f6a393798e9de45a31179886; 373240 bytes; manifest SHA-256 ED05C8AEC5823D80E4FACC640D799A57BCF0DD652CD8219098200971291CE147; revision 687095; 1 dedicated Gallery container and 1 Gallery item, filename SDCC 2016 (3).jpg. 58 ordinary img elements.
 - Star Wars Character Cars: source Git blob SHA e1a71f27cfe72e51eecc6d58b8ed3c60d81390d1; 887617 bytes; manifest SHA-256 DBA8B280814373986DAB14AB82AB77724AD4CD73E9B9EA459B4C89CB0D8FE944; revision 778377; 1 dedicated Gallery container and 1 Gallery item, filename SDCC 2016 (2).jpg. 590 ordinary img elements.
 - Both Gallery records were checked against the existing master extraction registry by filename and were not present. They were appended once with their exact source HTML, captions, file-page links, and image URLs. Space Jam was registered as NO_GALLERY. Ordinary inline/article images remain outside Gallery extraction scope.
+
+## Gallery scan batch 39: Character Cars, 2026-11-10
+
+Three additional Modern Special Series Character Cars pages scanned against the archive manifest. 1 page contains dedicated Gallery markup (1 Gallery containers; 1 Gallery items). 2 pages are classified NO_GALLERY. Ordinary HTML img elements: 158.
+
+| Page | Revision | Containers | Items | img | Status |
+|---|---:|---:|---:|---:|---|
+| Street Fighter V | 655518 | 0 | 0 | 16 | NO_GALLERY |
+| Super Mario | 641313 | 1 | 1 | 102 | GALLERY_FOUND |
+| Teenage Mutant Ninja Turtles | 649579 | 0 | 0 | 40 | NO_GALLERY |
+
+The Super Mario Gallery item was checked against the existing extraction register; SDCC 2016 (4).jpg was not previously present and was added once. NO_GALLERY pages retain their ordinary images for future Inline Image Extraction. All scan rows preserve source blob SHA, MANIFEST size/SHA-256, and Fandom revision.
