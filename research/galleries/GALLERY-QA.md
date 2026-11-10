@@ -813,3 +813,39 @@ Totals: 20 pages; 23 Gallery containers; 242 Gallery items; 1602 ordinary HTML i
 Classification: GALLERY_FOUND=16; GALLERY_SUSPECTED=0; NO_GALLERY=4.
 
 NO_GALLERY pages retain their ordinary inline images for the separate Inline Image extraction workflow. Master GALLERY-EXTRACTION.csv reconciliation remains pending; these 242 item occurrences are logged in the scan/progress ledgers but are not yet counted as consolidated extraction rows.
+
+
+# Gallery scan batch 52
+
+Date: 2026-11-10
+
+Twenty previously unscanned pages were checked directly against their archived HTML source files. The batch covers the remaining Early Special Series pages, Exclusives, and the first two Larger Scale pages.
+
+| Source page | Revision | Gallery containers | Gallery items | General img elements | Status |
+|---|---:|---:|---:|---:|---|
+| Ram Rocket | 744899 | 0 | 0 | 11 | NO_GALLERY |
+| Red Baron (Sizzlers) | 705098 | 0 | 0 | 8 | NO_GALLERY |
+| Revvers | 653533 | 1 | 5 | 58 | GALLERY_FOUND |
+| RRRumblers | 770794 | 1 | 13 | 94 | GALLERY_FOUND |
+| Scorchers | 788245 | 1 | 12 | 55 | GALLERY_FOUND |
+| Shift Kickers | 772342 | 0 | 0 | 13 | NO_GALLERY |
+| Sizzlers | 801836 | 1 | 37 | 186 | GALLERY_FOUND |
+| Small Shots | 814631 | 1 | 42 | 115 | GALLERY_FOUND |
+| Steering Rigs | 796421 | 1 | 13 | 126 | GALLERY_FOUND |
+| Steering Trailer | 705112 | 0 | 0 | 8 | NO_GALLERY |
+| Super California Custom | 783331 | 1 | 57 | 133 | GALLERY_FOUND |
+| Truck Co. | 787325 | 1 | 6 | 48 | GALLERY_FOUND |
+| X-V Racers | 653643 | 1 | 13 | 43 | GALLERY_FOUND |
+| Zowees | 794839 | 1 | 24 | 78 | GALLERY_FOUND |
+| Elite 64 | 816519 | 1 | 80 | 243 | GALLERY_FOUND |
+| HotWheelsCollectors.com | 794840 | 0 | 0 | 6 | NO_GALLERY |
+| Red Line Club | 598120 | 0 | 0 | 7 | NO_GALLERY |
+| Virtual Garage | 814946 | 1 | 2 | 133 | GALLERY_FOUND |
+| 1_43 Battle Vehicles | 711475 | 1 | 1 | 41 | GALLERY_FOUND |
+| 1_43 Pull-Backs | 662258 | 0 | 0 | 52 | NO_GALLERY |
+
+**Batch totals:** 20 pages; 13 with Gallery markup; 7 without dedicated Gallery markup; 305 Gallery item occurrences; 13 Gallery containers; 1,458 ordinary image elements; 0 suspected cases.
+
+NO_GALLERY is a classification of the dedicated Gallery markup only. All seven such pages still contain ordinary image elements (11, 8, 13, 8, 6, 7, and 52 respectively).
+
+The 305 Gallery item occurrences from this batch are recorded in GALLERY-SCAN.csv and GALLERY-PROGRESS.csv. They still require reconciliation with the oversized GALLERY-EXTRACTION.csv master register; no claim is made that they have been merged there.
