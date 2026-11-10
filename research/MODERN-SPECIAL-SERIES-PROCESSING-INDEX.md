@@ -1431,3 +1431,8 @@ Records appended to shared `GALLERY-SCAN.csv` and `GALLERY-EXTRACTION.csv`; sour
 Date: 2026-11-10
 
 Thirty additional Modern Special Series pages scanned in inventory order, continuing after High Speed Racing Wheels Series. Results: 21 GALLERY_FOUND, 9 GALLERY_SUSPECTED, 0 NO_GALLERY; 166 Gallery item records extracted; 5443 ordinary HTML img elements observed. Detailed per-page results and source provenance are recorded in `research/galleries/GALLERY-SCAN.csv`; extracted item markup is in `research/galleries/GALLERY-EXTRACTION.csv`; QA notes are in `research/galleries/GALLERY-QA.md`.
+
+
+## Gallery scan batch 23
+
+Thirty additional source pages scanned in inventory order, continuing after 2013 Pop Culture and ending at RD-06. Results: 13 GALLERY_FOUND, 0 GALLERY_SUSPECTED, 17 NO_GALLERY; 21 Gallery containers; 90 Gallery item records; 3,635 ordinary HTML img elements. The consolidated scan and extraction registers and this QA report were updated. The 17 NO_GALLERY pages remain queued for the separate Inline Image extraction; Gallery image binaries are not downloaded in this stage.
