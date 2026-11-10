@@ -1322,3 +1322,22 @@ Consolidation checks: original master = 2,546 records; records absent from the o
 **Final master:** `GALLERY-EXTRACTION.csv` — 3,350 records, 100%.
 **Preserved backup:** `GALLERY-EXTRACTION-BACKUP-20261110.csv` — original 2,546 records.
 **Consolidation commits:** backup bceb70d01239081dfc17068c19867f26abf932bb; master cd2e33fade5e28872326dcf53082996c4d0e74b7.
+
+## Pro Racing Gallery verification, 2026-11-10
+
+Validated 13 Pro Racing-related pages against `GALLERY-SCAN.csv`, `GALLERY-PROGRESS.csv`, and the consolidated `GALLERY-EXTRACTION.csv`.
+
+| Scope | Pages | Containers | Gallery items |
+|---|---:|---:|---:|
+| Annual Pro Racing 1997–2005 | 9 | 8 | 29 |
+| Basic Pro Racing Series | 1 | 5 | 13 |
+| Hot Wheels Racing Selects | 1 | 1 | 1 |
+| Team Transporter | 1 | 1 | 2 |
+| Pro Racing 1:43 Scale | 1 | 2 | 55 |
+| **Total** | **13** | **17** | **100** |
+
+Annual pages with Gallery: 1998 (4 items), 1999 (12), 2000 (12), 2002 (1). Annual pages with NO_GALLERY: 1997, 2001, 2003, 2004, 2005 (0 each). These five pages still contain ordinary article images and remain candidates for Inline Image extraction.
+
+Master verification: all 100 expected records already exist in `GALLERY-EXTRACTION.csv`; each page count matches `GALLERY-SCAN.csv`; all 100 source-page/gallery/item keys are unique. No additional rows were appended, avoiding duplication. `GALLERY-PROGRESS.csv` already lists all 13 pages as SCANNED with matching counts.
+
+Evidence note: gallery contents include international card artwork, packaging/set views, pre-production sample imagery, advertising inserts, prototypes, and website assets. Gallery membership alone does not establish a product identity or variant. Raw item markup, filename, alt text, caption, file-page link, and image URL remain part of the evidence record.
