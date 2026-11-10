@@ -849,3 +849,39 @@ Twenty previously unscanned pages were checked directly against their archived H
 NO_GALLERY is a classification of the dedicated Gallery markup only. All seven such pages still contain ordinary image elements (11, 8, 13, 8, 6, 7, and 52 respectively).
 
 The 305 Gallery item occurrences from this batch are recorded in GALLERY-SCAN.csv and GALLERY-PROGRESS.csv. They still require reconciliation with the oversized GALLERY-EXTRACTION.csv master register; no claim is made that they have been merged there.
+
+
+# Gallery scan batch 53
+
+Date: 2026-11-10
+
+Twenty previously unscanned Larger Scale pages were checked directly against their archived HTML source files.
+
+| Source page | Revision | Gallery containers | Gallery items | General img elements | Status |
+|---|---:|---:|---:|---:|---|
+| 1_43 Turbos Collection | 782066 | 1 | 5 | 33 | GALLERY_FOUND |
+| 100% Hot Wheels 1_18 Scale | 804481 | 1 | 50 | 231 | GALLERY_FOUND |
+| Batman 1_50 Scale Series | 788782 | 1 | 3 | 242 | GALLERY_FOUND |
+| Ferrari 1_18 Scale Series | 794982 | 0 | 0 | 33 | NO_GALLERY |
+| Ferrari 1_24 Scale Series | 798163 | 0 | 0 | 15 | NO_GALLERY |
+| Ferrari 1_43 Scale Series | 787426 | 0 | 0 | 29 | NO_GALLERY |
+| Formula Fuelers | 778773 | 1 | 15 | 64 | GALLERY_FOUND |
+| Hot Wheels 1_18 Scale Series | 801573 | 1 | 13 | 192 | GALLERY_FOUND |
+| Hot Wheels 1_24 Scale Series | 788016 | 0 | 0 | 7 | NO_GALLERY |
+| Hot Wheels Classics 1_18 Scale | 787370 | 1 | 16 | 68 | GALLERY_FOUND |
+| Hot Wheels Collectibles 1_18 Scale | 804430 | 1 | 16 | 61 | GALLERY_FOUND |
+| Hot Wheels Elite 1_18 Scale | 804326 | 0 | 0 | 214 | NO_GALLERY |
+| Hot Wheels Elite 1_43 Scale | 801263 | 0 | 0 | 183 | NO_GALLERY |
+| Hot Wheels Elite One | 794948 | 1 | 7 | 33 | GALLERY_FOUND |
+| Hot Wheels Let's Race_ Activate! | 812724 | 0 | 0 | 23 | NO_GALLERY |
+| Hot Wheels Racing 1_18 Scale | 791845 | 0 | 0 | 144 | NO_GALLERY |
+| Hot Wheels Racing 1_24 Scale | 815868 | 0 | 0 | 29 | NO_GALLERY |
+| Hot Wheels Racing 1_43 Scale | 787605 | 0 | 0 | 63 | NO_GALLERY |
+| Hot Wheels Racing Series (2005) | 700243 | 0 | 0 | 13 | NO_GALLERY |
+| Hot Wheels Racing Series (2007) | 333402 | 0 | 0 | 10 | NO_GALLERY |
+
+**Batch totals:** 20 pages; 8 with Gallery markup; 12 without dedicated Gallery markup; 125 Gallery item occurrences; 8 Gallery containers; 1687 ordinary image elements; 0 suspected cases.
+
+NO_GALLERY classifies only the dedicated Gallery markup. The pages may still contain ordinary images; these are counted separately above.
+
+The 125 Gallery item occurrences from this batch are recorded in GALLERY-SCAN.csv and GALLERY-PROGRESS.csv. They still require reconciliation with the oversized GALLERY-EXTRACTION.csv master register; no claim is made that they have been merged there.
