@@ -1436,3 +1436,8 @@ Thirty additional Modern Special Series pages scanned in inventory order, contin
 ## Gallery scan batch 23
 
 Thirty additional source pages scanned in inventory order, continuing after 2013 Pop Culture and ending at RD-06. Results: 13 GALLERY_FOUND, 0 GALLERY_SUSPECTED, 17 NO_GALLERY; 21 Gallery containers; 90 Gallery item records; 3,635 ordinary HTML img elements. The consolidated scan and extraction registers and this QA report were updated. The 17 NO_GALLERY pages remain queued for the separate Inline Image extraction; Gallery image binaries are not downloaded in this stage.
+
+
+## Gallery scan batch 24
+
+Twenty-nine remaining Modern Special Series source pages processed in manifest order, continuing after RD-06 and ending at X-cceleron. Results: 13 GALLERY_FOUND, 0 GALLERY_SUSPECTED, 16 NO_GALLERY; 13 Gallery containers; 53 Gallery item records extracted; 2,190 ordinary HTML img elements. The 16 NO_GALLERY pages retain 865 ordinary img elements for the separate Inline Image extraction. Consolidated scan, extraction, QA and processing index updated. Gallery binaries were not downloaded.
