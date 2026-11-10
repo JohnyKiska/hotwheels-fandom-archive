@@ -1469,3 +1469,22 @@ Ten additional legacy Gallery page CSV/QA pairs covering Car Culture and Charact
 ## Gallery extraction integrity correction
 
 The consolidated `research/galleries/GALLERY-EXTRACTION.csv` was restored from the pre-migration checkpoint after a truncation was detected. The restored file was verified at 369 lines (header plus 368 data rows). Earlier legacy migration tranche notes refer to scan-register reconciliation; they do not mean that legacy item rows were successfully merged into the consolidated extraction register. Page-specific legacy CSVs remain intact and authoritative until a verified chunked merge is completed. The consolidated scan register remains updated and currently contains 179 unique nonblank source paths.
+
+
+## Gallery extraction batch 25: suspected-marker resolution, 2026-11-10
+
+The next five pages after the opening five-page batch were already completed in Gallery batch 2 (2001–2005). To avoid duplication, this batch resolved the first five still-unresolved `GALLERY_SUSPECTED` entries in Modern Special Series inventory order. All five archived source blob SHAs matched the inventory; Fandom revision IDs were confirmed from the source HTML. Each legacy marker was only the advertising targeting value `loc:"gallery"`, not article gallery markup. All five pages were therefore classified `NO_GALLERY` after manual review.
+
+| Source page | Revision | Source blob SHA | Source size (bytes) | Gallery headings | Gallery containers | Gallery items | General HTML img elements | CSV | QA |
+|---|---:|---|---:|---:|---:|---:|---:|---|---|
+| `Hot Wheels Garage Series (2016)` | 693533 | `2c8c5377e4ed2f43f0913cd1f0478c403d9e2283` | 329921 | 0 | 0 | 0 | 26 | `research/galleries/MODERN-SPECIAL-SERIES-HOT-WHEELS-GARAGE-SERIES-2016-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-HOT-WHEELS-GARAGE-SERIES-2016-GALLERY-QA.md` |
+| `HW Designed By Mini Collection (2025)` | 699726 | `aab02dec426191f3ad25b814b33b3e66a06173e6` | 316665 | 0 | 0 | 0 | 16 | `research/galleries/MODERN-SPECIAL-SERIES-HW-DESIGNED-BY-MINI-COLLECTION-2025-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-HW-DESIGNED-BY-MINI-COLLECTION-2025-GALLERY-QA.md` |
+| `List of 2013 Hot Wheels` | 790643 | `71b9118f2d89bcb902f5af2f150c215171221878` | 827451 | 0 | 0 | 0 | 445 | `research/galleries/MODERN-SPECIAL-SERIES-LIST-OF-2013-HOT-WHEELS-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-LIST-OF-2013-HOT-WHEELS-GALLERY-QA.md` |
+| `List of 2014 Hot Wheels` | 804340 | `1e783b2afc09b732525ecd936e795ad4c5674bf9` | 831825 | 0 | 0 | 0 | 443 | `research/galleries/MODERN-SPECIAL-SERIES-LIST-OF-2014-HOT-WHEELS-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-LIST-OF-2014-HOT-WHEELS-GALLERY-QA.md` |
+| `List of 2015 Hot Wheels` | 790646 | `8b28669c7960e0eaf0b8ceb47ca44ab51b48d200` | 815228 | 0 | 0 | 0 | 443 | `research/galleries/MODERN-SPECIAL-SERIES-LIST-OF-2015-HOT-WHEELS-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-LIST-OF-2015-HOT-WHEELS-GALLERY-QA.md` |
+
+**Batch total:** 5 pages; 0 Gallery headings; 0 Gallery containers; 0 Gallery items; 1,373 ordinary HTML img elements observed but not extracted. Five 15-column header-only CSVs and five page-specific QA reports were created. The five corresponding rows in `GALLERY-SCAN.csv` were updated from `GALLERY_SUSPECTED` to `NO_GALLERY`.
+
+**Current Modern Special Series scan classification:** 82 `GALLERY_FOUND`, 137 `NO_GALLERY`, and 4 remaining `GALLERY_SUSPECTED` pages (223 inventory pages total). All 223 Modern Special Series inventory paths are represented in the current scan register. The next unresolved pages, in inventory order, are `Live Wire (Sizzlers)`, `Moon Ghost`, `Nightspeed Mini Collection (2026)`, and `2013 Pop Culture` (four remain; no fifth unresolved page is currently recorded).
+
+The current `GALLERY-SCAN.csv` contains 530 unique source paths overall, including all 223 paths in this Modern Special Series inventory. Gallery image binaries are not downloaded in this pass.
