@@ -438,3 +438,15 @@ Both 2023 Car Culture source pages were fetched directly. Their Git blob SHAs ma
 | 2023 Car Culture: Team Transport | 753242 | 0 | 49 | `NO_GALLERY` |
 
 Consolidation outcome: 2 pages re-fetched, 2 header-only CSVs verified, 2 QA reports verified, 0 Gallery rows added, 0 duplicates, and 131 ordinary HTML images reserved for separate Inline Image extraction. Both scan-manifest rows now include source blob SHA, manifest byte size, manifest SHA-256, zero Gallery counts, and ordinary image counts.
+
+
+## 2024 Car Culture and Team Transport: direct source verification
+
+Both 2024 Car Culture source pages were fetched directly. Their Git blob SHAs match their page-specific QA records. Each has 0 Gallery headings, 0 dedicated Gallery containers, and 0 Gallery items. Existing page CSVs are header-only; QA records preserve source identity and manifest metadata. The incomplete scan-manifest rows have been restored.
+
+| Source page | Revision | Gallery items | Ordinary HTML `<img>` elements | Status |
+|---|---:|---:|---:|---|
+| 2024 Car Culture | 795931 | 0 | 92 | `NO_GALLERY` |
+| 2024 Car Culture: Team Transport | 804894 | 0 | 47 | `NO_GALLERY` |
+
+Consolidation outcome: 2 pages re-fetched, 2 header-only CSVs verified, 2 QA reports verified, 0 Gallery rows added, 0 duplicates, and 139 ordinary HTML images reserved for separate Inline Image extraction. Both scan-manifest rows now include source blob SHA, manifest byte size, manifest SHA-256, zero Gallery counts, and ordinary image counts.
