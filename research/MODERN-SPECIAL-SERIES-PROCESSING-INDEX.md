@@ -1136,3 +1136,19 @@ Five source pages were scanned in inventory order. Gallery extraction remains se
 **Batch total:** 3 gallery containers and 56 gallery items across 5 source pages; 3 pages contained Gallery content. All five source blob SHAs matched the current inventory. Gallery assets are recorded as source URLs and file-page links; binaries are not downloaded in this pass.
 
 Next gallery batch: continue with the next five source pages in Modern Special Series inventory order.
+
+## Gallery extraction batch 4: AcceleRacers Coin Bank through AcceleRacers Series (2025), 2026-11-10
+
+Five source pages were scanned in inventory order. Gallery extraction remains separate from product-table extraction.
+
+| Source page | Revision | Gallery headings | Gallery containers | Gallery items | CSV | QA |
+|---|---:|---:|---:|---:|---|---|
+| `AcceleRacers Coin Bank` | 648827 | 1 | 0 | 0 | `research/galleries/MODERN-SPECIAL-SERIES-ACCELERACERS-COIN-BANK-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-ACCELERACERS-COIN-BANK-GALLERY-QA.md` |
+| `AcceleRacers Collectible Card Game` | 783455 | 1 | 1 | 2 | `research/galleries/MODERN-SPECIAL-SERIES-ACCELERACERS-COLLECTIBLE-CARD-GAME-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-ACCELERACERS-COLLECTIBLE-CARD-GAME-GALLERY-QA.md` |
+| `AcceleRacers Series (2005)` | 777260 | 1 | 1 | 11 | `research/galleries/MODERN-SPECIAL-SERIES-ACCELERACERS-SERIES-2005-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-ACCELERACERS-SERIES-2005-GALLERY-QA.md` |
+| `AcceleRacers Series (2006)` | 620634 | 1 | 0 | 0 | `research/galleries/MODERN-SPECIAL-SERIES-ACCELERACERS-SERIES-2006-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-ACCELERACERS-SERIES-2006-GALLERY-QA.md` |
+| `AcceleRacers Series (2025)` | 781969 | 1 | 1 | 3 | `research/galleries/MODERN-SPECIAL-SERIES-ACCELERACERS-SERIES-2025-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-ACCELERACERS-SERIES-2025-GALLERY-QA.md` |
+
+**Batch total:** 3 gallery containers and 16 gallery items across 5 source pages; 3 pages contained Gallery items. All five source blob SHAs matched the current inventory. Gallery assets are recorded as source URLs and file-page links; binaries are not downloaded in this pass.
+
+Next gallery batch: continue with Airy 8, Anteater, Auto Affinity, Bassline (Crashers), and 2012 Hot Wheels Boulevard.
