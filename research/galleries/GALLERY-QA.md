@@ -252,3 +252,7 @@ Ten additional page-specific Gallery CSV/QA pairs were reconciled and appended t
 - Gallery item rows appended: 15
 - Cumulative legacy migration: 60 pages, 150 Gallery item rows, 13 GALLERY_FOUND, and 47 NO_GALLERY.
 - `Car Culture Factory Set` remains unmatched: no corresponding page-specific Gallery CSV/QA pair was found in the repository directory. It is not counted as migrated and requires separate source-level review.
+
+## Integrity correction: legacy migration status
+
+A post-migration integrity check found that the large consolidated `GALLERY-EXTRACTION.csv` had been rewritten from a truncated read. The file has been restored from the pre-migration checkpoint commit `8b64102bd6a366342827cc07e4c92b58ea3478be` and verified at 369 lines (header plus 368 original data lines). This restores the original consolidated extraction data. The prior tranche notes above describe attempted reconciliation, not a completed merge into the extraction register. Legacy page-specific CSVs remain intact and are still the source of truth for those Gallery items until a safe chunked merge is completed. The consolidated `GALLERY-SCAN.csv` remains updated; it currently contains 179 unique nonblank source paths, including 70 paths added after the checkpoint.
