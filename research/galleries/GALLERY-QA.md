@@ -1376,3 +1376,9 @@ Ferrari F2003-GA follow-up: Gallery items 20–21 (`2003 Ferrari F1 Sample Terry
 
 
 Chrome Constructors Champions 4-pack follow-up: Gallery item 22 (`Ferrari F1 Chrome Constructors Champs 4 pack (1).PNG`) is one set-level record. Its filename/caption match four product-table rows explicitly describing the 2002 Chrome Constructors Champions 4 Pack: Ferrari F399 (represents 1999), Ferrari F1-2000 (2000), Ferrari F2001 (2001), and Ferrari F2002 (2002). Treat this as one Gallery image associated with the four-pack, not four separate Gallery subjects or four independently verified car images. Terry Choy attribution remains an unverified archived caption; image binaries were not visually inspected. No product or Gallery master rows changed.
+
+
+
+### Pro Racing 1:43 reconciliation correction: Gallery items 23–25
+
+A focused table-row check separates Gallery item 23 from the Compaq images. Item 23 (`2001 World Champion Sample Terry (2).jpg`) belongs with the Ferrari F2001 World Champion Single Pack row, whose table thumbnail uses the same filename stem with suffix (1). Items 24–25 (`2001 Compaq Terry Sample (2).jpg` and (3).jpg) form the Williams FW21 Compaq sample group; the table thumbnail (1) is in the #5 row, while a separate #6 row also exists. The individual Gallery-to-#5/#6 assignment remains unresolved. This is a text/filename reconciliation only; image binaries were not visually inspected and no master data was changed.
