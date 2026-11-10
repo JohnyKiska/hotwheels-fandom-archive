@@ -21,7 +21,7 @@
 | [EXTRACTION-QA-AUDIT.md](EXTRACTION-QA-AUDIT.md) | Поэтапный аудит структуры и качества CSV-выгрузок |
 | [UNRESOLVED.md](UNRESOLVED.md) | Противоречия и вопросы на проверку |
 | [DATA_MODEL_REQUIREMENTS.md](DATA_MODEL_REQUIREMENTS.md) | Требования к будущей модели данных |
-| [DATA_MODEL_VALIDATION.md](DATA_MODEL-VALIDATION.md) | Проверка требований модели данных на реальных строках; статус IN PROGRESS |
+| [DATA-MODEL-VALIDATION.md](DATA-MODEL-VALIDATION.md) | Проверка требований модели данных на реальных строках; статус IN PROGRESS |
 
 ## Исследовательский охват
 
@@ -41,6 +41,7 @@
 ## История обновлений
 
 - 2026-11-08: создана исследовательская документация; добавлены предварительные наблюдения и требования к модели данных.
+- 2026-11-10: Data Model Validation, партия 2. Проверены 5 Other Early Series CSV (Action Cycles, Action Racers, Attack Pack, Hot Wheels Railroad, Key Force): 187 строк в сумме; QA подтверждает сохранение 18 таблиц, 231 embedded image references и 735 ссылок. Зафиксированы Toy # collision (Action Racers #2415), повтор цветовых записей (Action Cycles #8345), различия Allegiance/railroad operator/Number и multi-component bundles. Подробности: DATA-MODEL-VALIDATION.md.
 - 2026-11-10: начата Data Model Validation. Проверены три репрезентативных CSV: Boss Hoss, 30th Anniversary 4-Car Set и Ultra Hots 2022. Создан `DATA_MODEL-VALIDATION.md`; подтверждены необходимость раздельных Product/Casting, Variant, Release, Set и provenance, а также контекстных идентификаторов.
 
 - 2026-11-08: выполнена построчная сверка Flying Colors, семи Patch Cards, Boss Hoss, Heavy Chevy, King Kuda и Speed Fleet; исправлены две ошибки интерпретации Collector # как Toy #.
