@@ -540,3 +540,13 @@ The existing page-level extraction CSV was revalidated against the current HTML 
 - Page extraction CSV is header-only (15 columns); page QA independently records 0 extracted Gallery items.
 - Classification confirmed: `NO_GALLERY`. The 14 ordinary images remain outside Gallery extraction scope and are candidates for the separate Inline Image extraction stage.
 - Completed source metadata in `GALLERY-SCAN.csv`; no master extraction rows were added.
+
+
+## Gallery extraction batch 31: Avatar: The Last Airbender Character Cars
+
+- Source revision: `649915`; source Git blob SHA: `ad00de04be3f78ce0c5173107c5615c35258a226`.
+- MANIFEST inventory size: 363723 bytes; SHA-256: `97C9BACFA7D49C3F577CB59A0EA21A73837F2DB77BE1CE42BBFADDDD870BC193`.
+- Re-fetched HTML verification: 0 Gallery headings, 0 dedicated `wikia-gallery` containers, 0 `wikia-gallery-item` entries, 20 ordinary `<img>` elements.
+- Page extraction CSV is header-only (15 columns); page QA independently records 0 extracted Gallery items.
+- Classification confirmed: `NO_GALLERY`. The 20 ordinary images remain outside Gallery extraction scope and are candidates for the separate Inline Image extraction stage.
+- Completed source metadata in `GALLERY-SCAN.csv`; no master extraction rows were added.
