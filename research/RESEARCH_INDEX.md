@@ -259,3 +259,5 @@ Five additional pages extracted and QA-reviewed: Fast & Furious Spy Racers Serie
 
 
 - 2026-11-10: Gallery QA, Pro Racing. Проверены 13 страниц (annual Pro Racing 1997–2005 плюс Basic Pro Racing, Racing Selects, Team Transporter и 1:43 Scale): 17 Gallery containers, 100 Gallery items. Все 100 записей уже находятся в master GALLERY-EXTRACTION.csv; page counts совпали с GALLERY-SCAN.csv, ключи уникальны. Новые строки не добавлялись. Подробности в `research/galleries/GALLERY-QA.md`.
+
+- 2026-11-10: Pro Racing inline-image audit. Проверены пять annual pages со статусом NO_GALLERY (1997, 2001, 2003, 2004, 2005): 527 HTML img elements, из них 497 внутри product tables уже сохранены в annual extraction CSVs, а 30 внешних элементов относятся к header/footer branding. Дополнительных article-body inline images вне таблиц не найдено; отдельный дублирующий CSV не создавался. Подробности: `extractions/PRO-RACING-INLINE-IMAGE-AUDIT.md`.
