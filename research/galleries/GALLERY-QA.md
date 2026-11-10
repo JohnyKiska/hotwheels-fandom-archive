@@ -570,3 +570,13 @@ The existing page-level extraction CSV was revalidated against the current HTML 
 - Page extraction CSV is header-only (15 columns); page QA independently records 0 extracted Gallery items.
 - Classification confirmed: `NO_GALLERY`. The 20 ordinary images remain outside Gallery extraction scope and are candidates for the separate Inline Image extraction stage.
 - Completed source metadata in `GALLERY-SCAN.csv`; no master extraction rows were added.
+
+
+## Gallery extraction batch 34: Despicable Me 3 Character Cars
+
+- Source revision: `687206`; source Git blob SHA: `a729f03e2331f900ccd62c03e37edc3c6b9e1a67`.
+- MANIFEST inventory size: 339100 bytes; SHA-256: `95768CDD3D7BC3169B6C1539DD7B34F6821D120118EC227B0DE7F2EAE1F57644`.
+- Re-fetched HTML verification: 0 Gallery headings, 0 dedicated `wikia-gallery` containers, 0 `wikia-gallery-item` entries, 18 ordinary `<img>` elements.
+- Page extraction CSV is header-only (15 columns); page QA independently records 0 extracted Gallery items.
+- Classification confirmed: `NO_GALLERY`. The 18 ordinary images remain outside Gallery extraction scope and are candidates for the separate Inline Image extraction stage.
+- Completed source metadata in `GALLERY-SCAN.csv`; no master extraction rows were added.
