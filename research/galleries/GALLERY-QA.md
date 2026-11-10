@@ -360,3 +360,14 @@ Consolidation outcome: 2 source CSVs checked, 0 Gallery records added, 0 duplica
 - **2019 Car Culture: Team Transport** (Fandom revision 780158): 0 Gallery headings, 0 Gallery containers, and 0 Gallery items. Its page-specific CSV is header-only; per-page QA confirms an explicit zero-item result. The source contains 36 ordinary HTML image elements, reserved for separate Inline Image extraction.
 
 Consolidation outcome: 3 source CSVs checked, 0 Gallery records added, 0 duplicates, master registry unchanged. All three are confirmed `NO_GALLERY` classifications; none of the pages is image-free.
+
+
+## Legacy consolidation check: 2020 Car Culture, Team Transport, and Color Shifters
+
+- **2020 Car Culture** (Fandom revision 754186): 0 Gallery headings, 0 `wikia-gallery-item` markers, and 0 Gallery items. Its page-specific CSV is header-only; per-page QA confirms an explicit zero-item result. The source contains 66 ordinary HTML image elements, reserved for separate Inline Image extraction.
+- **2020 Car Culture: Team Transport** (Fandom revision 764386): 0 Gallery headings, 0 `wikia-gallery-item` markers, and 0 Gallery items. Its page-specific CSV is header-only; per-page QA confirms an explicit zero-item result. The source contains 36 ordinary HTML image elements, reserved for separate Inline Image extraction.
+- **2020 Color Shifters** (Fandom revision 781210): 0 Gallery headings, 0 exact `wikia-gallery` containers, and 0 Gallery items. Its page-specific CSV is header-only; per-page QA confirms no dedicated Gallery. The source contains 53 ordinary HTML image elements, reserved for separate Inline Image extraction.
+
+Consolidation outcome: 3 source CSVs checked, 0 Gallery records added, 0 duplicates, master registry unchanged. All three are confirmed `NO_GALLERY` classifications; none of the pages is image-free.
+
+Inventory note: the scan manifest also lists 2020 Boulevard, Fast & Furious Premium Series, Flying Customs, Pop Culture, and Replica Entertainment as `NO_GALLERY`; their page-specific Gallery CSV/QA pairs were not present at the expected legacy paths in this check, so they are not counted as consolidated legacy CSVs here.
