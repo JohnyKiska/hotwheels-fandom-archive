@@ -1395,3 +1395,8 @@ Ten source pages were scanned in Modern Special Series inventory order. The 2013
 Ten 15-column Gallery CSVs and ten page-specific QA reports were created. All CSVs are header-only because no dedicated Gallery containers were found. Inline/article/product images remain reserved for the separate Inline Image extraction; Gallery image binaries are not downloaded in this pass.
 
 Next Gallery batch: continue with the next source pages in Modern Special Series inventory order.
+
+
+## Gallery extraction batch 19
+
+Ten Modern Special Series pages processed. Dedicated Gallery containers were found on Corvette 4-Rotor (8 items) and Crashers (2007) (6 items). Across all ten pages: 2 Gallery containers, 14 Gallery items, and 545 general HTML image elements. Ten 15-column CSVs and ten QA reports are present under `research/galleries/`. Ordinary images remain reserved for Inline Image extraction.
