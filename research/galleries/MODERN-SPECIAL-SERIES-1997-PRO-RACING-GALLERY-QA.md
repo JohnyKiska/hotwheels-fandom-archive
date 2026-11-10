@@ -1,0 +1,21 @@
+# Gallery extraction QA: 1997 Pro Racing
+
+- Source path: `Modern Special Series/Pro Racing/1997 Pro Racing _ Hot Wheels Wiki _ Fandom.html`
+- Source Git blob SHA: `17fb275932b3e7ec349c869b1e62f14995bbaac8`
+- MANIFEST.csv inventory size: 479062 bytes
+- MANIFEST.csv SHA-256: `0933D965A8630F4836C5B92F98E24342E89F23322B6CCAC2019BED14613B0B40`
+- Fandom revision ID: 783371
+- Gallery headings detected: 0
+- Gallery containers detected: 0
+- Gallery items reported by GALLERY-SCAN.csv: 0
+- Gallery containers observed in source HTML: 0
+- Gallery items extracted: 0
+- General HTML `<img>` elements observed: 162
+- File links observed: 0
+- Gallery markers observed: 0
+- Output CSV: `research/galleries/MODERN-SPECIAL-SERIES-1997-PRO-RACING-GALLERY.csv`
+- Schema: 15 columns. Gallery items retain filename, alt text, caption HTML/text, file-page link, image URL, and raw gallery item HTML.
+- Gallery containers: none
+- Scope: dedicated Gallery extraction only. Other general article/product/infobox images are not reclassified as Gallery items.
+- Integrity note: source blob SHA and manifest inventory metadata are recorded separately. The fetched text is parsed from the exact repository blob; manifest size is retained as inventory metadata, not asserted as fetched character length.
+- Result: 0 Gallery item(s) extracted. A zero-item result means no dedicated Gallery items were detected in this source revision, not that the page contains no images.
