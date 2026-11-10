@@ -1312,3 +1312,13 @@ Final five pages included Star Wars Starships (15), Thunder Cycles (2), Track Fl
 **Full repository QA verification:** all 14 extraction CSV parts were fetched again from GitHub. The combined row count is exactly **3,350**; all 3,350 keys (source page + Gallery index + item index) are unique; duplicate keys = 0; malformed-width or non-GALLERY_FOUND rows = 0; and all 242 GALLERY_FOUND pages match their expected gallery_item_count. GALLERY-SCAN classifications were not changed. The original GALLERY-EXTRACTION.csv backup/master remains untouched.
 
 **Final status: 3,350 / 3,350 records, 100%.**
+
+## Master CSV consolidation, 2026-11-10
+
+Consolidated the 804 recovered records into the original GALLERY-EXTRACTION.csv after preserving its pre-recovery contents as GALLERY-EXTRACTION-BACKUP-20261110.csv.
+
+Consolidation checks: original master = 2,546 records; records absent from the original master but present in the 14 verified split parts = 804; final master = 3,350 records. The final master was fetched again from GitHub and parsed independently: 3,350 rows, 3,350 unique source-page/gallery/item keys, and 23 columns in every row. The backup was also fetched and verified at 2,546 rows and 23 columns. No original master rows were replaced or dropped.
+
+**Final master:** `GALLERY-EXTRACTION.csv` — 3,350 records, 100%.
+**Preserved backup:** `GALLERY-EXTRACTION-BACKUP-20261110.csv` — original 2,546 records.
+**Consolidation commits:** backup bceb70d01239081dfc17068c19867f26abf932bb; master cd2e33fade5e28872326dcf53082996c4d0e74b7.
