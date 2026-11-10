@@ -256,3 +256,13 @@ Ten additional page-specific Gallery CSV/QA pairs were reconciled and appended t
 ## Integrity correction: legacy migration status
 
 A post-migration integrity check found that the large consolidated `GALLERY-EXTRACTION.csv` had been rewritten from a truncated read. The file has been restored from the pre-migration checkpoint commit `8b64102bd6a366342827cc07e4c92b58ea3478be` and verified at 369 lines (header plus 368 original data lines). This restores the original consolidated extraction data. The prior tranche notes above describe attempted reconciliation, not a completed merge into the extraction register. Legacy page-specific CSVs remain intact and are still the source of truth for those Gallery items until a safe chunked merge is completed. The consolidated `GALLERY-SCAN.csv` remains updated; it currently contains 179 unique nonblank source paths, including 70 paths added after the checkpoint.
+
+
+## Legacy Gallery extraction merge: first verified page
+
+- Source page: `Modern Special Series/100% Hot Wheels/100% Preferred _ Hot Wheels Wiki _ Fandom.html`
+- Source CSV: `research/galleries/MODERN-SPECIAL-SERIES-100-PREFERRED-GALLERY.csv`
+- Source QA confirms 1 Gallery container and 23 extracted Gallery items; the source CSV header matches the consolidated extraction schema exactly.
+- Merged 23 rows into `GALLERY-EXTRACTION.csv`; no duplicate keys were found for `source_file + gallery_id + gallery_item_index`.
+- Integrity verification after commit: consolidated extraction register contains 390 data rows (previously 367), and the complete file was fetched again successfully at 810,552 characters.
+- The page-specific CSV and QA remain preserved as source records. This is the first completed legacy item-row merge; remaining legacy files are still pending individual validation and small-batch migration.
