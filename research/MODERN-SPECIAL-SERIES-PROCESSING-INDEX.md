@@ -1349,3 +1349,26 @@ Five Character Cars pages processed:
 | **Total** | | **2** | **2** | **699** |
 
 Five 15-column Gallery CSVs and five page-specific QA reports were created. Inline/article/product images remain a separate extraction scope.
+
+## Gallery extraction batch 17: Character Cars and Color Shifters, 2026-11-10
+
+Ten source pages processed. Dedicated Gallery extraction remains separate from inline article/product image extraction. Source Git blob SHAs, MANIFEST inventory sizes and SHA-256 values, and Fandom revision IDs are recorded in the page-specific QA files. Fetched text character lengths are not treated as byte-for-byte source verification.
+
+| Source page | Revision | Gallery headings | Gallery containers | Gallery items | General HTML image elements |
+|---|---:|---:|---:|---:|---:|
+| `Super Mario Character Cars` | 641313 | 0 | 1 | 1 | 102 |
+| `Teenage Mutant Ninja Turtles Character Cars` | 649579 | 0 | 0 | 0 | 40 |
+| `The Muppets Character Cars` | 759440 | 0 | 0 | 0 | 18 |
+| `Toy Story Character Cars` | 709115 | 1 | 1 | 15 | 93 |
+| `Trolls Band Together Character Cars` | 686999 | 0 | 0 | 0 | 10 |
+| `Universal Character Cars` | 638829 | 0 | 0 | 0 | 12 |
+| `Warner Bros. Character Cars` | 605652 | 0 | 0 | 0 | 30 |
+| `Color Reveal` | 763421 | 0 | 0 | 0 | 379 |
+| `2008 Color Shifters` | 800144 | 0 | 1 | 4 | 78 |
+| `2009 Color Shifters` | 800200 | 0 | 1 | 4 | 74 |
+| **Batch total** | | **1** | **4** | **24** | **836** |
+
+Ten 15-column Gallery CSVs and ten page-specific QA reports were created. Pages without Gallery items have header-only CSVs and QA notes. Inline/article/product images remain reserved for the separate Inline Image extraction; Gallery image binaries are not downloaded in this pass.
+
+Next Gallery batch: continue with the next source pages in Modern Special Series inventory order.
+
