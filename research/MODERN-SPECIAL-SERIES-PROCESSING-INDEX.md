@@ -1301,3 +1301,19 @@ Processed five Character Cars source pages:
 - **Gallery CSV schema:** 15 columns.
 - Pages without dedicated Gallery containers still have header-only CSVs and QA records; inline/article/product images remain for the separate Inline Image extraction.
 - Source blob SHA, manifest size/SHA-256, and Fandom revision IDs are recorded in each QA file.
+
+## Gallery extraction batch 14: Character Cars, 2026-11-10
+
+Five source pages were scanned. Dedicated Gallery containers were identified by exact class-token matching. Inline/article/product images remain a separate extraction scope.
+
+| Source page | Revision | Gallery headings | Gallery containers | Gallery items | General HTML image elements | CSV | QA |
+|---|---:|---:|---:|---:|---:|---|---|
+| `Lightyear Character Cars` | 590764 | 0 | 0 | 0 | 28 | `research/galleries/MODERN-SPECIAL-SERIES-LIGHTYEAR-CHARACTER-CARS-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-LIGHTYEAR-CHARACTER-CARS-GALLERY-QA.md` |
+| `Looney Tunes Character Cars` | 768719 | 0 | 0 | 0 | 34 | `research/galleries/MODERN-SPECIAL-SERIES-LOONEY-TUNES-CHARACTER-CARS-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-LOONEY-TUNES-CHARACTER-CARS-GALLERY-QA.md` |
+| `Marvel Character Cars` | 702958 | 0 | 0 | 0 | 462 | `research/galleries/MODERN-SPECIAL-SERIES-MARVEL-CHARACTER-CARS-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-MARVEL-CHARACTER-CARS-GALLERY-QA.md` |
+| `Masters of the Universe Character Cars` | 617659 | 0 | 0 | 0 | 31 | `research/galleries/MODERN-SPECIAL-SERIES-MASTERS-OF-THE-UNIVERSE-CHARACTER-CARS-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-MASTERS-OF-THE-UNIVERSE-CHARACTER-CARS-GALLERY-QA.md` |
+| `Minecraft Character Cars` | 678323 | 0 | 0 | 0 | 54 | `research/galleries/MODERN-SPECIAL-SERIES-MINECRAFT-CHARACTER-CARS-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-MINECRAFT-CHARACTER-CARS-GALLERY-QA.md` |
+
+**Batch total:** 0 Gallery items and 609 general HTML image elements across five pages. Five 15-column CSVs and five QA reports were created. Gallery image binaries are not downloaded in this pass.
+
+Next Gallery batch: continue with the next source pages in Modern Special Series inventory order.
