@@ -628,3 +628,15 @@ Three additional Modern Special Series Character Cars pages scanned against the 
 | Teenage Mutant Ninja Turtles | 649579 | 0 | 0 | 40 | NO_GALLERY |
 
 The Super Mario Gallery item was checked against the existing extraction register; SDCC 2016 (4).jpg was not previously present and was added once. NO_GALLERY pages retain their ordinary images for future Inline Image Extraction. All scan rows preserve source blob SHA, MANIFEST size/SHA-256, and Fandom revision.
+
+## Gallery scan batch 40: Character Cars, 2026-11-10
+
+Three additional Modern Special Series Character Cars pages scanned against MANIFEST. 1 page contains dedicated Gallery markup (1 Gallery containers; 15 Gallery items). 2 pages are classified NO_GALLERY. Ordinary HTML img elements: 121.
+
+| Page | Revision | Containers | Items | img | Status |
+|---|---:|---:|---:|---:|---|
+| The Muppets | 759440 | 0 | 0 | 18 | NO_GALLERY |
+| Toy Story | 709115 | 1 | 15 | 93 | GALLERY_FOUND |
+| Trolls Band Together | 686999 | 0 | 0 | 10 | NO_GALLERY |
+
+All 15 Toy Story Gallery items were checked against the existing extraction register by filename and appended once with source HTML, image metadata, captions, file-page links, and image URLs. NO_GALLERY pages retain ordinary images for future Inline Image Extraction. Source blob SHA, MANIFEST size/SHA-256, and Fandom revisions are recorded in the scan register.
