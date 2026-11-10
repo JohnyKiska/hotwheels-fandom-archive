@@ -550,3 +550,13 @@ The existing page-level extraction CSV was revalidated against the current HTML 
 - Page extraction CSV is header-only (15 columns); page QA independently records 0 extracted Gallery items.
 - Classification confirmed: `NO_GALLERY`. The 20 ordinary images remain outside Gallery extraction scope and are candidates for the separate Inline Image extraction stage.
 - Completed source metadata in `GALLERY-SCAN.csv`; no master extraction rows were added.
+
+
+## Gallery extraction batch 32: DC Character Cars
+
+- Source revision: `725098`; source Git blob SHA: `b4080ceff464506538f94188019519a674eb479f`.
+- MANIFEST inventory size: 684688 bytes; SHA-256: `1CBB5A4B6C4F6F41DAFD1C2D9763E5C859B2644881CBD26D8F1044289AFAED0F`.
+- Re-fetched HTML and page QA agree: 2 dedicated Gallery containers, 4 Gallery items, 366 ordinary `<img>` elements. The two Gallery headings are `Gallery [ ]` and `Batman & Rogue Gallery [ ]`.
+- Container breakdown: `gallery-0` has 1 item (section index 1); `gallery-1` has 3 items (section index 2). Page CSV contains 4 rows in the 15-column master schema; keys are unique.
+- Appended 4 records to `GALLERY-EXTRACTION.csv`; completed source metadata and `GALLERY_FOUND` status in `GALLERY-SCAN.csv`.
+- Other article/product images remain outside Gallery extraction scope and are candidates for the separate Inline Image extraction stage.
