@@ -472,3 +472,12 @@ Consolidation outcome: 3 pages verified, 3 header-only CSVs checked, 3 QA report
 | 2024 Pop Culture | 795063 | 1 | 4 | 70 |
 
 Four dedicated Gallery items extracted from the source HTML and consolidated in the master. Four older records for the same source had synthetic per-item Gallery IDs; these were replaced with the source-accurate `gallery-0` ID. Page CSV and QA created; duplicate-key check passed after normalization. Ordinary article/product images remain reserved for Inline Image extraction.
+
+
+## Gallery extraction batch 24: 2026 Pop Culture
+
+| Page | Revision | Containers | Items | General img |
+|---|---:|---:|---:|---:|
+| 2026 Pop Culture | 816093 | 1 | 5 | 74 |
+
+Five dedicated Gallery items extracted from the source HTML and consolidated in the master. Five older records for the same source used synthetic Gallery IDs and incorrect section indices; these were replaced with source-accurate records using Gallery ID `gallery-0` and section index 1. Page CSV and QA created; duplicate-key check passed after normalization. Ordinary article/product images remain reserved for Inline Image extraction.
