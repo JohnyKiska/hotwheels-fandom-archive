@@ -1252,3 +1252,20 @@ Five source pages were scanned. Dedicated Gallery extraction remains separate fr
 **Batch total:** 0 dedicated Gallery headings, 0 gallery markers, 0 Gallery items, and 316 general HTML image elements across 5 source pages. These images remain candidates for the separate Inline Image extraction stage. Five 15-column CSVs explicitly record zero Gallery items; five corresponding QA reports document scope and source metadata. Gallery image binaries are not downloaded in this pass.
 
 Next Gallery batch: continue with the next source pages in Modern Special Series inventory order.
+
+
+## Gallery extraction batch 11: 2025–2026 Car Culture and 2-Packs, 2026-11-10
+
+Five source pages were scanned. Two pages contain dedicated Gallery containers and yielded 11 Gallery items. The other three have no dedicated Gallery containers. General article/product/infobox images remain a separate Inline Image extraction concern. Source Git blob SHAs, MANIFEST inventory sizes and SHA-256 values, and Fandom revision IDs are recorded in individual QA files. Fetched text character lengths differ from manifest byte-size fields, so this pass does not assert byte-for-byte size or SHA-256 verification.
+
+| Source page | Revision | Gallery headings | Gallery containers | Gallery items | General HTML image elements | CSV | QA |
+|---|---:|---:|---:|---:|---:|---|---|
+| `2025 Car Culture` | 816325 | 0 | 0 | 0 | 102 | `research/galleries/MODERN-SPECIAL-SERIES-2025-CAR-CULTURE-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-2025-CAR-CULTURE-GALLERY-QA.md` |
+| `2025 Car Culture: Team Transport` | 768859 | 1 | 1 | 9 | 66 | `research/galleries/MODERN-SPECIAL-SERIES-2025-CAR-CULTURE-TEAM-TRANSPORT-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-2025-CAR-CULTURE-TEAM-TRANSPORT-GALLERY-QA.md` |
+| `2026 Car Culture` | 816657 | 0 | 0 | 0 | 102 | `research/galleries/MODERN-SPECIAL-SERIES-2026-CAR-CULTURE-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-2026-CAR-CULTURE-GALLERY-QA.md` |
+| `2026 Car Culture: Team Transport` | 815941 | 0 | 0 | 0 | 47 | `research/galleries/MODERN-SPECIAL-SERIES-2026-CAR-CULTURE-TEAM-TRANSPORT-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-2026-CAR-CULTURE-TEAM-TRANSPORT-GALLERY-QA.md` |
+| `Car Culture 2-Packs` | 816371 | 1 | 1 | 2 | 229 | `research/galleries/MODERN-SPECIAL-SERIES-CAR-CULTURE-2-PACKS-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-CAR-CULTURE-2-PACKS-GALLERY-QA.md` |
+
+**Batch total:** 2 dedicated Gallery headings, 2 gallery containers, 11 Gallery items, and 546 general HTML image elements across 5 source pages. Five 15-column CSVs and five QA reports were created. Gallery binaries are not downloaded in this pass.
+
+Next Gallery batch: continue with the next source pages in Modern Special Series inventory order.
