@@ -511,3 +511,14 @@ Basic Pro Racing Series содержит 124 строки за 1997–2002 го�
 32. Basic Pro Racing — отдельный assortment/source scope; повторные идентификаторы и похожие поля не дают основания сливать его строки с annual Pro Racing.
 33. Toy # должен поддерживать буквенно-цифровые строки; Year в 1:43 таблице относится к машине/гоночному сезону, а не автоматически к выпуску игрушки.
 34. 1:43 Tampo может хранить racing numbers и driver-name markings, тогда как Photo/Notes могут содержать placeholder, website asset, prototype и set-package evidence; эти роли требуют раздельной типизации.
+
+
+## Проверка Gallery evidence: Pro Racing (2026-11-10)
+
+Сверены 13 Pro Racing-related pages в `GALLERY-SCAN.csv`, `GALLERY-PROGRESS.csv` и consolidated `GALLERY-EXTRACTION.csv`: annual Pro Racing 1997–2005 (9 страниц), Basic Pro Racing Series, Hot Wheels Racing Selects, Team Transporter и Larger Scale Pro Racing 1:43 Scale.
+
+Итог: 13 страниц, 17 Gallery containers, 100 Gallery items. Annual Pro Racing 1997–2005 даёт 29 items на четырёх страницах (1998: 4; 1999: 12; 2000: 12; 2002: 1); остальные пять годовых страниц корректно классифицированы NO_GALLERY. Смежные страницы дают ещё 71 item: Basic Pro Racing 13, Racing Selects 1, Team Transporter 2, 1:43 Scale 55.
+
+Все 100 записей уже присутствуют в `GALLERY-EXTRACTION.csv`, все page-level counts совпадают с `GALLERY-SCAN.csv`, все 100 ключей `source page + gallery index + item index` уникальны. Новые строки в master не добавлялись, чтобы не создать дубликаты. `GALLERY-PROGRESS.csv` уже содержит все 13 страниц со статусом SCANNED и соответствующими counts.
+
+Модель данных: Gallery item является отдельным evidence record, а не автоматически product photo или отдельным товаром. Pro Racing examples включают international card artwork, multi-car/set packaging views, pre-production sample group photo, advertising inserts и 1:43 prototypes/website assets. Filename, alt, caption, file-page link, image URL и raw markup должны оставаться доступными; classification as carded/loose/prototype/advertisement requires caption/source context.
