@@ -49,3 +49,16 @@ This is a caption/filename/table-text reconciliation, not a visual inspection of
 ## QA
 
 The 55 Gallery evidence records remain intact and individually addressable by source page and item index. This reconciliation adds candidate relationships only; it does not alter source captions, filenames, image URLs, Gallery rows or product rows.
+
+
+## Follow-up: Brian-Anna package prototype subgrouping
+
+The nine consecutive Brian-Anna image records resolve into three source-captioned groups by gallery order:
+
+| Gallery items | Source caption / file sequence | Evidence grouping | Catalog cross-check |
+|---|---|---|---|
+| 1–3 | Item 1 caption: Ferrari Package prototype; files Brian Anna F1 (1)–(3) | One Ferrari package-prototype evidence group, three views | Ferrari F399 (1999) is only a possible series/model-family cross-reference; no exact package match |
+| 4–6 | Item 4 caption: Ford Package prototype; files Brian Anna F1 (4)–(6) | One Ford package-prototype evidence group, three views | No Ford casting appears in the page's 41-row 1:43 table; keep unlinked and flag as a scope/identity discrepancy |
+| 7–9 | Item 7 caption: Williams Package prototype; files Brian Anna F1 (7)–(9) | One Williams package-prototype evidence group, three views | Williams FW21 (1999) is a possible candidate, but package-to-casting identity is not confirmed |
+
+The grouping is based on consecutive gallery order, filenames and the first caption in each three-image run. The six uncaptained images inherit no new factual description beyond their placement in those runs. Image binaries were not visually inspected, so package artwork, exact model identity, prototype status and release relationship remain unverified. These are three evidence groups, not nine products. No product rows were added or altered.
