@@ -21,6 +21,7 @@
 | [EXTRACTION-QA-AUDIT.md](EXTRACTION-QA-AUDIT.md) | Поэтапный аудит структуры и качества CSV-выгрузок |
 | [UNRESOLVED.md](UNRESOLVED.md) | Противоречия и вопросы на проверку |
 | [DATA_MODEL_REQUIREMENTS.md](DATA_MODEL_REQUIREMENTS.md) | Требования к будущей модели данных |
+| [DATA_MODEL_VALIDATION.md](DATA_MODEL-VALIDATION.md) | Проверка требований модели данных на реальных строках; статус IN PROGRESS |
 
 ## Исследовательский охват
 
@@ -40,6 +41,7 @@
 ## История обновлений
 
 - 2026-11-08: создана исследовательская документация; добавлены предварительные наблюдения и требования к модели данных.
+- 2026-11-10: начата Data Model Validation. Проверены три репрезентативных CSV: Boss Hoss, 30th Anniversary 4-Car Set и Ultra Hots 2022. Создан `DATA_MODEL-VALIDATION.md`; подтверждены необходимость раздельных Product/Casting, Variant, Release, Set и provenance, а также контекстных идентификаторов.
 
 - 2026-11-08: выполнена построчная сверка Flying Colors, семи Patch Cards, Boss Hoss, Heavy Chevy, King Kuda и Speed Fleet; исправлены две ошибки интерпретации Collector # как Toy #.
 8. [x] Проверены Farbs, Zowees, Truck Co., шесть моделей Fat Daddy Sizzlers и аксессуар Steering Trailer; зафиксированы бренд-границы, regional aliases, комплекты и source typo.
