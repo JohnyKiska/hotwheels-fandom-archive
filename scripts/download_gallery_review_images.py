@@ -9,7 +9,7 @@ import urllib.request
 from pathlib import Path
 from urllib.parse import urlparse
 
-ROOT = Path(__file__).resolve().parents[2]
+ROOT = Path(__file__).resolve().parents[1]
 QUEUE = ROOT / "database/pilot/pro-racing-1-43-image-review.csv"
 OUT = ROOT / "database/pilot/assets/pro-racing-1-43"
 MANIFEST = OUT / "MANIFEST.csv"
