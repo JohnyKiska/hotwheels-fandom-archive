@@ -231,3 +231,13 @@ Ten additional page-specific Gallery CSV/QA pairs from legacy extraction batches
 - NO_GALLERY: 10
 - Gallery item rows appended: 0
 - Cumulative legacy migration: 40 pages, 135 Gallery item rows, 10 GALLERY_FOUND, and 30 NO_GALLERY.
+
+## Legacy Gallery migration tranche 5: inventory pages 41–50
+
+Ten additional page-specific Gallery CSV/QA pairs from legacy extraction batches 9–10 were reconciled and appended to the consolidated registers. All ten source paths were unique and absent from the consolidated scan before migration. Source metadata was preserved. All ten pages were explicitly classified NO_GALLERY; their inline/article/product images remain outside this extraction stage.
+
+- Pages migrated in this tranche: 10
+- GALLERY_FOUND: 0
+- NO_GALLERY: 10
+- Gallery item rows appended: 0
+- Cumulative legacy migration: 50 pages, 135 Gallery item rows, 10 GALLERY_FOUND, and 40 NO_GALLERY.
