@@ -640,3 +640,15 @@ Three additional Modern Special Series Character Cars pages scanned against MANI
 | Trolls Band Together | 686999 | 0 | 0 | 10 | NO_GALLERY |
 
 All 15 Toy Story Gallery items were checked against the existing extraction register by filename and appended once with source HTML, image metadata, captions, file-page links, and image URLs. NO_GALLERY pages retain ordinary images for future Inline Image Extraction. Source blob SHA, MANIFEST size/SHA-256, and Fandom revisions are recorded in the scan register.
+
+## Gallery scan batch 41: Early Collections, 2026-11-10
+
+Three additional Early Collections pages scanned against MANIFEST. 1 page contains dedicated Gallery markup (1 Gallery container; 22 Gallery items). 2 pages are classified NO_GALLERY. Ordinary HTML img elements: 223.
+
+| Page | Revision | Containers | Items | img | Status |
+|---|---:|---:|---:|---:|---|
+| Action Command | 761080 | 0 | 0 | 83 | NO_GALLERY |
+| Boss Hoss | 815490 | 1 | 22 | 84 | GALLERY_FOUND |
+| Classics | 757207 | 0 | 0 | 56 | NO_GALLERY |
+
+All 22 Boss Hoss Gallery items were checked against the existing extraction register by filename and appended once with source HTML, image metadata, captions, file-page links, and image URLs. NO_GALLERY pages retain ordinary images for future Inline Image Extraction. Source blob SHA, MANIFEST size/SHA-256, and Fandom revisions are recorded in the scan register.
