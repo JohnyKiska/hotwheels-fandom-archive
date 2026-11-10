@@ -745,3 +745,18 @@ Five additional Early Collections pages scanned directly from archived HTML. All
 | The Heavies | 767755 | 1 | 2 | 24 | GALLERY_FOUND |
 
 Source blob SHA, MANIFEST size/SHA-256, and Fandom revisions are recorded in GALLERY-SCAN.csv. The 20 Gallery item occurrences are pending reconciliation with GALLERY-EXTRACTION.csv because the oversized master registry remains unreadable through the current file-content connector; it was not overwritten. Ordinary inline images remain outside Gallery extraction scope and are candidates for the separate Inline Image extraction stage.
+
+
+## Gallery scan batch 49: Early Collections, 2026-11-10
+
+Five final Early Collections pages scanned directly from archived HTML. Two pages contain dedicated Gallery markup (2 Gallery containers; 28 Gallery items). Three pages are classified NO_GALLERY. Ordinary HTML img elements: 607.
+
+| Page | Revision | Containers | Items | img | Status |
+|---|---:|---:|---:|---:|---|
+| The Hot Ones (1981) | 811612 | 1 | 20 | 238 | GALLERY_FOUND |
+| TNT-Bird | 776418 | 1 | 8 | 37 | GALLERY_FOUND |
+| Trailbusters | 763267 | 0 | 0 | 103 | NO_GALLERY |
+| Ultra Hots Series (1984) | 742335 | 0 | 0 | 51 | NO_GALLERY |
+| Workhorses | 767851 | 0 | 0 | 178 | NO_GALLERY |
+
+Source blob SHA, MANIFEST size/SHA-256, and Fandom revisions are recorded in GALLERY-SCAN.csv. The 28 Gallery item occurrences are pending reconciliation with GALLERY-EXTRACTION.csv because the oversized master registry remains unreadable through the current file-content connector; it was not overwritten. Ordinary inline images remain outside Gallery extraction scope and are candidates for the separate Inline Image extraction stage. This batch completes the Early Collections category scan (33/33 pages).
