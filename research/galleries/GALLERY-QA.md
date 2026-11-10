@@ -676,3 +676,16 @@ Three additional Early Collections pages scanned against MANIFEST. 2 pages conta
 | Heavy Chevy | 808320 | 1 | 33 | 117 | GALLERY_FOUND |
 
 All 34 Gallery items were checked against the extraction register by source page and filename and appended once. Ordinary images on Extras are retained for future Inline Image Extraction.
+
+
+## Gallery scan batch 44: Early Collections, 2026-11-10
+
+Three additional Early Collections pages scanned against MANIFEST. 2 pages contain dedicated Gallery markup (3 Gallery containers; 15 Gallery items). 1 page classified NO_GALLERY. Ordinary HTML img elements: 87.
+
+| Page | Revision | Containers | Items | img | Status |
+|---|---:|---:|---:|---:|---|
+| Heavyweights | 767901 | 2 | 13 | 33 | GALLERY_FOUND |
+| HiRakers | 798213 | 1 | 2 | 43 | GALLERY_FOUND |
+| Hot Wheels 30th Anniversary 4-Car Set | 805834 | 0 | 0 | 11 | NO_GALLERY |
+
+Source blob SHA, MANIFEST size/SHA-256, and Fandom revisions are recorded in GALLERY-SCAN.csv. The 15 Gallery item records are pending reconciliation with the master GALLERY-EXTRACTION.csv: GitHub confirms the master file is 1,142,028 bytes, but the file-content connector currently returns an empty payload for this oversized file. No attempt was made to overwrite it. Ordinary images remain outside Gallery extraction scope.
