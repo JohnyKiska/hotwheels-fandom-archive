@@ -590,3 +590,13 @@ The existing page-level extraction CSV was revalidated against the current HTML 
 - Page CSV contains 22 rows in the 15-column master schema, all in `gallery-0`, item indices 1–22. Source path normalized to the full archive path for the master; no duplicate keys within the page or against the existing master.
 - Appended 22 records to `GALLERY-EXTRACTION.csv`; completed source metadata and `GALLERY_FOUND` status in `GALLERY-SCAN.csv`.
 - Other article/product images remain outside Gallery extraction scope and are candidates for the separate Inline Image extraction stage.
+
+
+## Gallery extraction batch 36: Character Cars continuation
+
+- Re-fetched and checked three archived source pages after the previous SCAN queue endpoint.
+- Minions Character Cars: source Git blob SHA `af61bccc5d0616a9cdf35244b5c4c598a454a659`; 384672 bytes; manifest SHA-256 `A2638AD0D73FC98E749303F84B784F3F80210265F1B75A6798F666615993344C`; no Gallery heading, no dedicated Gallery container or items, 42 ordinary `<img>` elements. Existing page CSV is header-only and QA agrees: `NO_GALLERY`.
+- Overwatch Character Cars: source Git blob SHA `58dd862846e24c575d14a4ee283ce71d0f735339`; 363567 bytes; manifest SHA-256 `EC8E531F5438E9F4BF282DE048C159E55472BC83AC98B2A51735D834531198E0`; no Gallery heading, no dedicated Gallery container or items, 29 ordinary `<img>` elements. Existing page CSV is header-only and QA agrees: `NO_GALLERY`.
+- Power Rangers Megaforce: source Git blob SHA `0f7be6cad8f86a917c4b3866b7f2b1794c9b07ed`; 345514 bytes; manifest SHA-256 `4C7DEE569DE0F1AD6897B1E65B0A5D33A09E9F02C5C72A82F08F97DC55C7AC05`; one Gallery heading, one dedicated `wikia-gallery` container (`gallery-0`), one `wikia-gallery-item`, and 31 ordinary `<img>` elements. Existing page CSV contains the single item (2013-PowerRangers.JPG).
+- Reconciliation: the Power Rangers Megaforce record was already present exactly once in `GALLERY-EXTRACTION.csv`; no duplicate was appended. Its source was missing from the SCAN inventory, so this batch adds all three source rows to `GALLERY-SCAN.csv`.
+- Ordinary article/product images remain outside Gallery extraction scope and are candidates for the separate Inline Image extraction stage.
