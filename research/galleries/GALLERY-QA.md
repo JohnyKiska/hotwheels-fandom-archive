@@ -760,3 +760,22 @@ Five final Early Collections pages scanned directly from archived HTML. Two page
 | Workhorses | 767851 | 0 | 0 | 178 | NO_GALLERY |
 
 Source blob SHA, MANIFEST size/SHA-256, and Fandom revisions are recorded in GALLERY-SCAN.csv. The 28 Gallery item occurrences are pending reconciliation with GALLERY-EXTRACTION.csv because the oversized master registry remains unreadable through the current file-content connector; it was not overwritten. Ordinary inline images remain outside Gallery extraction scope and are candidates for the separate Inline Image extraction stage. This batch completes the Early Collections category scan (33/33 pages).
+
+
+## Gallery scan batch 50: Early Special Series, 2026-11-10
+
+Five additional Early Special Series pages scanned in manifest order. All five contain dedicated Gallery markup: 7 Gallery containers and 294 Gallery items. Ordinary HTML img elements: 1,126. No pages require review and none are classified NO_GALLERY.
+
+| Page | Revision | Containers | Items | img | Status |
+|---|---:|---:|---:|---:|---|
+| Action Packs | 804428 | 2 | 2 | 75 | GALLERY_FOUND |
+| Auto-City | 789600 | 1 | 51 | 302 | GALLERY_FOUND |
+| California Custom Series | 794673 | 1 | 37 | 139 | GALLERY_FOUND |
+| Chopcycles | 809286 | 1 | 4 | 25 | GALLERY_FOUND |
+| Color Changers | 812722 | 2 | 200 | 585 | GALLERY_FOUND |
+
+Totals: 5 pages; 7 Gallery containers; 294 Gallery items; 1,126 ordinary HTML img elements.
+
+Classification: GALLERY_FOUND=5; GALLERY_SUSPECTED=0; NO_GALLERY=0.
+
+Extraction master CSV reconciliation remains pending. These 294 item occurrences are recorded in GALLERY-SCAN and GALLERY-PROGRESS, but have not yet been appended to GALLERY-EXTRACTION.csv. Do not count them as consolidated extraction rows until that reconciliation is completed.
