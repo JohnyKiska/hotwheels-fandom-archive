@@ -6,7 +6,7 @@
 - MANIFEST SHA-256: `EE4C375003C61BA54D41E7B73D23B6C314FB02023B939BE534B6D00BDEE70F93`
 - Fandom revision ID: 814873
 - Fetched text length: 363193 characters (not asserted as source byte size)
-- General HTML `<img>` elements: 0
+- General HTML `<img>` elements: 60
 - Gallery headings: 0
 - Dedicated Gallery containers: 0
 - Gallery items extracted: 0
