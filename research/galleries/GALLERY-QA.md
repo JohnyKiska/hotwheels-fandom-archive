@@ -388,3 +388,17 @@ The five 2020 source HTML pages listed in `GALLERY-SCAN.csv` were fetched direct
 Consolidation outcome: 5 source pages validated, 5 header-only page CSVs present, 5 page QA reports present, 0 Gallery rows added, 0 duplicate keys, and 288 ordinary HTML image elements reserved for separate Inline Image extraction. The Boulevard scan-manifest row was corrected to record its directly verified count of 50 ordinary image elements.
 
 The earlier inventory note above is superseded: these five pages are now documented with page-specific CSV/QA pairs. `NO_GALLERY` is not an image-free classification.
+
+
+## 2021 NO_GALLERY verification: Boulevard, Fast & Furious, Pop Culture, Replica Entertainment
+
+Four 2021 source HTML pages were fetched directly. The fetched Git blob SHA matched the inventory SHA for each page. All four have 0 Gallery headings, 0 dedicated `wikia-gallery` containers, and 0 Gallery items. Page-specific 15-column CSVs are header-only; their QA reports preserve source identity and counts. Ordinary HTML images remain queued for separate Inline Image extraction.
+
+| Source page | Revision | Ordinary HTML `<img>` elements | Gallery items | Status |
+|---|---:|---:|---:|---|
+| 2021 Hot Wheels Boulevard | 774850 | 46 | 0 | `NO_GALLERY` |
+| 2021 Fast & Furious Premium Series | 773557 | 46 | 0 | `NO_GALLERY` |
+| 2021 Pop Culture | 693965 | 46 | 0 | `NO_GALLERY` |
+| 2021 Replica Entertainment | 737627 | 46 | 0 | `NO_GALLERY` |
+
+Consolidation outcome: 4 source pages checked, 4 header-only page CSVs verified, 4 page QA reports present, 0 Gallery rows added, 0 duplicates, and 184 ordinary HTML image elements reserved for separate Inline Image extraction. The master Gallery extraction register is unchanged.
