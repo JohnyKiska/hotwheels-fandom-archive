@@ -1184,3 +1184,20 @@ Five source pages were scanned in inventory order. Gallery extraction remains se
 **Batch total:** 0 gallery containers and 0 gallery items across 5 source pages; 0 pages contained Gallery items. All five source blob SHAs matched the current inventory. Gallery assets are recorded as source URLs and file-page links; binaries are not downloaded in this pass.
 
 Next gallery batch: continue with the next five source pages in Modern Special Series inventory order.
+
+
+## Gallery extraction batch 7: 2024–2026 Hot Wheels Boulevard through 2016 Car Culture, 2026-11-10
+
+Five source pages were scanned in inventory order. Gallery extraction remains separate from product-table and inline article-image extraction. All five source blob SHAs matched the current inventory.
+
+| Source page | Revision | Gallery headings | Gallery containers | Gallery items | General image elements observed | CSV | QA |
+|---|---:|---:|---:|---:|---:|---|---|
+| `2024 Hot Wheels Boulevard` | 777375 | 0 | 0 | 0 | 70 | `research/galleries/MODERN-SPECIAL-SERIES-2024-HOT-WHEELS-BOULEVARD-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-2024-HOT-WHEELS-BOULEVARD-GALLERY-QA.md` |
+| `2025 Hot Wheels Boulevard` | 795779 | 0 | 0 | 0 | 60 | `research/galleries/MODERN-SPECIAL-SERIES-2025-HOT-WHEELS-BOULEVARD-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-2025-HOT-WHEELS-BOULEVARD-GALLERY-QA.md` |
+| `2026 Hot Wheels Boulevard` | 809726 | 0 | 0 | 0 | 60 | `research/galleries/MODERN-SPECIAL-SERIES-2026-HOT-WHEELS-BOULEVARD-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-2026-HOT-WHEELS-BOULEVARD-GALLERY-QA.md` |
+| `Camaro Trans-Am` | 787675 | 0 | 0 | 0 | 18 | `research/galleries/MODERN-SPECIAL-SERIES-CAMARO-TRANS-AM-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-CAMARO-TRANS-AM-GALLERY-QA.md` |
+| `2016 Car Culture` | 801361 | 0 | 0 | 0 | 46 | `research/galleries/MODERN-SPECIAL-SERIES-2016-CAR-CULTURE-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-2016-CAR-CULTURE-GALLERY-QA.md` |
+
+**Batch total:** 0 dedicated Gallery headings, 0 gallery containers, and 0 gallery items across 5 source pages. However, the source HTML contains 254 general image elements. These are inline article/product images in mix, version, or infobox content, not items in a dedicated Gallery section. The zero-item result is therefore scoped to Gallery extraction and must not be interpreted as an image-free page. All CSVs use the 15-column schema and explicitly record zero Gallery items. Gallery binaries are not downloaded in this pass.
+
+Next gallery batch: continue with the next five source pages in Modern Special Series inventory order.
