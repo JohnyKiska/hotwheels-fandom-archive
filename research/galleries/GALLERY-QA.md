@@ -530,3 +530,13 @@ The existing page-level extraction CSV was revalidated against the current HTML 
 - Page CSV contains 2 rows in the 15-column master schema. Both records use `gallery-0`, item indices 1–2; duplicate key count is 0.
 - Appended 2 records to `GALLERY-EXTRACTION.csv`; completed source metadata and `GALLERY_FOUND` status in `GALLERY-SCAN.csv`.
 - General article/product images remain outside this Gallery extraction scope and are candidates for the separate Inline Image extraction stage.
+
+
+## Gallery extraction batch 30: Activision Character Cars
+
+- Source revision: `561738`; source Git blob SHA: `c5fd6a09142c3b862cea66dec020e40a0ea7fec7`.
+- MANIFEST inventory size: 357229 bytes; SHA-256: `52D2E866966A29F73D049226E58DDC3282F84FD1D5942FC8B61C6900C043AC12`.
+- Re-fetched HTML verification: 0 Gallery headings, 0 dedicated `wikia-gallery` containers, 0 `wikia-gallery-item` entries, 14 ordinary `<img>` elements.
+- Page extraction CSV is header-only (15 columns); page QA independently records 0 extracted Gallery items.
+- Classification confirmed: `NO_GALLERY`. The 14 ordinary images remain outside Gallery extraction scope and are candidates for the separate Inline Image extraction stage.
+- Completed source metadata in `GALLERY-SCAN.csv`; no master extraction rows were added.
