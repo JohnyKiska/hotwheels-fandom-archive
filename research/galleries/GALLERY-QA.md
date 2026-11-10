@@ -276,3 +276,19 @@ A post-migration integrity check found that the large consolidated `GALLERY-EXTR
 - Merged 1 row. No duplicate key was found for `source_file + gallery_id + gallery_item_index`.
 - Integrity verification after commit: consolidated extraction register contains 391 data rows and was fetched again in full at 812,547 characters.
 - The page-specific source CSV and QA remain preserved.
+
+
+## Verified legacy merge: 2006 Kalifornia Kustoms
+
+- Source CSV: `research/galleries/MODERN-SPECIAL-SERIES-2006-KALIFORNIA-KUSTOMS-GALLERY.csv`
+- Source QA: `research/galleries/MODERN-SPECIAL-SERIES-2006-KALIFORNIA-KUSTOMS-GALLERY-QA.md`
+- Source page: `Modern Special Series/100% Hot Wheels/2006 Kalifornia Kustoms _ Hot Wheels Wiki _ Fandom.html`
+- Source CSV logical data rows: 4; exact 15-column header matched the master registry.
+- Duplicate key check (`source_file + gallery_id + gallery_item_index`): 0 duplicates.
+- Appended 4 source data rows without modifying the page-specific source files.
+- Master registry verified after update: 391 non-empty data rows; 821569 characters.
+- Commit: b48f67b638003c8d0873ac4360d66202fd4a58a2
+
+## Count clarification
+
+A robust CSV parse found 4 pre-existing blank logical records in the master registry. The prior 391-row count included those blank records; the verified non-empty data-row count immediately before this merge was 387. Blank records were preserved, not silently removed. After this merge the master contains 391 non-empty data rows.
