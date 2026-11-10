@@ -1301,7 +1301,7 @@ Recovery allocation for this pass:
 |---|---:|---:|---|
 | GALLERY-EXTRACTION-11.csv | 9 | 250 | READY |
 | GALLERY-EXTRACTION-12.csv | 202 | 250 | READY |
-| GALLERY-EXTRACTION-13.csv | 186 | 250 | READY |
+| GALLERY-EXTRACTION-13.csv | 250 | 250 | READY |
 | GALLERY-EXTRACTION-14.csv | 100 | 100 | READY |
 | **Total** | **561** | **850** | **All parts READY** |
 
