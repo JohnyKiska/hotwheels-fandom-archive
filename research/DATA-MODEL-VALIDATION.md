@@ -297,3 +297,61 @@ QA фиксирует 7 таблиц и разные секции: годовы�
 17. Нужна двухуровневая система provenance: bundle-level evidence (например carded packaging) и component-level evidence (loose photo, color, wheel, base code).
 18. Rowspan и headerless source tables нельзя сводить к простым пустым значениям; требуется source-preserving record плюс отдельно вычисленный inherited context.
 19. Mix и retailer exclusives — контекст выпуска/распределения; не обязательно самостоятельная идентичность casting или product family.
+
+
+## Проверочная партия 5: Car Culture Team Transport (2023–2026)
+
+Проверены годовые extraction QA и все CSV parts за 2023–2026 годы. В 2025 году отдельно учтены обе части CSV, содержащие Gallery items.
+
+| Год | Таблиц | Строк товарных таблиц | Embedded images | Отдельные Gallery items |
+|---|---:|---:|---:|---:|
+| 2023 | 7 | 31 | 43 | 0 |
+| 2024 | 6 | 30 | 41 | 0 |
+| 2025 | 6 | 31 | 42 | 9 |
+| 2026 | 6 | 30 | 41 | 0 |
+| **Всего** | **25** | **122** | **167** | **9** |
+
+Итого в товарных таблицах: 122 строки, 25 таблиц и 167 embedded image references. Дополнительно: 9 самостоятельных Gallery records за 2025 год. В основном CSV 2025 года находятся 4 Gallery records, ещё 5 записей находятся в PART-02 CSV. QA сообщает 9 Gallery items суммарно. 2023 включает секцию Fast & Furious и Walmart Legends Tour Exclusive; в 2024–2026 присутствуют Walmart Legends Tour Exclusive. Исходные CSV и QA не изменялись.
+
+### 20. Bundle-level identifiers remain separate from component rows
+
+Во всех четырёх годах повторяется схема Team Transport: Toy # и Series # могут быть указаны один раз на несколько component rows через HTML rowspan. Например, в 2023 Toy # HKF39 / Series #50 объединяет Aero Lift и '23 Ford Mustang RTR Spec 5; в 2024 HRV43 / #62 объединяет Second Story Lorry и Fiat 131 Abarth; в 2025 JBM29 / #74 объединяет 2023 Land Rover Defender 110 и HW Rally Trailer; в 2026 JHX87 / #86 объединяет Fleet Street и '20 Toyota GR Supra.
+
+Подтверждение:
+- Bundle/SKU identity и component casting identity должны быть разными сущностями/уровнями.
+- Исходные пустые ячейки и rowspan сохраняются; унаследованные значения можно хранить как derived context, но нельзя подменять ими raw source.
+- Компонентные роли (hauler, trailer, passenger/race car и др.) должны быть отдельными relationship attributes с provenance, а не выводиться только из порядка или названия.
+
+### 21. Mix and themed/retailer sections are release context
+
+Mix 1–4 сохраняются как локальные assortment groups. В 2023 дополнительно есть Fast & Furious и Walmart Legends Tour Exclusive; Walmart Legends Tour Exclusive встречается также в 2024–2026.
+
+Подтверждение:
+- Section label относится к source/release context и не становится автоматически глобальной Series, Franchise или Manufacturer.
+- Для Fast & Furious требуется отдельное подтверждение тематической/лицензионной связи на уровне release/component; заголовка секции недостаточно для юридических утверждений.
+- Walmart Legends Tour Exclusive фиксируется как source assertion об эксклюзивном контексте; retailer, territory и distribution scope не следует домысливать сверх данных источника.
+
+### 22. Component-level attributes and lifecycle notes
+
+В строках компонентов сохраняются Casting, Body Color, Wheel Type и Notes; Notes включают несколько Base codes и утверждения вроде New Casting (2025 Land Rover Defender) и New Die-Cast Chassis (2025 Jaguar Mk1).
+
+Подтверждение:
+- Base codes, body color и wheel type относятся к component row, если именно там они представлены.
+- New Casting и New Die-Cast Chassis являются разными source assertions; их нельзя сводить к одному флагу или считать постоянным свойством без временного/источникового контекста.
+- Исходный Notes text и связанные ссылки на Wheel Type/base-code pages должны сохраняться вместе с нормализованными интерпретациями.
+
+### 23. Gallery records and embedded product images are separate evidence streams
+
+В 2025 году QA подтверждает 9 отдельных Gallery items, извлечённых в двух CSV parts, отдельно от 42 embedded product-table image references.
+
+Подтверждение:
+- Gallery item не следует автоматически считать loose/carded product photo: это самостоятельный тип source evidence с собственными caption, alt, filename, file link и image metadata.
+- При извлечении реального адреса изображения нельзя полагаться только на img src: в некоторых строках src может быть техническим data: placeholder, тогда как настоящий файл указан в оборачивающем link href.
+- Image evidence должна хранить исходный HTML/metadata и роль/контекст, а не только один URL.
+
+## Обновлённые выводы после партии 5
+
+20. Team Transport 2023–2026 подтверждает устойчивую bundle/component модель, наблюдавшуюся в 2018–2022; это не исключение отдельных лет.
+21. Section labels Mix, Fast & Furious и Walmart Legends Tour Exclusive требуют scoped release/source context, а не автоматического создания глобальных сущностей Series/IP/Manufacturer.
+22. Component notes различают New Casting и New Die-Cast Chassis; исходные утверждения должны быть типизированы и привязаны к источнику/времени.
+23. Gallery records и embedded product images — разные evidence streams; 2025 год подтверждает необходимость отдельного Gallery record type и корректного чтения image link href при техническом data URI в img src.
