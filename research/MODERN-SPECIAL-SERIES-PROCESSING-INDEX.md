@@ -1333,3 +1333,19 @@ Processed five Character Cars source pages:
 | **Total** | **150** | **1** | **1** |
 
 Each page has a 15-column Gallery CSV and a page-specific QA report. Inline/article/product images remain outside this stage and are candidates for the separate Inline Image extraction. All ten outputs were re-fetched from GitHub after creation and confirmed present; the index entry was also re-fetched and confirmed.
+
+
+## Gallery extraction batch 16
+
+Five Character Cars pages processed:
+
+| Source page | Revision | Gallery containers | Gallery items | General HTML image elements |
+|---|---:|---:|---:|---:|
+| Sonic the Hedgehog Character Cars | not found | 0 | 0 | 14 |
+| Space Jam: A New Legacy Character Cars | not found | 0 | 0 | 21 |
+| SpongeBob SquarePants Character Cars | not found | 1 | 1 | 58 |
+| Star Wars Character Cars | not found | 1 | 1 | 590 |
+| Street Fighter V Character Cars | not found | 0 | 0 | 16 |
+| **Total** | | **2** | **2** | **699** |
+
+Five 15-column Gallery CSVs and five page-specific QA reports were created. Inline/article/product images remain a separate extraction scope.
