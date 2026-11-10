@@ -191,3 +191,13 @@ Twenty-nine remaining source pages in the current Modern Special Series manifest
 **Batch 24 totals:** 29 pages; 13 GALLERY_FOUND; 0 GALLERY_SUSPECTED; 16 NO_GALLERY; 13 Gallery containers; 53 Gallery item records extracted; 2,190 ordinary HTML img elements; 154 Gallery-related class markers.
 
 The 16 NO_GALLERY pages still contain 865 ordinary HTML img elements and remain candidates for the separate Inline Image extraction. The other 13 pages contain 1,325 ordinary img elements alongside the 53 dedicated Gallery items. Gallery image binaries were not downloaded in this pass.
+
+## Legacy Gallery migration tranche 1: first ten inventory pages
+
+Ten page-specific Gallery CSV/QA pairs from legacy extraction batches 1–3 were reconciled and appended to the consolidated registers. All ten source paths were unique and absent from the consolidated scan before migration. The migration preserved source path, source blob SHA, inventory size, manifest SHA-256 where recorded, Fandom revision, Gallery heading/container/item counts, and all extracted Gallery item fields. General HTML image counts and Gallery marker counts are left blank where legacy QA did not provide them.
+
+- Pages migrated: 10
+- GALLERY_FOUND: 2
+- NO_GALLERY: 8
+- Gallery item rows appended: 56
+- Inline article/product images remain outside this stage.
