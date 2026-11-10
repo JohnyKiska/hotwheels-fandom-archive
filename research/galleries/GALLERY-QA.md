@@ -1346,3 +1346,8 @@ Evidence note: gallery contents include international card artwork, packaging/se
 ## Pro Racing inline image audit, 2026-11-10
 
 Audited all five annual Pro Racing pages classified NO_GALLERY (1997, 2001, 2003, 2004, 2005). Across 527 HTML image elements, 497 occur inside product tables and are already preserved in the corresponding annual extraction CSVs through `cell_image_metadata_json` and `raw_row_html`. The other 30 are site/community header and Fandom footer branding assets. No additional article-body inline images were found outside product tables. No duplicate image stream or Gallery rows were created. See `research/extractions/PRO-RACING-INLINE-IMAGE-AUDIT.md` for page-level counts and source blob SHAs.
+
+
+## Pro Racing Gallery evidence classification, 2026-11-10
+
+First-pass evidence-type classification completed for all 100 existing Pro Racing Gallery records. Counts: 9 card artwork/card variations; 41 packaging, set and packaging-comparison images; 4 advertising/promotional records; 35 prototype/pre-production/sample records; 2 damaged-packaging records; 2 resin-driver-figure records; 5 website assets; 1 signed hauler/variant evidence record; and 1 unclassified Racing Selects lot image. This is not product-level identity confirmation. Multiple views remain grouped as evidence for one candidate subject; uncertain captions/associations are retained. No Gallery master rows were changed. See `PRO-RACING-GALLERY-CLASSIFICATION.md`.
