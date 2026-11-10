@@ -1524,5 +1524,5 @@
 ## Gallery follow-up: Pro Racing (2026-11-10)
 
 - [x] Проверить inline images на пяти annual Pro Racing pages без Gallery (1997, 2001, 2003, 2004, 2005). Все 497 изображений в product tables уже сохранены в annual extraction CSVs; 30 изображений вне таблиц являются header/footer branding. Дополнительных article-body images не найдено. См. `research/extractions/PRO-RACING-INLINE-IMAGE-AUDIT.md`.
-- [ ] Классифицировать 100 existing Pro Racing Gallery records по контексту: international card art, packaging views, pre-production samples, advertisements/inserts, prototypes и 1:43 website assets. Не выводить product/variant identity только из filename.
+- [x] Выполнить first-pass evidence-type classification всех 100 Pro Racing Gallery records. Остаётся предметная сверка uncertain associations и связь evidence с source rows; filename сам по себе не считается подтверждением identity.
 - [ ] Для 1:43 Gallery проверить связь prototype/sample images с соответствующими source rows и set/package evidence; сохранить uncertain associations как unresolved.
