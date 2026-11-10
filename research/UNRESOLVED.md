@@ -1519,3 +1519,10 @@
 - [ ] Классифицировать 1:43 Photo labels: Image Not Available, website assets, prototype/sample images и multi-image semicolon values; сохранить raw cell text.
 - [ ] Проверить set membership для 1:43 Single Pack, 2-Pack, 3-Pack, 4-Pack и Book package; создавать component relationships только при явном подтверждении.
 - [ ] Проверить неопределённые notes вроде `Might be a 2nd version` по независимым evidence; не превращать их в подтверждённые variants.
+
+
+## Gallery follow-up: Pro Racing (2026-11-10)
+
+- [ ] Выполнить отдельную Inline Image extraction для пяти annual Pro Racing pages без Gallery (1997, 2001, 2003, 2004, 2005); NO_GALLERY не означает отсутствие фотографий.
+- [ ] Классифицировать 100 existing Pro Racing Gallery records по контексту: international card art, packaging views, pre-production samples, advertisements/inserts, prototypes и 1:43 website assets. Не выводить product/variant identity только из filename.
+- [ ] Для 1:43 Gallery проверить связь prototype/sample images с соответствующими source rows и set/package evidence; сохранить uncertain associations как unresolved.
