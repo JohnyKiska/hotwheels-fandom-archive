@@ -107,3 +107,16 @@ The product table has a distinct 2004 **Ferrari F2004 / King of the Desert** row
 The “Comes with some dirt?” caption is explicitly a question. It does not establish whether dirt/mud is a deliberate deco feature, residue on the sample, or merely a visual impression. The Terry Choy collection attribution is preserved as source metadata, not authenticated provenance. Image binaries were not visually inspected, so no claims are made about the physical sample's finish, dirt, casting details or authenticity.
 
 **Disposition:** retain Gallery items 17–19 as one sample evidence group linked to the 2004 Ferrari F2004 / King of the Desert catalog row, high text-level confidence based on exact shared filename stem and matching row title/year. No new product row and no product/Gallery master edits.
+
+
+## Follow-up: Ferrari F2003-GA Gallery evidence, items 20–21
+
+The archived Gallery contains two views in one sample evidence group:
+- Item 20: `2003 Ferrari F1 Sample Terry (1).jpg`, captioned “2003 Ferrari Sample (Terry Choy collection)”.
+- Item 21: `2003 Ferrari F1 Sample Terry (3).jpg`, captioned “Back”.
+
+The product table has a 2003 **Ferrari F2003-GA** row whose thumbnail is `2003 Ferrari F1 Sample Terry (2).jpg`. The shared distinctive filename stem and matching 2003 Ferrari F1 sample naming support a high-confidence text-level association of Gallery items 20–21 with that F2003-GA row. The table thumbnail (2) is not a third Gallery item. A separate adjacent row, “Ferrari F2003-GA 2003 F1 World Champions”, uses a different image stem (`Ferrari 2003 World Champions Terry Sample (1).png`); do not merge that separate row into this sample group.
+
+The Terry Choy collection attribution is retained as an archived caption claim, not authenticated provenance. The “Back” caption is only a view label. Image binaries were not visually inspected, so physical details, sample authenticity and provenance remain unverified.
+
+**Disposition:** link Gallery items 20–21 to the 2003 Ferrari F2003-GA product-table row as one sample evidence group, high text-level confidence. Do not create a new product row or change product/Gallery master data.
