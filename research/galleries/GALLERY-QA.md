@@ -100,9 +100,9 @@ Segment totals: 6 GALLERY_FOUND; 4 GALLERY_SUSPECTED; 0 NO_GALLERY; 58 Gallery i
 
 ## Gallery scan batch 22: consolidated totals
 
-30 pages processed in three internal segments. 20 pages contain standard Gallery markup; 9 are classified GALLERY_SUSPECTED for review; 1 are classified NO_GALLERY. Gallery item records added: 148. Ordinary HTML img elements observed: 4153. Gallery class tags counted: 42.
+30 pages processed in three internal segments. 21 pages contain standard Gallery markup; 9 are classified GALLERY_SUSPECTED for review; 0 are classified NO_GALLERY. Gallery item records added: 166. Ordinary HTML img elements observed: 5443. Gallery class tags counted: 44.
 
-Classification totals: GALLERY_FOUND=20; GALLERY_SUSPECTED=9; NO_GALLERY=1. The GALLERY_SUSPECTED pages require manual inspection of non-standard markup; NO_GALLERY does not mean image-free, and ordinary images remain queued for Inline Image extraction.
+Classification totals: GALLERY_FOUND=21; GALLERY_SUSPECTED=9; NO_GALLERY=0. The GALLERY_SUSPECTED pages require manual inspection of non-standard markup; NO_GALLERY does not mean image-free, and ordinary images remain queued for Inline Image extraction.
 
 
 ### Batch 22 source retrieval correction: Hot Wheels Classics
