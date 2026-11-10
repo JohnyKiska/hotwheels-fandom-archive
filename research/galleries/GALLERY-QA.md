@@ -520,3 +520,13 @@ The existing page-level extraction CSV was revalidated against the current HTML 
 - Page extraction CSV is header-only (15 columns); page QA independently records 0 extracted Gallery items.
 - Classification confirmed: `NO_GALLERY`. The 47 ordinary images remain outside Gallery extraction scope and are candidates for the separate Inline Image extraction stage.
 - Completed the previously blank inventory metadata in `GALLERY-SCAN.csv`; no master extraction rows were added.
+
+
+## Gallery extraction batch 29: Car Culture 2-Packs
+
+- Source revision: `816371`; source Git blob SHA: `5e5d6c6bf83317654a235ebb85e89a1d0253b6f6`.
+- MANIFEST inventory size: 614021 bytes; SHA-256: `13E873073B42A09C27BFB20775B2025ED7CB31B88A1BB4FCF5F7B9B2835695C3`.
+- Re-fetched HTML verification: 1 Gallery heading (`Gallery [ ]`), 1 dedicated `wikia-gallery` container (`gallery-0`), 2 `wikia-gallery-item` entries, 229 ordinary `<img>` elements.
+- Page CSV contains 2 rows in the 15-column master schema. Both records use `gallery-0`, item indices 1–2; duplicate key count is 0.
+- Appended 2 records to `GALLERY-EXTRACTION.csv`; completed source metadata and `GALLERY_FOUND` status in `GALLERY-SCAN.csv`.
+- General article/product images remain outside this Gallery extraction scope and are candidates for the separate Inline Image extraction stage.
