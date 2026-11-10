@@ -1269,3 +1269,20 @@ Five source pages were scanned. Two pages contain dedicated Gallery containers a
 **Batch total:** 2 dedicated Gallery headings, 2 gallery containers, 11 Gallery items, and 546 general HTML image elements across 5 source pages. Five 15-column CSVs and five QA reports were created. Gallery binaries are not downloaded in this pass.
 
 Next Gallery batch: continue with the next source pages in Modern Special Series inventory order.
+
+
+## Gallery extraction batch 12: Character Cars, 2026-11-10
+
+Five source pages were scanned. One page, `DC Character Cars`, contains two dedicated Gallery containers with 4 Gallery items total. The other four pages have no dedicated Gallery containers. General article/product/infobox images remain a separate Inline Image extraction concern. Source Git blob SHAs, MANIFEST inventory sizes and SHA-256 values, and Fandom revision IDs are recorded in individual QA files. Fetched text character lengths differ from manifest byte-size fields, so this pass does not assert byte-for-byte size or SHA-256 verification.
+
+| Source page | Revision | Gallery headings | Gallery containers | Gallery items | General HTML image elements | CSV | QA |
+|---|---:|---:|---:|---:|---:|---|---|
+| `Activision Character Cars` | 561738 | 0 | 0 | 0 | 14 | `research/galleries/MODERN-SPECIAL-SERIES-ACTIVISION-CHARACTER-CARS-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-ACTIVISION-CHARACTER-CARS-GALLERY-QA.md` |
+| `Avatar: The Last Airbender Character Cars` | 649915 | 0 | 0 | 0 | 20 | `research/galleries/MODERN-SPECIAL-SERIES-AVATAR-THE-LAST-AIRBENDER-CHARACTER-CARS-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-AVATAR-THE-LAST-AIRBENDER-CHARACTER-CARS-GALLERY-QA.md` |
+| `DC Character Cars` | 725098 | 2 | 2 | 4 | 366 | `research/galleries/MODERN-SPECIAL-SERIES-DC-CHARACTER-CARS-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-DC-CHARACTER-CARS-GALLERY-QA.md` |
+| `DC Teen Titans Go! Character Cars` | 705165 | 0 | 0 | 0 | 20 | `research/galleries/MODERN-SPECIAL-SERIES-DC-TEEN-TITANS-GO-CHARACTER-CARS-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-DC-TEEN-TITANS-GO-CHARACTER-CARS-GALLERY-QA.md` |
+| `Despicable Me 3 Character Cars` | 687206 | 0 | 0 | 0 | 18 | `research/galleries/MODERN-SPECIAL-SERIES-DESPICABLE-ME-3-CHARACTER-CARS-GALLERY.csv` | `research/galleries/MODERN-SPECIAL-SERIES-DESPICABLE-ME-3-CHARACTER-CARS-GALLERY-QA.md` |
+
+**Batch total:** 2 dedicated Gallery section headings, 2 gallery containers, 4 Gallery items, and 438 general HTML image elements across 5 source pages. Five 15-column CSVs and five QA reports were created. Gallery image binaries are not downloaded in this pass.
+
+Next Gallery batch: continue with the next source pages in Modern Special Series inventory order.
