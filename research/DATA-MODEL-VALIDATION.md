@@ -355,3 +355,63 @@ Mix 1–4 сохраняются как локальные assortment groups. В
 21. Section labels Mix, Fast & Furious и Walmart Legends Tour Exclusive требуют scoped release/source context, а не автоматического создания глобальных сущностей Series/IP/Manufacturer.
 22. Component notes различают New Casting и New Die-Cast Chassis; исходные утверждения должны быть типизированы и привязаны к источнику/времени.
 23. Gallery records и embedded product images — разные evidence streams; 2025 год подтверждает необходимость отдельного Gallery record type и корректного чтения image link href при техническом data URI в img src.
+
+
+## Проверочная партия 6: Pro Racing (1997–2000)
+
+Проверены годовые QA и CSV за 1997–2000 годы. В 1998 CSV превышает 1 MB: обычный Contents fetch вернул пустое содержимое, поэтому полный текст был прочитан по Git blob SHA и разобран повторно; количество строк совпало с QA.
+
+| Год | Таблиц | Строк | Embedded images | Ссылок |
+|---|---:|---:|---:|---:|
+| 1997 | 6 | 83 | 156 | 356 |
+| 1998 | 14 | 205 | 400 | 848 |
+| 1999 | 18 | 185 | 343 | 752 |
+| 2000 | 19 | 155 | 304 | 639 |
+| **Всего** | **57** | **628** | **1 203** | **2 595** |
+
+QA для всех четырёх лет подтверждает сохранение исходного порядка, границ таблиц, headers, raw row/cell HTML, ссылок и image attributes. Отдельные Gallery items не извлекались в этих годовых проходах; строки Gallery/navigation-like tables, если они присутствуют в CSV, не следует принимать за отдельные товарные фото.
+
+### 24. Racing identity is a structured context, not one flat Team/Number field
+
+В NASCAR-подобных таблицах 1997–2000 используется поле `Team / Number`, содержащее смешанные строки вроде `Morgan-McClure Motorsports #4`, `Hendrick Motorsports #5`, `Petty Enterprises #43`, а иногда только `#8` или `#9`. Отдельно присутствует `Primary Sponsor` (например Kodak, Kellogg's, STP, Valvoline). В 1998 таблицы Indy/open-wheel для Reynard 97I и Swift 007.i используют другую схему: `Team n°`, `Team`, `Year #`, `Series`, `Photo Loose`, `Photo Packaged`.
+
+Подтверждение:
+- Нельзя сводить Team, racing number, Primary Sponsor, Year # и Series в одно универсальное поле.
+- Сохранять исходные названия полей и строки; нормализованное разделение команды/номера/спонсора допустимо только как derived interpretation с provenance.
+- `Team` в 1998 open-wheel таблице (например Target, Walker, Alumax) не следует автоматически считать тем же типом значения, что `Team / Number` в NASCAR-таблицах.
+- Гоночный номер является контекстным атрибутом участия/ливреи, а не Toy # и не Series Position.
+
+### 25. Toy # reuse, variants and cross-assortment listings
+
+В 1997 один Toy # повторяется между Collector 1st Edition, Short Track 1st Edition и Superspeedway 1st Edition, иногда с одинаковой машиной и отдельными source notes о направлении автомобиля/решётке/спойлере. Например, Toy #17407–17414 встречаются в нескольких assortment sections. В 1998 также есть повторы Toy # между разными секциями и записями; в 1999 Toy #25001–25004 имеют пары `Dark Tape` / `Light/ White Tape`, а Toy #22570 содержит варианты упаковки/оттенка. В 2000 Toy #28351 используется у двух записей Chevrolet Monte Carlo / Sabco Racing #42 с BellSouth и BellSouth Mobility (`Alternate Livery`).
+
+Подтверждение:
+- Toy # не является глобальным PK для casting или release и не гарантирует уникальность строки.
+- Различать repeated source listing, assortment membership, packaging variation, livery/tampo variation и отдельный casting только по совокупности source evidence.
+- Не сливать строки при совпадении Toy #; сохранять каждую запись и её section/table/source row.
+- Разные Notes могут описывать варианты упаковки, направление/детали кузова или ливрею; это не один общий свободный текст без типа evidence.
+
+### 26. Tool Box and set/packaging relationships
+
+В 1998–2000 присутствуют отдельные Tool Box tables с Casting=`Tool Box`, при этом Team / Number и Primary Sponsor повторяют гоночный контекст конкретных машин. Notes включают явные формулировки `Packaged with Ford Thunderbird` и `Packaged with Ford Taurus`. В 1998 также есть тематические multi-car/set sections (например Roush Racing Set, PLAYERS INC Special Edition Set, Toy Story 2-related releases).
+
+Подтверждение:
+- Tool Box — самостоятельный product/casting type, не гоночный автомобиль только потому, что его строка содержит racing team/sponsor context.
+- `Packaged with ...` является явным source-backed component/packaging relationship; хранить его как связь упаковки/комплекта с компонентом, а не подменять Casting.
+- Set/packaging identity и individual casting identity должны быть разными уровнями; состав набора не выводить только из названия секции.
+
+### 27. Source schemas vary by racing discipline and year
+
+В 1997–2000 обнаружены разные схемы: стандартная 11-колоночная Pro Racing, варианты порядка Photo Loose/Photo Packaged, схемы без Interior Color, Tool Box tables с 10 колонками, open-wheel schema с шестью колонками и таблицы Gallery/navigation без обычных product headers. QA сохраняет исходные заголовки и строки, а не нормализует их в один шаблон.
+
+Подтверждение:
+- Поля должны быть nullable и schema-scoped; отсутствие поля в таблице не равно пустому значению у товара.
+- Photo Packaged, Photo Carded и Photo Boxed являются исходными role labels, которые следует сохранять до нормализации image evidence.
+- Gallery/navigation tables нужно отличать от product tables по структуре и контексту, а не по наличию слова Pro Racing.
+
+## Обновлённые выводы после партии 6
+
+24. Pro Racing требует разделения Team, racing number, Primary Sponsor, Year # и Series; их нельзя объединять в одно поле.
+25. Повтор Toy # между ассортиментами, вариантами ливреи и упаковки подтверждает, что он не является глобальным ключом; исходные строки остаются самостоятельными source records.
+26. Tool Box и тематические sets показывают, что racing context может быть у неавтомобильных продуктов и упаковок; необходимы отдельные product type и package/component relationships.
+27. Схема Pro Racing зависит от года и гоночной дисциплины; source headers и table scope должны сохраняться без насильственного сведения к единому набору колонок.
