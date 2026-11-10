@@ -241,3 +241,14 @@ Ten additional page-specific Gallery CSV/QA pairs from legacy extraction batches
 - NO_GALLERY: 10
 - Gallery item rows appended: 0
 - Cumulative legacy migration: 50 pages, 135 Gallery item rows, 10 GALLERY_FOUND, and 40 NO_GALLERY.
+
+## Legacy Gallery migration tranche 6: Car Culture and Character Cars
+
+Ten additional page-specific Gallery CSV/QA pairs were reconciled and appended to the consolidated registers. All ten source paths were unique and absent from the consolidated scan before migration. Source metadata and Gallery item fields were preserved.
+
+- Pages migrated in this tranche: 10
+- GALLERY_FOUND: 3
+- NO_GALLERY: 7
+- Gallery item rows appended: 15
+- Cumulative legacy migration: 60 pages, 150 Gallery item rows, 13 GALLERY_FOUND, and 47 NO_GALLERY.
+- `Car Culture Factory Set` remains unmatched: no corresponding page-specific Gallery CSV/QA pair was found in the repository directory. It is not counted as migrated and requires separate source-level review.
