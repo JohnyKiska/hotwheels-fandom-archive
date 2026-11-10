@@ -10,6 +10,6 @@
 "GALLERY-EXTRACTION-09.csv","2001","2250","250","250","READY","Recovered from existing master CSV; source rows preserved"
 "GALLERY-EXTRACTION-10.csv","2251","2500","250","250","READY","Recovered from existing master CSV; source rows preserved"
 "GALLERY-EXTRACTION-11.csv","2501","2750","250","250","READY","Completed with 9 source-verified Ferrari X-V records"
-"GALLERY-EXTRACTION-12.csv","2751","3000","183","250","PARTIAL","48 prior records + 135 records from the first 10 pages of the remaining source-recovery queue"
-"GALLERY-EXTRACTION-13.csv","3001","3250","0","250","PENDING","Reserved for missing source-derived Gallery item records"
+"GALLERY-EXTRACTION-12.csv","2751","3000","250","250","READY","Filled remaining 67 slots with source-verified Gallery records"
+"GALLERY-EXTRACTION-13.csv","3001","3250","64","250","PARTIAL","Source-verified records from pages 11-20 of the remaining source-recovery queue"
 "GALLERY-EXTRACTION-14.csv","3251","3350","0","100","PENDING","Final part; 100 records expected"
