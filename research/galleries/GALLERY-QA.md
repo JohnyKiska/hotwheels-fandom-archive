@@ -302,3 +302,13 @@ A robust CSV parse found 4 pre-existing blank logical records in the master regi
 - Duplicate key check (`source_file + gallery_id + gallery_item_index`): 0 duplicates.
 - Appended 4 source data rows. Source CSV and QA remain unchanged.
 - Master registry verified in-memory after append: 395 non-empty data rows.
+
+## Verified legacy merge: 2009 Color Shifters
+
+- Source CSV: `research/galleries/MODERN-SPECIAL-SERIES-2009-COLOR-SHIFTERS-GALLERY.csv`
+- Source QA: `research/galleries/MODERN-SPECIAL-SERIES-2009-COLOR-SHIFTERS-GALLERY-QA.md`
+- Source page: `Modern Special Series/Color Shifters/2009 Color Shifters _ Hot Wheels Wiki _ Fandom.html`
+- Source QA confirms 1 Gallery container and 4 extracted Gallery items; the 15-column schema matches the master registry exactly.
+- Duplicate key check (`source_file + gallery_id + gallery_item_index`): 0 duplicates.
+- Appended 4 source data rows. Page-specific CSV and QA remain unchanged.
+- Master registry verified in-memory after append: 399 non-empty data rows.
