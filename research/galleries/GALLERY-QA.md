@@ -885,3 +885,37 @@ Twenty previously unscanned Larger Scale pages were checked directly against the
 NO_GALLERY classifies only the dedicated Gallery markup. The pages may still contain ordinary images; these are counted separately above.
 
 The 125 Gallery item occurrences from this batch are recorded in GALLERY-SCAN.csv and GALLERY-PROGRESS.csv. They still require reconciliation with the oversized GALLERY-EXTRACTION.csv master register; no claim is made that they have been merged there.
+
+
+# Gallery scan batch 54
+
+Date: 2026-11-10
+
+Twenty previously unscanned pages were checked directly against their archived HTML source files. One oversized HTML file was read through its Git blob endpoint after the normal file fetch could not handle its size.
+
+| Source page | Revision | Gallery containers | Gallery items | General img elements | Status |
+|---|---:|---:|---:|---:|---|
+| Hot Wheels Racing Series (2009) | 298208 | 0 | 0 | 22 | NO_GALLERY |
+| HW Racing Series (2010) | 684545 | 0 | 0 | 28 | NO_GALLERY |
+| HW Racing Series (2011) | 613410 | 0 | 0 | 28 | NO_GALLERY |
+| HW Racing Series (2012) | 631869 | 0 | 0 | 28 | NO_GALLERY |
+| Racing Circuit Series (2017) | 752881 | 0 | 0 | 26 | NO_GALLERY |
+| Team_ Hot Wheels Racing Series (2008) | 587467 | 0 | 0 | 10 | NO_GALLERY |
+| Hot Wheels XL | 815549 | 1 | 42 | 169 | GALLERY_FOUND |
+| La Storia | 787414 | 0 | 0 | 12 | NO_GALLERY |
+| Passione | 787645 | 0 | 0 | 13 | NO_GALLERY |
+| Premium 1_43 | 795588 | 1 | 1 | 87 | GALLERY_FOUND |
+| Pro Racing 1_43 Scale | 815866 | 2 | 55 | 162 | GALLERY_FOUND |
+| Pull-Back Speeders | 791269 | 1 | 15 | 37 | GALLERY_FOUND |
+| Pullbax | 787309 | 1 | 2 | 41 | GALLERY_FOUND |
+| Street Power | 802391 | 3 | 5 | 181 | GALLERY_FOUND |
+| Tunerz | 787594 | 1 | 3 | 33 | GALLERY_FOUND |
+| Hot Wheels by Collector Number | 753989 | 0 | 0 | 959 | NO_GALLERY |
+| 2011 Multi-Pack Exclusives | 651558 | 0 | 0 | 28 | NO_GALLERY |
+| 2023 Multi-Pack Exclusives | 791909 | 1 | 3 | 80 | GALLERY_FOUND |
+| 2-Pack | 815486 | 17 | 98 | 237 | GALLERY_FOUND |
+| 3-Pack | 552220 | 2 | 2 | 24 | GALLERY_FOUND |
+
+**Batch totals:** 20 pages; 10 with Gallery markup; 10 without dedicated Gallery markup; 226 Gallery item occurrences; 30 Gallery containers; 2205 ordinary image elements; 0 suspected cases.
+
+NO_GALLERY classifies only dedicated Gallery markup. Ordinary images are counted separately. The 226 Gallery item occurrences from this batch are recorded in GALLERY-SCAN.csv and GALLERY-PROGRESS.csv. They still require reconciliation with the oversized GALLERY-EXTRACTION.csv master register.
