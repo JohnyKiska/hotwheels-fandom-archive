@@ -320,3 +320,12 @@ A robust CSV parse found 4 pre-existing blank logical records in the master regi
 - **2012 Color Shifters** (Fandom revision 781158): 0 dedicated Gallery containers, 0 Gallery items, 34 ordinary HTML `<img>` elements. Page CSV `research/galleries/MODERN-SPECIAL-SERIES-2012-COLOR-SHIFTERS-GALLERY.csv` is correctly header-only; no rows to merge. The per-page QA report confirms `NO_GALLERY`; ordinary images remain in scope for separate Inline Image extraction.
 
 Consolidation outcome: 3 source CSVs checked, 0 Gallery records added, 0 duplicate records, master registry left unchanged. This is a confirmed no-Gallery classification, not a claim that the pages contain no images.
+
+## Legacy consolidation check: Boulevard 2012–2013 and Color Shifters 2014–2015
+
+- **2012 Hot Wheels Boulevard** (Fandom revision 810075): 0 Gallery containers and 0 Gallery items. `research/galleries/MODERN-SPECIAL-SERIES-2012-HOT-WHEELS-BOULEVARD-GALLERY.csv` is correctly header-only; no Gallery records to merge. Per-page QA explicitly records zero Gallery items. Ordinary HTML images, where present, remain queued for separate Inline Image extraction.
+- **2013 Hot Wheels Boulevard** (Fandom revision 699818): 0 Gallery containers and 0 Gallery items. `research/galleries/MODERN-SPECIAL-SERIES-2013-HOT-WHEELS-BOULEVARD-GALLERY.csv` is correctly header-only; no Gallery records to merge. Per-page QA explicitly records zero Gallery items. Ordinary HTML images, where present, remain queued for separate Inline Image extraction.
+- **2014 Color Shifters** (Fandom revision 796334): 0 Gallery containers and 0 Gallery items. `research/galleries/MODERN-SPECIAL-SERIES-2014-COLOR-SHIFTERS-GALLERY.csv` is correctly header-only; no Gallery records to merge. Per-page QA explicitly records zero Gallery items. Ordinary HTML images, where present, remain queued for separate Inline Image extraction.
+- **2015 Color Shifters** (Fandom revision 781166): 0 Gallery containers and 0 Gallery items. `research/galleries/MODERN-SPECIAL-SERIES-2015-COLOR-SHIFTERS-GALLERY.csv` is correctly header-only; no Gallery records to merge. Per-page QA explicitly records zero Gallery items. Ordinary HTML images, where present, remain queued for separate Inline Image extraction.
+
+Consolidation outcome: 4 source CSVs checked, 0 Gallery records added, 0 duplicates, master registry unchanged.
