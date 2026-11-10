@@ -49,7 +49,7 @@ Records appended to shared `GALLERY-SCAN.csv` and `GALLERY-EXTRACTION.csv`; sour
 | Page | Revision | Containers | Items | img | Status |
 |---|---:|---:|---:|---:|---|
 | Highway 35 World Race _ Hot Wheels Wiki _ Fandom.html | 780828 | 2 | 18 | 129 | GALLERY_FOUND |
-| Hot Wheels Classics _ Hot Wheels Wiki _ Fandom.html |  | 0 | 0 | 0 | NO_GALLERY |
+| Hot Wheels Classics _ Hot Wheels Wiki _ Fandom.html | 804424 | 2 | 18 | 1290 | GALLERY_FOUND |
 | Hot Wheels Delivery _ Hot Wheels Wiki _ Fandom.html | 807645 | 2 | 3 | 181 | GALLERY_FOUND |
 | Hot Wheels Garage (2010) _ Hot Wheels Wiki _ Fandom.html | 807640 | 2 | 8 | 261 | GALLERY_FOUND |
 | Hot Wheels Garage (2011) _ Hot Wheels Wiki _ Fandom.html | 802883 | 2 | 1 | 212 | GALLERY_FOUND |
@@ -59,7 +59,7 @@ Records appended to shared `GALLERY-SCAN.csv` and `GALLERY-EXTRACTION.csv`; sour
 | Hot Wheels Racing Series (2012) _ Hot Wheels Wiki _ Fandom.html | 777192 | 2 | 1 | 85 | GALLERY_FOUND |
 | HW Designed By Mini Collection (2025) _ Hot Wheels Wiki _ Fandom.html | 699726 | 0 | 0 | 16 | GALLERY_SUSPECTED |
 
-Segment totals: 7 GALLERY_FOUND; 2 GALLERY_SUSPECTED; 1 NO_GALLERY; 62 Gallery items; 1207 ordinary img elements.
+Segment totals: 8 GALLERY_FOUND; 2 GALLERY_SUSPECTED; 0 NO_GALLERY; 80 Gallery items; 2497 ordinary img elements.
 
 
 ## Gallery scan batch 22, segment 2/3
