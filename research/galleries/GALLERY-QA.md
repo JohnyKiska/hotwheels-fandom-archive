@@ -103,3 +103,8 @@ Segment totals: 6 GALLERY_FOUND; 4 GALLERY_SUSPECTED; 0 NO_GALLERY; 58 Gallery i
 30 pages processed in three internal segments. 20 pages contain standard Gallery markup; 9 are classified GALLERY_SUSPECTED for review; 1 are classified NO_GALLERY. Gallery item records added: 148. Ordinary HTML img elements observed: 4153. Gallery class tags counted: 42.
 
 Classification totals: GALLERY_FOUND=20; GALLERY_SUSPECTED=9; NO_GALLERY=1. The GALLERY_SUSPECTED pages require manual inspection of non-standard markup; NO_GALLERY does not mean image-free, and ordinary images remain queued for Inline Image extraction.
+
+
+### Batch 22 source retrieval correction: Hot Wheels Classics
+
+The initial `fetch_file` response for this 1.44 MB HTML file was empty, so the page was temporarily recorded as NO_GALLERY. Retrieved the actual Git blob successfully and rescanned it. Corrected status to GALLERY_FOUND; revision 804424; 2 Gallery class tags; 18 Gallery items; 1290 ordinary img elements. Appended 18 extracted Gallery item records.
