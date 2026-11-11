@@ -185,3 +185,8 @@ The source rows' David/Mika driver fields align with these two distinct retail v
 - Fongu's review provides an important Variant caveat: Hot Wheels 55602's Schumacher model has a driver figure with both fists raised; the same model was also sold in a standard Hot Wheels box, and a related B7022 three-car-set F2001 has the same figure but a different rear-wing configuration for Spa. Thus #1 alone is not enough to merge row17 with row14's 55573. Hold row17 Variant identity pending source model comparison.
 - The #2 car is independently cataloged as Hot Wheels **50214**, Rubens Barrichello, 1:43, 2001, but 50214's standalone release is not the same thing as the 55602 two-car assortment. Keep #2 as a separate Variant candidate.
 - **Disposition:** 55602 is a strong set-level Assortment candidate for rows17–18, but exact linkage to the Terry Choy source rows remains unconfirmed because the source photographs are unavailable and the source rows contain no set item number. Do not write 55602 into the individual source_toy_number fields and do not create canonical entities.
+
+
+## Row 20: Williams source identity hold
+
+The source row says Williams FW21, 2001, Compaq/racing decals, #5 and Yellow helmet. These attributes conflict: FW21 is a 1999 chassis and its #5 driver was Alessandro Zanardi; 2001 Compaq #5 with yellow helmet instead strongly suggests FW23/Ralf Schumacher. Hot Wheels 50211 is a confirmed 1:43 FW23 #5 Ralf Schumacher comparator, not yet a proven match to the Terry sample. Preserve the source label and hold the Variant/Release until the original sample image is inspected.
