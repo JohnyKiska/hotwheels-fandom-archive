@@ -8,7 +8,6 @@
 |---|---:|---|---|---|
 | JJM31 | 015 | Porsche 911 Carrera T | Individual full blister | [HW Price Guide](https://hwpriceguide.com/item/2026-mainlines-porsche-911-carrera-t-2nd-color--zamac/) |
 | JJM33 | 024 | Track Ripper | Individual full blister | [HW Price Guide](https://hwpriceguide.com/dist/images/cars/2026-zamac-track-ripper.jpg) |
-| JJM32 | 026 | Pagani Zonda Cinque | Partial card-front photo | [eBay listing](https://www.ebay.com/itm/407253630233); captured image does not show the blister/car clearly |
 | JJM38 | 036 | '70 Dodge Hemi Challenger | Group blister photo | [HWHeadline Zamac 3–4](https://hwheadline.com/2026-hot-wheels-zamac-edition-3-4/); Challenger pack is partly cropped at left |
 | JJM35 | 044 | '59 Chevy Impala | Individual full blister | [eBay listing](https://www.ebay.com/itm/397825196124) |
 | JJM40 | 089 | 1985 Honda CR-X | Individual full blister | [HW Price Guide](https://hwpriceguide.com/dist/images/cars/2026-zamac-1985-honda-cr-x.jpg) |
