@@ -19,7 +19,9 @@
 | Unique Collector # | 250 |
 | Collector numbers with multiple rows | 163 |
 | Collector numbers with 3 rows | 27 |
-| Rows explicitly marked 2nd Color | 148 |
+| Rows with a `(2nd Color` label, including Zamac suffixes | 148 |
+| Rows with exact `(2nd Color)` wording | 137 |
+| Rows marked `(2nd Color - Zamac)` | 11 |
 | Rows explicitly marked 3rd Color | 27 |
 | Treasure Hunt rows | 15 |
 | Super Treasure Hunt rows | 15 |
