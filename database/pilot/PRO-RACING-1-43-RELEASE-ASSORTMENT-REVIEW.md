@@ -69,3 +69,28 @@ Sources:
 - https://www.ebay.com/itm/135673843026 — ended collector listing describing the six-car display and Hungaroring 2004 / World Constructors' Championships stand.
 - https://www.toywonders.com/ProductCart/pc/Mattel-Hot-Wheels-Racing-Ferrari-Micheal-Shumacher-Championship-Collection-1-43-Assoted-L6237-p7050.htm — separate five-car L6237 contents.
 - https://www.tacot.com/listings/ferrari-f1-set-campione-del-mondo-2000-2001-2002-2003-2004-hot-wheels-52884-0 — independent catalog listing for L6237, 1:43, 2000–2004.
+
+
+## External cross-check: Ferrari F2003-GA sample row 33
+
+The product-table row is Ferrari F2003-GA, source year 2003, with named sample image **2003 Ferrari F1 Sample Terry (2)**. Hot Wheels 1:43 retail code **B1018** is independently documented as a 2003 Ferrari F2003-GA Shell #1 Michael Schumacher:
+
+- [Die Carz: B1018](https://diecarz.com/cars/hotwheels/ferrari-f2003-ga-168398) — 1:43, 2003, Hot Wheels Racing, code B1018.
+- [Suruga-ya: B1018](https://www.suruga-ya.jp/kaitori/kaitori_detail/770000521) — Mattel, 1:43, Shell #1, Michael Schumacher, JAN 0027084009231.
+- [Yuui's F1 Scale Models: B1018](https://www.yuui.nl/en/collections/menu/products/2003-ferrari-f2003-ga-michael-schumacher) — Hot Wheels, 1:43, HWB1018, Michael Schumacher #1.
+- [Hobby Search: B1018](https://www.1999.co.jp/10102602) — Mattel, 1/43, code B1018.
+
+B1018 is a plausible retail comparator, **not an established identity for the Terry Choy sample**. The sample image and its tampo, number, base, plinth and package have not been directly verified. Keep row 33's release identity unresolved.
+
+## External cross-check: Ferrari 412 T1 “book package” row 36
+
+The source row says Ferrari 412 T1, source-table year 2004, and “Represents 1994, in a Book pacakage”. External catalog records confirm two Hot Wheels 1:43 Ferrari 412 T1-family comparators:
+
+- [Armand Modelcars: T6284](https://www.armand-modelcars.nl/nld/product/ferrari/1848) — Hot Wheels Elite, 1:43, Jean Alesi #27, Great Britain GP 1994, EAN 027084923049.
+- [F1 Scale Models stock list](https://www.f1scalemodels.com/F1_Stocklist.pdf) — T6284, 1994 Jean Alesi #27 Great Britain GP.
+- [ToysHouse: N5583](https://toyshouse.it/en/products/hot-wheels-n5583-ferrari-412-t1-berger-1994-vince-gp-germany) — Hot Wheels Elite, 1:43, Gerhard Berger #28, German GP winner 1994, code N5583, limited edition 10,000.
+- [eBay: N5583](https://www.ebay.com/itm/178548319139) — photographed model and black Hot Wheels Elite package.
+
+These are distinct 1994 retail comparators, but neither source documents a book-shaped package or identifies the Terry Choy sample. No evidence was found to resolve the source's “book package” wording. Preserve source year 2004 and the 1994/package note as separate facts; do not assign T6284 or N5583, and keep row 36 held.
+
+**Disposition:** rows 33 and 36 have better external comparator coverage, but no exact sample-to-release match. No canonical Release or Variant is created.
