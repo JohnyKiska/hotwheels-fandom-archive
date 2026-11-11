@@ -156,3 +156,10 @@ The source rows' David/Mika driver fields align with these two distinct retail v
 - **Row 9, Jordan EJ10:** catalog research finds two Hot Wheels 1:43 releases for 2000: **26754 Heinz-Harald Frentzen #5** and **26755 Jarno Trulli #6**. ModelCarsDb lists both codes; House of Modelcars confirms 26755 with EAN 074299267550, scale 1:43 and original factory packaging; Formula143 independently records 26755/Trulli. Models118 and a sealed eBay product record corroborate 26754/Frentzen (UPC 0074299267543). The source row's “Jordan Website Asset” has not been visually identified, so the two releases remain alternatives and exact identity is held.
 - **Row 10, Williams FW22:** strong external candidate is Hot Wheels **26746**, Ralf Schumacher #9, 1:43, EAN 074299267468 / UPC 0074299267468. House of Modelcars, Yuui, bol, eBay and Wheel Wonderland corroborate the release; House of Modelcars notes original factory packaging. The source row has no item-specific attributes or image, so exact Terry Choy source linkage remains held.
 - Neither row was promoted to canonical Variant or Release. Do not infer a source-row match from a catalog SKU alone.
+
+
+## Rows 11–12: candidate Release findings
+
+- **Row 11, Ferrari F1-2000:** Hot Wheels 1:43 item **26748**, Michael Schumacher #3, is corroborated as the baseline retail model. A **26748M** Marlboro-livery listing and the **B0722 Michael Schumacher Ferrari Hat Trick** race-dirty set example are separate treatments/catalog contexts. Source image is not visually identified, so exact Release remains held.
+- **Row 12, Jaguar R1:** Hot Wheels 1:43 item **26752** is Eddie Irvine #7 (EAN 074299267529); item **26753** is Johnny Herbert #8 (EAN 074299267536). Multiple independent catalog records support both. Source image is not visually identified, so exact Release remains held.
+- Neither row was promoted to canonical Variant or Release.
