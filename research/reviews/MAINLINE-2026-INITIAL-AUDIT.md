@@ -70,3 +70,13 @@ The user supplied direct visual descriptions of four physical blistered entries.
 | 093 | JJL05 | El Segundo Coupé Clip (2nd Color) | Blue body, red Hot Wheels logo |
 
 **Assessment:** Both collector-number groups now have user-confirmed visual distinctions and original blister naming. Treat each pair as separate variant candidates. These observations do not by themselves establish casting identity, base/part differences, or canonical Variant records. Keep casting/variant promotion pending physical underside/base comparison and source-level validation.
+
+
+### Casting comparison follow-up
+
+The user additionally confirms that the physical castings are identical within both pairs:
+
+- **Collector #084:** JJJ47 Polestar TRX and JJL49 Polestar (2nd Color) share the same casting.
+- **Collector #093:** JJJ55 Coupé Clip and JJL05 El Segundo Coupé Clip (2nd Color) share the same casting.
+
+**Assessment:** Casting identity is user-confirmed for both pairs. Keep the two color/deco variants separate under their original blister names. This does not establish whether packaging/release details differ beyond the observed blister labels, nor does it authorize merging the two variants into one record.
