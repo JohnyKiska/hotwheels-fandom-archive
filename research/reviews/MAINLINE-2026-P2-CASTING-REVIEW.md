@@ -475,3 +475,15 @@
 **Casting finding:** The user has visually compared both versions and confirmed that the castings are identical. Preserve paint, color and decoration differences as separate variant attributes.
 
 **Current conclusion:** User-confirmed identical castings.
+
+
+## Collector #143 — Deora Too'nd
+
+| Toy # | Variant | Series |
+|---|---|---|
+| JJH50 | undefined | Tooned New for 2026! |
+| JJL21 | undefined | Tooned New for 2026! |
+
+**Casting finding:** The user has visually compared both versions and confirmed that the castings are identical. Preserve paint, color and decoration differences as separate variant attributes.
+
+**Current conclusion:** User-confirmed identical castings.
