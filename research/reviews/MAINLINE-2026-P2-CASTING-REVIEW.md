@@ -196,3 +196,19 @@ User-confirmed casting matches are recorded in the visual-review queue. The queu
 - [JJM58 — red Target Red Edition](https://www.hwcgarage.com/en/vehicle/mazda-rx-3-2026-rouge-jjm58)
 
 **Current conclusion:** User-confirmed identical castings across all three versions.
+
+
+## Collector #107 — 1966 Bat Boat
+
+| Toy # | Variant |
+|---|---|
+| JJJ67 | First listed version, Batman 3/5 |
+| JJL81 | Second color, Batman 3/5 |
+
+**Casting finding:** The user has visually compared both versions and confirmed that the castings are identical. Preserve paint/deco differences as separate variant attributes.
+
+**Visual references:**
+- [JJJ67](https://www.hwcgarage.com/en/vehicle/1966-bat-boat-2026-jjj67)
+- [JJL81](https://www.hwcgarage.com/en/vehicle/1966-bat-boat-2026-jjl81)
+
+**Current conclusion:** User-confirmed identical castings.
