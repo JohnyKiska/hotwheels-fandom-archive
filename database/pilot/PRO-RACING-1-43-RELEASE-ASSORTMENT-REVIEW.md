@@ -94,3 +94,15 @@ The source row says Ferrari 412 T1, source-table year 2004, and “Represents 19
 These are distinct 1994 retail comparators, but neither source documents a book-shaped package or identifies the Terry Choy sample. No evidence was found to resolve the source's “book package” wording. Preserve source year 2004 and the 1994/package note as separate facts; do not assign T6284 or N5583, and keep row 36 held.
 
 **Disposition:** rows 33 and 36 have better external comparator coverage, but no exact sample-to-release match. No canonical Release or Variant is created.
+
+
+## Direct source-photo mapping: Ferrari F2004 Bahrain / Sakhir (rows 35 and 41)
+
+The user supplied the two original Fandom product-table image URLs and explicitly identified which source row each image represents:
+
+- **Row 35 — “Bahrain 2004 package”**: [Ferrari_Bahrain_2004_Terry_Sample_(2).png](https://static.wikia.nocookie.net/hotwheels/images/e/e6/Ferrari_Bahrain_2004_Terry_Sample_%282%29.png)
+- **Row 41 — “Sakhir / Bahrain”**: [2004_Ferrari_Terry_Sample_(1).jpg](https://static.wikia.nocookie.net/hotwheels/images/c/c7/2004_Ferrari_Terry_Sample_%281%29.jpg)
+
+This resolves the **source-photo-to-source-row mapping** that was previously open. Treat these as two distinct source sample records and retain their separate source notes/package contexts. It does not yet establish whether their physical models have different Variant identities, nor does it establish a Mattel SKU or canonical Release. The user's earlier observation of different packaging and body weathering remains a visual comparison report; the exact dirt pattern's intentional/factory status is still unverified.
+
+Important distinction: Gallery group **PR143-G12 (items 26–28)** remains a family-level evidence group. The two user-identified product-table photos are not Gallery items 26–28, so this new row-level mapping does not authorize splitting those three Gallery images between rows 35 and 41. No canonical Variant, Release, or image relation is created.
