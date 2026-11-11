@@ -251,3 +251,16 @@ User-confirmed casting matches are recorded in the visual-review queue. The queu
 - **User physical visual confirmation:** identical castings; wheel designs differ. Record the wheel difference as a separate component/variant attribute, not as a casting difference.
 - Vehicle pages: [JJJ72](https://www.hwcgarage.com/en/vehicle/89-mazda-savanna-rx-7-fc3s-2026-orange-jjj72) · [JJL69](https://www.hwcgarage.com/en/vehicle/89-mazda-savanna-rx-7-fc3s-2026-vert-jjl69)
 - Review status: `user_confirmed_same_casting`.
+
+## Collector #113 — Corvette C7 Z06
+
+| Toy # | Variant | Distribution |
+|---|---|---|
+| JJJ73 | First listed version, pink | Mainline |
+| JJL89 | Second color, white | Mainline |
+| JPD53 | Third color, green | Dollar General Exclusive |
+
+- HWC Garage catalog reference previously identified for the casting: **DTW79**.
+- **User visual confirmation:** all three versions have identical castings. Keep paint/deco and any wheel differences as separate variant attributes.
+- JPD53 catalog reference: [Corvette C7 Z06 casting page](https://www.hwcgarage.com/en/casting/corvette-c7-z06). An individual carded photo for JPD53 was not located in the prior review.
+- Review status for all three entries: `user_confirmed_same_casting`.
