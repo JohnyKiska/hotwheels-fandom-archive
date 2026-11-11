@@ -558,3 +558,14 @@
 **Casting finding:** The user has visually compared all three versions and confirmed that the castings are identical. Preserve paint, color, decoration and wheel differences as separate variant attributes.
 
 **Current conclusion:** User-confirmed identical castings.
+
+## Collector #156 — Custom Otto
+
+| Toy # | Variant | Series |
+|---|---|---|
+| JJK03 | First listed version | Mattel |
+| JJM21 | Super Treasure Hunt | Mattel |
+
+**Casting finding:** The user has visually compared both versions and confirmed that the castings are identical. Preserve paint, color, decoration, wheel and finish differences as separate variant attributes.
+
+**Current conclusion:** User-confirmed identical castings.
