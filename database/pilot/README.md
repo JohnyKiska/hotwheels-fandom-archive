@@ -42,7 +42,8 @@ The reconciliation seed adds 55 idempotent group-level `evidence_claim` records 
 2. Apply `database/schema.sql`.
 3. Apply `database/pilot/pro-racing-1-43-seed.sql`.
 4. Apply `database/pilot/pro-racing-1-43-reconciliation-seed.sql`.
-5. Check the counts:
+5. Apply `database/pilot/pro-racing-1-43-casting-candidates.sql`.
+6. Check the counts:
    - `SELECT COUNT(*) FROM source_row WHERE source_document_id='doc-pr143-products';` → 41
    - `SELECT COUNT(*) FROM source_row WHERE source_document_id='doc-pr143-gallery';` → 55
    - `SELECT COUNT(*) FROM image_asset WHERE source_document_id='doc-pr143-gallery';` → 55
