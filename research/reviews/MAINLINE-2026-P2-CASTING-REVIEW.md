@@ -42,6 +42,22 @@ HWC Garage's casting overview lists two Eggshelleracer versions and states they 
 
 This resolves the conflicting catalog color labels at the level of the observed visible components: the body/egg colors differ, and the base color differs as well. The user confirms that the castings are identical. This is a user-confirmed casting match; the visible color differences remain separate variant attributes.
 
+## Collector #115 — Custom 2020 Honda e
+
+| Toy # | Variant | Source appearance |
+|---|---|---|
+| JMB11 | First listed 2026 version | Yellow body |
+| JJL64 | Second color | White body |
+
+**Casting finding:** HWC Garage and the Hot Wheels Collectors Newsletter list both versions in the same model/collector-number group. The user has visually confirmed that the castings are identical. Record this as a user-confirmed casting match; yellow and white remain separate color variants.
+
+**Visual references:**
+- [JMB11 — yellow](https://www.hwcgarage.com/en/vehicle/custom-2020-honda-e-2026-jaune-jmb11)
+- [JJL64 — white](https://www.hwcgarage.com/en/vehicle/custom-2020-honda-e-2026-blanc-jjl64)
+- [HWC Garage — Custom 2020 Honda e casting overview](https://www.hwcgarage.com/en/casting/custom-2020-honda-e)
+
+**Current conclusion:** Identical castings, different body colors. Confirmation is based on the user's visual comparison.
+
 ## Sources
 
 - [HWC Garage — Custom '66 Toronado casting overview](https://www.hwcgarage.com/en/casting/oldsmobile-toronado)
