@@ -18,6 +18,7 @@ SEEDS = [
     ROOT / "database" / "pilot" / "pro-racing-1-43-seed.sql",
     ROOT / "database" / "pilot" / "pro-racing-1-43-reconciliation-seed.sql",
     ROOT / "database" / "pilot" / "pro-racing-1-43-casting-candidates.sql",
+    ROOT / "database" / "pilot" / "pro-racing-1-43-preview-links.sql",
 ]
 PILOT = ROOT / "database" / "pilot"
 ASSET_DIR = PILOT / "assets" / "pro-racing-1-43"
@@ -144,6 +145,7 @@ def main() -> int:
             caption = row["caption_html"] or review.get("source_caption_html", "")
             gallery_evidence.append({
                 "id": f"gallery-{n:03d}",
+                "imageId": row["image_id"],
                 "recordType": "gallery_evidence",
                 "galleryItemIndex": n,
                 "reviewGroupId": group_id,
@@ -166,6 +168,42 @@ def main() -> int:
                 "canonicalRelationCreated": False,
             })
 
+        # Build explicit preview links from SQLite. These are source-row display
+        # associations only and never become canonical image_relation records.
+        gallery_by_image_id = {item["imageId"]: item for item in gallery_evidence}
+        preview_rows = conn.execute(
+            """SELECT preview_link_id, source_row_id, image_id, review_group_id,
+                      preview_scope, confidence, display_priority, evidence_basis
+               FROM image_preview_link
+               ORDER BY source_row_id, display_priority, review_group_id"""
+        ).fetchall()
+        previews_by_source: dict[str, list[dict]] = {}
+        for link in preview_rows:
+            gallery = gallery_by_image_id.get(link["image_id"])
+            if gallery is None:
+                raise SystemExit(f"Preview link references an unexported image: {link['image_id']}")
+            preview = {
+                "previewLinkId": link["preview_link_id"],
+                "galleryItemIndex": gallery["galleryItemIndex"],
+                "imageUrl": gallery["imageUrl"],
+                "fileName": gallery["fileName"],
+                "reviewGroupId": link["review_group_id"],
+                "previewScope": link["preview_scope"],
+                "confidence": link["confidence"],
+                "displayPriority": link["display_priority"],
+                "evidenceBasis": link["evidence_basis"],
+            }
+            previews_by_source.setdefault(link["source_row_id"], []).append(preview)
+
+        for record in source_records:
+            previews = previews_by_source.get(record["sourceRowId"], [])
+            record["previewLinks"] = previews
+            record["previewPhoto"] = previews[0]["imageUrl"] if previews else ""
+            record["previewGalleryItemIndex"] = previews[0]["galleryItemIndex"] if previews else None
+            record["previewScope"] = previews[0]["previewScope"] if previews else ""
+            record["previewConfidence"] = previews[0]["confidence"] if previews else ""
+            record["previewEvidenceBasis"] = previews[0]["evidenceBasis"] if previews else ""
+
         counts = {
             "importBatches": count(conn, "SELECT COUNT(*) FROM import_batch"),
             "sourceProductRows": count(conn, "SELECT COUNT(*) FROM source_row WHERE source_document_id='doc-pr143-products'"),
@@ -180,11 +218,15 @@ def main() -> int:
             "canonicalReleases": count(conn, "SELECT COUNT(*) FROM release"),
             "canonicalAssortments": count(conn, "SELECT COUNT(*) FROM assortment"),
             "imageToEntityRelations": count(conn, "SELECT COUNT(*) FROM image_relation"),
+            "imagePreviewLinks": count(conn, "SELECT COUNT(*) FROM image_preview_link"),
+            "sourceRowsWithPreview": count(conn, "SELECT COUNT(DISTINCT source_row_id) FROM image_preview_link"),
         }
         if len(source_records) != 41 or len(gallery_evidence) != 55:
             raise SystemExit(f"Unexpected source counts: {len(source_records)} product rows, {len(gallery_evidence)} images")
         if counts["galleryImagesVisuallyInspected"] != 55 or counts["imageToEntityRelations"] != 0:
             raise SystemExit("Visual review or no-auto-link invariant failed")
+        if counts["imagePreviewLinks"] != 26 or counts["sourceRowsWithPreview"] != 22:
+            raise SystemExit("Preview-link coverage differs from the reviewed mapping")
         if any(counts[key] != 0 for key in ("fullyVerifiedCanonicalProductRecords", "canonicalCastings", "canonicalVariants", "canonicalReleases", "canonicalAssortments")):
             raise SystemExit("Unexpected canonical entities appeared in the staged pilot")
         if len(assets) != 55:
@@ -210,6 +252,8 @@ def main() -> int:
                 "canonicalReleases": counts["canonicalReleases"],
                 "canonicalAssortments": counts["canonicalAssortments"],
                 "imageToEntityRelations": counts["imageToEntityRelations"],
+                "imagePreviewLinks": counts["imagePreviewLinks"],
+                "sourceRowsWithPreview": counts["sourceRowsWithPreview"],
                 "verifiedAncillaryGroups": ["PR143-G04", "PR143-G15"],
             },
             "policy": {
@@ -217,12 +261,13 @@ def main() -> int:
                 "sourceRowsAreNotCanonicalReleases": True,
                 "galleryInspectionDoesNotProveProductIdentity": True,
                 "candidateLinksRemainNonCanonical": True,
+                "previewLinksAreDisplayOnly": True,
             },
             "sourceRecords": source_records,
             "galleryEvidence": gallery_evidence,
         }
         OUTPUT.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-        print(json.dumps({"passed": True, "output": str(OUTPUT.relative_to(ROOT)), "counts": counts, "sourceRecords": len(source_records), "galleryEvidence": len(gallery_evidence), "assetsResolved": len(assets)}, ensure_ascii=False, indent=2))
+        print(json.dumps({"passed": True, "output": str(OUTPUT.relative_to(ROOT)), "counts": counts, "sourceRecords": len(source_records), "galleryEvidence": len(gallery_evidence), "previewLinks": counts["imagePreviewLinks"], "sourceRowsWithPreview": counts["sourceRowsWithPreview"], "assetsResolved": len(assets)}, ensure_ascii=False, indent=2))
         return 0
     finally:
         conn.close()
