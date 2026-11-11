@@ -487,3 +487,15 @@
 **Casting finding:** The user has visually compared both versions and confirmed that the castings are identical. Preserve paint, color and decoration differences as separate variant attributes.
 
 **Current conclusion:** User-confirmed identical castings.
+
+
+## Collector #145 — undefined
+
+| Toy # | Variant | Series |
+|---|---|---|
+| JJJ97 | undefined | HW Dirt |
+| JJL29 | undefined | HW Dirt |
+
+**Casting finding:** The user has visually compared both versions and confirmed that the castings are identical. Preserve paint, color and decoration differences as separate variant attributes.
+
+**Current conclusion:** User-confirmed identical castings.
