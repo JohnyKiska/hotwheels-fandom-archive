@@ -381,3 +381,16 @@ User-confirmed casting matches are recorded in the visual-review queue. The queu
 
 **Current conclusion:** User-confirmed identical castings across all three versions.
 
+
+
+## Collector #132 — Bullet Proof
+
+| Toy # | Variant | Series |
+|---|---|---|
+| JJJ85 | First listed version | X-Raycers 5/5 |
+| JJL30 | Second color | X-Raycers 5/5 |
+
+**Casting finding:** The user has visually confirmed that both versions have identical castings. Color and decoration differences remain variant attributes.
+
+**Current conclusion:** User-confirmed identical castings.
+
