@@ -163,3 +163,17 @@ A closer item-by-item comparison corrects the earlier broad grouping of items 23
 The Gallery captions and table filenames are archived text/metadata. Image binaries were not visually inspected. The Terry Choy collection attribution is preserved as a source-caption claim, not authenticated provenance. No physical sample details, helmet colors, signatures or authenticity claims are made from the image filenames.
 
 Retain item 23 as one Ferrari F2001 World Champion evidence record. Retain items 24–25 as one two-view Williams FW21 Compaq evidence group, with the #5/#6 row-level mapping unresolved. Do not merge item 23 into the Compaq group, create new products, or modify product/Gallery master rows.
+
+
+## Follow-up: external corroboration of the six-car Ferrari display (items 39–52)
+
+An ended eBay collector listing titled “RARE Hot Wheels Formula 1 Ferrari 6 in-a-row World Constructors' Championships” describes six red Ferrari F1 cars on a black stand with gold “Hungaroring 2004” and “World Constructors' Championships” text. Its item specifics identify the six cars as F1-1999, F2000, F2001, F2002, F2003 and F2004. This is independent collector-market corroboration that a physical six-car display matching the Gallery group exists beyond the archived Fandom page. The listing does not provide a verifiable Mattel item number or barcode, so the exact commercial release identity remains open.
+
+Important exclusion: Hot Wheels L6237 is a **different five-car** 1:43 Ferrari Michael Schumacher Championship Collection, catalogued with F1-2000, F2001, F2002, F2003-GA and F2004. It does not include the 1999 F399 and must not be assigned as the SKU for the six-car G17 display.
+
+**Updated assessment:** G17 remains one set-level candidate with 14 evidence images and six annual content references. The physical six-car display is now independently corroborated, but its item code, retail distribution and exact release identity are still unverified. The annual Gallery images remain set-content evidence; filenames/captions alone do not authorize individual image-to-product links. No canonical Assortment or image relation is created.
+
+Sources:
+- https://www.ebay.com/itm/135673843026
+- https://www.toywonders.com/ProductCart/pc/Mattel-Hot-Wheels-Racing-Ferrari-Micheal-Shumacher-Championship-Collection-1-43-Assoted-L6237-p7050.htm
+- https://www.tacot.com/listings/ferrari-f1-set-campione-del-mondo-2000-2001-2002-2003-2004-hot-wheels-52884-0
