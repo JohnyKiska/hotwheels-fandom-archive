@@ -9,20 +9,20 @@
 | JJM00 | 009 | '87 Buick Regal GNX | Individual full blister | [eBay listing](https://www.ebay.co.uk/itm/366682615386) |
 | JJM01 | 029 | '92 Dodge Viper RT/10 | Physical sample inspected by user | User observation already recorded: blue flame mark on car; no separate gold round TH logo noted on card |
 | JJM02 | 058 | Electro Silhouette | Individual full blister | [Mercari listing](https://www.mercari.com/us/item/m67358659246/) |
-| JJM03 | 081 | Hot Wheengs | Partial card-front photo | [HWHeadline](https://hwheadline.com/hot-wheengs-2026-hot-wheels-treasure-hunt/); lower blister/car cropped |
+| JJM03 | 081 | Hot Wheengs | Individual full blister | [eBay listing](https://www.ebay.com/itm/318095638214); card shows 81/250 and X-Raycers 4/5 |
 | JJM04 | 122 | Cone Shaker | Individual full blister | [HW Price Guide](https://hwpriceguide.com/dist/images/cars/2026-treasure-hunts-cone-shaker.jpg) |
 | JJM05 | 124 | 2016 Ford GT Race | Physical sample inspected by user | User observation already recorded: black flame mark on car; no separate gold round TH logo noted on card |
 | JJM06 | 147 | 2 Jet Z | Individual full blister | [eBay listing](https://www.ebay.com/itm/287280257359) |
 | JJM07 | 162 | Total Disposal | Individual full blister | [Zoomsters listing](https://zoomsters.in/products/hot-wheels-mainline-h-case-2026-total-disposal-treasure-hunt) |
 | JJM08 | 186 | Amaru GTC | Individual full blister | [JR Collectibles listing](https://jrcollectibles.eu/products/hot-wheels-amaru-gtc-regular-treasure-hunt) |
-| JJM09 | 196 | Sweet Driver | Partial card-front photo | [HWHeadline](https://hwheadline.com/sweet-driver-2026-hot-wheels-treasure-hunt/); lower blister/car cropped |
+| JJM09 | 196 | Sweet Driver | Individual full blister | [eBay listing](https://www.ebay.com/itm/137757429596); card shows 196/250 and Sweet Rides 4/5 |
 | JJM10 | 217 | Mad Manga | Partial card-front photo | [eBay listing](https://www.ebay.com/itm/800675089961); car not visible in captured crop |
 | JJM11 | 229 | Ford Model A Custom '31 | Individual full blister | [eBay listing](https://www.ebay.com/itm/287591088805) |
-| JJM12 | 238 | Fast Fish | Partial card-front photo | [eBay listing](https://www.ebay.com/itm/278371581816); upper blister visible, car cropped |
+| JJM12 | 238 | Fast Fish | Individual full blister | [eBay listing](https://www.ebay.com/itm/307187893726); card shows 238/250 and Team Wheels 5/5 |
 | JJM13 | 244 | Nissan Skyline HT 2000GT-X | Individual full blister | [eBay listing](https://www.ebay.com/itm/267804277026); card shows 244/250 and Screen Time 10/10 |
 | JJM14 | 247 | Gazella GT | Individual full blister + close-up | [eBay listing](https://www.ebay.nl/itm/960044979566); card shows 247/250 and Trophy Case 4/5; car-door circle-flame visible |
 
-**Counts across the 13 non-sample models:** 9 individual full-blister photos, 4 partial card-front photos, and 0 without an exact carded photo found. The other two models, JJM01 and JJM05, are covered by user-inspected physical samples.
+**Counts across the 13 non-sample models:** 12 individual full-blister photos, 1 partial card-front photo, and 0 without an exact carded photo found. The other two models, JJM01 and JJM05, are covered by user-inspected physical samples.
 
 ## Treasure Hunt card emblem: important color distinction
 
