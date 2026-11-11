@@ -18,6 +18,8 @@
     "canonicalReleases": 0,
     "canonicalAssortments": 0,
     "imageToEntityRelations": 0,
+    "imagePreviewLinks": 26,
+    "sourceRowsWithPreview": 22,
     "verifiedAncillaryGroups": [
       "PR143-G04",
       "PR143-G15"
@@ -27,7 +29,8 @@
     "publishCanonicalOnlyWhenFullyVerified": true,
     "sourceRowsAreNotCanonicalReleases": true,
     "galleryInspectionDoesNotProveProductIdentity": true,
-    "candidateLinksRemainNonCanonical": true
+    "candidateLinksRemainNonCanonical": true,
+    "previewLinksAreDisplayOnly": true
   },
   "sourceRecords": [
     {
@@ -58,7 +61,25 @@
       "releaseReviewRationale": "Source row supports a product/release candidate only; packaging and exact release identity are not stated.",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [
+        {
+          "previewLinkId": "pr143-preview-003",
+          "galleryItemIndex": 7,
+          "imageUrl": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/007_Brian_Anna_F1_7_.webp",
+          "fileName": "Brian Anna F1 (7).jpg",
+          "reviewGroupId": "PR143-G03",
+          "previewScope": "candidate_preview",
+          "confidence": "unverified",
+          "displayPriority": 50,
+          "evidenceBasis": "Williams-branded prototype preview only; exact FW21 variant/release remains unresolved."
+        }
+      ],
+      "previewPhoto": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/007_Brian_Anna_F1_7_.webp",
+      "previewGalleryItemIndex": 7,
+      "previewScope": "candidate_preview",
+      "previewConfidence": "unverified",
+      "previewEvidenceBasis": "Williams-branded prototype preview only; exact FW21 variant/release remains unresolved."
     },
     {
       "id": "source-002",
@@ -88,7 +109,25 @@
       "releaseReviewRationale": "Source row supports a product/release candidate only; packaging and exact release identity are not stated.",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [
+        {
+          "previewLinkId": "pr143-preview-004",
+          "galleryItemIndex": 7,
+          "imageUrl": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/007_Brian_Anna_F1_7_.webp",
+          "fileName": "Brian Anna F1 (7).jpg",
+          "reviewGroupId": "PR143-G03",
+          "previewScope": "candidate_preview",
+          "confidence": "unverified",
+          "displayPriority": 50,
+          "evidenceBasis": "Williams-branded prototype preview only; exact FW21 variant/release remains unresolved."
+        }
+      ],
+      "previewPhoto": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/007_Brian_Anna_F1_7_.webp",
+      "previewGalleryItemIndex": 7,
+      "previewScope": "candidate_preview",
+      "previewConfidence": "unverified",
+      "previewEvidenceBasis": "Williams-branded prototype preview only; exact FW21 variant/release remains unresolved."
     },
     {
       "id": "source-003",
@@ -118,7 +157,13 @@
       "releaseReviewRationale": "Source row supports a product/release candidate only; packaging and exact release identity are not stated.",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [],
+      "previewPhoto": "",
+      "previewGalleryItemIndex": null,
+      "previewScope": "",
+      "previewConfidence": "",
+      "previewEvidenceBasis": ""
     },
     {
       "id": "source-004",
@@ -148,7 +193,13 @@
       "releaseReviewRationale": "Source row supports a product/release candidate only; packaging and exact release identity are not stated.",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [],
+      "previewPhoto": "",
+      "previewGalleryItemIndex": null,
+      "previewScope": "",
+      "previewConfidence": "",
+      "previewEvidenceBasis": ""
     },
     {
       "id": "source-005",
@@ -178,7 +229,13 @@
       "releaseReviewRationale": "Source row supports a product/release candidate only; packaging and exact release identity are not stated.",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [],
+      "previewPhoto": "",
+      "previewGalleryItemIndex": null,
+      "previewScope": "",
+      "previewConfidence": "",
+      "previewEvidenceBasis": ""
     },
     {
       "id": "source-006",
@@ -208,7 +265,47 @@
       "releaseReviewRationale": "Source row supports a product/release candidate only; packaging and exact release identity are not stated.",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [
+        {
+          "previewLinkId": "pr143-preview-020",
+          "galleryItemIndex": 39,
+          "imageUrl": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/039_6_in_a_Row_Ferrari_F1_World_Champions_set_1_.webp",
+          "fileName": "6 in a Row Ferrari F1 World Champions set (1).jpg",
+          "reviewGroupId": "PR143-G17",
+          "previewScope": "assortment_preview",
+          "confidence": "probable",
+          "displayPriority": 10,
+          "evidenceBasis": "Shared six-car World Champions set overview; assortment-level preview only, not a per-car image assignment."
+        },
+        {
+          "previewLinkId": "pr143-preview-001",
+          "galleryItemIndex": 1,
+          "imageUrl": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/001_Brian_Anna_F1_1_.webp",
+          "fileName": "Brian Anna F1 (1).jpg",
+          "reviewGroupId": "PR143-G01",
+          "previewScope": "candidate_preview",
+          "confidence": "unverified",
+          "displayPriority": 50,
+          "evidenceBasis": "Ferrari-branded prototype preview only; reconciliation cannot decide F399 versus F1-2000 or prove a specific release."
+        },
+        {
+          "previewLinkId": "pr143-preview-026",
+          "galleryItemIndex": 53,
+          "imageUrl": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/053_1999_Ferrari_Terry_Proto_3_.webp",
+          "fileName": "1999 Ferrari Terry Proto (3).png",
+          "reviewGroupId": "PR143-G18",
+          "previewScope": "candidate_preview",
+          "confidence": "unverified",
+          "displayPriority": 60,
+          "evidenceBasis": "Caption itself says Ferrari?; prototype preview only, F399 identity is not confirmed."
+        }
+      ],
+      "previewPhoto": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/039_6_in_a_Row_Ferrari_F1_World_Champions_set_1_.webp",
+      "previewGalleryItemIndex": 39,
+      "previewScope": "assortment_preview",
+      "previewConfidence": "probable",
+      "previewEvidenceBasis": "Shared six-car World Champions set overview; assortment-level preview only, not a per-car image assignment."
     },
     {
       "id": "source-007",
@@ -238,7 +335,13 @@
       "releaseReviewRationale": "Source row supports a product/release candidate only; packaging and exact release identity are not stated.",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [],
+      "previewPhoto": "",
+      "previewGalleryItemIndex": null,
+      "previewScope": "",
+      "previewConfidence": "",
+      "previewEvidenceBasis": ""
     },
     {
       "id": "source-008",
@@ -268,7 +371,13 @@
       "releaseReviewRationale": "Source row supports a product/release candidate only; packaging and exact release identity are not stated.",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [],
+      "previewPhoto": "",
+      "previewGalleryItemIndex": null,
+      "previewScope": "",
+      "previewConfidence": "",
+      "previewEvidenceBasis": ""
     },
     {
       "id": "source-009",
@@ -298,7 +407,13 @@
       "releaseReviewRationale": "Source row supports a product/release candidate only; packaging and exact release identity are not stated.",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [],
+      "previewPhoto": "",
+      "previewGalleryItemIndex": null,
+      "previewScope": "",
+      "previewConfidence": "",
+      "previewEvidenceBasis": ""
     },
     {
       "id": "source-010",
@@ -328,7 +443,13 @@
       "releaseReviewRationale": "Source row supports a product/release candidate only; packaging and exact release identity are not stated.",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [],
+      "previewPhoto": "",
+      "previewGalleryItemIndex": null,
+      "previewScope": "",
+      "previewConfidence": "",
+      "previewEvidenceBasis": ""
     },
     {
       "id": "source-011",
@@ -358,7 +479,36 @@
       "releaseReviewRationale": "Source row supports a product/release candidate only; packaging and exact release identity are not stated.",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [
+        {
+          "previewLinkId": "pr143-preview-021",
+          "galleryItemIndex": 39,
+          "imageUrl": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/039_6_in_a_Row_Ferrari_F1_World_Champions_set_1_.webp",
+          "fileName": "6 in a Row Ferrari F1 World Champions set (1).jpg",
+          "reviewGroupId": "PR143-G17",
+          "previewScope": "assortment_preview",
+          "confidence": "probable",
+          "displayPriority": 10,
+          "evidenceBasis": "Shared six-car World Champions set overview; assortment-level preview only, not a per-car image assignment."
+        },
+        {
+          "previewLinkId": "pr143-preview-002",
+          "galleryItemIndex": 1,
+          "imageUrl": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/001_Brian_Anna_F1_1_.webp",
+          "fileName": "Brian Anna F1 (1).jpg",
+          "reviewGroupId": "PR143-G01",
+          "previewScope": "candidate_preview",
+          "confidence": "unverified",
+          "displayPriority": 50,
+          "evidenceBasis": "Ferrari-branded prototype preview only; reconciliation cannot decide F399 versus F1-2000 or prove a specific release."
+        }
+      ],
+      "previewPhoto": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/039_6_in_a_Row_Ferrari_F1_World_Champions_set_1_.webp",
+      "previewGalleryItemIndex": 39,
+      "previewScope": "assortment_preview",
+      "previewConfidence": "probable",
+      "previewEvidenceBasis": "Shared six-car World Champions set overview; assortment-level preview only, not a per-car image assignment."
     },
     {
       "id": "source-012",
@@ -388,7 +538,13 @@
       "releaseReviewRationale": "Source row supports a product/release candidate only; packaging and exact release identity are not stated.",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [],
+      "previewPhoto": "",
+      "previewGalleryItemIndex": null,
+      "previewScope": "",
+      "previewConfidence": "",
+      "previewEvidenceBasis": ""
     },
     {
       "id": "source-013",
@@ -418,7 +574,25 @@
       "releaseReviewRationale": "Source row supports a product/release candidate only; packaging and exact release identity are not stated.",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [
+        {
+          "previewLinkId": "pr143-preview-006",
+          "galleryItemIndex": 15,
+          "imageUrl": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/015_FEP_Signed_2000_Jaguar_Terry_Proto_1_.webp",
+          "fileName": "FEP Signed 2000 Jaguar Terry Proto (1).png",
+          "reviewGroupId": "PR143-G06",
+          "previewScope": "record_group_preview",
+          "confidence": "probable",
+          "displayPriority": 10,
+          "evidenceBasis": "High-text group match: signed Jaguar FEP sample; exact deco/release remains unverified."
+        }
+      ],
+      "previewPhoto": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/015_FEP_Signed_2000_Jaguar_Terry_Proto_1_.webp",
+      "previewGalleryItemIndex": 15,
+      "previewScope": "record_group_preview",
+      "previewConfidence": "probable",
+      "previewEvidenceBasis": "High-text group match: signed Jaguar FEP sample; exact deco/release remains unverified."
     },
     {
       "id": "source-014",
@@ -448,7 +622,25 @@
       "releaseReviewRationale": "explicit single-pack note; toy number 55573",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [
+        {
+          "previewLinkId": "pr143-preview-022",
+          "galleryItemIndex": 39,
+          "imageUrl": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/039_6_in_a_Row_Ferrari_F1_World_Champions_set_1_.webp",
+          "fileName": "6 in a Row Ferrari F1 World Champions set (1).jpg",
+          "reviewGroupId": "PR143-G17",
+          "previewScope": "assortment_preview",
+          "confidence": "probable",
+          "displayPriority": 10,
+          "evidenceBasis": "Shared six-car World Champions set overview; assortment-level preview only, not a per-car image assignment."
+        }
+      ],
+      "previewPhoto": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/039_6_in_a_Row_Ferrari_F1_World_Champions_set_1_.webp",
+      "previewGalleryItemIndex": 39,
+      "previewScope": "assortment_preview",
+      "previewConfidence": "probable",
+      "previewEvidenceBasis": "Shared six-car World Champions set overview; assortment-level preview only, not a per-car image assignment."
     },
     {
       "id": "source-015",
@@ -478,7 +670,25 @@
       "releaseReviewRationale": "explicit single-pack note; sample image evidence does not prove retail packaging",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [
+        {
+          "previewLinkId": "pr143-preview-013",
+          "galleryItemIndex": 23,
+          "imageUrl": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/023_2001_World_Champion_Sample_Terry_2_.webp",
+          "fileName": "2001 World Champion Sample Terry (2).jpg",
+          "reviewGroupId": "PR143-G10",
+          "previewScope": "record_group_preview",
+          "confidence": "probable",
+          "displayPriority": 10,
+          "evidenceBasis": "High-text group match: 2001 Ferrari World Champion sample; full retail packaging is not shown."
+        }
+      ],
+      "previewPhoto": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/023_2001_World_Champion_Sample_Terry_2_.webp",
+      "previewGalleryItemIndex": 23,
+      "previewScope": "record_group_preview",
+      "previewConfidence": "probable",
+      "previewEvidenceBasis": "High-text group match: 2001 Ferrari World Champion sample; full retail packaging is not shown."
     },
     {
       "id": "source-016",
@@ -508,7 +718,13 @@
       "releaseReviewRationale": "named context may be release/commemorative label; packaging form unresolved",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [],
+      "previewPhoto": "",
+      "previewGalleryItemIndex": null,
+      "previewScope": "",
+      "previewConfidence": "",
+      "previewEvidenceBasis": ""
     },
     {
       "id": "source-017",
@@ -538,7 +754,13 @@
       "releaseReviewRationale": "confirmed source note; exact package identity not independently verified",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [],
+      "previewPhoto": "",
+      "previewGalleryItemIndex": null,
+      "previewScope": "",
+      "previewConfidence": "",
+      "previewEvidenceBasis": ""
     },
     {
       "id": "source-018",
@@ -568,7 +790,13 @@
       "releaseReviewRationale": "confirmed source note; exact package identity not independently verified",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [],
+      "previewPhoto": "",
+      "previewGalleryItemIndex": null,
+      "previewScope": "",
+      "previewConfidence": "",
+      "previewEvidenceBasis": ""
     },
     {
       "id": "source-019",
@@ -598,7 +826,13 @@
       "releaseReviewRationale": "Source row supports a product/release candidate only; packaging and exact release identity are not stated.",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [],
+      "previewPhoto": "",
+      "previewGalleryItemIndex": null,
+      "previewScope": "",
+      "previewConfidence": "",
+      "previewEvidenceBasis": ""
     },
     {
       "id": "source-020",
@@ -628,7 +862,25 @@
       "releaseReviewRationale": "Source row supports a product/release candidate only; packaging and exact release identity are not stated.",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [
+        {
+          "previewLinkId": "pr143-preview-014",
+          "galleryItemIndex": 24,
+          "imageUrl": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/024_2001_Compaq_Terry_Sample_2_.webp",
+          "fileName": "2001 Compaq Terry Sample (2).jpg",
+          "reviewGroupId": "PR143-G11",
+          "previewScope": "group_preview",
+          "confidence": "probable",
+          "displayPriority": 20,
+          "evidenceBasis": "Shared Williams/Compaq group preview; this image is not assigned separately to #5 or #6."
+        }
+      ],
+      "previewPhoto": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/024_2001_Compaq_Terry_Sample_2_.webp",
+      "previewGalleryItemIndex": 24,
+      "previewScope": "group_preview",
+      "previewConfidence": "probable",
+      "previewEvidenceBasis": "Shared Williams/Compaq group preview; this image is not assigned separately to #5 or #6."
     },
     {
       "id": "source-021",
@@ -658,7 +910,25 @@
       "releaseReviewRationale": "Source row supports a product/release candidate only; packaging and exact release identity are not stated.",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [
+        {
+          "previewLinkId": "pr143-preview-015",
+          "galleryItemIndex": 24,
+          "imageUrl": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/024_2001_Compaq_Terry_Sample_2_.webp",
+          "fileName": "2001 Compaq Terry Sample (2).jpg",
+          "reviewGroupId": "PR143-G11",
+          "previewScope": "group_preview",
+          "confidence": "probable",
+          "displayPriority": 20,
+          "evidenceBasis": "Shared Williams/Compaq group preview; this image is not assigned separately to #5 or #6."
+        }
+      ],
+      "previewPhoto": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/024_2001_Compaq_Terry_Sample_2_.webp",
+      "previewGalleryItemIndex": 24,
+      "previewScope": "group_preview",
+      "previewConfidence": "probable",
+      "previewEvidenceBasis": "Shared Williams/Compaq group preview; this image is not assigned separately to #5 or #6."
     },
     {
       "id": "source-022",
@@ -688,7 +958,25 @@
       "releaseReviewRationale": "Source row supports a product/release candidate only; packaging and exact release identity are not stated.",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [
+        {
+          "previewLinkId": "pr143-preview-023",
+          "galleryItemIndex": 39,
+          "imageUrl": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/039_6_in_a_Row_Ferrari_F1_World_Champions_set_1_.webp",
+          "fileName": "6 in a Row Ferrari F1 World Champions set (1).jpg",
+          "reviewGroupId": "PR143-G17",
+          "previewScope": "assortment_preview",
+          "confidence": "probable",
+          "displayPriority": 10,
+          "evidenceBasis": "Shared six-car World Champions set overview; assortment-level preview only, not a per-car image assignment."
+        }
+      ],
+      "previewPhoto": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/039_6_in_a_Row_Ferrari_F1_World_Champions_set_1_.webp",
+      "previewGalleryItemIndex": 39,
+      "previewScope": "assortment_preview",
+      "previewConfidence": "probable",
+      "previewEvidenceBasis": "Shared six-car World Champions set overview; assortment-level preview only, not a per-car image assignment."
     },
     {
       "id": "source-023",
@@ -718,7 +1006,25 @@
       "releaseReviewRationale": "Source row supports a product/release candidate only; packaging and exact release identity are not stated.",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [
+        {
+          "previewLinkId": "pr143-preview-019",
+          "galleryItemIndex": 32,
+          "imageUrl": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/032_Ferrari_150_GP_Wins_Terry_Sample_2_.webp",
+          "fileName": "Ferrari 150 GP Wins Terry Sample (2).jpg",
+          "reviewGroupId": "PR143-G14",
+          "previewScope": "record_group_preview",
+          "confidence": "probable",
+          "displayPriority": 10,
+          "evidenceBasis": "High-text group match: Ferrari 150 GP Wins commemorative sample; exact release details remain unresolved."
+        }
+      ],
+      "previewPhoto": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/032_Ferrari_150_GP_Wins_Terry_Sample_2_.webp",
+      "previewGalleryItemIndex": 32,
+      "previewScope": "record_group_preview",
+      "previewConfidence": "probable",
+      "previewEvidenceBasis": "High-text group match: Ferrari 150 GP Wins commemorative sample; exact release details remain unresolved."
     },
     {
       "id": "source-024",
@@ -748,7 +1054,13 @@
       "releaseReviewRationale": "Source row supports a product/release candidate only; packaging and exact release identity are not stated.",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [],
+      "previewPhoto": "",
+      "previewGalleryItemIndex": null,
+      "previewScope": "",
+      "previewConfidence": "",
+      "previewEvidenceBasis": ""
     },
     {
       "id": "source-025",
@@ -778,7 +1090,25 @@
       "releaseReviewRationale": "Source row supports a product/release candidate only; packaging and exact release identity are not stated.",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [
+        {
+          "previewLinkId": "pr143-preview-005",
+          "galleryItemIndex": 12,
+          "imageUrl": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/012_2002_McLaren_Terry_Choy_Proto_1_.webp",
+          "fileName": "2002 McLaren Terry Choy Proto (1).png",
+          "reviewGroupId": "PR143-G05",
+          "previewScope": "record_group_preview",
+          "confidence": "probable",
+          "displayPriority": 10,
+          "evidenceBasis": "High-text group match: McLaren FEP sample; exact release/sample authenticity remains unverified."
+        }
+      ],
+      "previewPhoto": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/012_2002_McLaren_Terry_Choy_Proto_1_.webp",
+      "previewGalleryItemIndex": 12,
+      "previewScope": "record_group_preview",
+      "previewConfidence": "probable",
+      "previewEvidenceBasis": "High-text group match: McLaren FEP sample; exact release/sample authenticity remains unverified."
     },
     {
       "id": "source-026",
@@ -808,7 +1138,25 @@
       "releaseReviewRationale": "four rows explicitly identify the same Constructors Champions 4 Pack; Gallery evidence is set-level",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [
+        {
+          "previewLinkId": "pr143-preview-009",
+          "galleryItemIndex": 22,
+          "imageUrl": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/022_Ferrari_F1_Chrome_Constructors_Champs_4_pack_1_.webp",
+          "fileName": "Ferrari F1 Chrome Constructors Champs 4 pack (1).PNG",
+          "reviewGroupId": "PR143-G09",
+          "previewScope": "assortment_preview",
+          "confidence": "probable",
+          "displayPriority": 20,
+          "evidenceBasis": "One four-pack tray image shared as assortment-level preview; it is not an individual car photograph for any of the four rows."
+        }
+      ],
+      "previewPhoto": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/022_Ferrari_F1_Chrome_Constructors_Champs_4_pack_1_.webp",
+      "previewGalleryItemIndex": 22,
+      "previewScope": "assortment_preview",
+      "previewConfidence": "probable",
+      "previewEvidenceBasis": "One four-pack tray image shared as assortment-level preview; it is not an individual car photograph for any of the four rows."
     },
     {
       "id": "source-027",
@@ -838,7 +1186,25 @@
       "releaseReviewRationale": "four rows explicitly identify the same Constructors Champions 4 Pack; Gallery evidence is set-level",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [
+        {
+          "previewLinkId": "pr143-preview-010",
+          "galleryItemIndex": 22,
+          "imageUrl": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/022_Ferrari_F1_Chrome_Constructors_Champs_4_pack_1_.webp",
+          "fileName": "Ferrari F1 Chrome Constructors Champs 4 pack (1).PNG",
+          "reviewGroupId": "PR143-G09",
+          "previewScope": "assortment_preview",
+          "confidence": "probable",
+          "displayPriority": 20,
+          "evidenceBasis": "One four-pack tray image shared as assortment-level preview; it is not an individual car photograph for any of the four rows."
+        }
+      ],
+      "previewPhoto": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/022_Ferrari_F1_Chrome_Constructors_Champs_4_pack_1_.webp",
+      "previewGalleryItemIndex": 22,
+      "previewScope": "assortment_preview",
+      "previewConfidence": "probable",
+      "previewEvidenceBasis": "One four-pack tray image shared as assortment-level preview; it is not an individual car photograph for any of the four rows."
     },
     {
       "id": "source-028",
@@ -868,7 +1234,25 @@
       "releaseReviewRationale": "four rows explicitly identify the same Constructors Champions 4 Pack; Gallery evidence is set-level",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [
+        {
+          "previewLinkId": "pr143-preview-011",
+          "galleryItemIndex": 22,
+          "imageUrl": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/022_Ferrari_F1_Chrome_Constructors_Champs_4_pack_1_.webp",
+          "fileName": "Ferrari F1 Chrome Constructors Champs 4 pack (1).PNG",
+          "reviewGroupId": "PR143-G09",
+          "previewScope": "assortment_preview",
+          "confidence": "probable",
+          "displayPriority": 20,
+          "evidenceBasis": "One four-pack tray image shared as assortment-level preview; it is not an individual car photograph for any of the four rows."
+        }
+      ],
+      "previewPhoto": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/022_Ferrari_F1_Chrome_Constructors_Champs_4_pack_1_.webp",
+      "previewGalleryItemIndex": 22,
+      "previewScope": "assortment_preview",
+      "previewConfidence": "probable",
+      "previewEvidenceBasis": "One four-pack tray image shared as assortment-level preview; it is not an individual car photograph for any of the four rows."
     },
     {
       "id": "source-029",
@@ -898,7 +1282,25 @@
       "releaseReviewRationale": "four rows explicitly identify the same Constructors Champions 4 Pack; Gallery evidence is set-level",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [
+        {
+          "previewLinkId": "pr143-preview-012",
+          "galleryItemIndex": 22,
+          "imageUrl": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/022_Ferrari_F1_Chrome_Constructors_Champs_4_pack_1_.webp",
+          "fileName": "Ferrari F1 Chrome Constructors Champs 4 pack (1).PNG",
+          "reviewGroupId": "PR143-G09",
+          "previewScope": "assortment_preview",
+          "confidence": "probable",
+          "displayPriority": 20,
+          "evidenceBasis": "One four-pack tray image shared as assortment-level preview; it is not an individual car photograph for any of the four rows."
+        }
+      ],
+      "previewPhoto": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/022_Ferrari_F1_Chrome_Constructors_Champs_4_pack_1_.webp",
+      "previewGalleryItemIndex": 22,
+      "previewScope": "assortment_preview",
+      "previewConfidence": "probable",
+      "previewEvidenceBasis": "One four-pack tray image shared as assortment-level preview; it is not an individual car photograph for any of the four rows."
     },
     {
       "id": "source-030",
@@ -928,7 +1330,13 @@
       "releaseReviewRationale": "External catalog identifies Hot Wheels Racing B7022 as a 1:43 set containing Ferrari F1-2000 #3 Malaysia GP",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [],
+      "previewPhoto": "",
+      "previewGalleryItemIndex": null,
+      "previewScope": "",
+      "previewConfidence": "",
+      "previewEvidenceBasis": ""
     },
     {
       "id": "source-031",
@@ -958,7 +1366,13 @@
       "releaseReviewRationale": "External catalog identifies Hot Wheels Racing B7022 as a 1:43 set containing Ferrari F1-2000 #3 Malaysia GP",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [],
+      "previewPhoto": "",
+      "previewGalleryItemIndex": null,
+      "previewScope": "",
+      "previewConfidence": "",
+      "previewEvidenceBasis": ""
     },
     {
       "id": "source-032",
@@ -988,7 +1402,13 @@
       "releaseReviewRationale": "External catalog identifies Hot Wheels Racing B7022 as a 1:43 set containing Ferrari F1-2000 #3 Malaysia GP",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [],
+      "previewPhoto": "",
+      "previewGalleryItemIndex": null,
+      "previewScope": "",
+      "previewConfidence": "",
+      "previewEvidenceBasis": ""
     },
     {
       "id": "source-033",
@@ -1018,7 +1438,36 @@
       "releaseReviewRationale": "Source row supports a product/release candidate only; packaging and exact release identity are not stated.",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [
+        {
+          "previewLinkId": "pr143-preview-008",
+          "galleryItemIndex": 20,
+          "imageUrl": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/020_2003_Ferrari_F1_Sample_Terry_1_.webp",
+          "fileName": "2003 Ferrari F1 Sample Terry (1).jpg",
+          "reviewGroupId": "PR143-G08",
+          "previewScope": "record_group_preview",
+          "confidence": "probable",
+          "displayPriority": 10,
+          "evidenceBasis": "High-text group match: 2003 Ferrari sample; exact variant/release remains unverified."
+        },
+        {
+          "previewLinkId": "pr143-preview-024",
+          "galleryItemIndex": 39,
+          "imageUrl": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/039_6_in_a_Row_Ferrari_F1_World_Champions_set_1_.webp",
+          "fileName": "6 in a Row Ferrari F1 World Champions set (1).jpg",
+          "reviewGroupId": "PR143-G17",
+          "previewScope": "assortment_preview",
+          "confidence": "probable",
+          "displayPriority": 10,
+          "evidenceBasis": "Shared six-car World Champions set overview; assortment-level preview only, not a per-car image assignment."
+        }
+      ],
+      "previewPhoto": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/020_2003_Ferrari_F1_Sample_Terry_1_.webp",
+      "previewGalleryItemIndex": 20,
+      "previewScope": "record_group_preview",
+      "previewConfidence": "probable",
+      "previewEvidenceBasis": "High-text group match: 2003 Ferrari sample; exact variant/release remains unverified."
     },
     {
       "id": "source-034",
@@ -1048,7 +1497,25 @@
       "releaseReviewRationale": "named release/deco context; exact package form unresolved",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [
+        {
+          "previewLinkId": "pr143-preview-018",
+          "galleryItemIndex": 29,
+          "imageUrl": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/029_Ferrari_2003_World_Champions_Terry_Sample_2_.webp",
+          "fileName": "Ferrari 2003 World Champions Terry Sample (2).png",
+          "reviewGroupId": "PR143-G13",
+          "previewScope": "record_group_preview",
+          "confidence": "probable",
+          "displayPriority": 10,
+          "evidenceBasis": "High-text group match: Ferrari F1 World Champions display/sample; not an individual standalone release photo."
+        }
+      ],
+      "previewPhoto": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/029_Ferrari_2003_World_Champions_Terry_Sample_2_.webp",
+      "previewGalleryItemIndex": 29,
+      "previewScope": "record_group_preview",
+      "previewConfidence": "probable",
+      "previewEvidenceBasis": "High-text group match: Ferrari F1 World Champions display/sample; not an individual standalone release photo."
     },
     {
       "id": "source-035",
@@ -1078,7 +1545,25 @@
       "releaseReviewRationale": "explicit package note; exact assortment/retail status unresolved",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [
+        {
+          "previewLinkId": "pr143-preview-016",
+          "galleryItemIndex": 28,
+          "imageUrl": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/028_2004_Ferrari_Terry_Sample_2_.webp",
+          "fileName": "2004 Ferrari Terry Sample (2).jpg",
+          "reviewGroupId": "PR143-G12",
+          "previewScope": "family_preview",
+          "confidence": "probable",
+          "displayPriority": 20,
+          "evidenceBasis": "Shared Bahrain/Sakhir family preview; Gallery image is not split between row 35 and row 41."
+        }
+      ],
+      "previewPhoto": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/028_2004_Ferrari_Terry_Sample_2_.webp",
+      "previewGalleryItemIndex": 28,
+      "previewScope": "family_preview",
+      "previewConfidence": "probable",
+      "previewEvidenceBasis": "Shared Bahrain/Sakhir family preview; Gallery image is not split between row 35 and row 41."
     },
     {
       "id": "source-036",
@@ -1108,7 +1593,13 @@
       "releaseReviewRationale": "explicit book-package note; 2004 page year conflicts with 'represents 1994'",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [],
+      "previewPhoto": "",
+      "previewGalleryItemIndex": null,
+      "previewScope": "",
+      "previewConfidence": "",
+      "previewEvidenceBasis": ""
     },
     {
       "id": "source-037",
@@ -1138,7 +1629,25 @@
       "releaseReviewRationale": "Source row supports a product/release candidate only; packaging and exact release identity are not stated.",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [
+        {
+          "previewLinkId": "pr143-preview-025",
+          "galleryItemIndex": 39,
+          "imageUrl": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/039_6_in_a_Row_Ferrari_F1_World_Champions_set_1_.webp",
+          "fileName": "6 in a Row Ferrari F1 World Champions set (1).jpg",
+          "reviewGroupId": "PR143-G17",
+          "previewScope": "assortment_preview",
+          "confidence": "probable",
+          "displayPriority": 10,
+          "evidenceBasis": "Shared six-car World Champions set overview; assortment-level preview only, not a per-car image assignment."
+        }
+      ],
+      "previewPhoto": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/039_6_in_a_Row_Ferrari_F1_World_Champions_set_1_.webp",
+      "previewGalleryItemIndex": 39,
+      "previewScope": "assortment_preview",
+      "previewConfidence": "probable",
+      "previewEvidenceBasis": "Shared six-car World Champions set overview; assortment-level preview only, not a per-car image assignment."
     },
     {
       "id": "source-038",
@@ -1168,7 +1677,13 @@
       "releaseReviewRationale": "Both source rows explicitly state 2-Pack and carry complementary F2004 race numbers #1 and #2. Independent 1:43 Hot Wheels records identify B6223 / EAN 0027084044867 as the 2004 Ferrari Constructors Championship two-car set with Michael Schumacher #1 and Rubens Barrichello #2; catalog listings document the distinctive Ferrari-shield presentation case and package photographs. The match is strong at candidate assortment level, but no source-row package photo proves Terry Choy's entries are specifically B6223. Keep staged and non-canonical.",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [],
+      "previewPhoto": "",
+      "previewGalleryItemIndex": null,
+      "previewScope": "",
+      "previewConfidence": "",
+      "previewEvidenceBasis": ""
     },
     {
       "id": "source-039",
@@ -1198,7 +1713,13 @@
       "releaseReviewRationale": "Both source rows explicitly state 2-Pack and carry complementary F2004 race numbers #1 and #2. Independent 1:43 Hot Wheels records identify B6223 / EAN 0027084044867 as the 2004 Ferrari Constructors Championship two-car set with Michael Schumacher #1 and Rubens Barrichello #2; catalog listings document the distinctive Ferrari-shield presentation case and package photographs. The match is strong at candidate assortment level, but no source-row package photo proves Terry Choy's entries are specifically B6223. Keep staged and non-canonical.",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [],
+      "previewPhoto": "",
+      "previewGalleryItemIndex": null,
+      "previewScope": "",
+      "previewConfidence": "",
+      "previewEvidenceBasis": ""
     },
     {
       "id": "source-040",
@@ -1228,7 +1749,25 @@
       "releaseReviewRationale": "named treatment/release context; package form unresolved",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [
+        {
+          "previewLinkId": "pr143-preview-007",
+          "galleryItemIndex": 17,
+          "imageUrl": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/017_2004_King_of_the_Desert_Sample_Terry_Proto_2_.webp",
+          "fileName": "2004 King of the Desert Sample Terry Proto (2).jpg",
+          "reviewGroupId": "PR143-G07",
+          "previewScope": "record_group_preview",
+          "confidence": "probable",
+          "displayPriority": 10,
+          "evidenceBasis": "High-text group match: Ferrari King of the Desert sample; preview represents the sample group."
+        }
+      ],
+      "previewPhoto": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/017_2004_King_of_the_Desert_Sample_Terry_Proto_2_.webp",
+      "previewGalleryItemIndex": 17,
+      "previewScope": "record_group_preview",
+      "previewConfidence": "probable",
+      "previewEvidenceBasis": "High-text group match: Ferrari King of the Desert sample; preview represents the sample group."
     },
     {
       "id": "source-041",
@@ -1258,12 +1797,31 @@
       "releaseReviewRationale": "named regional/deco context; exact release and relation to row 35 unresolved",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
-      "visualStatus": "requires_review"
+      "visualStatus": "requires_review",
+      "previewLinks": [
+        {
+          "previewLinkId": "pr143-preview-017",
+          "galleryItemIndex": 28,
+          "imageUrl": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/028_2004_Ferrari_Terry_Sample_2_.webp",
+          "fileName": "2004 Ferrari Terry Sample (2).jpg",
+          "reviewGroupId": "PR143-G12",
+          "previewScope": "family_preview",
+          "confidence": "probable",
+          "displayPriority": 20,
+          "evidenceBasis": "Shared Bahrain/Sakhir family preview; Gallery image is not split between row 35 and row 41."
+        }
+      ],
+      "previewPhoto": "https://raw.githubusercontent.com/JohnyKiska/hotwheels-fandom-archive/main/database/pilot/assets/pro-racing-1-43/028_2004_Ferrari_Terry_Sample_2_.webp",
+      "previewGalleryItemIndex": 28,
+      "previewScope": "family_preview",
+      "previewConfidence": "probable",
+      "previewEvidenceBasis": "Shared Bahrain/Sakhir family preview; Gallery image is not split between row 35 and row 41."
     }
   ],
   "galleryEvidence": [
     {
       "id": "gallery-001",
+      "imageId": "pr143-gallery-image-001",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 1,
       "reviewGroupId": "PR143-G01",
@@ -1287,6 +1845,7 @@
     },
     {
       "id": "gallery-002",
+      "imageId": "pr143-gallery-image-002",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 2,
       "reviewGroupId": "PR143-G01",
@@ -1310,6 +1869,7 @@
     },
     {
       "id": "gallery-003",
+      "imageId": "pr143-gallery-image-003",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 3,
       "reviewGroupId": "PR143-G01",
@@ -1333,6 +1893,7 @@
     },
     {
       "id": "gallery-004",
+      "imageId": "pr143-gallery-image-004",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 4,
       "reviewGroupId": "PR143-G02",
@@ -1356,6 +1917,7 @@
     },
     {
       "id": "gallery-005",
+      "imageId": "pr143-gallery-image-005",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 5,
       "reviewGroupId": "PR143-G02",
@@ -1379,6 +1941,7 @@
     },
     {
       "id": "gallery-006",
+      "imageId": "pr143-gallery-image-006",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 6,
       "reviewGroupId": "PR143-G02",
@@ -1402,6 +1965,7 @@
     },
     {
       "id": "gallery-007",
+      "imageId": "pr143-gallery-image-007",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 7,
       "reviewGroupId": "PR143-G03",
@@ -1425,6 +1989,7 @@
     },
     {
       "id": "gallery-008",
+      "imageId": "pr143-gallery-image-008",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 8,
       "reviewGroupId": "PR143-G03",
@@ -1448,6 +2013,7 @@
     },
     {
       "id": "gallery-009",
+      "imageId": "pr143-gallery-image-009",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 9,
       "reviewGroupId": "PR143-G03",
@@ -1471,6 +2037,7 @@
     },
     {
       "id": "gallery-010",
+      "imageId": "pr143-gallery-image-010",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 10,
       "reviewGroupId": "PR143-G04",
@@ -1494,6 +2061,7 @@
     },
     {
       "id": "gallery-011",
+      "imageId": "pr143-gallery-image-011",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 11,
       "reviewGroupId": "PR143-G04",
@@ -1517,6 +2085,7 @@
     },
     {
       "id": "gallery-012",
+      "imageId": "pr143-gallery-image-012",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 12,
       "reviewGroupId": "PR143-G05",
@@ -1540,6 +2109,7 @@
     },
     {
       "id": "gallery-013",
+      "imageId": "pr143-gallery-image-013",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 13,
       "reviewGroupId": "PR143-G05",
@@ -1563,6 +2133,7 @@
     },
     {
       "id": "gallery-014",
+      "imageId": "pr143-gallery-image-014",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 14,
       "reviewGroupId": "PR143-G05",
@@ -1586,6 +2157,7 @@
     },
     {
       "id": "gallery-015",
+      "imageId": "pr143-gallery-image-015",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 15,
       "reviewGroupId": "PR143-G06",
@@ -1609,6 +2181,7 @@
     },
     {
       "id": "gallery-016",
+      "imageId": "pr143-gallery-image-016",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 16,
       "reviewGroupId": "PR143-G06",
@@ -1632,6 +2205,7 @@
     },
     {
       "id": "gallery-017",
+      "imageId": "pr143-gallery-image-017",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 17,
       "reviewGroupId": "PR143-G07",
@@ -1655,6 +2229,7 @@
     },
     {
       "id": "gallery-018",
+      "imageId": "pr143-gallery-image-018",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 18,
       "reviewGroupId": "PR143-G07",
@@ -1678,6 +2253,7 @@
     },
     {
       "id": "gallery-019",
+      "imageId": "pr143-gallery-image-019",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 19,
       "reviewGroupId": "PR143-G07",
@@ -1701,6 +2277,7 @@
     },
     {
       "id": "gallery-020",
+      "imageId": "pr143-gallery-image-020",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 20,
       "reviewGroupId": "PR143-G08",
@@ -1724,6 +2301,7 @@
     },
     {
       "id": "gallery-021",
+      "imageId": "pr143-gallery-image-021",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 21,
       "reviewGroupId": "PR143-G08",
@@ -1747,6 +2325,7 @@
     },
     {
       "id": "gallery-022",
+      "imageId": "pr143-gallery-image-022",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 22,
       "reviewGroupId": "PR143-G09",
@@ -1770,6 +2349,7 @@
     },
     {
       "id": "gallery-023",
+      "imageId": "pr143-gallery-image-023",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 23,
       "reviewGroupId": "PR143-G10",
@@ -1793,6 +2373,7 @@
     },
     {
       "id": "gallery-024",
+      "imageId": "pr143-gallery-image-024",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 24,
       "reviewGroupId": "PR143-G11",
@@ -1816,6 +2397,7 @@
     },
     {
       "id": "gallery-025",
+      "imageId": "pr143-gallery-image-025",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 25,
       "reviewGroupId": "PR143-G11",
@@ -1839,6 +2421,7 @@
     },
     {
       "id": "gallery-026",
+      "imageId": "pr143-gallery-image-026",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 26,
       "reviewGroupId": "PR143-G12",
@@ -1862,6 +2445,7 @@
     },
     {
       "id": "gallery-027",
+      "imageId": "pr143-gallery-image-027",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 27,
       "reviewGroupId": "PR143-G12",
@@ -1885,6 +2469,7 @@
     },
     {
       "id": "gallery-028",
+      "imageId": "pr143-gallery-image-028",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 28,
       "reviewGroupId": "PR143-G12",
@@ -1908,6 +2493,7 @@
     },
     {
       "id": "gallery-029",
+      "imageId": "pr143-gallery-image-029",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 29,
       "reviewGroupId": "PR143-G13",
@@ -1931,6 +2517,7 @@
     },
     {
       "id": "gallery-030",
+      "imageId": "pr143-gallery-image-030",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 30,
       "reviewGroupId": "PR143-G13",
@@ -1954,6 +2541,7 @@
     },
     {
       "id": "gallery-031",
+      "imageId": "pr143-gallery-image-031",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 31,
       "reviewGroupId": "PR143-G13",
@@ -1977,6 +2565,7 @@
     },
     {
       "id": "gallery-032",
+      "imageId": "pr143-gallery-image-032",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 32,
       "reviewGroupId": "PR143-G14",
@@ -2000,6 +2589,7 @@
     },
     {
       "id": "gallery-033",
+      "imageId": "pr143-gallery-image-033",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 33,
       "reviewGroupId": "PR143-G15",
@@ -2023,6 +2613,7 @@
     },
     {
       "id": "gallery-034",
+      "imageId": "pr143-gallery-image-034",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 34,
       "reviewGroupId": "PR143-G16",
@@ -2046,6 +2637,7 @@
     },
     {
       "id": "gallery-035",
+      "imageId": "pr143-gallery-image-035",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 35,
       "reviewGroupId": "PR143-G16",
@@ -2069,6 +2661,7 @@
     },
     {
       "id": "gallery-036",
+      "imageId": "pr143-gallery-image-036",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 36,
       "reviewGroupId": "PR143-G16",
@@ -2092,6 +2685,7 @@
     },
     {
       "id": "gallery-037",
+      "imageId": "pr143-gallery-image-037",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 37,
       "reviewGroupId": "PR143-G16",
@@ -2115,6 +2709,7 @@
     },
     {
       "id": "gallery-038",
+      "imageId": "pr143-gallery-image-038",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 38,
       "reviewGroupId": "PR143-G16",
@@ -2138,6 +2733,7 @@
     },
     {
       "id": "gallery-039",
+      "imageId": "pr143-gallery-image-039",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 39,
       "reviewGroupId": "PR143-G17",
@@ -2161,6 +2757,7 @@
     },
     {
       "id": "gallery-040",
+      "imageId": "pr143-gallery-image-040",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 40,
       "reviewGroupId": "PR143-G17",
@@ -2184,6 +2781,7 @@
     },
     {
       "id": "gallery-041",
+      "imageId": "pr143-gallery-image-041",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 41,
       "reviewGroupId": "PR143-G17",
@@ -2207,6 +2805,7 @@
     },
     {
       "id": "gallery-042",
+      "imageId": "pr143-gallery-image-042",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 42,
       "reviewGroupId": "PR143-G17",
@@ -2230,6 +2829,7 @@
     },
     {
       "id": "gallery-043",
+      "imageId": "pr143-gallery-image-043",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 43,
       "reviewGroupId": "PR143-G17",
@@ -2253,6 +2853,7 @@
     },
     {
       "id": "gallery-044",
+      "imageId": "pr143-gallery-image-044",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 44,
       "reviewGroupId": "PR143-G17",
@@ -2276,6 +2877,7 @@
     },
     {
       "id": "gallery-045",
+      "imageId": "pr143-gallery-image-045",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 45,
       "reviewGroupId": "PR143-G17",
@@ -2299,6 +2901,7 @@
     },
     {
       "id": "gallery-046",
+      "imageId": "pr143-gallery-image-046",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 46,
       "reviewGroupId": "PR143-G17",
@@ -2322,6 +2925,7 @@
     },
     {
       "id": "gallery-047",
+      "imageId": "pr143-gallery-image-047",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 47,
       "reviewGroupId": "PR143-G17",
@@ -2345,6 +2949,7 @@
     },
     {
       "id": "gallery-048",
+      "imageId": "pr143-gallery-image-048",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 48,
       "reviewGroupId": "PR143-G17",
@@ -2368,6 +2973,7 @@
     },
     {
       "id": "gallery-049",
+      "imageId": "pr143-gallery-image-049",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 49,
       "reviewGroupId": "PR143-G17",
@@ -2391,6 +2997,7 @@
     },
     {
       "id": "gallery-050",
+      "imageId": "pr143-gallery-image-050",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 50,
       "reviewGroupId": "PR143-G17",
@@ -2414,6 +3021,7 @@
     },
     {
       "id": "gallery-051",
+      "imageId": "pr143-gallery-image-051",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 51,
       "reviewGroupId": "PR143-G17",
@@ -2437,6 +3045,7 @@
     },
     {
       "id": "gallery-052",
+      "imageId": "pr143-gallery-image-052",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 52,
       "reviewGroupId": "PR143-G17",
@@ -2460,6 +3069,7 @@
     },
     {
       "id": "gallery-053",
+      "imageId": "pr143-gallery-image-053",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 53,
       "reviewGroupId": "PR143-G18",
@@ -2483,6 +3093,7 @@
     },
     {
       "id": "gallery-054",
+      "imageId": "pr143-gallery-image-054",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 54,
       "reviewGroupId": "PR143-G18",
@@ -2506,6 +3117,7 @@
     },
     {
       "id": "gallery-055",
+      "imageId": "pr143-gallery-image-055",
       "recordType": "gallery_evidence",
       "galleryItemIndex": 55,
       "reviewGroupId": "PR143-G18",
