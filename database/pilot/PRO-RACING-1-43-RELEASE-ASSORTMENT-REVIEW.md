@@ -55,3 +55,17 @@ Status: staged source interpretation only. No canonical Release or Assortment en
 2. B7022 contents and retail display package are now cross-checked against catalog data and actual package photographs; only Terry Choy's source-pack provenance and individual sample-to-car links remain open. B6223 is identified as the strong candidate for rows 38-39; seek source-specific package evidence before canonical promotion.
 3. Resolve Bahrain/Sakhir rows 35 and 41 independently.
 4. Only then promote approved candidate records to canonical Releases and Assortments.
+
+
+## External cross-check: Ferrari six-car World Champions display (Gallery group G17)
+
+A separate collector listing provides external evidence for the **six-car** Ferrari display shown in Gallery items 39–52. The ended eBay listing is titled “RARE Hot Wheels Formula 1 Ferrari 6 in-a-row World Constructors' Championships” and describes six red Ferrari F1 cars on a black stand with gold “Hungaroring 2004” and “World Constructors' Championships” text. Its item specifics identify the model years as F1-1999, F2000, F2001, F2002, F2003 and F2004. This independently supports the existence of a physical six-car display corresponding closely to the Terry Choy Gallery subject. It does not supply a Mattel item number, barcode, production quantity or manufacturer catalog record; treat it as a strong collector-market corroboration, not definitive proof of a standard retail release.
+
+Do **not** conflate this six-car display with Hot Wheels **L6237**. Independent wholesaler listings describe L6237 as a separate 1:43 Ferrari Michael Schumacher Championship Collection containing **five** cars: F1-2000, F2001, F2002, F2003-GA and F2004. The 1999 F399 is absent. L6237 is therefore not an established SKU for the six-car G17 display.
+
+**Disposition:** retain G17 as one set-level candidate with six annual content references and 14 Gallery evidence images. Add the external listing as corroboration for the physical six-car display, but keep the exact release identity / item code unresolved. Do not assign L6237 to G17, do not create six individual Gallery-to-car image relations, and do not promote a canonical Assortment yet.
+
+Sources:
+- https://www.ebay.com/itm/135673843026 — ended collector listing describing the six-car display and Hungaroring 2004 / World Constructors' Championships stand.
+- https://www.toywonders.com/ProductCart/pc/Mattel-Hot-Wheels-Racing-Ferrari-Micheal-Shumacher-Championship-Collection-1-43-Assoted-L6237-p7050.htm — separate five-car L6237 contents.
+- https://www.tacot.com/listings/ferrari-f1-set-campione-del-mondo-2000-2001-2002-2003-2004-hot-wheels-52884-0 — independent catalog listing for L6237, 1:43, 2000–2004.
