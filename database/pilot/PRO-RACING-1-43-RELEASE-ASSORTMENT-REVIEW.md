@@ -11,13 +11,14 @@ Status: staged source interpretation only. No canonical Release or Assortment en
 
 ## Results
 
-- 41 source release candidates.
-- 11 rows assigned to four named provisional assortment groups: World Champions 2-Pack (2), Constructors Champions 4 Pack (4), Hot Wheels Racing B7022 3-Pack (3), and Hot Wheels Racing B6223 Ferrari F2004 Constructors Champions 2-Pack (2).
-- 22 rows held because release/packaging details are absent.
-- 4 rows held because the named context or package identity needs resolution.
-- 4 rows retained as source release candidates based on explicit single-pack or named release context.
-- 11 rows assigned to the four staged candidate assortments listed above.
-- No canonical Release or Assortment rows created.
+- 41 distinct source product-table rows retained; 41/41 have matching Variant Candidate and Release/Assortment Candidate records.
+- Release review dispositions: 11 `hold_release_details`, 12 `hold_release_identity`, 7 `source_release_candidate`, and 11 `candidate_assortment`.
+- Variant review dispositions: 17 `candidate_variant`, 22 `hold`, 1 `same_variant_candidate`, and 1 `hold_variant_identity`.
+- 11 rows are staged in four provisional assortment groups: World Champions 2-Pack (2), Constructors Champions 4 Pack (4), Hot Wheels Racing B7022 3-Pack (3), and Hot Wheels Racing B6223 Ferrari F2004 Constructors Champions 2-Pack (2).
+- All 55 Gallery items have a completed visual-review record. The 18 Gallery groups have been reconciled separately; group-level evidence is not automatically treated as individual-car evidence.
+- The asset archive contains 57 files: 55 Gallery images plus the two user-mapped product-table source photos for rows 35 and 41. The manifest has been rebuilt to cover all 57 archived assets.
+- Both row-level candidate CSVs have been structurally validated at exactly 41 data rows with consistent column counts and matching source-row / Variant Candidate IDs.
+- No canonical Variant, Release, Assortment, or individual image relation has been created. This is intentional: the pilot closes at the evidence-staging and candidate-reconciliation stage, not at canonical catalog promotion.
 
 ## Assortment handling
 
@@ -50,12 +51,17 @@ Status: staged source interpretation only. No canonical Release or Assortment en
 - [Mattel product detail: B6206](https://m.service.mattel.com/us/Technical/productDetail?prodno=B6206&siteid=27) — 1:43 Ferrari F2004 Michael Schumacher, released 2004, but no Bahrain/Sakhir-specific identification.
 - [Wheel Wonderland: B6207](https://www.wheelwonderland.com/fr/specials/f2004-b6207/) — 1:43 Ferrari F2004 Rubens Barrichello.
 
-## Next steps
+## Remaining evidence gaps
 
-1. Validate the named release contexts against packaging/catalog evidence.
-2. B7022 contents and retail display package are now cross-checked against catalog data and actual package photographs; only Terry Choy's source-pack provenance and individual sample-to-car links remain open. B6223 is identified as the strong candidate for rows 38-39; seek source-specific package evidence before canonical promotion.
-3. Resolve Bahrain/Sakhir rows 35 and 41 independently.
-4. Only then promote approved candidate records to canonical Releases and Assortments.
+- Rows 35 and 41: separate source photos and separate package/sample candidates are confirmed by the user. The reported body-weathering differences still need direct side-by-side image inspection to determine whether they are intentional deco or sample condition. Gallery group G12 remains family-level only.
+- Rows 20 and 21: source labels say Williams FW21, while the year/Compaq/driver-number/helmet clues point toward FW23. Preserve the source labels until the exact sample images resolve the conflict.
+- Row 25: Kimi/FEP evidence conflicts with the source casting label MP4/16 and the 2002 MP4/17 chassis; the row-specific source photo is not among the inspected Gallery trio.
+- Rows 30–32 and 38–39: B7022 and B6223 remain strong assortment candidates, but Terry Choy source-pack provenance is not proven.
+- Row 40: the known King of the Desert B6222 comparator is 1:18; no 1:43 retail SKU is verified.
+- Gallery G11 cannot yet be split between the two Williams cars; G17 remains one six-car set-level candidate without a verified Mattel item code; G01/G03/G18 remain unlinked due to unresolved prototype identity.
+- Other held rows lack the source-specific photo, package identifier, driver/number, or variant-defining attributes needed for a defensible retail Release assignment.
+
+Do not promote a candidate merely because a similar retail SKU exists. Canonical promotion requires evidence that identifies the particular source sample/release, not just the same casting family.
 
 
 ## External cross-check: Ferrari six-car World Champions display (Gallery group G17)
@@ -251,3 +257,28 @@ No canonical Variant, Release, Assortment, or image relation was created for row
 - Gallery group **PR143-G12 (items 26–28)** remains linked only at family level. Item 28’s caption says “2004 Sakhir / Bahrain Sample piece”, but this caption alone does not prove that it is the same physical object as product-table row 41. Do not split G12 images between rows 35 and 41 or create image relations.
 - The known Hot Wheels **B6222 King of the Desert** is 1:18, so it remains a comparator only. No Hot Wheels 1:43 Sakhir/Bahrain SKU or exact retail package has been verified.
 - **Disposition:** separate source-photo mapping confirmed; separate Release candidate staged; Variant and Release identity held; no canonical Variant, Release, Assortment, or image relation created.
+
+
+## Final audit and pilot closure (2026-11-11)
+
+**Status: COMPLETE for source extraction, Gallery visual review, candidate staging, and reconciliation. Canonical catalog promotion remains intentionally deferred.**
+
+### Integrity checks
+
+- Source extraction: 41 product rows.
+- Variant Candidates: 41 rows, 10 columns each; every source row number is present exactly once.
+- Release/Assortment Candidates: 41 rows, 18 columns each; every source row number is present exactly once.
+- Source casting label, year, color, and available tampo/sticker values were checked against the source extraction; no mismatches were found.
+- Every Release/Assortment row references the matching Variant Candidate ID and source-row ID.
+- All 41 Variant canonical flags and all 82 Release/Assortment canonical flags are `no`.
+- Gallery review: 55/55 images have `visual_inspection_status=inspected`.
+- Gallery reconciliation: 18 groups accounted for; 7 candidate group links, 2 set-level-only links, 1 family-level-only link, 1 group link with item split unresolved, 1 subject-reference-only decision, 3 held-unlinked groups, 2 ancillary-unlinked groups, and 1 scope exception.
+- Asset manifest: 57/57 archived image files represented (55 Gallery images + 2 product-table source photos for rows 35 and 41).
+
+### Data repair performed
+
+The audit found CSV field drift caused by unescaped commas in review prose. Both candidate CSVs were rebuilt with proper quoting and checked again against their headers. The asset manifest, which previously contained only Gallery items 51–55, was rebuilt to include all 55 Gallery images and the two separately archived row-level source photos. All three repaired files were fetched again from `main` and their returned content SHAs matched the committed content SHAs.
+
+### Closure decision
+
+The Pro Racing 1:43 pilot is closed as a **verified evidence-staging dataset**. It is not a fully identified retail catalog. Held identities remain explicit, Gallery family/set evidence stays at its supported scope, and no canonical entities or individual image relations are manufactured to make the dataset appear more complete than the evidence allows.
