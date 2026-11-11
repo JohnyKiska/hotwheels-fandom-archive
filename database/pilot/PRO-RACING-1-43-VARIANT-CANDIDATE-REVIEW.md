@@ -15,7 +15,7 @@ Status: staged review proposal only. No canonical variants or releases are creat
 - 24 rows marked `candidate_variant`.
 - 4 rows marked `same_variant_candidate`.
 - 13 rows held for insufficient or conflicting evidence.
-- 37 provisional variant-candidate groups across the 41 rows.
+- 25 provisional variant-candidate groups across the 28 non-held rows; 13 additional rows remain in 13 separate hold groups.
 
 ## Important decisions and cautions
 
