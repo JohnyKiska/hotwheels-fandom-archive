@@ -20,7 +20,7 @@
 | JJM11 | 229 | Ford Model A Custom '31 | Individual full blister | [eBay listing](https://www.ebay.com/itm/287591088805) |
 | JJM12 | 238 | Fast Fish | Individual full blister | [eBay listing](https://www.ebay.com/itm/307187893726); card shows 238/250 and Team Wheels 5/5 |
 | JJM13 | 244 | Nissan Skyline HT 2000GT-X | Individual full blister | [eBay listing](https://www.ebay.com/itm/267804277026); card shows 244/250 and Screen Time 10/10 |
-| JJM14 | 247 | Gazella GT | Individual full blister + close-up | [eBay listing](https://www.ebay.nl/itm/960044979566); card shows 247/250 and Trophy Case 4/5; car-door circle-flame visible |
+| JJM14 | 247 | Gazella GT | Individual full blister + close-up | [eBay listing](https://www.ebay.nl/itm/960044979566); card shows 247/250 and Trophy Case 4/5; two lower-angle views clearly show the silver circle-flame emblem on the blister/card behind the car |
 
 **Counts across the 13 non-sample models:** 12 individual full-blister photos, 1 partial card-front photo, and 0 without an exact carded photo found. The other two models, JJM01 and JJM05, are covered by user-inspected physical samples.
 
@@ -28,7 +28,7 @@
 
 A regular Treasure Hunt is not expected to carry the gold circle-flame emblem associated with a Super Treasure Hunt. Collector references describe a **silver** circle-flame low-production mark on the regular TH card, while the STH card uses a **gold** circle-flame emblem.
 
-The user's physical observations for JJM01 and JJM05 establish that the cars themselves carry differently colored flame marks (blue on the Viper, black on the Ford GT Race) and that no separate **gold** round TH logo was seen on either card. The newly located full-blister photos for JJM13 and JJM14 also do not clearly establish a separate silver circle-flame on the card. On JJM14, the exposed card area has no clearly visible silver circle-flame; the car-door symbol is visible. Because a small mark could be obscured by the car/blister or vary by card layout, these images do not establish universal absence. Do not generalize the two physical samples or any single package photo to all fifteen cards.
+The user's physical observations for JJM01 and JJM05 establish that the cars themselves carry differently colored flame marks (blue on the Viper, black on the Ford GT Race) and that no separate **gold** round TH logo was seen on either card. The newly located full-blister photos for JJM13 and JJM14 allow comparison of the packaging marks. On JJM14, two lower-angle views clearly reveal the silver circle-flame emblem on the blister/card behind the car. This supports the collector-reference distinction between silver packaging emblem for regular TH and gold packaging emblem for STH. Do not generalize the two physical samples or any single package photo to all fifteen cards.
 
 References:
 - [Hunt64: 2026 TH list and silver card symbol](https://hunt64.app/blog/2026-hot-wheels-treasure-hunt-list)
