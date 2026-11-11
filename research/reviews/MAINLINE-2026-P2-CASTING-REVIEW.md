@@ -34,13 +34,13 @@
 
 HWC Garage's casting overview lists two Eggshelleracer versions and states they share the same casting. The Hot Wheels Collectors Newsletter lists JJH47 as Yellow and JJL25 as Orange. Fandom's detailed entry instead describes JJH47 as ZAMAC with a burnt-orange eggshell and JJL25 as a yellow eggshell with white body. HWC Garage's individual pages label the colors Tan and White. These finish/color descriptions conflict substantially.
 
-**Current conclusion:** The shared-casting relationship is catalog-supported, but the exact appearance metadata is inconsistent across sources. Keep this pair open for image-level comparison and, ideally, user inspection. Do not merge the color descriptions.
+**Current conclusion:** The shared-casting relationship is confirmed by the user's visual comparison: the castings are identical. Exact appearance metadata is recorded separately below; do not merge the color descriptions.
 
 **Visual comparison note (user observation, 2026-11-11):** The two reference images/models were distinguished as follows:
 - **JJH47:** white base/underside; yellow-and-silver body; brown egg.
 - **JJL25:** yellow base/underside; orange-and-silver body; white egg.
 
-This resolves the conflicting catalog color labels at the level of the observed visible components: the body/egg colors differ, and the base color differs as well. It does not by itself establish whether the underlying casting is identical; that remains catalog-supported pending a mold-detail comparison. The observation is attributed to the user's visual review, not described as a physical side-by-side inspection.
+This resolves the conflicting catalog color labels at the level of the observed visible components: the body/egg colors differ, and the base color differs as well. The user confirms that the castings are identical. This is a user-confirmed casting match; the visible color differences remain separate variant attributes.
 
 ## Sources
 
