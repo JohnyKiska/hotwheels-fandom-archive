@@ -43,3 +43,4 @@ Interpretation:
 3. Retain B7022 and B6223 as staged candidate assortments until source-specific package provenance is established.
 4. Keep Bahrain/Sakhir rows 35 and 41 linked only as a shared provisional Variant candidate; do not merge Release candidates. The known Hot Wheels B6222 Bahrain/Sakhir F2004 is 1:18, while B6206/B6207 are generic 1:43 F2004 #1/#2 references. No 1:43 Bahrain/Sakhir retail item is corroborated by current evidence.
 5. Keep image-to-entity relations uncreated until individual physical-item evidence supports them.
+6. For rows 35 and 41, inspect the distinct product-table photos `Ferrari_Bahrain_2004_Terry_Sample_(2).png` and `2004_Ferrari_Terry_Sample_(1).jpg`. The three separate Gallery views (items 26–28, group `PR143-G12`) support the Bahrain/Sakhir sample family but do not prove exact row-to-image or row-to-retail-item mapping.
