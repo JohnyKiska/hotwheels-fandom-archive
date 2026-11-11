@@ -499,3 +499,15 @@
 **Casting finding:** The user has visually compared both versions and confirmed that the castings are identical. Preserve paint, color and decoration differences as separate variant attributes.
 
 **Current conclusion:** User-confirmed identical castings.
+
+
+## Collector #148 — undefined
+
+| Toy # | Variant | Series |
+|---|---|---|
+| JJH54 | undefined | HW Dream Garage New for 2026! |
+| JJL48 | undefined | HW Dream Garage New for 2026! |
+
+**Casting finding:** The user has visually compared both versions and confirmed that the castings are identical. Preserve paint, color and decoration differences as separate variant attributes.
+
+**Current conclusion:** User-confirmed identical castings.
