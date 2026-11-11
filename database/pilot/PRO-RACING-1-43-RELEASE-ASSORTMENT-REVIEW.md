@@ -117,3 +117,10 @@ The two product-table photographs are archived separately in `database/pilot/ass
 - Row 41, “Sakhir / Bahrain”: `2004_Ferrari_Terry_Sample_29.jpg` (asset blob `c5cefb5db5e9a5ac99ad4c060caf1fb477317ce6`).
 
 This closes the product-table source-photo-to-row mapping only. Retain two distinct staged Release candidates. Exact SKU, canonical Release identity, and whether the apparent weathering is a factory-applied treatment remain open. This does not split Gallery group PR143-G12 items 26–28, which remain family-level evidence.
+
+
+## Rows 10 and 19: external release candidates and unresolved source linkage
+
+- **Row 10, Williams FW22 (2000):** independent 1:43 Hot Wheels catalogs agree on toy 26746, Ralf Schumacher #9, EAN 074299267468. A separate marketplace listing includes multiple photographs of the model and its black/gold package. This is a strong period retail candidate for the row, but the source table says only “Williams FW22 / 2000” and has no photo, driver, number, toy number or EAN. Keep the row's exact Release and Variant linkage on hold. Sources: https://www.houseofmodelcars.com/eng/product/williams-f1/11460 ; https://www.yuui.nl/en/collections/menu/products/2000-williams-bmw-fw22-ralf-schumacher ; https://www.ebay.com/itm/117422873061
+- **Row 19, Ferrari 126C2 (2001):** a period Hot Wheels La Storia release HW50218 is documented for 2001. The driver attribution is inconsistent: Formula143 lists Rene Arnoux, 1982 San Marino GP, while F1 Stocklist lists Didier Pironi #28, San Marino GP. Formula143 separately distinguishes the later IXO/Hot Wheels La Storia SF38/82 Pironi #28 issue. The source row has no driver, race number, package or photo, so HW50218 is a candidate only, not an established match. Sources: https://formula143.org/articles/the-story-of-la-storia/ ; https://www.f1scalemodels.com/F1_Stocklist.pdf
+- Neither row was promoted to a canonical Release or Variant. The catalog evidence is recorded separately from source-row provenance.
