@@ -1,40 +1,21 @@
-# Pro Racing 1:43 pilot seed validation
+# Pro Racing 1:43 pilot validation status
 
-Date: 2026-11-10  
-Status: STATIC VALIDATION PASSED; SQLite execution still pending
+Date: 2026-11-11
 
-## Inputs checked
+## Source staging validation
 
-- Schema: `database/schema.sql`
-- Seed: `database/pilot/pro-racing-1-43-seed.sql`
-- Product source: `research/extractions/LARGER-SCALE-PRO-RACING-1-43-SCALE.csv`
-- Gallery source shard: `research/galleries/GALLERY-EXTRACTION-08.csv`
+The original schema and source seed were executed in SQLite using GitHub Actions. The successful run verified the 2 import batches, 2 source documents, 41 product source rows, 55 Gallery source rows, 55 image assets, foreign keys, integrity, idempotency, and absence of canonical entities/image relations. The machine-readable report from that run is `SQLITE-EXECUTION-REPORT.json`.
 
-## Static checks
+## Reconciliation evidence staging
 
-| Check | Result |
-|---|---:|
-| Tables declared in schema | 11 |
-| INSERT statements in seed | 155 |
-| Import batches | 2 |
-| Source documents | 2 |
-| Source rows | 96 |
-| Image metadata rows | 55 |
-| INSERT targets exist in schema | PASS |
-| INSERT column names exist in target tables | PASS |
-| Foreign-key target tables exist | PASS |
-| Every INSERT has a terminating semicolon | PASS |
-| Canonical casting/variant/release/set rows inserted | 0 |
-| Automatic image-to-entity relations inserted | 0 |
+A second idempotent seed, `pro-racing-1-43-reconciliation-seed.sql`, now adds 55 group-level evidence claims across 18 review groups. The validator has been extended to verify:
 
-Source-row breakdown is 41 product-table rows and 55 Gallery evidence rows. The seed deliberately stages evidence and metadata only; it does not assert product identity from captions or filenames.
+- 55 reconciliation evidence claims;
+- 18 distinct review groups;
+- 43 `cross_checked` claims and 12 `hypothesis` claims;
+- every reconciliation claim is group-level;
+- no canonical castings, variants, releases, or image relations are created;
+- both source and reconciliation seeds remain idempotent;
+- foreign-key and database integrity checks pass.
 
-## Correction made during validation
-
-The two import-batch statements were normalized to use standard single-quoted SQL string literals for the importer version, status and notes. The seed was then fetched again from `main` and rechecked. Its source-row and image-asset INSERT counts remain unchanged.
-
-## What this validation does not prove
-
-This was a structural/static inspection of the SQL text against the schema. It was **not** execution in a SQLite engine. Runtime constraint enforcement, successful transaction completion, and the expected post-load SELECT counts remain to be tested when a SQLite runtime is available.
-
-The pilot remains **STAGED, NOT LOADED**. Source CSV files remain the system of record.
+**Status:** updated SQLite execution is pending a manual run of `.github/workflows/validate-pro-racing-sqlite.yml`. Do not mark import batches validated or committed until that run passes and a separate approval step is completed.
