@@ -84,6 +84,22 @@ This resolves the conflicting catalog color labels at the level of the observed 
 
 **Current conclusion:** Identical castings, different body colors. Confirmation is based on the user's visual comparison.
 
+## Collector #126 — '64 Dodge 330
+
+| Toy # | Variant | Source-reported body color |
+|---|---|---|
+| JJJ64 | First listed 2026 version | White |
+| JJL56 | Second color | Red |
+
+**Casting finding:** The user has visually confirmed that JJJ64 and JJL56 have identical castings. Treat them as a user-confirmed casting match; preserve color, graphics and base-finish differences as separate variant attributes.
+
+**Visual references:**
+- [JJJ64 — white](https://www.hwcgarage.com/en/vehicle/64-dodge-330-2026-blanc-jjj64)
+- [JJL56 — red](https://www.hwcgarage.com/en/vehicle/64-dodge-330-2026-rouge-jjl56)
+- [HWC Garage — 330 casting overview](https://www.hwcgarage.com/en/casting/330)
+
+**Current conclusion:** Identical castings, different color variants. Confirmation is based on the user's visual comparison. Note that HWC Garage's individual listings display differing casting-number metadata for the two versions; the user's mold comparison takes precedence for the casting-match status, while the source discrepancy remains documented for later reconciliation.
+
 ## Sources
 
 - [HWC Garage — Custom '66 Toronado casting overview](https://www.hwcgarage.com/en/casting/oldsmobile-toronado)
@@ -97,4 +113,4 @@ This resolves the conflicting catalog color labels at the level of the observed 
 
 ## Data handling
 
-No visual-review queue status was changed. No canonical image relation or physical-sample confirmation was created. This report stages source-based findings for later reconciliation.
+User-confirmed casting matches are recorded in the visual-review queue. The queue stores verified source-page URLs in `Internet Photo Source`; `Photo` remains blank unless a direct image-asset URL is verified. These source-page links provide photo galleries/evidence but are not mislabeled as direct image files.
