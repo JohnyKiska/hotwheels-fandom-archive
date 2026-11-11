@@ -55,3 +55,7 @@ Evidence:
 - https://www.schumacher-fanclub.com/hot-wheels-diecast-model-cars/michael-schumacher/b6222-hot-wheels-michael-schumacher-king-of-the-desert.php
 - https://www.houseofmodelcars.com/eng/product/ferrari/9146
 - https://www.suruga-ya.jp/kaitori/kaitori_detail/770306617
+
+
+Additional comparator: BBR Models has a separately catalogued 1:43 Ferrari F2004 Bahrain GP #1 Schumacher “Dirty Version”, resin, limited to 300. This is a different manufacturer and not evidence of a Hot Wheels SKU. Alongside the Hot Wheels B6222 1:18 weathered version, it supports the general plausibility of intentional Bahrain race-weathering in miniature form. The Hot Wheels 1:43 sample's specific dirt pattern remains unverified.
+Source: https://store.motorsportmaranello.com/shop/f1-bbr-models-1-43-ferrari-f2004-gp-bahrain-2004-1-m-schumacher-dirty-version/
