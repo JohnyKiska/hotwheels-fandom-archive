@@ -22,7 +22,9 @@ EXPECTED = {
     "reconciliation_evidence_claims": 55,
     "reconciliation_review_groups": 18,
     "cross_checked_claims": 43,
-    "hypothesis_claims": 12,\n    "casting_candidate_claims": 41,\n    "casting_candidate_groups": 18,
+    "hypothesis_claims": 12,
+    "casting_candidate_claims": 41,
+    "casting_candidate_groups": 18,
 }
 
 def scalar(conn: sqlite3.Connection, sql: str) -> int:
