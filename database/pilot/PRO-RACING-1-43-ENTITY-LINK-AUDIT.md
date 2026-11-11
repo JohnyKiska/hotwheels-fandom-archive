@@ -44,3 +44,14 @@ Interpretation:
 4. Keep Bahrain/Sakhir rows 35 and 41 linked only as a shared provisional Variant candidate; do not merge Release candidates. The known Hot Wheels B6222 Bahrain/Sakhir F2004 is 1:18, while B6206/B6207 are generic 1:43 F2004 #1/#2 references. No 1:43 Bahrain/Sakhir retail item is corroborated by current evidence.
 5. Keep image-to-entity relations uncreated until individual physical-item evidence supports them.
 6. For rows 35 and 41, inspect the distinct product-table photos `Ferrari_Bahrain_2004_Terry_Sample_(2).png` and `2004_Ferrari_Terry_Sample_(1).jpg`. The three separate Gallery views (items 26–28, group `PR143-G12`) support the Bahrain/Sakhir sample family but do not prove exact row-to-image or row-to-retail-item mapping.
+
+
+## New Bahrain/Sakhir weathering comparator
+
+B6222 is confirmed by multiple specialist catalogues as a 1:18 Hot Wheels Ferrari F2004 Sakhir/Bahrain #1 with intentional factory weathering (airbrush dust, used tyres, Bahrain sand/air-filter detail). This is relevant because the user observes dirt/weathering marks on the two 1:43 Fandom sample photos. It changes the interpretation from “probably incidental dirt” to “potentially intentional finish worth comparing”. It does **not** identify either 1:43 row as B6222, and does not establish a 1:43 Bahrain/Sakhir SKU. The two 1:43 photos remain uninspected by the reviewer; retain separate Release candidates and no canonical image links.
+
+Evidence:
+- https://eurospecdiecast.com/product/hot-wheels-1-18-ferrari-f1-gp-f-2004-sakhir-bahrain-michael-schumacher-b6222/
+- https://www.schumacher-fanclub.com/hot-wheels-diecast-model-cars/michael-schumacher/b6222-hot-wheels-michael-schumacher-king-of-the-desert.php
+- https://www.houseofmodelcars.com/eng/product/ferrari/9146
+- https://www.suruga-ya.jp/kaitori/kaitori_detail/770306617
