@@ -140,3 +140,12 @@ This closes the product-table source-photo-to-row mapping only. Retain two disti
 - **Row 5, Stewart SF3 #18:** held because the 1999 Stewart SF3 entries were #16 and #17. #18 was Olivier Panis's Prost AP02. No matching Hot Wheels 1:43 Stewart SF3 #18 release was found. [1999 European GP results and entry list](https://www.f1stats.ru/1999/1999eur.html); [1999 season team/driver numbers](https://www.gasolinasuper.es/formula-1-1999/).
 
 No canonical Release or Assortment has been created. Source row 5 remains unchanged pending direct source evidence.
+
+
+## McLaren MP4/15 source rows 7–8
+
+- **Row 7, David:** Hot Wheels Racing **26751**, 1:43 McLaren MP4/15, David Coulthard **#2**, 2000. Cars & Trucks Modellbau Frommer explicitly gives driver, race number, year and scale; eBay listings independently identify MPN 26751 and 1:43, including a factory-sealed example. [Cars & Trucks Modellbau Frommer](https://www.cars-trucks.de/Modellautos/hot-wheels-1-43/mattel-hot-wheels-racing-26751-mclaren-mercedes-mp4-15-david-coulthard-2000-1-43.html); [eBay factory-sealed 26751](https://www.ebay.co.uk/itm/197813051613).
+- **Row 8, Mika:** Hot Wheels Racing **26750**, 1:43 McLaren MP4/15, Mika Hakkinen **#1**, 2000. House of Modelcars confirms original factory packaging and EAN **074299267505**; Diecast.com.ua independently confirms item 26750 and scale 1:43. [House of Modelcars](https://www.houseofmodelcars.com/eng/product/mclaren/11456); [Diecast.com.ua](https://diecast.com.ua/en/12824-mclaren-mp4-15.html).
+- Wheel Wonderland lists these as the two known 1:43 MP4/15 editions for 2000: 26750 and 26751. [Wheel Wonderland](https://www.wheelwonderland.com/fr/castings/mclaren-mp4-15-1-43/).
+
+The source rows' David/Mika driver fields align with these two distinct retail variants. Row 8's “Mika Website Asset” is only a source photo label; it has not been treated as proof of a physical sample or package. Both release records remain staged candidates, not canonical entities.
