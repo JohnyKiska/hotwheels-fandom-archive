@@ -56,3 +56,17 @@ Priority is a work-order suggestion, not a confidence score or a statement that 
 ## Next action
 
 Start with P1 rows. For each available physical blister sample, record front/back card, barcode, copyright/base codes where visible, blister geometry, model deco/wheels, country of manufacture, and any retailer markings. Keep packaging evidence separate from casting and color-variant conclusions.
+
+
+## User visual observations: collector groups 084 and 093
+
+The user supplied direct visual descriptions of four physical blistered entries. Original blister names are confirmed as printed; the differing names are therefore preserved as source-original labels, not treated as extraction typos.
+
+| Collector # | Toy # | Original blister name | User-reported appearance |
+|---|---|---|---|
+| 084 | JJJ47 | Polestar TRX | Yellow body, black graphics, black glazing |
+| 084 | JJL49 | Polestar (2nd Color) | White body, black graphics, yellow glazing |
+| 093 | JJJ55 | Coupé Clip | Purple body, white Hot Wheels logo |
+| 093 | JJL05 | El Segundo Coupé Clip (2nd Color) | Blue body, red Hot Wheels logo |
+
+**Assessment:** Both collector-number groups now have user-confirmed visual distinctions and original blister naming. Treat each pair as separate variant candidates. These observations do not by themselves establish casting identity, base/part differences, or canonical Variant records. Keep casting/variant promotion pending physical underside/base comparison and source-level validation.
