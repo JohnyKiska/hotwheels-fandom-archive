@@ -407,3 +407,15 @@ User-confirmed casting matches are recorded in the visual-review queue. The queu
 
 **Current conclusion:** User-confirmed identical castings.
 
+
+
+## Collector #136 — '98 Honda Prelude
+
+| Toy # | Variant | Series |
+|---|---|---|
+| JJJ89 | First listed version | Factory Fresh 5/5 |
+| JJL15 | Second color | Factory Fresh 5/5 |
+
+**Casting finding:** The user has visually confirmed that both versions have identical castings. Color and decoration differences remain variant attributes.
+
+**Current conclusion:** User-confirmed identical castings.
