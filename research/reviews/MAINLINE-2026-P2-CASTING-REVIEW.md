@@ -69,6 +69,21 @@ This resolves the conflicting catalog color labels at the level of the observed 
 
 **Current conclusion:** Identical castings, different color variants. Confirmation is based on the user's visual comparison.
 
+## Collector #125 — 2024 Aston Martin Vantage GT3
+
+| Toy # | Variant | Source-reported body color |
+|---|---|---|
+| JJH55 | First listed 2026 version | Metalflake Racing Green |
+| JJL24 | Second color | White |
+
+**Casting finding:** The user has visually confirmed that JJH55 and JJL24 have identical castings. Record as a user-confirmed casting match; retain body-color differences as variant attributes.
+
+**Visual references:**
+- [JJH55](https://www.hwcgarage.com/en/vehicle/2024-aston-martin-vantage-gt3-2026-bleu-jjh55)
+- [JJL24](https://www.hwcgarage.com/en/vehicle/2024-aston-martin-vantage-gt3-2026-blanc-jjl24)
+
+**Current conclusion:** Identical castings, different body colors. Confirmation is based on the user's visual comparison.
+
 ## Sources
 
 - [HWC Garage — Custom '66 Toronado casting overview](https://www.hwcgarage.com/en/casting/oldsmobile-toronado)
