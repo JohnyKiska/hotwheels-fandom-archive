@@ -41,5 +41,5 @@ Interpretation:
 1. Resolve 13 rows whose Variant candidates are on hold before promoting their Release candidates.
 2. Verify whether named pack/release labels correspond to retail releases, prototypes, samples, or catalog-only references.
 3. Retain B7022 and B6223 as staged candidate assortments until source-specific package provenance is established.
-4. Keep Bahrain/Sakhir rows 35 and 41 linked only as a shared provisional Variant candidate; do not merge Release candidates.
+4. Keep Bahrain/Sakhir rows 35 and 41 linked only as a shared provisional Variant candidate; do not merge Release candidates. The known Hot Wheels B6222 Bahrain/Sakhir F2004 is 1:18, while B6206/B6207 are generic 1:43 F2004 #1/#2 references. No 1:43 Bahrain/Sakhir retail item is corroborated by current evidence.
 5. Keep image-to-entity relations uncreated until individual physical-item evidence supports them.
