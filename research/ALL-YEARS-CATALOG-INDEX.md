@@ -13,6 +13,7 @@ The generated catalog index is the first usable cross-year data layer for the HW
 - Groups with multiple source records are only `provisional_same_casting`. They are navigation and review candidates, not proof that the physical tooling is identical.
 - No cross-year casting merge is made solely from matching model names.
 - Explicit source notes such as "Identical to ..." and base-code references are retained as evidence leads.
+- Mainline `Series` values are normalized: the actual series name is separated from trailing release labels such as `New for YYYY!`, `New in Mainline`, `Treasure Hunt`, `Super Treasure Hunt`, `Red Edition` and supported retailer exclusives. The original combined value is retained as `series_raw`; extracted labels are stored in `release_tags`, `release_type` and `exclusive`.
 - Color, tampo, wheel type, finish and packaging remain variant attributes and do not independently create new casting identities.
 
 ## Outputs
