@@ -103,3 +103,17 @@ The source row records casting label **Ferrari 412 T1**, source-table year **200
 These records establish plausible 1994 retail models and distinct driver/race configurations, but none documents a **book-shaped package** or connects either SKU to the Terry Choy source row. The “book package” may refer to a special presentation format, but no supporting package evidence was found in this search. Row 36 therefore remains held: retain source year 2004 and the 1994/package note as separate source facts; do not choose T6284 or N5583, and do not infer a release year or package type.
 
 **Disposition for rows 33 and 36:** external retail comparators found; exact source-sample identity and package evidence remain unverified. No canonical Variant or Release created.
+
+
+## Row 36: “book package” terminology check
+
+A targeted search for a Hot Wheels Ferrari 412 T1 1:43 book-shaped package found no catalog or sale record tying that packaging to either known Hot Wheels retail 412 T1 release:
+
+- **T6284**: Jean Alesi #27, Great Britain GP 1994, Hot Wheels Elite, 1:43, limited 5,000. [Armand Modelcars](https://www.armand-modelcars.nl/nld/product/ferrari/1848); [F1 Scale Models stock list](https://f1scalemodels.com/F1_Stocklist.pdf).
+- **N5583**: Gerhard Berger #28, German GP winner 1994, Hot Wheels Elite, 1:43, limited 10,000. [F1 Scale Models stock list](https://f1scalemodels.com/F1_Stocklist.pdf); [eBay listing with model and black/red Hot Wheels Elite box photos](https://www.ebay.com/itm/178548319139).
+
+A book-shaped Hot Wheels Racing presentation case is independently documented for a **different car**, Ferrari 312 T2 (Niki Lauda, 1977 German GP), in a special “La Storia” presentation. The listing describes a metal book-shaped display case and illustrated booklet; it states 1:43 and 2004 on the packaging. [Catawiki, Hot Wheels Racing La Storia Ferrari 312 T2](https://www.catawiki.com/en/l/105807162-hot-wheels-1-43-model-race-car-hot-wheels-racing-1-43-cofanetto-ferrari-312-t2-niki-lauda-german-gp-1977-come-nuovo). This proves that Hot Wheels used a book-shaped presentation format, but it does **not** identify the row 36 Ferrari 412 T1 as a La Storia product. Search results also show IXO-branded La Storia Ferrari 412 T1B models, which are a different manufacturer and must not be conflated with Mattel Hot Wheels.
+
+The archived product-table extraction for row 36 has Photo = Image Not Available and no image URL in its structured cell data. Therefore the source page currently supplies no photograph with which to visually inspect the alleged book package.
+
+**Updated disposition:** “book package” is a credible description of a presentation format used in the Hot Wheels Racing 1:43 ecosystem, but the specific Ferrari 412 T1 / row 36 association remains unverified. Do not assign T6284, N5583, or a La Storia identity. Preserve source year 2004 and “Represents 1994, in a Book pacakage” verbatim as separate source facts. A physical photograph, package label, or Mattel item code is required to proceed.
