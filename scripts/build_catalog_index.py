@@ -254,6 +254,9 @@ def main():
         "multi_record_groups": sum(g["record_count"] > 1 for g in group_rows),
         "years": sorted({r["year"] for r in records if r["year"]}),
         "premium_families": dict(sorted(Counter(r["family"] for r in records if r["catalog"] == "Premium").items())),
+        "mainline_release_tags": dict(sorted(Counter(tag for r in records if r["catalog"] == "Mainline" for tag in r.get("release_tags", [])).items())),
+        "treasure_hunt_records": sum(r.get("release_type") == "Treasure Hunt" for r in records),
+        "super_treasure_hunt_records": sum(r.get("release_type") == "Super Treasure Hunt" for r in records),
     }
     payload = {"schema_version": 1, "generated_from": "research/extractions/", "stats": stats,
                "source_inventory": inventory, "candidate_groups": group_rows, "records": records}
