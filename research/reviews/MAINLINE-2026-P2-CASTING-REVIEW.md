@@ -523,3 +523,15 @@
 **Casting finding:** The user has visually compared both versions and confirmed that the castings are identical. Preserve paint, color and decoration differences as separate variant attributes.
 
 **Current conclusion:** User-confirmed identical castings.
+
+
+## Collector #150 — undefined
+
+| Toy # | Variant | Series |
+|---|---|---|
+| JJH56 | undefined | Ferrari New for 2026! |
+| JJL74 | undefined | Ferrari New for 2026! |
+
+**Casting finding:** The user has visually compared both versions and confirmed that the castings are identical. Preserve paint, color and decoration differences as separate variant attributes.
+
+**Current conclusion:** User-confirmed identical castings.
