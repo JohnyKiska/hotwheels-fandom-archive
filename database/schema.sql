@@ -135,6 +135,24 @@ CREATE TABLE IF NOT EXISTS evidence_claim (
   reviewer_notes TEXT
 );
 
+
+-- A preview link connects an inspected source image to a source row for display only.
+-- It is deliberately separate from image_relation: it does not assert a canonical product identity.
+CREATE TABLE IF NOT EXISTS image_preview_link (
+  preview_link_id TEXT PRIMARY KEY,
+  source_row_id TEXT NOT NULL REFERENCES source_row(source_row_id),
+  image_id TEXT NOT NULL REFERENCES image_asset(image_id),
+  review_group_id TEXT NOT NULL,
+  preview_scope TEXT NOT NULL CHECK (preview_scope IN ('candidate_preview','record_group_preview','group_preview','family_preview','assortment_preview')),
+  confidence TEXT NOT NULL CHECK (confidence IN ('verified','probable','unverified')),
+  display_priority INTEGER NOT NULL DEFAULT 100,
+  evidence_basis TEXT NOT NULL,
+  UNIQUE(source_row_id, image_id)
+);
+
+CREATE INDEX IF NOT EXISTS idx_image_preview_source_row ON image_preview_link(source_row_id);
+CREATE INDEX IF NOT EXISTS idx_image_preview_image ON image_preview_link(image_id);
+
 CREATE INDEX IF NOT EXISTS idx_variant_casting ON variant(casting_id);
 CREATE INDEX IF NOT EXISTS idx_release_variant ON release(variant_id);
 CREATE INDEX IF NOT EXISTS idx_release_toy_number ON release(toy_number);
