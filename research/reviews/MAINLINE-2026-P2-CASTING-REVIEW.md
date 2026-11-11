@@ -267,3 +267,17 @@ User-confirmed casting matches are recorded in the visual-review queue. The queu
 - **User visual confirmation:** all three versions have identical castings. Keep paint/deco and any wheel differences as separate variant attributes.
 - JPD53 catalog reference: [Corvette C7 Z06 casting page](https://www.hwcgarage.com/en/casting/corvette-c7-z06). An individual carded photo for JPD53 was not located in the prior review.
 - Review status for all three entries: `user_confirmed_same_casting`.
+
+
+## Collector #116 — '87 Ford Sierra Cosworth
+
+| Toy # | Variant | Release |
+|---|---|---|
+| JJJ74 | Standard release | HW Euro 5/10 |
+| JJM19 | Super Treasure Hunt | HW Euro 5/10 |
+
+**Casting finding:** The user has visually confirmed that JJJ74 and JJM19 have identical castings. Keep the STH paint, wheels and decoration as separate variant attributes, not as casting differences.
+
+**Source discrepancy:** The existing photo-evidence note for JJM19 flags a collector-number conflict: the marketplace image appears to show 118/250, while the archive, Fandom and several specialist catalogs use #116; HWtreasure/Collects.in list #119. This discrepancy does not change the user's visual casting confirmation, but the collector-number attribution remains provisional.
+
+**Current conclusion:** User-confirmed identical castings; standard and Super Treasure Hunt versions remain distinct releases.
