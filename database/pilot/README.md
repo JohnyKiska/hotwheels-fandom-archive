@@ -1,7 +1,7 @@
 # Pro Racing 1:43 pilot staging report
 
-Date: 2026-11-10  
-Status: SOURCE SEED EXECUTED IN TEMPORARY SQLITE VALIDATION; RECONCILIATION SEED ADDED, UPDATED VALIDATION PENDING
+Date: 2026-11-11  
+Status: THREE SEEDS STAGED; FULL SQLITE VALIDATION PENDING
 
 ## Source inputs
 
@@ -26,7 +26,9 @@ The source SQL seed in this directory inserts:
 
 All raw product cell JSON and Gallery row fields are retained. Gallery metadata includes filename, image key, URL, file-page URL, alt, title, and caption HTML.
 
-The reconciliation seed adds 55 idempotent group-level `evidence_claim` records across 18 reviewed groups. It records the match disposition, candidate source rows, evidence basis, and unresolved questions. It does not create canonical entities or image relations.
+The reconciliation seed adds 55 idempotent group-level `evidence_claim` records across 18 reviewed groups. It records the match disposition, candidate source rows, evidence basis, and unresolved questions.
+
+The casting-candidate seed adds 41 source-derived claims grouped into 18 distinct casting-name candidates. Each claim points to its original product source row. Candidate labels remain `source_assertion` / `unverified`, not approved canonical castings. No canonical entities or image relations are created.
 
 ## What is deliberately not done
 
@@ -49,5 +51,7 @@ The reconciliation seed adds 55 idempotent group-level `evidence_claim` records 
    - `SELECT COUNT(*) FROM image_asset WHERE source_document_id='doc-pr143-gallery';` → 55
    - `SELECT COUNT(*) FROM evidence_claim WHERE predicate='catalog_reconciliation_disposition';` → 55
    - `SELECT COUNT(DISTINCT subject_id) FROM evidence_claim WHERE predicate='catalog_reconciliation_disposition';` → 18
+   - `SELECT COUNT(*) FROM evidence_claim WHERE predicate='source_casting_label';` → 41
+   - `SELECT COUNT(DISTINCT subject_id) FROM evidence_claim WHERE predicate='source_casting_label';` → 18
 
-The source-seed SQLite execution passed in the temporary validation workflow. The updated workflow now also validates the reconciliation seed; its new run is pending. Import batches deliberately remain `staged`.
+The earlier validation predates casting-candidate staging. The validator now applies all three seeds twice and checks 41 candidate claims across 18 groups. Full validation must be rerun before any import batch is promoted beyond `staged`.
