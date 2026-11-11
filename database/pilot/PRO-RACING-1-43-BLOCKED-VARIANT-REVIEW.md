@@ -78,3 +78,28 @@ Sources:
 - [Motorsport Italia, same BBR listing](https://store.motorsportitalia.it/prodotto/modellino-f1-bbr-models-1-43-ferrari-f2004-gp-bahrain-2004-1-m-schumacher-dirty-version/)
 
 Combined with Hot Wheels B6222 (1:18, factory weathering explicitly stated), this makes intentional weathering on the 1:43 Hot Wheels sample more plausible. It remains unconfirmed until the actual Hot Wheels sample photos can be inspected closely and compared for weathering placement/pattern, base markings, and packaging. Do not transfer BBR code BG263 or Hot Wheels code B6222 to rows 35/41.
+
+
+## External cross-check: Ferrari F2003-GA sample (row 33)
+
+The row's source label is **Ferrari F2003-GA**, source year 2003, with named source photo **2003 Ferrari F1 Sample Terry (2)**. Independent catalogs confirm a standard Hot Wheels 1:43 Ferrari F2003-GA release exists as **B1018**:
+
+- [Die Carz: Ferrari F2003-GA, B1018](https://diecarz.com/cars/hotwheels/ferrari-f2003-ga-168398) — Hot Wheels Racing, 2003, 1:43, toy code B1018.
+- [Suruga-ya: B1018](https://www.suruga-ya.jp/kaitori/kaitori_detail/770000521) — Mattel, 1:43, Ferrari F2003-GA Shell #1, Michael Schumacher; JAN 0027084009231.
+- [Yuui's F1 Scale Models: B1018](https://www.yuui.nl/en/collections/menu/products/2003-ferrari-f2003-ga-michael-schumacher) — Hot Wheels, 1:43, catalog number HWB1018, Michael Schumacher #1.
+- [Hobby Search: B1018](https://www.1999.co.jp/10102602) — Mattel, 1/43, code B1018.
+
+This establishes a plausible retail comparator for the same casting/year, but **does not prove that Terry Choy's sample is B1018**. The source photo itself has not been visually compared with B1018's tampo, race number, base, display plinth, or packaging. Keep row 33 on hold; do not promote B1018 to its exact release identity or attach a candidate-specific image relation yet.
+
+## External cross-check: Ferrari 412 T1 “book package” (row 36)
+
+The source row records casting label **Ferrari 412 T1**, source-table year **2004**, and note verbatim: “Represents 1994, in a Book pacakage”. External catalogs confirm at least two different Hot Wheels 1:43 Ferrari 412 T1-family products:
+
+- [Armand Modelcars: T6284](https://www.armand-modelcars.nl/nld/product/ferrari/1848) — Hot Wheels Elite, 1:43, Ferrari 412 T1, Jean Alesi #27, Great Britain GP 1994, EAN 027084923049.
+- [F1 Scale Models stock list](https://www.f1scalemodels.com/F1_Stocklist.pdf) — lists Ferrari 412 T1, 1994, Jean Alesi #27 Great Britain GP, Hot Wheels, code T6284.
+- [ToysHouse: N5583](https://toyshouse.it/en/products/hot-wheels-n5583-ferrari-412-t1-berger-1994-vince-gp-germany) — Hot Wheels Elite, 1:43, Ferrari 412 T1, Gerhard Berger #28, German GP winner 1994, code N5583, limited edition 10,000.
+- [eBay: N5583](https://www.ebay.com/itm/178548319139) — listing with photographs of the model and its black Hot Wheels Elite packaging.
+
+These records establish plausible 1994 retail models and distinct driver/race configurations, but none documents a **book-shaped package** or connects either SKU to the Terry Choy source row. The “book package” may refer to a special presentation format, but no supporting package evidence was found in this search. Row 36 therefore remains held: retain source year 2004 and the 1994/package note as separate source facts; do not choose T6284 or N5583, and do not infer a release year or package type.
+
+**Disposition for rows 33 and 36:** external retail comparators found; exact source-sample identity and package evidence remain unverified. No canonical Variant or Release created.
