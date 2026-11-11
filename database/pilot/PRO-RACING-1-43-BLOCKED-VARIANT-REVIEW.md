@@ -28,3 +28,17 @@
 - Retain source values verbatim; add normalized interpretations only as separately evidenced claims.
 
 The companion CSV records one actionable evidence request per held row. B7022 is resolved at commercial assortment/package level, but rows 31–32 remain held at individual Variant/source-item level. This is a review queue, not a correction pass.
+
+
+## Bahrain / Sakhir source-photo comparison (rows 35 and 41)
+
+Direct inspection of the archived page HTML establishes that the two product-table rows point to **different source-photo files**:
+
+- Row 35, “Bahrain 2004 package”: `Ferrari_Bahrain_2004_Terry_Sample_(2).png` ([source image](https://static.wikia.nocookie.net/hotwheels/images/e/e6/Ferrari_Bahrain_2004_Terry_Sample_%282%29.png/revision/latest?cb=20251009122856)).
+- Row 41, “Sakhir / Bahrain”: `2004_Ferrari_Terry_Sample_(1).jpg` ([source image](https://static.wikia.nocookie.net/hotwheels/images/c/c7/2004_Ferrari_Terry_Sample_%281%29.jpg/revision/latest?cb=20251015124518)).
+
+These are product-table image assets, not the three Gallery images already downloaded and reviewed. They therefore remain an explicit visual-inspection task.
+
+The separate Gallery images 26–28 are already grouped under `PR143-G12` (“Bahrain / Sakhir Ferrari sample views”). Visual review records an F2004-branded presentation box, a red Ferrari F1 car in display packaging, and a red Ferrari under a clear cover with Sakhir/Bahrain-style presentation branding. Gallery item 28 carries the caption “2004 Sakhir / Bahrain Sample piece”. This supports a shared **sample-family** interpretation, but it does not establish which product row corresponds to which Gallery view or prove that the two product rows represent the same exact physical sample/release.
+
+**Decision:** retain the shared provisional Variant-candidate group, keep Release candidates 035 and 041 separate, and do not create canonical entities or image-to-entity links. The direct product-table images must be retrieved and inspected before reconsidering the hold. Existing catalog research still finds B6222 as a 1:18 Bahrain/Sakhir item; no matching 1:43 retail SKU is confirmed.
