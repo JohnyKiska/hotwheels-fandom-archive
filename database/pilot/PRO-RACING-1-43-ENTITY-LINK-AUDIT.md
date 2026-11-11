@@ -59,3 +59,7 @@ Evidence:
 
 Additional comparator: BBR Models has a separately catalogued 1:43 Ferrari F2004 Bahrain GP #1 Schumacher “Dirty Version”, resin, limited to 300. This is a different manufacturer and not evidence of a Hot Wheels SKU. Alongside the Hot Wheels B6222 1:18 weathered version, it supports the general plausibility of intentional Bahrain race-weathering in miniature form. The Hot Wheels 1:43 sample's specific dirt pattern remains unverified.
 Source: https://store.motorsportmaranello.com/shop/f1-bbr-models-1-43-ferrari-f2004-gp-bahrain-2004-1-m-schumacher-dirty-version/
+
+
+Additional comparator: BBR Models catalogues a separate 1:43 Ferrari F2004 Bahrain GP #1 Schumacher “Dirty Version”, resin, limited to 300, manufacturer code BG263, barcode 8011984012631. This is a different manufacturer and not evidence of a Hot Wheels SKU. Alongside the Hot Wheels B6222 1:18 weathered version, it supports the plausibility of intentional Bahrain race-weathering in miniature form. The Hot Wheels 1:43 sample's specific dirt pattern remains unverified.
+Source: https://store.motorsportmaranello.com/shop/f1-bbr-models-1-43-ferrari-f2004-gp-bahrain-2004-1-m-schumacher-dirty-version/
