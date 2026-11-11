@@ -367,3 +367,17 @@ User-confirmed casting matches are recorded in the visual-review queue. The queu
 
 **Current conclusion:** User-confirmed identical castings.
 
+
+
+## Collector #131 — Fiat Beast of Turin
+
+| Toy # | Variant | Series / distribution |
+|---|---|---|
+| JJH48 | First listed version | Drop Tops 5/5 |
+| JJM66 | Second color — Zamac | Drop Tops 5/5; Walmart Exclusive |
+| JJL61 | Third color | Drop Tops 5/5 |
+
+**Casting finding:** The user has visually confirmed that all three versions have identical castings. Zamac finish, color and decoration remain variant attributes.
+
+**Current conclusion:** User-confirmed identical castings across all three versions.
+
