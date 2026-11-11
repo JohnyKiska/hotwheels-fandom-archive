@@ -145,3 +145,13 @@ A further source check sharpens the standard retail comparator, but still does n
 The wording **F1 World Champions** in product-table row 34 is therefore not enough to identify B1018. It may describe a distinct sample/deco or presentation context. The page's Gallery has a separate cluster of Ferrari 2003 World Champions sample images, including item 29 captioned as figures in the sample car and items 30–31 showing additional presentation/package views. Those images were already reviewed as display/sample context; they do not independently prove that row 34 is B1018, nor that it is the same object as row 33's “2003 Ferrari F1 Sample Terry (2)”.
 
 **Disposition unchanged:** row 33 remains hold; row 34 remains a separate candidate_variant. B1018 stays a retail comparator only. No exact SKU, release identity, or image-to-row canonical relation is assigned without the missing row-33 photo and a direct visual comparison of row 34's sample car/deco/base/package.
+
+
+## B7022 package photo cross-check (rows 30–32)
+
+The current B7022 evidence was rechecked against an actual six-photo eBay listing and Suruga-ya catalog record:
+
+- Suruga-ya identifies Mattel B7022, JAN `0027084052251`, scale 1:43, and the three contents: Ferrari F1-2000 #3 Malaysian GP (Shell), Ferrari F2001 #1 Belgian GP at Spa (Shell), and Ferrari F2002 #1 Canadian GP at Montreal (Vodafone/Shell-era livery). https://www.suruga-ya.jp/kaitori/kaitori_detail/770004005
+- The eBay listing photographs show the black/red Hot Wheels Racing presentation box with all three cars together. Close-up photographs show the printed GP labels and race numbers on the display base; the #1 F2001 Belgian GP and #1 F2002 Canadian GP details are visually legible. https://www.ebay.com/itm/204701681876
+- This is strong confirmation of the commercial B7022 assortment and its component specifications. It does **not** establish that the Terry Choy source rows 30–32 are photographs or records of this exact retail B7022 item. The source table only says “Part of a 3 Pack” and gives the three casting names; it contains no item number, barcode, GP, race number, or individual source photos for these rows.
+- Therefore rows 31–32 remain held at the individual Variant/source-item level. The candidate CSV now records the B7022 component specifications as external evidence while preserving the provenance hold. No canonical Variant, Release, or Assortment is created.
