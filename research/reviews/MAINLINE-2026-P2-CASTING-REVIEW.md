@@ -115,6 +115,21 @@ This resolves the conflicting catalog color labels at the level of the observed 
 
 **Current conclusion:** User-confirmed identical castings; wheel variants differ (10SP vs MC5). Record as one casting match with distinct wheel configurations.
 
+## Collector #102 — Pass'n Gasser
+
+| Toy # | Variant | Version |
+|---|---|---|
+| JJK30 | First listed version | Yellow, Drag Racers 3/10 |
+| JJM59 | Red Edition | Red, Target Exclusive 11/12 |
+
+**Casting finding:** HWC Garage lists both versions under casting number L9940. The user has visually compared the models and confirmed that the castings are identical.
+
+**Visual references:**
+- [JJK30 — yellow](https://www.hwcgarage.com/vehicule/passn-gasser-2026-jaune-jjk30)
+- [JJM59 — Red Edition](https://www.hwcgarage.com/vehicule/passn-gasser-2026-rouge-jjm59)
+
+**Current conclusion:** User-confirmed identical castings. Preserve the body color and Target Red Edition distribution distinction as separate variant/release attributes.
+
 ## Sources
 
 - [HWC Garage — Custom '66 Toronado casting overview](https://www.hwcgarage.com/en/casting/oldsmobile-toronado)
