@@ -163,3 +163,9 @@ The source rows' David/Mika driver fields align with these two distinct retail v
 - **Row 11, Ferrari F1-2000:** Hot Wheels 1:43 item **26748**, Michael Schumacher #3, is corroborated as the baseline retail model. A **26748M** Marlboro-livery listing and the **B0722 Michael Schumacher Ferrari Hat Trick** race-dirty set example are separate treatments/catalog contexts. Source image is not visually identified, so exact Release remains held.
 - **Row 12, Jaguar R1:** Hot Wheels 1:43 item **26752** is Eddie Irvine #7 (EAN 074299267529); item **26753** is Johnny Herbert #8 (EAN 074299267536). Multiple independent catalog records support both. Source image is not visually identified, so exact Release remains held.
 - Neither row was promoted to canonical Variant or Release.
+
+
+## Rows 13–14: release identity review
+
+- **Row 13, Jaguar R2:** source refers to a signed 2000 Final Engineering Pilot. The two cataloged Hot Wheels 1:43 retail R2s are 2001 items 50205 (Eddie Irvine #18) and 50206 (Pedro de la Rosa). An FEP is a pre-production engineering/graphics sample; it must not be treated as a retail Release without evidence. Hold prototype-to-retail relationship.
+- **Row 14, Ferrari F2001:** toy number **55573**, #1, “Single Pack”. Independent House of Modelcars and Armand Modelcars records agree on Hot Wheels 1:43, Michael Schumacher #1, 2001, EAN 074299555732. Strongly matched to source row and retained as staged Release candidate. Not canonicalized.
