@@ -394,3 +394,16 @@ User-confirmed casting matches are recorded in the visual-review queue. The queu
 
 **Current conclusion:** User-confirmed identical castings.
 
+
+
+## Collector #134 — '20 Dodge Charger Hellcat
+
+| Toy # | Variant | Series |
+|---|---|---|
+| JJJ87 | First listed version | Nightspeed 10/10 |
+| JJL71 | Second color | Nightspeed 10/10 |
+
+**Casting finding:** The user has visually confirmed that both versions have identical castings. Color and decoration differences remain variant attributes.
+
+**Current conclusion:** User-confirmed identical castings.
+
