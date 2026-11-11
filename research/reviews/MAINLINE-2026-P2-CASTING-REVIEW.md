@@ -341,3 +341,16 @@ User-confirmed casting matches are recorded in the visual-review queue. The queu
 **Casting finding:** The user has visually confirmed that both versions have identical castings. Color and decoration differences remain variant attributes.
 
 **Current conclusion:** User-confirmed identical castings.
+
+
+## Collector #128 — Datsun 620
+
+| Toy # | Variant | Series |
+|---|---|---|
+| JPJ80 | First listed version | Compact Kings 6/10 |
+| JJL26 | Second color | Compact Kings 6/10 |
+
+**Casting finding:** The user has visually confirmed that both versions have identical castings. Color and decoration differences remain variant attributes.
+
+**Current conclusion:** User-confirmed identical castings.
+
