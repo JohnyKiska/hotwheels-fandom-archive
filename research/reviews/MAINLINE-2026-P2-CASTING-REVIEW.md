@@ -63,14 +63,15 @@ This resolves the conflicting catalog color labels at the level of the observed 
 
 ## Collector #123 — Maserati Tipo 61
 
-| Toy # | Variant |
-|---|---|
-| JJH44 | First listed 2026 version |
-| JJL41 | Third color |
+| Toy # | Variant | Series / distribution |
+|---|---|---|
+| JJH44 | First listed version | HW Starting Grid 9/10 |
+| JJM39 | Second color | Red Edition 7/12; Target Exclusive |
+| JJL41 | Third color | HW Starting Grid 9/10 |
 
-**Casting finding:** The user has visually confirmed that JJH44 and JJL41 have identical castings. Treat them as a user-confirmed casting match; keep their color/deco variants separate.
+**Casting finding:** The user has visually confirmed that all three versions have identical castings. Differences in color, decoration and distribution remain variant/release attributes, not casting differences.
 
-**Current conclusion:** Identical castings, different color variants. Confirmation is based on the user's visual comparison.
+**Current conclusion:** User-confirmed identical castings across all three versions.
 
 ## Collector #125 — 2024 Aston Martin Vantage GT3
 
