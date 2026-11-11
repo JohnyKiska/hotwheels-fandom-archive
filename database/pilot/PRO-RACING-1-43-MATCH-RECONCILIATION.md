@@ -45,3 +45,17 @@ The reconciliation is encoded in `pro-racing-1-43-reconciliation-seed.sql` as 55
 - `MATCH-RECONCILIATION.csv`: machine-readable 18-group crosswalk.
 - `MATCH-RECONCILIATION.md`: method, decisions, and safeguards.
 - `pro-racing-1-43-reconciliation-seed.sql`: 55 group-level evidence claims, no canonical entities or image relations.
+
+
+## Archived product-table source photos: Bahrain / Sakhir rows 35 and 41
+
+The two original product-table photographs have now also been archived as JPG assets in `database/pilot/assets/pro-racing-1-43/`. The user explicitly confirmed the source-row mapping:
+
+| Source row | Archived JPG | Original Fandom image | Asset blob SHA |
+|---|---|---|---|
+| 35 | `Ferrari_Bahrain_2004_Terry_Sample_29.jpg` | [Original image](https://static.wikia.nocookie.net/hotwheels/images/e/e6/Ferrari_Bahrain_2004_Terry_Sample_%282%29.png) | `aca93daf4c93405abfff459b5e42d3fb9c3616be` |
+| 41 | `2004_Ferrari_Terry_Sample_29.jpg` | [Original image](https://static.wikia.nocookie.net/hotwheels/images/c/c7/2004_Ferrari_Terry_Sample_%281%29.jpg) | `c5cefb5db5e9a5ac99ad4c060caf1fb477317ce6` |
+
+This confirms which archived product-table photograph belongs to each source row. It is separate from the still-unresolved mapping of Gallery group PR143-G12 items 26–28. Keep rows 35 and 41 as separate staged Release candidates. Do not infer separate Variant identities, exact Mattel SKUs, or factory weathering status from this mapping alone.
+
+The mapping is machine-readable in `PRO-RACING-1-43-SOURCE-PHOTO-MAPPING.csv`. The mapping basis is the user's explicit identification; this record does not claim an independent pixel-level visual review by the assistant.
