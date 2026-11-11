@@ -15,7 +15,8 @@ Status: staged source interpretation only. No canonical Release or Assortment en
 - 11 rows assigned to four named provisional assortment groups: World Champions 2-Pack (2), Constructors Champions 4 Pack (4), Hot Wheels Racing B7022 3-Pack (3), and Hot Wheels Racing B6223 Ferrari F2004 Constructors Champions 2-Pack (2).
 - 22 rows held because release/packaging details are absent.
 - 4 rows held because the named context or package identity needs resolution.
-- 4 rows have explicit pack/release notes but still need package or release identity confirmation; the remaining 6 rows belong to the two candidate assortments.
+- 4 rows retained as source release candidates based on explicit single-pack or named release context.
+- 11 rows assigned to the four staged candidate assortments listed above.
 - No canonical Release or Assortment rows created.
 
 ## Assortment handling
