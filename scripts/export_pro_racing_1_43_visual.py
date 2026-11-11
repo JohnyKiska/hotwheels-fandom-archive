@@ -12,7 +12,7 @@ from html.parser import HTMLParser
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-DB = ROOT / "pro-racing-1-43-visual-export.sqlite"
+DB = ROOT / "database" / "pilot" / "pro-racing-1-43.sqlite"
 SCHEMA = ROOT / "database" / "schema.sql"
 SEEDS = [
     ROOT / "database" / "pilot" / "pro-racing-1-43-seed.sql",
@@ -226,7 +226,6 @@ def main() -> int:
         return 0
     finally:
         conn.close()
-        DB.unlink(missing_ok=True)
 
 
 if __name__ == "__main__":
