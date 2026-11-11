@@ -209,3 +209,15 @@ No canonical Variant, Release or Assortment created.
 - The named Terry source image was not visually inspected. Preserve the source entry and hold; it may be a sample/prototype or a misattributed item, but the evidence does not decide which.
 
 No canonical Variant, Release or Assortment created.
+
+## Row 25: McLaren Kimi FEP sample, no retail SKU assigned
+
+The source row records McLaren MP4/16, 2002, Kimi, with photo reference “2002 McLaren Terry Choy Proto (4)”. Three archived Gallery images (Proto 1–3) were visually inspected: a Kimi-marked car in a display package, package reverse, and underside. Their captions identify an FEP 2002 McLaren sample, “No UPC Code” and “Blank Base”. This supports prototype/engineering-sample status. The exact source-row photo (4) is not one of those three assets, so the row-to-Gallery identity remains provisional.
+
+The source casting/year combination conflicts with the real 2002 McLaren: that season's car was the MP4-17, driven by Kimi Räikkönen #4. Hot Wheels' known 1:43 MP4/16 releases are 2001 Mika Häkkinen #50209 and David Coulthard #50210. No retail Kimi 2002 MP4/16 SKU was verified. Preserve the source wording and hold the exact Variant/Release. Sources: [F1ERA 2002 McLaren season](https://f1era.com/team/mclaren/2002); [Formula Web Magazine](https://www.formulawebmagazine.com/f1team/13/west-mclaren-mercedes); [50209 We-R-Toys](https://wertoys.com/hot-wheels-racing-mclaren-mp4-16-mika-hakkinen-car-2000-mattel-50209/); [50210 Wheel Wonderland](https://www.wheelwonderland.com/en/specials/mclaren-mp4-16-50210/).
+
+## Rows 26–29: Ferrari Chrome Constructors Champions 4 Pack
+
+The source rows explicitly describe one Constructors Champions 4 Pack, representing Ferrari's constructor championships from 1999 through 2002: F399, F1-2000, F2001 and F2002. The archived Gallery image “Ferrari F1 Chrome Constructors Champs 4 pack (1)” was visually inspected. It shows four chrome Ferrari F1 models together in one display tray/case. This confirms the photographed subject is a four-car set-level sample, consistent with the four source rows.
+
+The image does not show readable item number, barcode or retail packaging, and its resolution does not support confident individual car-to-row mapping. No reliable retail SKU or standard retail release record for this exact chrome four-pack was established. Keep the four component Variant candidates and the shared Assortment candidate staged; do not create four individual image relations, assign a guessed Mattel item number, or promote a canonical Assortment. The single Gallery photograph is set-level evidence only.
