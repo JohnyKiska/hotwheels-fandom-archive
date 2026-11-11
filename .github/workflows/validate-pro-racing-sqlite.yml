@@ -11,6 +11,7 @@ on:
       - 'database/pilot/pro-racing-1-43-seed.sql'
       - 'database/pilot/pro-racing-1-43-reconciliation-seed.sql'
       - 'database/pilot/pro-racing-1-43-casting-candidates.sql'
+      - 'database/pilot/pro-racing-1-43-preview-links.sql'
       - 'database/pilot/PRO-RACING-1-43-VARIANT-CANDIDATES.csv'
       - 'database/pilot/PRO-RACING-1-43-RELEASE-ASSORTMENT-CANDIDATES.csv'
       - 'database/pilot/pro-racing-1-43-image-review.csv'
