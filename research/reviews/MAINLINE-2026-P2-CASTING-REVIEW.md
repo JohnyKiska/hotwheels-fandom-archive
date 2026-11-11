@@ -100,6 +100,21 @@ This resolves the conflicting catalog color labels at the level of the observed 
 
 **Current conclusion:** Identical castings, different color variants. Confirmation is based on the user's visual comparison. Note that HWC Garage's individual listings display differing casting-number metadata for the two versions; the user's mold comparison takes precedence for the casting-match status, while the source discrepancy remains documented for later reconciliation.
 
+## Collector #100 — Twin Dorado
+
+| Toy # | Variant | Source-reported finish | Wheels |
+|---|---|---|---|
+| JJJ61 | First listed 2026 version | White | 10SP |
+| JJL54 | Second color | Chrome | MC5 |
+
+**Casting finding:** HWC Garage assigns both versions casting number HYW49. The user has visually compared the models and confirmed that the castings are identical. The only physical difference identified in the comparison is the wheel type: JJJ61 has 10SP wheels and JJL54 has MC5 wheels.
+
+**Visual references:**
+- [JJJ61 — white](https://www.hwcgarage.com/pl/pojazd/twin-dorado-2026-blanc-jjj61)
+- [JJL54 — chrome](https://www.hwcgarage.com/en/vehicle/twin-dorado-2026-chrome-jjl54)
+
+**Current conclusion:** User-confirmed identical castings; wheel variants differ (10SP vs MC5). Record as one casting match with distinct wheel configurations.
+
 ## Sources
 
 - [HWC Garage — Custom '66 Toronado casting overview](https://www.hwcgarage.com/en/casting/oldsmobile-toronado)
