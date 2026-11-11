@@ -354,3 +354,16 @@ User-confirmed casting matches are recorded in the visual-review queue. The queu
 
 **Current conclusion:** User-confirmed identical castings.
 
+
+
+## Collector #130 — 2019 Audi R8 Spyder
+
+| Toy # | Variant | Series |
+|---|---|---|
+| JJJ84 | First listed version | Drop Tops 4/5 |
+| JJL60 | Second color | Drop Tops 4/5 |
+
+**Casting finding:** The user has visually confirmed that both versions have identical castings. Color and decoration differences remain variant attributes.
+
+**Current conclusion:** User-confirmed identical castings.
+
