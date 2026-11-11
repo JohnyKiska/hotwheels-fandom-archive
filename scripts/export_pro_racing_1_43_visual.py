@@ -80,7 +80,8 @@ def main() -> int:
         ).fetchall()
         source_records = []
         for row in product_rows:
-            headers = json.loads(row["raw_headers_json"])
+            # raw_cells_json preserves the original product-table column order.
+            headers = ["Casting", "Year", "Color", "Tampo", "Base Color", "Interior Color", "Wheel Type", "Toy #", "Country", "Notes", "Photo"]
             raw_cells = json.loads(row["raw_cells_json"])
             cells = {}
             for index, header in enumerate(headers):
