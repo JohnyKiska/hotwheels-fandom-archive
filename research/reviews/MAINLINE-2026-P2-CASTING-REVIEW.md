@@ -463,3 +463,15 @@
 **Casting finding:** The user has visually compared both versions and confirmed that the castings are identical. Preserve paint, color and decoration differences as separate variant attributes.
 
 **Current conclusion:** User-confirmed identical castings.
+
+
+## Collector #141 — Screamliner
+
+| Toy # | Variant | Series |
+|---|---|---|
+| JJJ94 | First listed version | HW Art Cars 2/10 |
+| JJL19 | Second color | HW Art Cars 2/10 |
+
+**Casting finding:** The user has visually compared both versions and confirmed that the castings are identical. Preserve paint, color and decoration differences as separate variant attributes.
+
+**Current conclusion:** User-confirmed identical castings.
