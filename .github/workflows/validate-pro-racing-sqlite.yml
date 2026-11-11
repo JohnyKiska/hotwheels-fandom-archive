@@ -2,7 +2,7 @@ name: Validate Pro Racing 1:43 SQLite pilot
 on:
   workflow_dispatch:
 permissions:
-  contents: read
+  contents: write
 jobs:
   sqlite-validation:
     runs-on: ubuntu-latest
@@ -13,10 +13,23 @@ jobs:
           ref: main
       - name: Execute schema and seed in SQLite
         run: python3 scripts/validate_pro_racing_1_43_sqlite.py
-      - name: Publish validation report
+      - name: Build visual export from SQLite
+        run: python3 scripts/export_pro_racing_1_43_visual.py
+      - name: Commit refreshed visual export
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add database/pilot/pro-racing-1-43-visual-export.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh Pro Racing 1:43 visual database export"
+            git push origin HEAD:main
+          fi
+      - name: Publish validation report and visual export
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: pro-racing-1-43-sqlite-validation
-          path: database/pilot/SQLITE-EXECUTION-REPORT.json
+          path: |
+            database/pilot/SQLITE-EXECUTION-REPORT.json
+            database/pilot/pro-racing-1-43-visual-export.json
           if-no-files-found: warn
