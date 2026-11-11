@@ -74,6 +74,9 @@ def main() -> int:
         report["checks"]["idempotent_seed"] = {
             "passed": all(report["counts"][k] == v for k, v in EXPECTED.items())
         }
+        report["checks"]["casting_candidates_are_source_assertions_only"] = {
+            "passed": scalar(conn, "SELECT COUNT(*) FROM evidence_claim WHERE predicate='source_casting_label' AND (claim_status<>'source_assertion' OR confidence<>'unverified' OR subject_type<>'casting_candidate')") == 0
+        }
         report["checks"]["all_reconciliation_claims_are_group_level"] = {
             "passed": scalar(conn, "SELECT COUNT(*) FROM evidence_claim WHERE predicate='catalog_reconciliation_disposition' AND subject_type<>'review_group'") == 0
         }
