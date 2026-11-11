@@ -117,3 +117,19 @@ A book-shaped Hot Wheels Racing presentation case is independently documented fo
 The archived product-table extraction for row 36 has Photo = Image Not Available and no image URL in its structured cell data. Therefore the source page currently supplies no photograph with which to visually inspect the alleged book package.
 
 **Updated disposition:** “book package” is a credible description of a presentation format used in the Hot Wheels Racing 1:43 ecosystem, but the specific Ferrari 412 T1 / row 36 association remains unverified. Do not assign T6284, N5583, or a La Storia identity. Preserve source year 2004 and “Represents 1994, in a Book pacakage” verbatim as separate source facts. A physical photograph, package label, or Mattel item code is required to proceed.
+
+## Row 33: Gallery cross-check for the Terry Choy Ferrari sample
+
+The product-table row identifies the casting as **Ferrari F2003-GA**, year 2003, and names a source photo **2003 Ferrari F1 Sample Terry (2)**. The extracted row has no image URL for that Photo field, and the archived pilot asset directory contains no (2) image.
+
+The same page's Gallery extraction contains two adjacent images:
+- Gallery item 20, **2003 Ferrari F1 Sample Terry (1).jpg**, captioned “2003 Ferrari Sample (Terry Choy collection)”. Its prior visual review records a close view of a red Ferrari Formula 1 car and a package label referencing Michael Schumacher.
+- Gallery item 21, **2003 Ferrari F1 Sample Terry (3).jpg**, captioned “Back”. Its prior visual review records a Ferrari Formula 1 car on a sample display box, with Ferrari shield and red livery visible; the exact F2003-GA casting was not independently legible.
+
+These two Gallery assets support a **2003 Ferrari sample group** and explain why the product-table photo stem is relevant. They do not substitute for the missing (2) source image, and do not establish the row's tampo, race number, base, plinth, packaging, or SKU.
+
+The adjacent product-table row 34 is separately labelled **Ferrari F2003-GA**, with note **F1 World Champions** and a different source photo, **Ferrari 2003 World Champions Terry Sample (1)**. The existing Gallery review treats that material as a distinct World Champions presentation/sample context. Do not merge row 33 into row 34 or assume both are the same deco/release.
+
+Retail comparator check remains unchanged: Mattel's product page identifies B1018 as a 1:43 Ferrari F1 model released in 2003; collector/catalog sources identify it as Ferrari F2003-GA, Michael Schumacher #1, Shell livery, JAN 0027084009231. This is a valid comparator for the casting/year, **not proof that Terry Choy's row 33 sample is B1018**. The B1018 comparison still lacks the missing (2) image and sample-specific base/package evidence.
+
+**Disposition:** keep row 33 as hold in the Variant candidates. Keep Gallery items 20–21 as reviewed group-level/casting-candidate evidence only. No canonical Variant, Release, SKU assignment, or row-specific image relation is authorized by the current evidence.
