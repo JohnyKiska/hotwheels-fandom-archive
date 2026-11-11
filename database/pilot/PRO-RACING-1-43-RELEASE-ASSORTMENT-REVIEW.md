@@ -149,3 +149,10 @@ No canonical Release or Assortment has been created. Source row 5 remains unchan
 - Wheel Wonderland lists these as the two known 1:43 MP4/15 editions for 2000: 26750 and 26751. [Wheel Wonderland](https://www.wheelwonderland.com/fr/castings/mclaren-mp4-15-1-43/).
 
 The source rows' David/Mika driver fields align with these two distinct retail variants. Row 8's “Mika Website Asset” is only a source photo label; it has not been treated as proof of a physical sample or package. Both release records remain staged candidates, not canonical entities.
+
+
+## Rows 9–10: Jordan EJ10 / Williams FW22 candidate releases
+
+- **Row 9, Jordan EJ10:** catalog research finds two Hot Wheels 1:43 releases for 2000: **26754 Heinz-Harald Frentzen #5** and **26755 Jarno Trulli #6**. ModelCarsDb lists both codes; House of Modelcars confirms 26755 with EAN 074299267550, scale 1:43 and original factory packaging; Formula143 independently records 26755/Trulli. Models118 and a sealed eBay product record corroborate 26754/Frentzen (UPC 0074299267543). The source row's “Jordan Website Asset” has not been visually identified, so the two releases remain alternatives and exact identity is held.
+- **Row 10, Williams FW22:** strong external candidate is Hot Wheels **26746**, Ralf Schumacher #9, 1:43, EAN 074299267468 / UPC 0074299267468. House of Modelcars, Yuui, bol, eBay and Wheel Wonderland corroborate the release; House of Modelcars notes original factory packaging. The source row has no item-specific attributes or image, so exact Terry Choy source linkage remains held.
+- Neither row was promoted to canonical Variant or Release. Do not infer a source-row match from a catalog SKU alone.
