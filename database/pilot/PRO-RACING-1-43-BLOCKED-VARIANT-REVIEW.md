@@ -1,6 +1,6 @@
 # Pro Racing 1:43: blocked Variant review queue
 
-**Scope:** the 13 product rows currently marked `hold` in `PRO-RACING-1-43-VARIANT-CANDIDATES.csv`.
+**Scope:** the product rows currently marked `hold` in `PRO-RACING-1-43-VARIANT-CANDIDATES.csv` (14 rows after adding the Stewart SF3 #18 source-number conflict).
 
 ## Audit result
 
@@ -12,12 +12,13 @@
 
 ## Priority order
 
-1. **Rows 3 and 6:** source notes explicitly say “Might be a 2nd version”. The missing information is what the alleged second version is, not proof that the casting label is wrong.
-2. **Rows 35 and 41:** compare the Bahrain package clue and Sakhir/Bahrain sample reference. Keep separate Release candidates until item-level evidence establishes their relationship. Row 41 is not in the 13-row hold set, but is the essential comparison row.
-3. **Rows 31 and 32:** the commercial set is now identified as Hot Wheels Racing B7022 (JAN 0027084052251). Its three contents and original black/red display box are supported by a catalog record and actual package photographs. The remaining gap is whether Terry Choy's source rows depict these exact retail cars/box, and whether any sample image can be linked to an individual car. Do not infer that link from assortment membership alone.
-4. **Rows 9, 12, 13, 24 and 33:** inspect named website/sample assets. Treat prototype/sample provenance as provenance, not as a Variant attribute.
-5. **Rows 10 and 19:** obtain independent physical/catalog evidence; the source provides only casting label and year.
-6. **Row 36:** resolve the “Represents 1994” book-package note against the source year 2004. Preserve both as separate source facts until the nature of each field is established.
+1. **Rows 3 and 6:** source notes explicitly say “Might be a 2nd version”.
+2. **Rows 4–5:** the Stewart SF3 source rows list #17 and #18. External records identify #17 as Johnny Herbert and Hot Wheels 1:43 item 24624; #18 is not a 1999 Stewart SF3 race number. Row 4 remains a candidate, row 5 is held for source-number conflict. The missing information is what the alleged second version is, not proof that the casting label is wrong.
+3. **Rows 35 and 41:** compare the Bahrain package clue and Sakhir/Bahrain sample reference. Keep separate Release candidates until item-level evidence establishes their relationship. Row 41 is not in the 13-row hold set, but is the essential comparison row.
+4. **Rows 31 and 32:** the commercial set is now identified as Hot Wheels Racing B7022 (JAN 0027084052251). Its three contents and original black/red display box are supported by a catalog record and actual package photographs. The remaining gap is whether Terry Choy's source rows depict these exact retail cars/box, and whether any sample image can be linked to an individual car. Do not infer that link from assortment membership alone.
+5. **Rows 9, 12, 13, 24 and 33:** inspect named website/sample assets. Treat prototype/sample provenance as provenance, not as a Variant attribute.
+6. **Rows 10 and 19:** obtain independent physical/catalog evidence; the source provides only casting label and year.
+7. **Row 36:** resolve the “Represents 1994” book-package note against the source year 2004. Preserve both as separate source facts until the nature of each field is established.
 
 ## Data handling rules
 
@@ -155,3 +156,14 @@ The current B7022 evidence was rechecked against an actual six-photo eBay listin
 - The eBay listing photographs show the black/red Hot Wheels Racing presentation box with all three cars together. Close-up photographs show the printed GP labels and race numbers on the display base; the #1 F2001 Belgian GP and #1 F2002 Canadian GP details are visually legible. https://www.ebay.com/itm/204701681876
 - This is strong confirmation of the commercial B7022 assortment and its component specifications. It does **not** establish that the Terry Choy source rows 30–32 are photographs or records of this exact retail B7022 item. The source table only says “Part of a 3 Pack” and gives the three casting names; it contains no item number, barcode, GP, race number, or individual source photos for these rows.
 - Therefore rows 31–32 remain held at the individual Variant/source-item level. The candidate CSV now records the B7022 component specifications as external evidence while preserving the provenance hold. No canonical Variant, Release, or Assortment is created.
+
+
+## Stewart SF3 source-number review (rows 4–5)
+
+The product-table extraction records two Stewart SF3 rows for 1999: row 4 with tampo **#17**, row 5 with tampo **#18**. Neither row has a usable product photo, toy number, driver name, or packaging reference.
+
+- **Row 4 / #17:** the 1999 Stewart SF3 #17 was driven by **Johnny Herbert**. Hot Wheels catalog item **24624** is independently identified as a 1:43 1999 Stewart SF3 #17 Johnny Herbert. eBay product identifiers list MPN 24624, scale 1:43, and year 1999; a separate factory-sealed listing gives the same car and EAN 074299246241. This is a strong staged release candidate, but the source row has no photo or driver field, so the Terry Choy sample-to-retail-item link is not proven. Sources: [eBay product record 24624](https://www.ebay.com/p/9026414817); [factory-sealed 24624 listing and EAN](https://www.ebay.co.uk/itm/116383918469); [1999 European GP entry/results](https://www.f1stats.ru/1999/1999eur.html).
+- **Important adjacent comparator:** Hot Wheels 1:43 item **24527** is not #17. Wheel Wonderland identifies it as Rubens Barrichello's #16 Stewart SF3. This distinction prevents the two Hot Wheels references from being conflated. Source: [Wheel Wonderland 24527](https://www.wheelwonderland.com/en/specials/stewart-sf3-24527/).
+- **Row 5 / #18:** the 1999 Stewart SF3 did not race as #18. Its drivers were #16 Rubens Barrichello and #17 Johnny Herbert; #18 belonged to Olivier Panis in the Prost AP02. No Hot Wheels 1:43 Stewart SF3 #18 release was found. This is a source-number conflict, not permission to silently change the row's number or casting. Keep it held pending the original source image or other direct evidence. Sources: [1999 European GP entry/results](https://www.f1stats.ru/1999/1999eur.html); [1999 season team/driver numbers](https://www.gasolinasuper.es/formula-1-1999/).
+
+**Disposition:** row 4 stays a provisional Variant candidate and receives Hot Wheels 24624 as a staged Release candidate; row 5 is moved to hold and added to the blocked review queue. No canonical Variant or Release was created, and no source field was overwritten.
