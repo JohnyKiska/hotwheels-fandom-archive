@@ -58,6 +58,17 @@ This resolves the conflicting catalog color labels at the level of the observed 
 
 **Current conclusion:** Identical castings, different body colors. Confirmation is based on the user's visual comparison.
 
+## Collector #123 — Maserati Tipo 61
+
+| Toy # | Variant |
+|---|---|
+| JJH44 | First listed 2026 version |
+| JJL41 | Third color |
+
+**Casting finding:** The user has visually confirmed that JJH44 and JJL41 have identical castings. Treat them as a user-confirmed casting match; keep their color/deco variants separate.
+
+**Current conclusion:** Identical castings, different color variants. Confirmation is based on the user's visual comparison.
+
 ## Sources
 
 - [HWC Garage — Custom '66 Toronado casting overview](https://www.hwcgarage.com/en/casting/oldsmobile-toronado)
