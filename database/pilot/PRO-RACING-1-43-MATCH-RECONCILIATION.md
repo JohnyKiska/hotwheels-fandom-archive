@@ -27,7 +27,7 @@ A group-level association is not automatically an image-to-release relationship.
 ## Important controls
 
 - G09 is one four-pack image. Rows 26-29 are the four content/model records; do not create four image links from the single Gallery item.
-- G17 is one six-car set with 14 evidence images. Candidate annual model rows are 1, 7, 14, 22, 33 and 37. These are content candidates, not proof that each view maps to a particular row.
+- G17 is one six-car set with 14 evidence images. Candidate annual model rows are 6, 11, 14, 22, 33 and 37. This corrects the earlier draft's erroneous first two row references. These are content candidates, not proof that each view maps to a particular row.
 - G11 remains group-level because the two Williams/Compaq images cannot yet be assigned reliably to #5 versus #6.
 - G12 remains family-level because the Bahrain/Sakhir views cannot yet be split between rows 35 and 41.
 - G16 is website/card artwork. It may reference the Ferrari F1-2000 subject but is not proof of a physical release.
@@ -38,9 +38,10 @@ A group-level association is not automatically an image-to-release relationship.
 
 ## Database disposition
 
-This is a reconciliation artifact only. It does not modify the 41 source product rows, 55 Gallery extraction rows, image review ledger, seed SQL, or canonical entity tables. Recommended next database step: encode these group-level decisions as reviewable evidence relations (with confidence, evidence basis, and review state), then validate the pilot seed in an actual SQLite database before approving canonical image relations.
+The reconciliation is encoded in `pro-racing-1-43-reconciliation-seed.sql` as 55 idempotent `evidence_claim` records, one per Gallery source row, grouped under 18 review-group subjects. Accepted group/family/set/subject-reference dispositions are `cross_checked` with `probable` confidence; confirmed ancillary classifications are `cross_checked` with `verified` confidence; unresolved holds and the scope exception remain `hypothesis` with `unverified` confidence. These records preserve candidate rows, evidence basis, and unresolved questions in `value_text`. They do not create castings, variants, releases, assortments, or `image_relation` records. The SQLite validation script now executes both seeds twice and checks 55 claims across 18 groups, including the 43/12 cross-checked/hypothesis split. The updated workflow must be run manually to execute the new checks.
 
 ## Files
 
 - `MATCH-RECONCILIATION.csv`: machine-readable 18-group crosswalk.
 - `MATCH-RECONCILIATION.md`: method, decisions, and safeguards.
+- `pro-racing-1-43-reconciliation-seed.sql`: 55 group-level evidence claims, no canonical entities or image relations.
