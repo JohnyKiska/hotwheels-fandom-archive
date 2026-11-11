@@ -162,3 +162,19 @@ User-confirmed casting matches are recorded in the visual-review queue. The queu
 **Metadata discrepancy:** HWC Garage's individual listings show different casting-number metadata (P2088 for JJJ63; C2649 for JJL79). This conflicts with the user's direct visual confirmation and remains an unresolved catalog-source discrepancy. The queue records the casting match as user-confirmed.
 
 **Current conclusion:** User-confirmed identical castings; preserve paint/deco as variant attributes.
+
+
+## Collector #105 — '85 Honda City Turbo II
+
+| Toy # | Variant | Source-reported color |
+|---|---|---|
+| JJJ66 | First listed version | Black |
+| JJL47 | Second color | White |
+
+**Casting finding:** HWC Garage lists both versions under casting number FJV43. The user has visually confirmed that the castings are identical.
+
+**Visual references:**
+- [JJJ66 — black](https://www.hwcgarage.com/en/vehicle/85-honda-city-turbo-ii-2026-noir-jjj66)
+- [JJL47 — white](https://www.hwcgarage.com/en/vehicle/85-honda-city-turbo-ii-2026-blanc-jjl47)
+
+**Current conclusion:** User-confirmed identical castings; preserve paint/deco differences as variant attributes.
