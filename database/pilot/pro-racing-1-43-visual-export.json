@@ -619,7 +619,7 @@
       "releaseDisposition": "source_release_candidate",
       "releaseCandidateId": "pr143-release-candidate-014",
       "assortmentCandidateId": "",
-      "releaseReviewRationale": "explicit single-pack note; toy number 55573",
+      "releaseReviewRationale": "Toy #55573 is independently confirmed as Hot Wheels Ferrari F2001 #1 Michael Schumacher, 1:43, EAN 074299555732, supplied in original factory packaging. This matches the source row's casting, year, number, toy number and Single Pack note. Distinguish it from other F2001 releases and multi-car sets.",
       "verificationStatus": "source_assertion_only",
       "canonicalEntityCreated": false,
       "visualStatus": "requires_review",
