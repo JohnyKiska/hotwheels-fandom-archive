@@ -28,7 +28,7 @@ The database is reproducibly built from `database/schema.sql` and all three pilo
 - 41 casting-label source assertions grouped into 18 provisional candidates.
 
 Latest validation:
-- Workflow run: [42951275251](https://github.com/JohnyKiska/hotwheels-fandom-archive/actions/runs/42951275251)
+- Workflow run: [42951331866](https://github.com/JohnyKiska/hotwheels-fandom-archive/actions/runs/42951275251)
 - Result: `passed: true`
 - Foreign-key check: 0 errors
 - SQLite integrity check: `ok`
@@ -53,7 +53,7 @@ The export contains:
 The validation workflow rebuilds SQLite and the JSON export on relevant source/review changes, commits a changed JSON snapshot, and uploads the SQLite file, JSON export and validation report as a workflow artifact.
 
 Latest downloadable database artifact:
-- [SQLite database + JSON export + validation report](https://github.com/JohnyKiska/hotwheels-fandom-archive/actions/runs/42951275251/artifacts/13824493427)
+- [SQLite database + JSON export + validation report](https://github.com/JohnyKiska/hotwheels-fandom-archive/actions/runs/42951275251/artifacts/13824853411)
 
 ## What is deliberately not done
 
