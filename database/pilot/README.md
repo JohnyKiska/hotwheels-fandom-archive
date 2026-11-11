@@ -1,7 +1,7 @@
 # Pro Racing 1:43 pilot staging report
 
 Date: 2026-11-10  
-Status: STAGED, NOT YET LOADED INTO A RUNNING DATABASE
+Status: SOURCE SEED EXECUTED IN TEMPORARY SQLITE VALIDATION; RECONCILIATION SEED ADDED, UPDATED VALIDATION PENDING
 
 ## Source inputs
 
@@ -17,7 +17,7 @@ Source blob fingerprints used by the seed:
 
 ## Output
 
-The SQL seed in this directory inserts:
+The source SQL seed in this directory inserts:
 - 2 staged import batches;
 - 2 source-document records;
 - 41 source-preserving product-table rows;
@@ -25,6 +25,8 @@ The SQL seed in this directory inserts:
 - 55 image metadata records.
 
 All raw product cell JSON and Gallery row fields are retained. Gallery metadata includes filename, image key, URL, file-page URL, alt, title, and caption HTML.
+
+The reconciliation seed adds 55 idempotent group-level `evidence_claim` records across 18 reviewed groups. It records the match disposition, candidate source rows, evidence basis, and unresolved questions. It does not create canonical entities or image relations.
 
 ## What is deliberately not done
 
@@ -39,9 +41,12 @@ All raw product cell JSON and Gallery row fields are retained. Gallery metadata 
 1. Create an empty SQLite database.
 2. Apply `database/schema.sql`.
 3. Apply `database/pilot/pro-racing-1-43-seed.sql`.
-4. Check the counts:
+4. Apply `database/pilot/pro-racing-1-43-reconciliation-seed.sql`.
+5. Check the counts:
    - `SELECT COUNT(*) FROM source_row WHERE source_document_id='doc-pr143-products';` → 41
    - `SELECT COUNT(*) FROM source_row WHERE source_document_id='doc-pr143-gallery';` → 55
    - `SELECT COUNT(*) FROM image_asset WHERE source_document_id='doc-pr143-gallery';` → 55
+   - `SELECT COUNT(*) FROM evidence_claim WHERE predicate='catalog_reconciliation_disposition';` → 55
+   - `SELECT COUNT(DISTINCT subject_id) FROM evidence_claim WHERE predicate='catalog_reconciliation_disposition';` → 18
 
-The import batches remain `staged` until a real database execution and post-import checks are completed.
+The source-seed SQLite execution passed in the temporary validation workflow. The updated workflow now also validates the reconciliation seed; its new run is pending. Import batches deliberately remain `staged`.
