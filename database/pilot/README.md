@@ -17,7 +17,7 @@ Source blob fingerprints used by the seed:
 
 ## SQLite database contents and validation
 
-The database is reproducibly built from `database/schema.sql` and all three pilot seeds:
+The database is reproducibly built from `database/schema.sql` and four pilot seeds:
 
 - 2 staged import batches and 2 source documents;
 - 41 source-preserving product rows;
@@ -25,7 +25,8 @@ The database is reproducibly built from `database/schema.sql` and all three pilo
 - 55 downloaded WebP files, all visually inspected;
 - 55 group-level reconciliation evidence claims across 18 review groups;
 - 43 `cross_checked` claims and 12 `hypothesis` claims;
-- 41 casting-label source assertions grouped into 18 provisional candidates.
+- 41 casting-label source assertions grouped into 18 provisional candidates;
+- 26 explicit image-preview links across 22 of the 41 source rows, stored in `image_preview_link` and kept separate from canonical `image_relation`.
 
 Latest validation:
 - Workflow run: [42951331866](https://github.com/JohnyKiska/hotwheels-fandom-archive/actions/runs/42951275251)
@@ -35,7 +36,7 @@ Latest validation:
 - Seed idempotency: passed
 - Canonical castings, variants, releases, assortments and image relations: **0**
 
-The two visually confirmed ancillary classifications are groups `PR143-G04` (separate driver figure) and `PR143-G15` (standalone helmet). They are not vehicle releases and are not linked to a product entity.
+The 26 preview links cover 14 reviewed groups. The preview chosen for a source-row card is a representative image for its group, not necessarily a photograph of that exact release. Set/family/group previews are labelled as such. Low-confidence prototype previews remain explicitly unverified. Digital card artwork (G16), the Ford scope exception (G02), and ancillary figure/helmet groups (G04/G15) are deliberately excluded from vehicle-card previews. The two ancillary classifications remain outside vehicle product relations.
 
 ## Public visual export
 
@@ -48,7 +49,8 @@ GitHub Pages cannot query a SQLite file directly, so the frontend reads the gene
 The export contains:
 - 41 source-row cards, clearly marked as source assertions requiring review;
 - 55 image-evidence cards, marked as visually inspected but not automatically linked to a product;
-- 0 fully verified canonical product releases.
+- 0 fully verified canonical product releases;
+- 26 non-canonical image preview links, 22 source rows with previews.
 
 The validation workflow rebuilds SQLite and the JSON export on relevant source/review changes, commits a changed JSON snapshot, and uploads the SQLite file, JSON export and validation report as a workflow artifact.
 
@@ -71,7 +73,8 @@ Latest downloadable database artifact:
 3. Apply `database/pilot/pro-racing-1-43-seed.sql`.
 4. Apply `database/pilot/pro-racing-1-43-reconciliation-seed.sql`.
 5. Apply `database/pilot/pro-racing-1-43-casting-candidates.sql`.
-6. Run `python3 scripts/validate_pro_racing_1_43_sqlite.py`.
-7. Run `python3 scripts/export_pro_racing_1_43_visual.py`.
+6. Apply `database/pilot/pro-racing-1-43-preview-links.sql`.
+7. Run `python3 scripts/validate_pro_racing_1_43_sqlite.py`.
+8. Run `python3 scripts/export_pro_racing_1_43_visual.py`.
 
 The GitHub Actions workflow performs these steps automatically on relevant changes and can also be started manually.
