@@ -1,0 +1,22 @@
+name: Validate Pro Racing 1:43 SQLite pilot
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  sqlite-validation:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Execute schema and seed in SQLite
+        run: python3 scripts/validate_pro_racing_1_43_sqlite.py
+      - name: Publish validation report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: pro-racing-1-43-sqlite-validation
+          path: database/pilot/SQLITE-EXECUTION-REPORT.json
+          if-no-files-found: warn
