@@ -511,3 +511,15 @@
 **Casting finding:** The user has visually compared both versions and confirmed that the castings are identical. Preserve paint, color and decoration differences as separate variant attributes.
 
 **Current conclusion:** User-confirmed identical castings.
+
+
+## Collector #149 — undefined
+
+| Toy # | Variant | Series |
+|---|---|---|
+| JJJ99 | undefined | HW J-Imports |
+| JJM63 | undefined | Red Edition Target Exclusive |
+
+**Casting finding:** The user has visually compared both versions and confirmed that the castings are identical. Preserve paint, color and decoration differences as separate variant attributes.
+
+**Current conclusion:** User-confirmed identical castings.
