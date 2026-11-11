@@ -42,7 +42,7 @@ def split_mainline_series(value: str) -> dict:
         (re.compile(r"\s+(Treasure Hunt|TH)\s*$", re.I), "Treasure Hunt"),
         (re.compile(r"\s+New for ((?:19|20)\d{2})!?\s*$", re.I), None),
         (re.compile(r"\s+New in Mainline\s*$", re.I), "New in Mainline"),
-        (re.compile(r"\s+(Walmart|Target|Kroger|Dollar General|Family Dollar|GameStop|Amazon|Meijer|Walgreens|CVS|H-E-B|Aldi|Tesco|Carrefour) Exclusive\s*$", re.I), "exclusive"),
+        (re.compile(r"\s+((?:Dollar General|Family Dollar|Dollar Tree|Walmart|Target|Kroger|GameStop|Amazon|Meijer|Walgreens|CVS|H-E-B|Aldi|Tesco|Carrefour)(?:\s*/\s*(?:Dollar General|Family Dollar|Dollar Tree|Walmart|Target|Kroger|GameStop|Amazon|Meijer|Walgreens|CVS|H-E-B|Aldi|Tesco|Carrefour))*)\s+Exclusive\s*$", re.I), "exclusive"),
         (re.compile(r"\s+Red Edition\s*$", re.I), "Red Edition"),
     ]
     changed = True
@@ -53,7 +53,7 @@ def split_mainline_series(value: str) -> dict:
             if not match:
                 continue
             if label == "exclusive":
-                exclusives.append(match.group(1) + " Exclusive")
+                exclusives.append(re.sub(r"\s*/\s*", "/", match.group(1)) + " Exclusive")
             elif label is None:
                 tags.append("New for " + match.group(1))
             else:
