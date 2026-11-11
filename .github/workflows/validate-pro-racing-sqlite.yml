@@ -47,4 +47,5 @@ jobs:
           path: |
             database/pilot/SQLITE-EXECUTION-REPORT.json
             database/pilot/pro-racing-1-43-visual-export.json
+            database/pilot/pro-racing-1-43.sqlite
           if-no-files-found: warn
