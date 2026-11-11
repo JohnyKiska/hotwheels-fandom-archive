@@ -38,12 +38,12 @@ def split_mainline_series(value: str) -> dict:
     release_type = ""
     exclusives = []
     patterns = [
-        (re.compile(r"\\s+(Super Treasure Hunt|STH)\\s*$", re.I), "Super Treasure Hunt"),
-        (re.compile(r"\\s+(Treasure Hunt|TH)\\s*$", re.I), "Treasure Hunt"),
-        (re.compile(r"\\s+New for ((?:19|20)\\d{2})!?\\s*$", re.I), None),
-        (re.compile(r"\\s+New in Mainline\\s*$", re.I), "New in Mainline"),
-        (re.compile(r"\\s+(Walmart|Target|Kroger|Dollar General|Family Dollar|GameStop|Amazon|Meijer|Walgreens|CVS|H-E-B|Aldi|Tesco|Carrefour) Exclusive\\s*$", re.I), "exclusive"),
-        (re.compile(r"\\s+Red Edition\\s*$", re.I), "Red Edition"),
+        (re.compile(r"\s+(Super Treasure Hunt|STH)\s*$", re.I), "Super Treasure Hunt"),
+        (re.compile(r"\s+(Treasure Hunt|TH)\s*$", re.I), "Treasure Hunt"),
+        (re.compile(r"\s+New for ((?:19|20)\d{2})!?\s*$", re.I), None),
+        (re.compile(r"\s+New in Mainline\s*$", re.I), "New in Mainline"),
+        (re.compile(r"\s+(Walmart|Target|Kroger|Dollar General|Family Dollar|GameStop|Amazon|Meijer|Walgreens|CVS|H-E-B|Aldi|Tesco|Carrefour) Exclusive\s*$", re.I), "exclusive"),
+        (re.compile(r"\s+Red Edition\s*$", re.I), "Red Edition"),
     ]
     changed = True
     while changed:
