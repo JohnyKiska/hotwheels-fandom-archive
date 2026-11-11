@@ -535,3 +535,14 @@
 **Casting finding:** The user has visually compared both versions and confirmed that the castings are identical. Preserve paint, color and decoration differences as separate variant attributes.
 
 **Current conclusion:** User-confirmed identical castings.
+
+## Collector #151 — Ford F-150 Lightning SuperTruck
+
+| Toy # | Variant | Series |
+|---|---|---|
+| JJH52 | First listed version | Truckin' Along 5/5 |
+| JJL92 | Second color | Truckin' Along 5/5 |
+
+**Casting finding:** The user has visually compared both versions and confirmed that the castings are identical. Preserve paint, color and decoration differences as separate variant attributes.
+
+**Current conclusion:** User-confirmed identical castings.
