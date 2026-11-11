@@ -133,3 +133,15 @@ The adjacent product-table row 34 is separately labelled **Ferrari F2003-GA**, w
 Retail comparator check remains unchanged: Mattel's product page identifies B1018 as a 1:43 Ferrari F1 model released in 2003; collector/catalog sources identify it as Ferrari F2003-GA, Michael Schumacher #1, Shell livery, JAN 0027084009231. This is a valid comparator for the casting/year, **not proof that Terry Choy's row 33 sample is B1018**. The B1018 comparison still lacks the missing (2) image and sample-specific base/package evidence.
 
 **Disposition:** keep row 33 as hold in the Variant candidates. Keep Gallery items 20–21 as reviewed group-level/casting-candidate evidence only. No canonical Variant, Release, SKU assignment, or row-specific image relation is authorized by the current evidence.
+
+## Rows 33–34: B1018 retail comparator and World Champions distinction
+
+A further source check sharpens the standard retail comparator, but still does not identify either Terry Choy sample as B1018:
+
+- Mattel's official product support record lists **Hot Wheels F1 1:43 Race Ferrari**, Product # **B1018**, released **2003**.
+- Suruga-ya identifies B1018 as **Ferrari F2003-GA Shell #1**, red, Michael Schumacher, with Shell logos, a black named base, and a clear display case; JAN **0027084009231**. Its page separately displays a 2007-10-31 release-date field, which conflicts with Mattel's official 2003 release field. Retain Mattel's product-year value for the release-year comparator and treat Suruga-ya's date as a catalog-field discrepancy, not proof of a second B1018 issue.
+- Diecast.com.ua independently labels B1018 as Ferrari F2003-GA #1, Scuderia Ferrari Marlboro, World Champion Formula 1 2003, Michael Schumacher. This is useful as a retail-deco reference, but it does not show that the Terry Choy sample has the same livery or SKU.
+
+The wording **F1 World Champions** in product-table row 34 is therefore not enough to identify B1018. It may describe a distinct sample/deco or presentation context. The page's Gallery has a separate cluster of Ferrari 2003 World Champions sample images, including item 29 captioned as figures in the sample car and items 30–31 showing additional presentation/package views. Those images were already reviewed as display/sample context; they do not independently prove that row 34 is B1018, nor that it is the same object as row 33's “2003 Ferrari F1 Sample Terry (2)”.
+
+**Disposition unchanged:** row 33 remains hold; row 34 remains a separate candidate_variant. B1018 stays a retail comparator only. No exact SKU, release identity, or image-to-row canonical relation is assigned without the missing row-33 photo and a direct visual comparison of row 34's sample car/deco/base/package.
