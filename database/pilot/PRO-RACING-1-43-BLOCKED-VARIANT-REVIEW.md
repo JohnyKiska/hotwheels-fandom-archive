@@ -14,7 +14,7 @@
 
 1. **Rows 3 and 6:** source notes explicitly say “Might be a 2nd version”. The missing information is what the alleged second version is, not proof that the casting label is wrong.
 2. **Rows 35 and 41:** compare the Bahrain package clue and Sakhir/Bahrain sample reference. Keep separate Release candidates until item-level evidence establishes their relationship. Row 41 is not in the 13-row hold set, but is the essential comparison row.
-3. **Rows 31 and 32:** resolve the unidentified 3-Pack and inspect the individual cars. Packaging membership alone does not establish deco.
+3. **Rows 31 and 32:** the commercial set is now identified as Hot Wheels Racing B7022 (JAN 0027084052251). Its three contents and original black/red display box are supported by a catalog record and actual package photographs. The remaining gap is whether Terry Choy's source rows depict these exact retail cars/box, and whether any sample image can be linked to an individual car. Do not infer that link from assortment membership alone.
 4. **Rows 9, 12, 13, 24 and 33:** inspect named website/sample assets. Treat prototype/sample provenance as provenance, not as a Variant attribute.
 5. **Rows 10 and 19:** obtain independent physical/catalog evidence; the source provides only casting label and year.
 6. **Row 36:** resolve the “Represents 1994” book-package note against the source year 2004. Preserve both as separate source facts until the nature of each field is established.
@@ -27,4 +27,4 @@
 - Do not interpret a sample/prototype label as proof of a retail release.
 - Retain source values verbatim; add normalized interpretations only as separately evidenced claims.
 
-The companion CSV records one actionable evidence request per held row. This is a review queue, not a correction pass.
+The companion CSV records one actionable evidence request per held row. B7022 is resolved at commercial assortment/package level, but rows 31–32 remain held at individual Variant/source-item level. This is a review queue, not a correction pass.
