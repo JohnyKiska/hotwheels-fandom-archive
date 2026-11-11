@@ -281,3 +281,15 @@ User-confirmed casting matches are recorded in the visual-review queue. The queu
 **Source discrepancy:** The existing photo-evidence note for JJM19 flags a collector-number conflict: the marketplace image appears to show 118/250, while the archive, Fandom and several specialist catalogs use #116; HWtreasure/Collects.in list #119. This discrepancy does not change the user's visual casting confirmation, but the collector-number attribution remains provisional.
 
 **Current conclusion:** User-confirmed identical castings; standard and Super Treasure Hunt versions remain distinct releases.
+
+
+## Collector #117 — Erikenstein Rod
+
+| Toy # | Variant | Series |
+|---|---|---|
+| JJJ75 | First listed version | Rod Squad 1/10 |
+| JJL10 | Second color | Rod Squad 1/10 |
+
+**Casting finding:** The user has visually confirmed that JJJ75 and JJL10 have identical castings. Preserve paint, color and decoration differences as separate variant attributes.
+
+**Current conclusion:** User-confirmed identical castings.
