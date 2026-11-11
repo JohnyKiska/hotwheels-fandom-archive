@@ -15,7 +15,7 @@ from collections import defaultdict
 from pathlib import Path
 
 VARIANT_SUFFIX = re.compile(
-    r"\\s*\\((?:\\d+(?:st|nd|rd|th)\\s+Color|Super Treasure Hunt|Treasure Hunt)[^)]*\\)\\s*$",
+    r"\s*\((?:\d+(?:st|nd|rd|th)\s+Color|Super Treasure Hunt|Treasure Hunt)[^)]*\)\s*$",
     re.IGNORECASE,
 )
 
@@ -26,7 +26,7 @@ def normalized_model(name: str) -> str:
     while value != previous:
         previous = value
         value = VARIANT_SUFFIX.sub("", value).strip()
-    return re.sub(r"\\s+", " ", value).casefold()
+    return re.sub(r"\s+", " ", value).casefold()
 
 
 def unique(values):
@@ -60,7 +60,7 @@ def main() -> None:
         "User Visual Review Statuses", "Internet Photo Sources",
     ]
     output_rows = []
-    for collector, members in sorted(groups.items(), key=lambda item: int(item[0]) if item[0].isdigit() else item[0]):
+    for collector, members in sorted(groups.items(), key=lambda item: (0, int(item[0])) if item[0].isdigit() else (1, item[0].casefold())):
         names = unique(row.get("Model Name", "") for row in members)
         normalized_names = unique(normalized_model(row.get("Model Name", "")) for row in members)
         catalog_series = unique(row.get("Catalog Series", "") for row in members)
