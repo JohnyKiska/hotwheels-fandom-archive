@@ -546,3 +546,15 @@
 **Casting finding:** The user has visually compared both versions and confirmed that the castings are identical. Preserve paint, color and decoration differences as separate variant attributes.
 
 **Current conclusion:** User-confirmed identical castings.
+
+## Collector #155 — Vairstrike
+
+| Toy # | Variant | Series |
+|---|---|---|
+| JJH53 | First listed version | HW Mods 1/10 |
+| JJM36 | Second color - Zamac | HW Mods 1/10; Walmart Exclusive |
+| JJL78 | Third color | HW Mods 1/10 |
+
+**Casting finding:** The user has visually compared all three versions and confirmed that the castings are identical. Preserve paint, color, decoration and wheel differences as separate variant attributes.
+
+**Current conclusion:** User-confirmed identical castings.
