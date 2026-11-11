@@ -293,3 +293,14 @@ User-confirmed casting matches are recorded in the visual-review queue. The queu
 **Casting finding:** The user has visually confirmed that JJJ75 and JJL10 have identical castings. Preserve paint, color and decoration differences as separate variant attributes.
 
 **Current conclusion:** User-confirmed identical castings.
+
+## Collector #118 — Pedal Driver
+
+| Toy # | Variant | Series |
+|---|---|---|
+| JJJ77 | Standard release | Rod Squad 2/10 |
+| JJL11 | Second color | Rod Squad 2/10 |
+
+**Casting finding:** The user has visually confirmed that JJJ77 and JJL11 have identical castings. Preserve paint, color and decoration differences as separate variant attributes.
+
+**Current conclusion:** User-confirmed identical castings.
