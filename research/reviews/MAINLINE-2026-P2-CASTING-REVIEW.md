@@ -212,3 +212,19 @@ User-confirmed casting matches are recorded in the visual-review queue. The queu
 - [JJL81](https://www.hwcgarage.com/en/vehicle/1966-bat-boat-2026-jjl81)
 
 **Current conclusion:** User-confirmed identical castings.
+
+## Collector #109 — Time Shifter
+
+| Toy # | Variant | Series |
+|---|---|---|
+| JJJ69 | First listed version | Wagons 2/10 |
+| JJL65 | Second color | Wagons 2/10 |
+
+**Casting finding:** The user has visually compared both versions and confirmed that the castings are identical. Preserve paint/deco differences as separate variant attributes.
+
+**Visual references:**
+- [JJJ69](https://www.hwcgarage.com/en/vehicle/time-shifter-2026-jjj69)
+- [JJL65](https://www.hwcgarage.com/en/vehicle/time-shifter-2026-jjl65)
+
+**Current conclusion:** User-confirmed identical castings.
+
