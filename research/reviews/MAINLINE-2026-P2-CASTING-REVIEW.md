@@ -178,3 +178,21 @@ User-confirmed casting matches are recorded in the visual-review queue. The queu
 - [JJL47 — white](https://www.hwcgarage.com/en/vehicle/85-honda-city-turbo-ii-2026-blanc-jjl47)
 
 **Current conclusion:** User-confirmed identical castings; preserve paint/deco differences as variant attributes.
+
+
+## Collector #106 — Mazda RX-3
+
+| Toy # | Variant | Release / series |
+|---|---|---|
+| JJJ82 | First listed version | Compact Kings 5/10 |
+| JJL80 | Third color | Compact Kings 5/10 |
+| JJM58 | Red Edition | Target Exclusive 8/12 |
+
+**Casting finding:** HWC Garage lists all three versions under casting number DJF78. The user has visually confirmed that all three castings are identical. Preserve paint/deco and distribution differences as separate variant/release attributes.
+
+**Visual references:**
+- [JJJ82 — silver](https://www.hwcgarage.com/en/vehicle/mazda-rx-3-2026-argent-jjj82)
+- [JJL80 — blue](https://www.hwcgarage.com/en/vehicle/mazda-rx-3-2026-bleu-jjl80)
+- [JJM58 — red Target Red Edition](https://www.hwcgarage.com/en/vehicle/mazda-rx-3-2026-rouge-jjm58)
+
+**Current conclusion:** User-confirmed identical castings across all three versions.
