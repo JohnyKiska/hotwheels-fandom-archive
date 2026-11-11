@@ -36,6 +36,12 @@ HWC Garage's casting overview lists two Eggshelleracer versions and states they 
 
 **Current conclusion:** The shared-casting relationship is catalog-supported, but the exact appearance metadata is inconsistent across sources. Keep this pair open for image-level comparison and, ideally, user inspection. Do not merge the color descriptions.
 
+**Visual comparison note (user observation, 2026-11-11):** The two reference images/models were distinguished as follows:
+- **JJH47:** white base/underside; yellow-and-silver body; brown egg.
+- **JJL25:** yellow base/underside; orange-and-silver body; white egg.
+
+This resolves the conflicting catalog color labels at the level of the observed visible components: the body/egg colors differ, and the base color differs as well. It does not by itself establish whether the underlying casting is identical; that remains catalog-supported pending a mold-detail comparison. The observation is attributed to the user's visual review, not described as a physical side-by-side inspection.
+
 ## Sources
 
 - [HWC Garage — Custom '66 Toronado casting overview](https://www.hwcgarage.com/en/casting/oldsmobile-toronado)
