@@ -329,3 +329,15 @@ User-confirmed casting matches are recorded in the visual-review queue. The queu
 **Casting finding:** The user has visually compared both versions and confirmed that the castings are identical. Preserve the Zamac finish, paint/deco and distribution distinction as separate variant/release attributes.
 
 **Current conclusion:** User-confirmed identical castings.
+
+
+## Collector #127 — Custom '72 Chevy LUV
+
+| Toy # | Variant | Series |
+|---|---|---|
+| JJJ80 | First listed version | Drag Racers 7/10 |
+| JJL63 | Second color | Drag Racers 7/10 |
+
+**Casting finding:** The user has visually confirmed that both versions have identical castings. Color and decoration differences remain variant attributes.
+
+**Current conclusion:** User-confirmed identical castings.
