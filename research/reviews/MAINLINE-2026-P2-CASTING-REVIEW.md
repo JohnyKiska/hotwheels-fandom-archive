@@ -316,3 +316,15 @@ User-confirmed casting matches are recorded in the visual-review queue. The queu
 **Casting finding:** The user has visually compared both versions and confirmed that the castings are identical. Preserve paint, color and decoration differences as separate variant attributes.
 
 **Current conclusion:** User-confirmed identical castings.
+
+
+## Collector #121 — 2023 Nissan Z
+
+| Toy # | Variant | Series / distribution |
+|---|---|---|
+| JJJ79 | First listed version | Then and Now 5/10 |
+| JJM34 | Second color — Zamac | Then and Now 5/10; Walmart Exclusive |
+
+**Casting finding:** The user has visually compared both versions and confirmed that the castings are identical. Preserve the Zamac finish, paint/deco and distribution distinction as separate variant/release attributes.
+
+**Current conclusion:** User-confirmed identical castings.
