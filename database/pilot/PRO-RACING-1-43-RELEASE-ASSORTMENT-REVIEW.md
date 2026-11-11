@@ -31,7 +31,7 @@ Status: staged source interpretation only. No canonical Release or Assortment en
 - Row 14 has a Single Pack note and toy number 55573.
 - Row 15 has a World Champion Single Pack note, but the sample photograph does not establish retail package authenticity.
 - Row 16's “World Champion Christmas 2001” may be a release/commemorative label; package form is not explicit.
-- Rows 35 and 41 both point toward Bahrain/Sakhir and #1, but must not be merged into one release without evidence.
+- Rows 35 and 41 both point toward Bahrain/Sakhir and #1, but must not be merged into one release without evidence. The identifiable Hot Wheels Bahrain/Sakhir Ferrari F2004 item B6222 is explicitly 1:18, not 1:43; ordinary 1:43 F2004 references B6206 (#1 Schumacher) and B6207 (#2 Barrichello) do not establish a Bahrain/Sakhir 1:43 release. The 1:43 B6223 two-pack is the separate Hungary Constructors Championship set, not Bahrain.
 - Row 36's 2004 source-page placement conflicts with “Represents 1994” in a book package. Preserve both source statements and investigate.
 - Row 40's King of the Desert is a named treatment/context, not evidence of a multi-car assortment.
 
@@ -41,6 +41,13 @@ Status: staged source interpretation only. No canonical Release or Assortment en
 - [Schumacher Fanclub: B6223 Ferrari F1 2004 Constructors Championship](https://www.schumacher-fanclub.com/hot-wheels-diecast-model-cars/michael-schumacher/b6223-ferrari-f1-2004-constructors-championship.php) — B6223, both Schumacher and Barrichello models, with separate package and car photographs.
 - [Yuui's F1 Scale Models: B6223](https://www.yuui.nl/en/products/2004-ferrari-f2004-michael-schumacher-rubens-barrichello-gp-hungaroring-hungary-15-08-2004) — B6223, EAN 0027084044867, 1:43, drivers and numbers 1 & 2.
 - [Wheel Wonderland: B6207](https://www.wheelwonderland.com/fr/specials/f2004-b6207/) and [House of Modelcars: B6206](https://www.houseofmodelcars.com/eng/product/ferrari-f1/11465) — separate 1:43 retail records for Barrichello #2 and Schumacher #1.
+
+## External evidence for Bahrain/Sakhir scope check
+
+- [Suruga-ya: B6222](https://www.suruga-ya.jp/product/detail/770306617) — explicitly 1:18 Ferrari F2004 Sakhir/Bahrain, #1, 4 April 2004.
+- [House of Modelcars: B6222](https://www.houseofmodelcars.com/eng/product/ferrari/9146) — confirms B6222 is 1:18 and Bahrain GP 2004.
+- [Mattel product detail: B6206](https://m.service.mattel.com/us/Technical/productDetail?prodno=B6206&siteid=27) — 1:43 Ferrari F2004 Michael Schumacher, released 2004, but no Bahrain/Sakhir-specific identification.
+- [Wheel Wonderland: B6207](https://www.wheelwonderland.com/fr/specials/f2004-b6207/) — 1:43 Ferrari F2004 Rubens Barrichello.
 
 ## Next steps
 
