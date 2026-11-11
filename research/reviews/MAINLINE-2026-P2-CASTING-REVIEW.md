@@ -144,3 +144,21 @@ This resolves the conflicting catalog color labels at the level of the observed 
 ## Data handling
 
 User-confirmed casting matches are recorded in the visual-review queue. The queue stores verified source-page URLs in `Internet Photo Source`; `Photo` remains blank unless a direct image-asset URL is verified. These source-page links provide photo galleries/evidence but are not mislabeled as direct image files.
+
+
+## Collector #104 — '68 Dodge Dart
+
+| Toy # | Variant | Source-reported color |
+|---|---|---|
+| JJJ63 | First listed version | Metalflake Orange |
+| JJL79 | Second color | Dark Blue |
+
+**Casting finding:** The user has visually compared both models and confirmed that the castings are identical. Differences in paint/deco and photographic angle can make the same casting appear different; second-/third-color labels are not evidence of a new mold.
+
+**Visual references:**
+- [JJJ63 — orange](https://www.hwcgarage.com/en/vehicle/68-dodge-dart-2026-orange-jjj63)
+- [JJL79 — dark blue](https://www.hwcgarage.com/en/vehicle/68-dodge-dart-2026-bleu-jjl79)
+
+**Metadata discrepancy:** HWC Garage's individual listings show different casting-number metadata (P2088 for JJJ63; C2649 for JJL79). This conflicts with the user's direct visual confirmation and remains an unresolved catalog-source discrepancy. The queue records the casting match as user-confirmed.
+
+**Current conclusion:** User-confirmed identical castings; preserve paint/deco as variant attributes.
