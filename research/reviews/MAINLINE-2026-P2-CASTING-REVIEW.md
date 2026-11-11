@@ -1,433 +1,453 @@
-# Mainline 2026 P2 Casting Review — Initial Findings
-
-**Scope:** Initial source-based review of 2026 Mainline color-variant groups. This report records catalog evidence only; it does not claim physical inspection or promote canonical image relations.
-
-## Collector #114 — Custom '66 Toronado
-
-| Toy # | Variant | Source-reported finish | Series |
-|---|---|---|---|
-| JJH45 | First listed 2026 version | Dark Red / Metalflake Dark Red; another source describes Autumn Bronze Metallic | Factory Fresh 4/5 |
-| JJL93 | Second color | Gold / Trumpet Gold Metallic | Factory Fresh 4/5 |
-| JPD55 | Dollar General exclusive color | Turquoise (HWC Garage) | Distribution-exclusive release; verify exact assortment/package separately |
-
-**Casting finding:** HWC Garage assigns both JJH45 and JJL93 the same casting number, JJH45, and explicitly states that the Oldsmobile Toronado mold is shared by all versions. Its casting overview also lists JPD55 as a third color/version in the same casting family. This is strong catalog-level support for a shared casting, not a physical side-by-side inspection.
-
-**Visual references:** HWC Garage provides five photos on each individual page:
-- [JJH45 — Dark Red](https://www.hwcgarage.com/en/vehicle/custom-66-toronado-2026-rouge-jjh45)
-- [JJL93 — Gold](https://www.hwcgarage.com/en/vehicle/custom-66-toronado-2026-dore-jjl93)
-- [Casting overview](https://www.hwcgarage.com/en/casting/oldsmobile-toronado)
-
-**Cross-source checks:**
-- Hot Wheels Collectors Newsletter lists JJH45 as MF Red and JJL93 as Gold, both 2026 and #114.
-- Fandom describes JJH45 as Autumn Bronze Metallic and lists the same base casting identity.
-- HWC Garage describes JJH45 as Dark Red / Metalflake Dark Red. Finish naming differs between sources; do not normalize the color label without a direct physical or authoritative paint-code reference.
-- HWC Garage is an independent collector catalog, not Mattel.
-
-**Current conclusion:** Treat JJH45 and JJL93 as catalog-supported variants of the same Oldsmobile Toronado casting. Keep exact paint naming as source-specific metadata. Do not create a user-confirmed casting match unless the user physically compares the models.
-
-
-**User confirmation:** all three versions (JJH45, JJL93 and JPD55) have identical castings. JPD55 was not physically available to the user; this is recorded as the user's group-level confirmation, while its individual photo evidence remains unverified.
-
-## Collector #103 — Eggshelleracer (cross-check candidate)
-
-| Toy # | Source-reported variant |
-|---|---|
-| JJH47 | First listed 2026 version |
-| JJL25 | Second color |
-
-HWC Garage's casting overview lists two Eggshelleracer versions and states they share the same casting. The Hot Wheels Collectors Newsletter lists JJH47 as Yellow and JJL25 as Orange. Fandom's detailed entry instead describes JJH47 as ZAMAC with a burnt-orange eggshell and JJL25 as a yellow eggshell with white body. HWC Garage's individual pages label the colors Tan and White. These finish/color descriptions conflict substantially.
-
-**Current conclusion:** The shared-casting relationship is confirmed by the user's visual comparison: the castings are identical. Exact appearance metadata is recorded separately below; do not merge the color descriptions.
-
-**Visual comparison note (user observation, 2026-11-11):** The two reference images/models were distinguished as follows:
-- **JJH47:** white base/underside; yellow-and-silver body; brown egg.
-- **JJL25:** yellow base/underside; orange-and-silver body; white egg.
-
-This resolves the conflicting catalog color labels at the level of the observed visible components: the body/egg colors differ, and the base color differs as well. The user confirms that the castings are identical. This is a user-confirmed casting match; the visible color differences remain separate variant attributes.
-
-## Collector #115 — Custom 2020 Honda e
-
-| Toy # | Variant | Source appearance |
-|---|---|---|
-| JMB11 | First listed 2026 version | Yellow body |
-| JJL64 | Second color | White body |
-
-**Casting finding:** HWC Garage and the Hot Wheels Collectors Newsletter list both versions in the same model/collector-number group. The user has visually confirmed that the castings are identical. Record this as a user-confirmed casting match; yellow and white remain separate color variants.
-
-**Visual references:**
-- [JMB11 — yellow](https://www.hwcgarage.com/en/vehicle/custom-2020-honda-e-2026-jaune-jmb11)
-- [JJL64 — white](https://www.hwcgarage.com/en/vehicle/custom-2020-honda-e-2026-blanc-jjl64)
-- [HWC Garage — Custom 2020 Honda e casting overview](https://www.hwcgarage.com/en/casting/custom-2020-honda-e)
-
-**Current conclusion:** Identical castings, different body colors. Confirmation is based on the user's visual comparison.
-
-## Collector #123 — Maserati Tipo 61
-
-| Toy # | Variant | Series / distribution |
-|---|---|---|
-| JJH44 | First listed version | HW Starting Grid 9/10 |
-| JJM39 | Second color | Red Edition 7/12; Target Exclusive |
-| JJL41 | Third color | HW Starting Grid 9/10 |
-
-**Casting finding:** The user has visually confirmed that all three versions have identical castings. Differences in color, decoration and distribution remain variant/release attributes, not casting differences.
-
-**Current conclusion:** User-confirmed identical castings across all three versions.
-
-## Collector #125 — 2024 Aston Martin Vantage GT3
-
-| Toy # | Variant | Source-reported body color |
-|---|---|---|
-| JJH55 | First listed 2026 version | Metalflake Racing Green |
-| JJL24 | Second color | White |
-
-**Casting finding:** The user has visually confirmed that JJH55 and JJL24 have identical castings. Record as a user-confirmed casting match; retain body-color differences as variant attributes.
-
-**Visual references:**
-- [JJH55](https://www.hwcgarage.com/en/vehicle/2024-aston-martin-vantage-gt3-2026-bleu-jjh55)
-- [JJL24](https://www.hwcgarage.com/en/vehicle/2024-aston-martin-vantage-gt3-2026-blanc-jjl24)
-
-**Current conclusion:** Identical castings, different body colors. Confirmation is based on the user's visual comparison.
-
-## Collector #126 — '64 Dodge 330
-
-| Toy # | Variant | Source-reported body color |
-|---|---|---|
-| JJJ64 | First listed 2026 version | White |
-| JJL56 | Second color | Red |
-
-**Casting finding:** The user has visually confirmed that JJJ64 and JJL56 have identical castings. Treat them as a user-confirmed casting match; preserve color, graphics and base-finish differences as separate variant attributes.
-
-**Visual references:**
-- [JJJ64 — white](https://www.hwcgarage.com/en/vehicle/64-dodge-330-2026-blanc-jjj64)
-- [JJL56 — red](https://www.hwcgarage.com/en/vehicle/64-dodge-330-2026-rouge-jjl56)
-- [HWC Garage — 330 casting overview](https://www.hwcgarage.com/en/casting/330)
-
-**Current conclusion:** Identical castings, different color variants. Confirmation is based on the user's visual comparison. Note that HWC Garage's individual listings display differing casting-number metadata for the two versions; the user's mold comparison takes precedence for the casting-match status, while the source discrepancy remains documented for later reconciliation.
-
-## Collector #100 — Twin Dorado
-
-| Toy # | Variant | Source-reported finish | Wheels |
-|---|---|---|---|
-| JJJ61 | First listed 2026 version | White | 10SP |
-| JJL54 | Second color | Chrome | MC5 |
-
-**Casting finding:** HWC Garage assigns both versions casting number HYW49. The user has visually compared the models and confirmed that the castings are identical. The only physical difference identified in the comparison is the wheel type: JJJ61 has 10SP wheels and JJL54 has MC5 wheels.
-
-**Visual references:**
-- [JJJ61 — white](https://www.hwcgarage.com/pl/pojazd/twin-dorado-2026-blanc-jjj61)
-- [JJL54 — chrome](https://www.hwcgarage.com/en/vehicle/twin-dorado-2026-chrome-jjl54)
-
-**Current conclusion:** User-confirmed identical castings; wheel variants differ (10SP vs MC5). Record as one casting match with distinct wheel configurations.
-
-## Collector #102 — Pass'n Gasser
-
-| Toy # | Variant | Version |
-|---|---|---|
-| JJK30 | First listed version | Yellow, Drag Racers 3/10 |
-| JJM59 | Red Edition | Red, Target Exclusive 11/12 |
-
-**Casting finding:** HWC Garage lists both versions under casting number L9940. The user has visually compared the models and confirmed that the castings are identical.
-
-**Visual references:**
-- [JJK30 — yellow](https://www.hwcgarage.com/vehicule/passn-gasser-2026-jaune-jjk30)
-- [JJM59 — Red Edition](https://www.hwcgarage.com/vehicule/passn-gasser-2026-rouge-jjm59)
-
-**Current conclusion:** User-confirmed identical castings. Preserve the body color and Target Red Edition distribution distinction as separate variant/release attributes.
-
-## Sources
-
-- [HWC Garage — Custom '66 Toronado casting overview](https://www.hwcgarage.com/en/casting/oldsmobile-toronado)
-- [HWC Garage — JJH45](https://www.hwcgarage.com/en/vehicle/custom-66-toronado-2026-rouge-jjh45)
-- [HWC Garage — JJL93](https://www.hwcgarage.com/en/vehicle/custom-66-toronado-2026-dore-jjl93)
-- [Hot Wheels Collectors Newsletter — Mainline New Models](https://catalog.hwcollectorsnews.com/SeriesDefinitions/Details/2161)
-- [Fandom — Custom '66 Toronado](https://hotwheels.fandom.com/wiki/Custom_%2766_Toronado)
-- [HWC Garage — Eggshelleracer casting overview](https://www.hwcgarage.com/en/casting/eggshelleracer)
-- [Hot Wheels Collectors Newsletter — Drag Racers](https://catalog.hwcollectorsnews.com/SeriesDefinitions/Details/2228)
-- [Fandom — Eggshelleracer](https://hotwheels.fandom.com/wiki/Eggshelleracer)
-
-## Data handling
-
-User-confirmed casting matches are recorded in the visual-review queue. The queue stores verified source-page URLs in `Internet Photo Source`; `Photo` remains blank unless a direct image-asset URL is verified. These source-page links provide photo galleries/evidence but are not mislabeled as direct image files.
-
-
-## Collector #104 — '68 Dodge Dart
-
-| Toy # | Variant | Source-reported color |
-|---|---|---|
-| JJJ63 | First listed version | Metalflake Orange |
-| JJL79 | Second color | Dark Blue |
-
-**Casting finding:** The user has visually compared both models and confirmed that the castings are identical. Differences in paint/deco and photographic angle can make the same casting appear different; second-/third-color labels are not evidence of a new mold.
-
-**Visual references:**
-- [JJJ63 — orange](https://www.hwcgarage.com/en/vehicle/68-dodge-dart-2026-orange-jjj63)
-- [JJL79 — dark blue](https://www.hwcgarage.com/en/vehicle/68-dodge-dart-2026-bleu-jjl79)
-
-**Metadata discrepancy:** HWC Garage's individual listings show different casting-number metadata (P2088 for JJJ63; C2649 for JJL79). This conflicts with the user's direct visual confirmation and remains an unresolved catalog-source discrepancy. The queue records the casting match as user-confirmed.
-
-**Current conclusion:** User-confirmed identical castings; preserve paint/deco as variant attributes.
-
-
-## Collector #105 — '85 Honda City Turbo II
-
-| Toy # | Variant | Source-reported color |
-|---|---|---|
-| JJJ66 | First listed version | Black |
-| JJL47 | Second color | White |
-
-**Casting finding:** HWC Garage lists both versions under casting number FJV43. The user has visually confirmed that the castings are identical.
-
-**Visual references:**
-- [JJJ66 — black](https://www.hwcgarage.com/en/vehicle/85-honda-city-turbo-ii-2026-noir-jjj66)
-- [JJL47 — white](https://www.hwcgarage.com/en/vehicle/85-honda-city-turbo-ii-2026-blanc-jjl47)
-
-**Current conclusion:** User-confirmed identical castings; preserve paint/deco differences as variant attributes.
-
-
-## Collector #106 — Mazda RX-3
-
-| Toy # | Variant | Release / series |
-|---|---|---|
-| JJJ82 | First listed version | Compact Kings 5/10 |
-| JJL80 | Third color | Compact Kings 5/10 |
-| JJM58 | Red Edition | Target Exclusive 8/12 |
-
-**Casting finding:** HWC Garage lists all three versions under casting number DJF78. The user has visually confirmed that all three castings are identical. Preserve paint/deco and distribution differences as separate variant/release attributes.
-
-**Visual references:**
-- [JJJ82 — silver](https://www.hwcgarage.com/en/vehicle/mazda-rx-3-2026-argent-jjj82)
-- [JJL80 — blue](https://www.hwcgarage.com/en/vehicle/mazda-rx-3-2026-bleu-jjl80)
-- [JJM58 — red Target Red Edition](https://www.hwcgarage.com/en/vehicle/mazda-rx-3-2026-rouge-jjm58)
-
-**Current conclusion:** User-confirmed identical castings across all three versions.
-
-
-## Collector #107 — 1966 Bat Boat
-
-| Toy # | Variant |
-|---|---|
-| JJJ67 | First listed version, Batman 3/5 |
-| JJL81 | Second color, Batman 3/5 |
-
-**Casting finding:** The user has visually compared both versions and confirmed that the castings are identical. Preserve paint/deco differences as separate variant attributes.
-
-**Visual references:**
-- [JJJ67](https://www.hwcgarage.com/en/vehicle/1966-bat-boat-2026-jjj67)
-- [JJL81](https://www.hwcgarage.com/en/vehicle/1966-bat-boat-2026-jjl81)
-
-**Current conclusion:** User-confirmed identical castings.
-
-## Collector #109 — Time Shifter
+"Source Row ID","Toy #","Collector #","Model Name","Series","Series #","Photo","Review Class","Visual Review Priority","Visual Review Status","Collector Group Size","Collector Group Warning","Review Reason","Catalog Series","Hunt Type","Distribution / Exclusive","Series Note","Internet Photo Evidence","Internet Photo Source","Internet Photo Review Note"
+"mainline-2026-row-001","JJJ02","001","Mazda MX-5 Miata","HW Dream Garage","1/5","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Dream Garage","","","","","",""
+"mainline-2026-row-002","JJL03","001","Mazda MX-5 Miata (2nd Color)","HW Dream Garage","1/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","HW Dream Garage","","","","","",""
+"mainline-2026-row-003","JJH80","002","'16 Lamborghini Centenario Roadster","Exoticars","1/10","","standard_release_candidate","P3","pending","3","","Standard product-table entry. Packaging and physical model identity remain unverified.","Exoticars","","","","","",""
+"mainline-2026-row-004","JJM49","002","'16 Lamborghini Centenario Roadster (2nd Color)","Exoticars Kroger Exclusive","1/10","","retailer_exclusive_candidate","P1","pending","3","","Source labels a retailer/channel exclusive. Verify retailer, card variant, barcode and package identifiers.","Exoticars","","Kroger Exclusive","","full_blister_photo","https://www.ebay.com/itm/358442486065","Individual sealed card photo; card shows 002/250 and Exoticars 1/10. Also appears in four-car Kroger set photo."
+"mainline-2026-row-005","JJK74","002","'16 Lamborghini Centenario Roadster (3rd Color)","Exoticars","1/10","","third_color_candidate","P2","pending","3","","Source explicitly labels a third color. Compare body, deco, wheels and card against earlier entries.","Exoticars","","","","","",""
+"mainline-2026-row-006","JJJ62","003","Gordon Murray Automotive T.33","Exoticars","2/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Exoticars","","","","","",""
+"mainline-2026-row-007","JJL44","003","Gordon Murray Automotive T.33 (2nd Color)","Exoticars","2/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Exoticars","","","","","",""
+"mainline-2026-row-008","JJH83","004","Batmobile","Batman","1/5","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Batman","","","","","",""
+"mainline-2026-row-009","JJK97","004","Batmobile (2nd Color)","Batman","1/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Batman","","","","","",""
+"mainline-2026-row-010","JJH30","005","Pass 'n Go","Drop Tops New for 2026!","1/5","","new_for_2026_candidate","P2","pending","2","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","Drop Tops","","","New for 2026!","","",""
+"mainline-2026-row-011","JJK98","005","Pass 'n Go (2nd Color)","Drop Tops New for 2026!","1/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Drop Tops","","","New for 2026!","","",""
+"mainline-2026-row-012","JJH84","006","RD-06","X-Raycers","1/5","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","X-Raycers","","","","","",""
+"mainline-2026-row-013","JJK66","006","RD-06 (2nd Color)","X-Raycers","1/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","X-Raycers","","","","","",""
+"mainline-2026-row-014","JJH85","007","Solar Reflex","HW EV","1/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW EV","","","","","",""
+"mainline-2026-row-015","JJK67","007","Solar Reflex (2nd Color)","HW EV","1/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","HW EV","","","","","",""
+"mainline-2026-row-016","JJH86","008","Ford Mustang Mach-E 1400","HW EV","2/10","","standard_release_candidate","P3","pending","3","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW EV","","","","","",""
+"mainline-2026-row-017","JJM61","008","Ford Mustang Mach-E 1400 (2nd Color)","Red Edition Target Exclusive","1/12","","retailer_exclusive_candidate","P1","pending","3","","Source labels a retailer/channel exclusive. Verify retailer, card variant, barcode and package identifiers.","Red Edition","","Target Exclusive","","group_blister_photo","https://hwheadline.com/2026-hot-wheels-red-edition-1-2-3/","Red Edition group 1/12–3/12. Sealed blister packs shown together; set-level image only, not an individual image relation."
+"mainline-2026-row-018","JJK78","008","Ford Mustang Mach-E 1400 (3rd Color)","HW EV","2/10","","third_color_candidate","P2","pending","3","","Source explicitly labels a third color. Compare body, deco, wheels and card against earlier entries.","HW EV","","","","","",""
+"mainline-2026-row-019","JJM00","009","'87 Buick Regal GNX","Nightspeed Treasure Hunt","1/10","","treasure_hunt","P1","pending","1","","Source labels this row Treasure Hunt. Inspect hidden symbol/tampo, card markings and package identifiers.","Nightspeed","Treasure Hunt","","","full_blister_photo","https://www.ebay.co.uk/itm/366682615386","Individual sealed blister photo; card shows 9/250 and Nightspeed 1/10."
+"mainline-2026-row-020","JJH87","010","2020 Ford Mustang Shelby GT500","Nightspeed","2/10","","standard_release_candidate","P3","pending","3","","Standard product-table entry. Packaging and physical model identity remain unverified.","Nightspeed","","","","","",""
+"mainline-2026-row-021","JJM50","010","2020 Ford Mustang Shelby GT500 (2nd Color)","Nightspeed Kroger Exclusive","2/10","","retailer_exclusive_candidate","P1","pending","3","","Source labels a retailer/channel exclusive. Verify retailer, card variant, barcode and package identifiers.","Nightspeed","","Kroger Exclusive","","full_blister_photo","https://164custom.com/hotwheels/2020-ford-mustang-shelby-gt500/JJM50/light-blue.html","Individual card image plus four-car Kroger set photo showing the sealed blister."
+"mainline-2026-row-022","JJK68","010","2020 Ford Mustang Shelby GT500 (3rd Color)","Nightspeed","2/10","","third_color_candidate","P2","pending","3","","Source explicitly labels a third color. Compare body, deco, wheels and card against earlier entries.","Nightspeed","","","","","",""
+"mainline-2026-row-023","JJH88","011","2018 Honda Civic Type R","Nightspeed","3/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Nightspeed","","","","","",""
+"mainline-2026-row-024","JJK87","011","2018 Honda Civic Type R (2nd Color)","Nightspeed","3/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Nightspeed","","","","","",""
+"mainline-2026-row-025","JJH89","012","Carbonator","Experimotors","1/5","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","Experimotors","","","","","",""
+"mainline-2026-row-026","JJH90","013","Drift-Ender","Truckin' Along","1/5","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Truckin' Along","","","","","",""
+"mainline-2026-row-027","JJM15","013","Drift-Ender","Truckin' Along Super Treasure Hunt","1/5","","super_treasure_hunt","P1","pending","2","","Source labels this row Super Treasure Hunt. Inspect paint, wheels, tampo, card and package identifiers.","Truckin' Along","Super Treasure Hunt","","","full_blister_photo","https://www.ebay.com/itm/297717276875","Individual sealed blister photo; card shows 13/250 and Truckin' Along 1/5."
+"mainline-2026-row-028","JJH91","014","'20 Jeep Gladiator","Truckin' Along","2/5","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Truckin' Along","","","","","",""
+"mainline-2026-row-029","JJM62","014","'20 Jeep Gladiator (2nd Color)","Red Edition Target Exclusive","2/12","","retailer_exclusive_candidate","P1","pending","2","","Source labels a retailer/channel exclusive. Verify retailer, card variant, barcode and package identifiers.","Red Edition","","Target Exclusive","","group_blister_photo","https://hwheadline.com/2026-hot-wheels-red-edition-1-2-3/","Red Edition group 1/12–3/12. Sealed blister packs shown together; set-level image only, not an individual image relation."
+"mainline-2026-row-030","JJH33","015","Porsche 911 Carrera T","Factory Fresh New for 2026!","1/5","","new_for_2026_candidate","P2","pending","3","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","Factory Fresh","","","New for 2026!","","",""
+"mainline-2026-row-031","JJM31","015","Porsche 911 Carrera T (2nd Color - Zamac)","Factory Fresh New for 2026! Walmart Exclusive","1/5","","retailer_exclusive_candidate","P1","pending","3","","Source labels a retailer/channel exclusive. Verify retailer, card variant, barcode and package identifiers.","Factory Fresh","","Walmart Exclusive","New for 2026!","full_blister_photo","https://hwpriceguide.com/item/2026-mainlines-porsche-911-carrera-t-2nd-color--zamac/","Individual sealed blister photo. Card shows 15/250, Factory Fresh 1/5 and Zamac 001 2026."
+"mainline-2026-row-032","JJK80","015","Porsche 911 Carrera T (3rd Color)","Factory Fresh New for 2026!","1/5","","third_color_candidate","P2","pending","3","","Source explicitly labels a third color. Compare body, deco, wheels and card against earlier entries.","Factory Fresh","","","New for 2026!","","",""
+"mainline-2026-row-033","JJH92","016","Maserati Shamal","Factory Fresh","2/5","","standard_release_candidate","P3","pending","3","","Standard product-table entry. Packaging and physical model identity remain unverified.","Factory Fresh","","","","","",""
+"mainline-2026-row-034","JJM57","016","Maserati Shamal (2nd Color)","Red Edition Target Exclusive","3/12","","retailer_exclusive_candidate","P1","pending","3","","Source labels a retailer/channel exclusive. Verify retailer, card variant, barcode and package identifiers.","Red Edition","","Target Exclusive","","group_blister_photo","https://hwheadline.com/2026-hot-wheels-red-edition-1-2-3/","Red Edition group 1/12–3/12. Sealed blister packs shown together; set-level image only, not an individual image relation."
+"mainline-2026-row-035","JJL08","016","Maserati Shamal (3rd Color)","Factory Fresh","2/5","","third_color_candidate","P2","pending","3","","Source explicitly labels a third color. Compare body, deco, wheels and card against earlier entries.","Factory Fresh","","","","","",""
+"mainline-2026-row-036","JJH32","017","Bounce'n Bass","Layin' Low New for 2026!","1/5","","new_for_2026_candidate","P2","pending","2","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","Layin' Low","","","New for 2026!","","",""
+"mainline-2026-row-037","JJK69","017","Bounce'n Bass (2nd Color)","Layin' Low New for 2026!","1/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Layin' Low","","","New for 2026!","","",""
+"mainline-2026-row-038","JJH93","018","Deora II","HW Fan Driven","1/5","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Fan Driven","","","","","",""
+"mainline-2026-row-039","JJK70","018","Deora II (2nd Color)","HW Fan Driven","1/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","HW Fan Driven","","","","","",""
+"mainline-2026-row-040","JJH94","019","Rodger Dodger","HW Fan Driven","2/5","","standard_release_candidate","P3","pending","3","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Fan Driven","","","","","",""
+"mainline-2026-row-041","JJM51","019","Rodger Dodger (2nd Color)","HW Fan Driven Kroger Exclusive","2/5","","retailer_exclusive_candidate","P1","pending","3","","Source labels a retailer/channel exclusive. Verify retailer, card variant, barcode and package identifiers.","HW Fan Driven","","Kroger Exclusive","","full_blister_photo","https://www.ebay.com/itm/236860245550","Four-car listing image shows sealed Rodger Dodger cards; exact toy-number marking is not legible in the preview."
+"mainline-2026-row-042","JJK71","019","Rodger Dodger (3rd Color)","HW Fan Driven","2/5","","third_color_candidate","P2","pending","3","","Source explicitly labels a third color. Compare body, deco, wheels and card against earlier entries.","HW Fan Driven","","","","","",""
+"mainline-2026-row-043","JJH95","020","McLaren Formula 1 Team","Formula 1","1/5","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","Formula 1","","","","","",""
+"mainline-2026-row-044","JJH96","021","Barbie Dream Camper","Mattel","1/5","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Mattel","","","","","",""
+"mainline-2026-row-045","JJK72","021","Barbie Dream Camper (2nd Color)","Mattel","1/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Mattel","","","","","",""
+"mainline-2026-row-046","JJH31","022","Instant Boost","HW Starting Grid New for 2026!","1/10","","new_for_2026_candidate","P2","pending","2","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","HW Starting Grid","","","New for 2026!","","",""
+"mainline-2026-row-047","JJK73","022","Instant Boost (2nd Color)","HW Starting Grid New for 2026!","1/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","HW Starting Grid","","","New for 2026!","","",""
+"mainline-2026-row-048","JJH97","023","'69 Dodge Charger Daytona","HW Starting Grid","2/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Starting Grid","","","","","",""
+"mainline-2026-row-049","JJM52","023","'69 Dodge Charger Daytona (2nd Color)","HW Starting Grid Kroger Exclusive","2/10","","retailer_exclusive_candidate","P1","pending","2","","Source labels a retailer/channel exclusive. Verify retailer, card variant, barcode and package identifiers.","HW Starting Grid","","Kroger Exclusive","","full_blister_photo","https://diecastz.com/products/2026-hot-wheels-kroger-exclusive-set-of-4-cars","Four-car set photo shows sealed white Charger; individual card-front image also found at https://164custom.com/hotwheels/69-dodge-charger-daytona/JJM52/white.html."
+"mainline-2026-row-050","JJH82","024","Track Ripper","HW Starting Grid","3/10","","standard_release_candidate","P3","pending","3","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Starting Grid","","","","","",""
+"mainline-2026-row-051","JJM33","024","Track Ripper (2nd Color - Zamac)","HW Starting Grid Walmart Exclusive","3/10","","retailer_exclusive_candidate","P1","pending","3","","Source labels a retailer/channel exclusive. Verify retailer, card variant, barcode and package identifiers.","HW Starting Grid","","Walmart Exclusive","","full_blister_photo","https://hwpriceguide.com/dist/images/cars/2026-zamac-track-ripper.jpg","Individual sealed blister photo. Card shows 24/250 and HW Starting Grid 3/10."
+"mainline-2026-row-052","JJK95","024","Track Ripper (3rd Color)","HW Starting Grid","3/10","","third_color_candidate","P2","pending","3","","Source explicitly labels a third color. Compare body, deco, wheels and card against earlier entries.","HW Starting Grid","","","","","",""
+"mainline-2026-row-053","JJH81","025","McMurtry Spéirling","Exoticars","3/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Exoticars","","","","","",""
+"mainline-2026-row-054","JJK65","025","McMurtry Spéirling (2nd Color)","Exoticars","3/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Exoticars","","","","","",""
+"mainline-2026-row-055","JJH34","026","Pagani Zonda Cinque","Exoticars New for 2026!","4/10","","new_for_2026_candidate","P2","pending","3","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","Exoticars","","","New for 2026!","","",""
+"mainline-2026-row-056","JJK75","026","Pagani Zonda Cinque (2nd Color)","Exoticars New for 2026!","4/10","","second_color_candidate","P2","pending","3","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Exoticars","","","New for 2026!","","",""
+"mainline-2026-row-057","JJM32","026","Pagani Zonda Cinque (3rd Color - Zamac)","Exoticars New for 2026! Walmart Exclusive","4/10","","retailer_exclusive_candidate","P1","pending","3","","Source labels a retailer/channel exclusive. Verify retailer, card variant, barcode and package identifiers.","Exoticars","","Walmart Exclusive","New for 2026!","partial_card_front_only","https://www.ebay.com/itm/407253630233","Exact Pagani Zamac card front found, but captured image does not show the blister/car clearly."
+"mainline-2026-row-058","JJJ00","027","Optimus Prime","Screen Time","1/10","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","Screen Time","","","","","",""
+"mainline-2026-row-059","JJH98","028","HW K.I.T.T. Concept","Screen Time","2/10","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","Screen Time","","","","","",""
+"mainline-2026-row-060","JJM01","029","'92 Dodge Viper RT/10","Drop Tops Treasure Hunt","2/5","","treasure_hunt","P1","user_visual_observation_received","1","User visual observation: blue flame TH symbol on the vehicle. Physical blister sample available; remaining package/deco inspection pending. User confirms no Treasure Hunt logo is visible on the blister card; flame symbol is visible only on the vehicle.","Source labels this row Treasure Hunt. Inspect hidden symbol/tampo, card markings and package identifiers. User visual observation: linear-outline flame TH symbol on the vehicle. User visual observation: blue flame TH symbol on the vehicle. User confirms no Treasure Hunt logo is visible on the blister card; flame symbol is visible only on the vehicle.","Drop Tops","Treasure Hunt","","","","","Physical sample is available and has already been visually inspected by the user; internet-photo review is not used for this row."
+"mainline-2026-row-061","JJJ01","030","X-Steam","X-Raycers","2/5","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","X-Raycers","","","","","",""
+"mainline-2026-row-062","JJK76","030","X-Steam (2nd Color)","X-Raycers","2/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","X-Raycers","","","","","",""
+"mainline-2026-row-063","JJH36","031","La Liebre","HW Dream Garage New for 2026!","2/5","","new_for_2026_candidate","P2","pending","2","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","HW Dream Garage","","","New for 2026!","","",""
+"mainline-2026-row-064","JJK77","031","La Liebre (2nd Color)","HW Dream Garage New for 2026!","2/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","HW Dream Garage","","","New for 2026!","","",""
+"mainline-2026-row-065","JJJ03","032","5 Alarm","HW Heavyweights","1/5","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Heavyweights","","","","","",""
+"mainline-2026-row-066","JJK99","032","5 Alarm (2nd Color)","HW Heavyweights","1/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","HW Heavyweights","","","","","",""
+"mainline-2026-row-067","JJJ04","033","Haulerback","HW Heavyweights","2/5","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Heavyweights","","","","","",""
+"mainline-2026-row-068","JJL00","033","Haulerback (2nd Color)","HW Heavyweights","2/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","HW Heavyweights","","","","","",""
+"mainline-2026-row-069","JJJ05","034","Porsche Taycan Turbo S","HW EV","3/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW EV","","","","","",""
+"mainline-2026-row-070","JJL01","034","Porsche Taycan Turbo S (2nd Color)","HW EV","3/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","HW EV","","","","","",""
+"mainline-2026-row-071","JJJ06","035","Wattzup","HW EV","4/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW EV","","","","","",""
+"mainline-2026-row-072","JJK86","035","Wattzup (2nd Color)","HW EV","4/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","HW EV","","","","","",""
+"mainline-2026-row-073","JJJ07","036","'70 Dodge Hemi Challenger","Nightspeed","4/10","","standard_release_candidate","P3","pending","3","","Standard product-table entry. Packaging and physical model identity remain unverified.","Nightspeed","","","","","",""
+"mainline-2026-row-074","JJM38","036","'70 Dodge Hemi Challenger (2nd Color - Zamac)","Nightspeed Walmart Exclusive","4/10","","retailer_exclusive_candidate","P1","pending","3","","Source labels a retailer/channel exclusive. Verify retailer, card variant, barcode and package identifiers.","Nightspeed","","Walmart Exclusive","","group_blister_photo","https://hwheadline.com/2026-hot-wheels-zamac-edition-3-4/","Group image for Zamac entries 3–4; Challenger blister is visible but partly cropped at the left edge."
+"mainline-2026-row-075","JJK79","036","'70 Dodge Hemi Challenger (3rd Color)","Nightspeed","4/10","","third_color_candidate","P2","pending","3","","Source explicitly labels a third color. Compare body, deco, wheels and card against earlier entries.","Nightspeed","","","","","",""
+"mainline-2026-row-076","JJJ08","037","Cupra e-Racer","Nightspeed","5/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Nightspeed","","","","","",""
+"mainline-2026-row-077","JJL50","037","Cupra e-Racer (2nd Color)","Nightspeed","5/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Nightspeed","","","","","",""
+"mainline-2026-row-078","JJJ09","038","24/Seven","Nightspeed","6/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Nightspeed","","","","","",""
+"mainline-2026-row-079","JJL51","038","24/Seven (2nd Color)","Nightspeed","6/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Nightspeed","","","","","",""
+"mainline-2026-row-080","JJJ10","039","Roller Toaster","Experimotors","3/5","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Experimotors","","","","","",""
+"mainline-2026-row-081","JJK88","039","Roller Toaster (2nd Color)","Experimotors","3/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Experimotors","","","","","",""
+"mainline-2026-row-082","JJJ11","040","Braille Racer - Twin Mill","HW All Drivers Welcome World Braille Day","1/5","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW All Drivers Welcome World Braille Day","","","","","",""
+"mainline-2026-row-083","JJJ12","041","Ferrari SF90 Stradale","Ferrari","1/5","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Ferrari","","","","","",""
+"mainline-2026-row-084","JJK89","041","Ferrari SF90 Stradale (2nd Color)","Ferrari","1/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Ferrari","","","","","",""
+"mainline-2026-row-085","JJJ13","042","'83 Chevy Silverado","Truckin' Along","3/5","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Truckin' Along","","","","","",""
+"mainline-2026-row-086","JJL07","042","'83 Chevy Silverado (2nd Color)","Truckin' Along","3/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Truckin' Along","","","","","",""
+"mainline-2026-row-087","JJJ14","043","Ford Mustang GTD","Factory Fresh","3/5","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Factory Fresh","","","","","",""
+"mainline-2026-row-088","JJM16","043","Ford Mustang GTD","Factory Fresh Super Treasure Hunt","3/5","","super_treasure_hunt","P1","pending","2","","Source labels this row Super Treasure Hunt. Inspect paint, wheels, tampo, card and package identifiers.","Factory Fresh","Super Treasure Hunt","","","full_blister_photo","https://hwheadline.com/ford-mustang-gtd-hot-wheels-2026-super-t-hunt-us-int-short-card/","Three package formats shown together (US, international and short card); additional individual sealed-card listing: https://www.ebay.com/itm/357999585735."
+"mainline-2026-row-089","JJJ15","044","'59 Chevy Impala","Layin' Low","2/5","","standard_release_candidate","P3","pending","3","","Standard product-table entry. Packaging and physical model identity remain unverified.","Layin' Low","","","","","",""
+"mainline-2026-row-090","JJM35","044","'59 Chevy Impala (2nd Color - Zamac)","Layin' Low Walmart Exclusive","2/5","","retailer_exclusive_candidate","P1","pending","3","","Source labels a retailer/channel exclusive. Verify retailer, card variant, barcode and package identifiers.","Layin' Low","","Walmart Exclusive","","full_blister_photo","https://www.ebay.com/itm/397825196124","Individual sealed blister photo. Card shows 44/250 and Layin' Low 2/5."
+"mainline-2026-row-091","JJK81","044","'59 Chevy Impala (3rd Color)","Layin' Low","2/5","","third_color_candidate","P2","pending","3","","Source explicitly labels a third color. Compare body, deco, wheels and card against earlier entries.","Layin' Low","","","","","",""
+"mainline-2026-row-092","JJJ16","045","'47 Chevy Fleetline","Layin' Low","3/5","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Layin' Low","","","","","",""
+"mainline-2026-row-093","JJM64","045","'47 Chevy Fleetline (2nd Color)","Red Edition Target Exclusive","4/12","","retailer_exclusive_candidate","P1","pending","2","","Source labels a retailer/channel exclusive. Verify retailer, card variant, barcode and package identifiers.","Red Edition","","Target Exclusive","","group_blister_photo","https://hwheadline.com/2026-hot-wheels-red-edition-4-5-6/","Red Edition group 4/12–6/12. Sealed blister packs shown together; set-level image only, not an individual image relation."
+"mainline-2026-row-094","JJJ17","046","Purple Passion","HW Fan Driven","3/5","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Fan Driven","","","","","",""
+"mainline-2026-row-095","JJK91","046","Purple Passion (2nd Color)","HW Fan Driven","3/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","HW Fan Driven","","","","","",""
+"mainline-2026-row-096","JJH35","047","High-Tail Chaser","HW Mods New for 2026!","1/5","","new_for_2026_candidate","P2","pending","2","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","HW Mods","","","New for 2026!","","",""
+"mainline-2026-row-097","JJK92","047","High-Tail Chaser (2nd Color)","HW Mods New for 2026!","1/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","HW Mods","","","New for 2026!","","",""
+"mainline-2026-row-098","JJJ19","048","Monster High Ghoul Mobile","Mattel","2/5","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Mattel","","","","","",""
+"mainline-2026-row-099","JJK93","048","Monster High Ghoul Mobile (2nd Color)","Mattel","2/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Mattel","","","","","",""
+"mainline-2026-row-100","JJJ18","049","Quick Chat","Mattel","3/5","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Mattel","","","","","",""
+"mainline-2026-row-101","JJK82","049","Quick Chat (2nd Color)","Mattel","3/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Mattel","","","","","",""
+"mainline-2026-row-102","JJJ20","050","Bugatti Bolide","HW Starting Grid","4/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Starting Grid","","","","","",""
+"mainline-2026-row-103","JJL22","050","Bugatti Bolide (2nd Color)","HW Starting Grid","4/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","HW Starting Grid","","","","","",""
+"mainline-2026-row-104","JJJ21","051","The Dark Knight Batmobile","Batman","2/5","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Batman","","","","","",""
+"mainline-2026-row-105","JJL13","051","The Dark Knight Batmobile (2nd Color)","Batman","2/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Batman","","","","","",""
+"mainline-2026-row-106","JJJ22","052","Porsche 911 Turbo Cabriolet","Drop Tops","3/5","","standard_release_candidate","P3","pending","3","","Standard product-table entry. Packaging and physical model identity remain unverified.","Drop Tops","","","","","",""
+"mainline-2026-row-107","JJM67","052","Porsche 911 Turbo Cabriolet (2nd Color)","Red Edition Target Exclusive","5/12","","retailer_exclusive_candidate","P1","pending","3","","Source labels a retailer/channel exclusive. Verify retailer, card variant, barcode and package identifiers.","Red Edition","","Target Exclusive","","group_blister_photo","https://hwheadline.com/2026-hot-wheels-red-edition-4-5-6/","Red Edition group 4/12–6/12. Sealed blister packs shown together. Toy # conflict: use JJM67; HW Collectors Newsletter also erroneously assigns JJM65 to Porsche, while JJM65 is independently corroborated for Pontiac Firebird."
+"mainline-2026-row-108","JJL82","052","Porsche 911 Turbo Cabriolet (3rd Color)","Drop Tops","3/5","","third_color_candidate","P2","pending","3","","Source explicitly labels a third color. Compare body, deco, wheels and card against earlier entries.","Drop Tops","","","","","",""
+"mainline-2026-row-109","JJJ23","053","'69 Chevelle","X-Raycers","3/5","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","X-Raycers","","","","","",""
+"mainline-2026-row-110","JJK83","053","'69 Chevelle (2nd Color)","X-Raycers","3/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","X-Raycers","","","","","",""
+"mainline-2026-row-111","JJJ24","054","Donut Drifter","Sweet Rides","1/5","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Sweet Rides","","","","","",""
+"mainline-2026-row-112","JJL31","054","Donut Drifter (2nd Color)","Sweet Rides","1/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Sweet Rides","","","","","",""
+"mainline-2026-row-113","JJJ25","055","Dessert Drifter","Sweet Rides","2/5","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Sweet Rides","","","","","",""
+"mainline-2026-row-114","JJK84","055","Dessert Drifter (2nd Color)","Sweet Rides","2/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Sweet Rides","","","","","",""
+"mainline-2026-row-115","JJJ26","056","'67 Camaro","HW Dream Garage","3/5","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Dream Garage","","","","","",""
+"mainline-2026-row-116","JJM46","056","'67 Camaro (2nd Color)","HW Dream Garage Dollar Tree/Family Dollar Exclusive","3/5","","retailer_exclusive_candidate","P1","pending","2","","Source labels a retailer/channel exclusive. Verify retailer, card variant, barcode and package identifiers.","HW Dream Garage","","Dollar Tree/Family Dollar Exclusive","","partial_card_front_only","https://hwheadline.com/hot-wheels-2026-dollar-tree-exclusives/","Card-front image found for #056/250 and HW Dream Garage 3/5, but the captured photo does not show the blister. Die Carz entry corroborates JJM46 and Dollar Tree exclusivity."
+"mainline-2026-row-117","JJJ27","057","Raijin Express","HW Heavyweights","3/5","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Heavyweights","","","","","",""
+"mainline-2026-row-118","JJK85","057","Raijin Express (2nd Color)","HW Heavyweights","3/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","HW Heavyweights","","","","","",""
+"mainline-2026-row-119","JJM02","058","Electro Silhouette","HW EV Treasure Hunt","5/10","","treasure_hunt","P1","pending","1","","Source labels this row Treasure Hunt. Inspect hidden symbol/tampo, card markings and package identifiers.","HW EV","Treasure Hunt","","","full_blister_photo","https://www.mercari.com/us/item/m67358659246/","Individual sealed blister photo; card shows 58/250 and HW EV 5/10."
+"mainline-2026-row-120","JJJ28","059","Lucid Air","HW EV","6/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW EV","","","","","",""
+"mainline-2026-row-121","JJL14","059","Lucid Air (2nd Color)","HW EV","6/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","HW EV","","","","","",""
+"mainline-2026-row-122","JJH37","060","Toyota Prius Custom","HW J-Imports New for 2026!","1/10","","new_for_2026_candidate","P2","pending","3","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","HW J-Imports","","","New for 2026!","","",""
+"mainline-2026-row-123","JJM48","060","Toyota Prius Custom (2nd Color)","HW J-Imports New for 2026! Dollar Tree/Family Dollar Exclusive","1/10","","retailer_exclusive_candidate","P1","pending","3","","Source labels a retailer/channel exclusive. Verify retailer, card variant, barcode and package identifiers.","HW J-Imports","","Dollar Tree/Family Dollar Exclusive","New for 2026!","group_blister_photo","https://hwheadline.com/hot-wheels-2026-dollar-tree-exclusives/","Group photo shows Guardian Gray Toyota Prius Custom sealed in blister; J-Imports 1/10 visible. Group-level evidence only; do not substitute the white standard JJM? short-card photo."
+"mainline-2026-row-124","JJL34","060","Toyota Prius Custom (3rd Color)","HW J-Imports New for 2026!","1/10","","third_color_candidate","P2","pending","3","","Source explicitly labels a third color. Compare body, deco, wheels and card against earlier entries.","HW J-Imports","","","New for 2026!","","",""
+"mainline-2026-row-125","JJJ29","061","Mazda RX-7","HW J-Imports","2/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW J-Imports","","","","","",""
+"mainline-2026-row-126","JJL35","061","Mazda RX-7 (2nd Color)","HW J-Imports","2/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","HW J-Imports","","","","","",""
+"mainline-2026-row-127","JJJ30","062","Ferrari 365 GTB4 Competizione","Ferrari","2/5","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Ferrari","","","","","",""
+"mainline-2026-row-128","JJL06","062","Ferrari 365 GTB4 Competizione (2nd Color)","Ferrari","2/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Ferrari","","","","","",""
+"mainline-2026-row-129","JJJ31","063","Ferrari F40 Competizione","Ferrari","3/5","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Ferrari","","","","","",""
+"mainline-2026-row-130","JJM17","063","Ferrari F40 Competizione","Ferrari Super Treasure Hunt","3/5","","super_treasure_hunt","P1","pending","2","","Source labels this row Super Treasure Hunt. Inspect paint, wheels, tampo, card and package identifiers.","Ferrari","Super Treasure Hunt","","","full_blister_photo","https://www.ebay.com/itm/136620528615","Individual sealed blister photo; card shows 63/250 and Ferrari F40 Competizione."
+"mainline-2026-row-131","JJJ32","064","Mercedes-Benz Unimog 1300L","Truckin' Along","4/5","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","Truckin' Along","","","","","",""
+"mainline-2026-row-132","JJH40","065","Drift Box","HW Euro New for 2026!","1/10","","new_for_2026_candidate","P2","pending","2","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","HW Euro","","","New for 2026!","","",""
+"mainline-2026-row-133","JJL09","065","Drift Box (2nd Color)","HW Euro New for 2026!","1/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","HW Euro","","","New for 2026!","","",""
+"mainline-2026-row-134","JJJ33","066","'17 Audi RS 6 Avant","HW Euro","2/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Euro","","","","","",""
+"mainline-2026-row-135","JJK90","066","'17 Audi RS 6 Avant (2nd Color)","HW Euro","2/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","HW Euro","","","","","",""
+"mainline-2026-row-136","JJJ34","067","Lotus Cortina","HW Euro","3/10","","standard_release_candidate","P3","pending","3","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Euro","","","","","",""
+"mainline-2026-row-137","JJM47","067","Lotus Cortina (2nd Color)","HW Euro Dollar Tree/Family Dollar Exclusive","3/10","","retailer_exclusive_candidate","P1","pending","3","","Source labels a retailer/channel exclusive. Verify retailer, card variant, barcode and package identifiers.","HW Euro","","Dollar Tree/Family Dollar Exclusive","","group_blister_photo","https://hwheadline.com/hot-wheels-2026-dollar-tree-exclusives/","Group photo shows mint-green Lotus Cortina sealed in blister; Dollar Tree/Family Dollar series and 3/10 visible. Group-level evidence only."
+"mainline-2026-row-138","JJL16","067","Lotus Cortina (3rd Color)","HW Euro","3/10","","third_color_candidate","P2","pending","3","","Source explicitly labels a third color. Compare body, deco, wheels and card against earlier entries.","HW Euro","","","","","",""
+"mainline-2026-row-139","JJJ35","068","Visa Cash App Racing Bulls Formula One Team","Formula 1","2/5","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","Formula 1","","","","","",""
+"mainline-2026-row-140","JJJ36","069","Volvo 240 Drift Wagon","HW Mods","2/5","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Mods","","","","","",""
+"mainline-2026-row-141","JJL20","069","Volvo 240 Drift Wagon (2nd Color)","HW Mods","2/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","HW Mods","","","","","",""
+"mainline-2026-row-142","JJJ37","070","Decidedly Go","Mattel","4/5","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Mattel","","","","","",""
+"mainline-2026-row-143","JJL12","070","Decidedly Go (2nd Color)","Mattel","4/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Mattel","","","","","",""
+"mainline-2026-row-144","JJH39","071","Austin Mini Cooper S","Then and Now New for 2026!","1/10","","new_for_2026_candidate","P2","pending","2","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","Then and Now","","","New for 2026!","","",""
+"mainline-2026-row-145","JJK94","071","Austin Mini Cooper S (2nd Color)","Then and Now New for 2026!","1/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Then and Now","","","New for 2026!","","",""
+"mainline-2026-row-146","JJJ38","072","Datsun 240Z","Then and Now","2/10","","standard_release_candidate","P3","pending","3","","Standard product-table entry. Packaging and physical model identity remain unverified.","Then and Now","","","","","",""
+"mainline-2026-row-147","JJL53","072","Datsun 240Z (2nd Color)","Then and Now","2/10","","second_color_candidate","P2","pending","3","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Then and Now","","","","","",""
+"mainline-2026-row-148","JJM69","072","Datsun 240Z (3rd Color)","Then and Now","2/10","","third_color_candidate","P2","pending","3","","Source explicitly labels a third color. Compare body, deco, wheels and card against earlier entries.","Then and Now","","","","","",""
+"mainline-2026-row-149","JNG69","073","BMW M4 GT3","HW Starting Grid New for 2026!","5/10","","new_for_2026_candidate","P2","pending","2","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","HW Starting Grid","","","New for 2026!","","",""
+"mainline-2026-row-150","JJK96","073","BMW M4 GT3 (2nd Color)","HW Starting Grid New for 2026!","5/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","HW Starting Grid","","","New for 2026!","","",""
+"mainline-2026-row-151","JJJ39","074","McLaren W1","Exoticars","5/10","","standard_release_candidate","P3","pending","3","","Standard product-table entry. Packaging and physical model identity remain unverified.","Exoticars","","","","","",""
+"mainline-2026-row-152","JJM60","074","McLaren W1 (2nd Color)","Red Edition Target Exclusive","6/12","","retailer_exclusive_candidate","P1","pending","3","","Source labels a retailer/channel exclusive. Verify retailer, card variant, barcode and package identifiers.","Red Edition","","Target Exclusive","","group_blister_photo","https://hwheadline.com/2026-hot-wheels-red-edition-4-5-6/","Red Edition group 4/12–6/12. Sealed blister packs shown together; set-level image only, not an individual image relation."
+"mainline-2026-row-153","JJL43","074","McLaren W1 (3rd Color)","Exoticars","5/10","","third_color_candidate","P2","pending","3","","Source explicitly labels a third color. Compare body, deco, wheels and card against earlier entries.","Exoticars","","","","","",""
+"mainline-2026-row-154","JJH43","075","X-cceleron","Exoticars New for 2026!","6/10","","new_for_2026_candidate","P2","pending","2","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","Exoticars","","","New for 2026!","","",""
+"mainline-2026-row-155","JJL23","075","X-cceleron (2nd Color)","Exoticars New for 2026!","6/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Exoticars","","","New for 2026!","","",""
+"mainline-2026-row-156","JJJ40","076","'76 Chevy Chevette","Drag Racers","1/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Drag Racers","","","","","",""
+"mainline-2026-row-157","JJL45","076","'76 Chevy Chevette (2nd Color)","Drag Racers","1/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Drag Racers","","","","","",""
+"mainline-2026-row-158","JJJ41","077","Supercharged","Drag Racers","2/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Drag Racers","","","","","",""
+"mainline-2026-row-159","JJL02","077","Supercharged (2nd Color)","Drag Racers","2/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Drag Racers","","","","","",""
+"mainline-2026-row-160","JJJ43","078","Hako Type D","Compact Kings","1/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Compact Kings","","","","","",""
+"mainline-2026-row-161","JJL57","078","Hako Type D (2nd Color)","Compact Kings","1/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Compact Kings","","","","","",""
+"mainline-2026-row-162","JJJ44","079","Hoto Roto","Compact Kings","2/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Compact Kings","","","","","",""
+"mainline-2026-row-163","JJL27","079","Hoto Roto (2nd Color)","Compact Kings","2/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Compact Kings","","","","","",""
+"mainline-2026-row-164","JJJ65","080","Kei Swap","Compact Kings","3/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Compact Kings","","","","","",""
+"mainline-2026-row-165","JJL28","080","Kei Swap (2nd Color)","Compact Kings","3/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Compact Kings","","","","","",""
+"mainline-2026-row-166","JJM03","081","Hot Wheengs","X-Raycers Treasure Hunt","4/5","","treasure_hunt","P1","pending","1","","Source labels this row Treasure Hunt. Inspect hidden symbol/tampo, card markings and package identifiers.","X-Raycers","Treasure Hunt","","","full_blister_photo","https://www.ebay.com/itm/318095638214","Individual sealed blister photo; card visibly shows 81/250, Hot Wheengs and X-Raycers 4/5."
+"mainline-2026-row-167","JJJ45","082","Birthday Burner","Sweet Rides","3/5","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Sweet Rides","","","","","",""
+"mainline-2026-row-168","JJL62","082","Birthday Burner (2nd Color)","Sweet Rides","3/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Sweet Rides","","","","","",""
+"mainline-2026-row-169","JJJ46","083","Rapid Pulse","HW Heavyweights","4/5","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Heavyweights","","","","","",""
+"mainline-2026-row-170","JJL04","083","Rapid Pulse (2nd Color)","HW Heavyweights","4/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","HW Heavyweights","","","","","",""
+"mainline-2026-row-171","JJJ47","084","Polestar TRX","HW EV","7/10","","standard_release_candidate","P1","user_confirmed_same_casting","2","resolved_by_user_visual_inspection: identical castings confirmed; retain source model names and distinct decoration variants","User visual description: yellow body, black graphics, black glazing. Original blister name confirmed as “Polestar TRX”. Same collector number as the paired entry. Distinct color/deco/glazing observations support separate variant candidates; inspect base/casting details before canonical casting or variant promotion. User confirms casting/physical mould identical to paired Collector #084 entry JJL49. Retain separate color/deco Variant candidates; release/package identity is not established by this comparison.","HW EV","","","","","",""
+"mainline-2026-row-172","JJL49","084","Polestar (2nd Color)","HW EV","7/10","","second_color_candidate","P1","user_confirmed_same_casting","2","resolved_by_user_visual_inspection: identical castings confirmed; retain source model names and distinct decoration variants","User visual description: white body, black graphics, yellow glazing. Original blister name confirmed as “Polestar (2nd Color)”. Same collector number as the paired entry. Distinct color/deco/glazing observations support separate variant candidates; inspect base/casting details before canonical casting or variant promotion. User confirms casting/physical mould identical to paired Collector #084 entry JJJ47. Retain separate color/deco Variant candidates; release/package identity is not established by this comparison.","HW EV","","","","","",""
+"mainline-2026-row-173","JJJ48","085","Voltage Spike","HW EV","8/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW EV","","","","","",""
+"mainline-2026-row-174","JJL32","085","Voltage Spike (2nd Color)","HW EV","8/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","HW EV","","","","","",""
+"mainline-2026-row-175","JJH46","086","VW ID. Buzz Bomb","HW Euro New for 2026!","4/10","","new_for_2026_candidate","P2","pending","2","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","HW Euro","","","New for 2026!","","",""
+"mainline-2026-row-176","JJL95","086","VW ID. Buzz Bomb (2nd Color)","HW Euro New for 2026!","4/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","HW Euro","","","New for 2026!","","",""
+"mainline-2026-row-177","JJJ49","087","Cruise Bruiser","Wagons","1/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Wagons","","","","","",""
+"mainline-2026-row-178","JJL33","087","Cruise Bruiser (2nd Color)","Wagons","1/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Wagons","","","","","",""
+"mainline-2026-row-179","JJJ50","088","Nissan Skyline 2000 GT-R","HW J-Imports","3/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW J-Imports","","","","","",""
+"mainline-2026-row-180","JJL68","088","Nissan Skyline 2000 GT-R (2nd Color)","HW J-Imports","3/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","HW J-Imports","","","","","",""
+"mainline-2026-row-181","JJJ51","089","1985 Honda CR-X","HW J-Imports","4/10","","standard_release_candidate","P3","pending","3","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW J-Imports","","","","","",""
+"mainline-2026-row-182","JJM40","089","1985 Honda CR-X (2nd Color - Zamac)","HW J-Imports Walmart Exclusive","4/10","","retailer_exclusive_candidate","P1","pending","3","","Source labels a retailer/channel exclusive. Verify retailer, card variant, barcode and package identifiers.","HW J-Imports","","Walmart Exclusive","","full_blister_photo","https://hwpriceguide.com/dist/images/cars/2026-zamac-1985-honda-cr-x.jpg","Individual sealed blister photo. Toy # conflict: HW Collectors Newsletter and Fandom use JJM40; 164Custom's 2026 Zamac list uses JJZ05. Keep JJM40 provisionally pending stronger Mattel/package-code evidence."
+"mainline-2026-row-183","JJL86","089","1985 Honda CR-X (3rd Color)","HW J-Imports","4/10","","third_color_candidate","P2","pending","3","","Source explicitly labels a third color. Compare body, deco, wheels and card against earlier entries.","HW J-Imports","","","","","",""
+"mainline-2026-row-184","JJJ52","090","'16 Cadillac ATS-V R","Nightspeed","7/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Nightspeed","","","","","",""
+"mainline-2026-row-185","JJL36","090","'16 Cadillac ATS-V R (2nd Color)","Nightspeed","7/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Nightspeed","","","","","",""
+"mainline-2026-row-186","JJJ53","091","LB-WORKS Lamborghini Huracán Coupé","Nightspeed","8/10","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","Nightspeed","","","","","",""
+"mainline-2026-row-187","JJJ54","092","Feline Lucky","Experimotors","2/5","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Experimotors","","","","","",""
+"mainline-2026-row-188","JJL72","092","Feline Lucky (2nd Color)","Experimotors","2/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Experimotors","","","","","",""
+"mainline-2026-row-189","JJJ55","093","Coupé Clip","Experimotors","4/5","","standard_release_candidate","P1","user_confirmed_same_casting","2","resolved_by_user_visual_inspection: identical castings confirmed; retain source model names and distinct decoration variants","User visual description: purple body, white Hot Wheels logo. Original blister name confirmed as “Coupé Clip”. Same collector number as the paired entry. Distinct color/deco/glazing observations support separate variant candidates; inspect base/casting details before canonical casting or variant promotion. User confirms casting/physical mould identical to paired Collector #093 entry JJL05. Retain separate color/deco Variant candidates; release/package identity is not established by this comparison.","Experimotors","","","","","",""
+"mainline-2026-row-190","JJL05","093","El Segundo Coupé Clip (2nd Color)","Experimotors","4/5","","second_color_candidate","P1","user_confirmed_same_casting","2","resolved_by_user_visual_inspection: identical castings confirmed; retain source model names and distinct decoration variants","User visual description: blue body, red Hot Wheels logo. Original blister name confirmed as “El Segundo Coupé Clip (2nd Color)”. Same collector number as the paired entry. Distinct color/deco/glazing observations support separate variant candidates; inspect base/casting details before canonical casting or variant promotion. User confirms casting/physical mould identical to paired Collector #093 entry JJJ55. Retain separate color/deco Variant candidates; release/package identity is not established by this comparison.","Experimotors","","","","","",""
+"mainline-2026-row-191","JJH41","094","Ferrari 12Cilindri","Ferrari New for 2026!","4/5","","new_for_2026_candidate","P2","pending","2","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","Ferrari","","","New for 2026!","","",""
+"mainline-2026-row-192","JJL37","094","Ferrari 12Cilindri (2nd Color)","Ferrari New for 2026!","4/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Ferrari","","","New for 2026!","","",""
+"mainline-2026-row-193","JJJ56","095","'64 Impala","Layin' Low","4/5","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Layin' Low","","","","","",""
+"mainline-2026-row-194","JJM18","095","'64 Impala","Layin' Low Super Treasure Hunt","4/5","","super_treasure_hunt","P1","pending","2","","Source labels this row Super Treasure Hunt. Inspect paint, wheels, tampo, card and package identifiers.","Layin' Low","Super Treasure Hunt","","","partial_card_front_only","https://www.ebay.com/itm/157784342544","Card-front photo in a protective case; the captured frame does not show the car clearly."
+"mainline-2026-row-195","JJJ57","096","El Segundo Coupe","HW Fan Driven","4/5","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Fan Driven","","","","","",""
+"mainline-2026-row-196","JJL17","096","El Segundo Coupe (2nd Color)","HW Fan Driven","4/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","HW Fan Driven","","","","","",""
+"mainline-2026-row-197","JJJ58","097","Corvette Grand Sport","Then and Now","3/10","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","Then and Now","","","","","",""
+"mainline-2026-row-198","JJJ59","098","'96 Porsche Carrera","Then and Now","4/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Then and Now","","","","","",""
+"mainline-2026-row-199","JJL39","098","'96 Porsche Carrera (2nd Color)","Then and Now","4/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Then and Now","","","","","",""
+"mainline-2026-row-200","JJJ60","099","Renault Espace F1","HW Starting Grid","6/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Starting Grid","","","","","",""
+"mainline-2026-row-201","JJL40","099","Renault Espace F1 (2nd Color)","HW Starting Grid","6/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","HW Starting Grid","","","","","",""
+"mainline-2026-row-202","JJJ61","100","Twin Dorado","HW Starting Grid","7/10","","standard_release_candidate","P3","user_confirmed_same_casting","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Starting Grid","","","","individual_vehicle_pages","https://www.hwcgarage.com/pl/pojazd/twin-dorado-2026-blanc-jjj61; https://www.hwcgarage.com/en/vehicle/twin-dorado-2026-chrome-jjl54","HWC Garage individual vehicle pages with photo galleries; both versions share casting number HYW49. User visually confirms identical castings; wheel variants differ: JJJ61 10SP, JJL54 MC5."
+"mainline-2026-row-203","JJL54","100","Twin Dorado (2nd Color)","HW Starting Grid","7/10","","second_color_candidate","P2","user_confirmed_same_casting","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","HW Starting Grid","","","","individual_vehicle_pages","https://www.hwcgarage.com/pl/pojazd/twin-dorado-2026-blanc-jjj61; https://www.hwcgarage.com/en/vehicle/twin-dorado-2026-chrome-jjl54","HWC Garage individual vehicle pages with photo galleries; both versions share casting number HYW49. User visually confirms identical castings; wheel variants differ: JJJ61 10SP, JJL54 MC5."
+"mainline-2026-row-204","JJH99","101","'17 Pagani Huayra Roadster","Exoticars","7/10","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","Exoticars","","","","","",""
+"mainline-2026-row-205","JJK30","102","Pass'n Gasser","Drag Racers","3/10","","standard_release_candidate","P3","user_confirmed_same_casting","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Drag Racers","","","","individual_vehicle_pages","https://www.hwcgarage.com/vehicule/passn-gasser-2026-jaune-jjk30; https://www.hwcgarage.com/vehicule/passn-gasser-2026-rouge-jjm59","HWC Garage individual vehicle galleries; catalog lists shared casting number L9940. User visually confirms JJK30 and JJM59 have identical castings."
+"mainline-2026-row-206","JJM59","102","Pass'n Gasser (2nd Color)","Red Edition Target Exclusive","11/12","","retailer_exclusive_candidate","P1","user_confirmed_same_casting","2","","Source labels a retailer/channel exclusive. Verify retailer, card variant, barcode and package identifiers.","Red Edition","","Target Exclusive","","individual_vehicle_pages","https://www.hwcgarage.com/vehicule/passn-gasser-2026-jaune-jjk30; https://www.hwcgarage.com/vehicule/passn-gasser-2026-rouge-jjm59","HWC Garage individual vehicle galleries; catalog lists shared casting number L9940. User visually confirms JJK30 and JJM59 have identical castings."
+"mainline-2026-row-207","JJH47","103","Eggshelleracer","Drag Racers New for 2026!","4/10","","new_for_2026_candidate","P2","user_confirmed_same_casting","2","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","Drag Racers","","","New for 2026!","individual_vehicle_pages","https://www.hwcgarage.com/en/casting/eggshelleracer; https://www.hwcgarage.com/en/vehicle/eggshelleracer-2026-blanc-jjl25","HWC Garage casting overview and JJL25 individual page with photo gallery; JJH47 also listed in casting overview. User-confirmed identical castings and color/component differences. User-confirmed identical castings; JJH47 white base, yellow/silver body, brown egg; JJL25 yellow base, orange/silver body, white egg."
+"mainline-2026-row-208","JJL25","103","Eggshelleracer (2nd Color)","Drag Racers New for 2026!","4/10","","second_color_candidate","P2","user_confirmed_same_casting","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Drag Racers","","","New for 2026!","individual_vehicle_pages","https://www.hwcgarage.com/en/casting/eggshelleracer; https://www.hwcgarage.com/en/vehicle/eggshelleracer-2026-blanc-jjl25","HWC Garage casting overview and individual page with photo gallery. User-confirmed identical castings and color/component differences. User-confirmed identical castings; JJH47 white base, yellow/silver body, brown egg; JJL25 yellow base, orange/silver body, white egg."
+"mainline-2026-row-209","JJJ63","104","'68 Dodge Dart","Drag Racers","5/10","","standard_release_candidate","P3","user_confirmed_same_casting","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Drag Racers","","","","individual_vehicle_pages","https://www.hwcgarage.com/en/vehicle/68-dodge-dart-2026-orange-jjj63","User visually confirms identical castings. Color/deco and photo angle can make the same mold appear different; do not infer a different casting from second-/third-color designation or photography alone. HWC Garage individual listings show differing casting-number metadata (JJJ63 P2088; JJL79 C2649), retained as a source discrepancy pending reconciliation."
+"mainline-2026-row-210","JJL79","104","'68 Dodge Dart (2nd Color)","Drag Racers","5/10","","second_color_candidate","P2","user_confirmed_same_casting","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Drag Racers","","","","individual_vehicle_pages","https://www.hwcgarage.com/en/vehicle/68-dodge-dart-2026-bleu-jjl79","User visually confirms identical castings. Color/deco and photo angle can make the same mold appear different; do not infer a different casting from second-/third-color designation or photography alone. HWC Garage individual listings show differing casting-number metadata (JJJ63 P2088; JJL79 C2649), retained as a source discrepancy pending reconciliation."
+"mainline-2026-row-211","JJJ66","105","'85 Honda City Turbo II","Compact Kings","4/10","","standard_release_candidate","P3","user_confirmed_same_casting","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Compact Kings","","","","individual_vehicle_pages","https://www.hwcgarage.com/en/vehicle/85-honda-city-turbo-ii-2026-noir-jjj66","User visually confirms identical castings. HWC Garage catalog lists common casting number FJV43; retain black/white paint and deco as separate variant attributes."
+"mainline-2026-row-212","JJL47","105","'85 Honda City Turbo II (2nd Color)","Compact Kings","4/10","","second_color_candidate","P2","user_confirmed_same_casting","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Compact Kings","","","","individual_vehicle_pages","https://www.hwcgarage.com/en/vehicle/85-honda-city-turbo-ii-2026-blanc-jjl47","User visually confirms identical castings. HWC Garage catalog lists common casting number FJV43; retain black/white paint and deco as separate variant attributes."
+"mainline-2026-row-213","JJJ82","106","Mazda RX-3","Compact Kings","5/10","","standard_release_candidate","P3","user_confirmed_same_casting","3","","Standard product-table entry. Packaging and physical model identity remain unverified.","Compact Kings","","","","individual_vehicle_pages","https://www.hwcgarage.com/en/vehicle/mazda-rx-3-2026-argent-jjj82","User visually confirms identical castings across all three versions. Preserve paint/deco and distribution differences separately; JJM58 is Target Red Edition."
+"mainline-2026-row-214","JJM58","106","Mazda RX-3 (2nd Color)","Red Edition Target Exclusive","8/12","","retailer_exclusive_candidate","P1","user_confirmed_same_casting","3","","Source labels a retailer/channel exclusive. Verify retailer, card variant, barcode and package identifiers.","Red Edition","","Target Exclusive","","individual_vehicle_pages","https://www.hwcgarage.com/en/vehicle/mazda-rx-3-2026-rouge-jjm58","User visually confirms identical castings across all three versions. Preserve paint/deco and distribution differences separately; JJM58 is Target Red Edition."
+"mainline-2026-row-215","JJL80","106","Mazda RX-3 (3rd Color)","Compact Kings","5/10","","third_color_candidate","P2","user_confirmed_same_casting","3","","Source explicitly labels a third color. Compare body, deco, wheels and card against earlier entries.","Compact Kings","","","","individual_vehicle_pages","https://www.hwcgarage.com/en/vehicle/mazda-rx-3-2026-bleu-jjl80","User visually confirms identical castings across all three versions. Preserve paint/deco and distribution differences separately; JJM58 is Target Red Edition."
+"mainline-2026-row-216","JJJ67","107","1966 Bat Boat","Batman","3/5","","standard_release_candidate","P3","user_confirmed_same_casting","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Batman","","","","individual_vehicle_pages","https://www.hwcgarage.com/en/vehicle/1966-bat-boat-2026-jjj67","User visually confirms identical castings. Preserve paint/deco differences as separate variant attributes."
+"mainline-2026-row-217","JJL81","107","1966 Bat Boat (2nd Color)","Batman","3/5","","second_color_candidate","P2","user_confirmed_same_casting","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Batman","","","","individual_vehicle_pages","https://www.hwcgarage.com/en/vehicle/1966-bat-boat-2026-jjl81","User visually confirms identical castings. Preserve paint/deco differences as separate variant attributes."
+"mainline-2026-row-218","JJJ68","108","The Simpsons Family Car","Screen Time","3/10","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","Screen Time","","","","","",""
+"mainline-2026-row-219","JJJ69","109","Time Shifter","Wagons","2/10","","standard_release_candidate","P3","user_confirmed_same_casting","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Wagons","","","","individual_vehicle_pages","https://www.hwcgarage.com/en/vehicle/time-shifter-2026-jjj69; https://www.hwcgarage.com/en/vehicle/time-shifter-2026-jjl65","User visually confirms identical castings; paint/deco differences are separate variant attributes."
+"mainline-2026-row-220","JJL65","109","Time Shifter (2nd Color)","Wagons","2/10","","second_color_candidate","P2","user_confirmed_same_casting","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Wagons","","","","individual_vehicle_pages","https://www.hwcgarage.com/en/vehicle/time-shifter-2026-jjj69; https://www.hwcgarage.com/en/vehicle/time-shifter-2026-jjl65","User visually confirms identical castings; paint/deco differences are separate variant attributes."
+"mainline-2026-row-221","JJJ70","110","'70 Chevelle SS Wagon","Wagons","3/10","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","Wagons","","","","","",""
+"mainline-2026-row-222","JJJ71","111","Long Bloc","Wagons","4/10","","standard_release_candidate","P3","user_confirmed_same_casting","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Wagons","","","","individual_vehicle_pages","https://www.hwcgarage.com/en/vehicle/long-bloc-2026-jaune-jjj71; https://www.hwcgarage.com/en/vehicle/long-bloc-2026-bleu-jjl66","User visually confirms identical castings; paint/deco differences are separate variant attributes."
+"mainline-2026-row-223","JJL66","111","Long Bloc (2nd Color)","Wagons","4/10","","second_color_candidate","P2","user_confirmed_same_casting","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Wagons","","","","individual_vehicle_pages","https://www.hwcgarage.com/en/vehicle/long-bloc-2026-jaune-jjj71; https://www.hwcgarage.com/en/vehicle/long-bloc-2026-bleu-jjl66","User visually confirms identical castings; paint/deco differences are separate variant attributes."
+"mainline-2026-row-224","JJJ72","112","'89 Mazda Savanna RX-7 FC3S","HW J-Imports","5/10","","standard_release_candidate","P3","user_confirmed_same_casting","2","","User visually confirmed the two vehicles share the same casting; wheel designs differ. Catalog casting reference: GHB56.","HW J-Imports","","","","individual_vehicle_pages","https://www.hwcgarage.com/en/vehicle/89-mazda-savanna-rx-7-fc3s-2026-orange-jjj72; https://www.hwcgarage.com/en/vehicle/89-mazda-savanna-rx-7-fc3s-2026-vert-jjl69","HWC Garage lists casting number GHB56 for both entries. User visually confirms identical castings; wheel designs differ. Paint/deco and wheels are separate variant attributes."
+"mainline-2026-row-225","JJL69","112","'89 Mazda Savanna RX-7 FC3S (2nd Color)","HW J-Imports","5/10","","second_color_candidate","P2","user_confirmed_same_casting","2","","User visually confirmed the two vehicles share the same casting; wheel designs differ. Catalog casting reference: GHB56.","HW J-Imports","","","","individual_vehicle_pages","https://www.hwcgarage.com/en/vehicle/89-mazda-savanna-rx-7-fc3s-2026-orange-jjj72; https://www.hwcgarage.com/en/vehicle/89-mazda-savanna-rx-7-fc3s-2026-vert-jjl69","HWC Garage lists casting number GHB56 for both entries. User visually confirms identical castings; wheel designs differ. Paint/deco and wheels are separate variant attributes."
+"mainline-2026-row-226","JJJ73","113","Corvette C7 Z06","Nightspeed","9/10","","standard_release_candidate","P3","user_confirmed_same_casting","3","","User visually confirms identical castings across all three versions (JJJ73, JJL89, JPD53).","Nightspeed","","","","","","User confirms that the three Collector #113 versions have identical castings; paint/deco and any wheel differences are separate variant attributes."
+"mainline-2026-row-227","JJL89","113","Corvette C7 Z06 (2nd Color)","Nightspeed","9/10","","second_color_candidate","P2","user_confirmed_same_casting","3","","User visually confirms identical castings across all three versions (JJJ73, JJL89, JPD53).","Nightspeed","","","","","","User confirms that the three Collector #113 versions have identical castings; paint/deco and any wheel differences are separate variant attributes."
+"mainline-2026-row-228","JPD53","113","Corvette C7 Z06 (3rd Color)","Nightspeed Dollar General Exclusive","9/10","","retailer_exclusive_candidate","P1","user_confirmed_same_casting","3","","User visually confirms identical castings across all three versions (JJJ73, JJL89, JPD53).","Nightspeed","","Dollar General Exclusive","","not_found","https://www.hwcgarage.com/en/casting/corvette-c7-z06","No exact JPD53 Dollar General blister photo found. HWC Garage has the model/color entry, not a verified carded image. User confirms that the three Collector #113 versions have identical castings; paint/deco and any wheel differences are separate variant attributes."
+"mainline-2026-row-229","JJH45","114","Custom '66 Toronado","Factory Fresh New for 2026!","4/5","","new_for_2026_candidate","P2","user_confirmed_same_casting","3","","User confirms identical castings across all three Collector #114 versions; JPD55 photo evidence remains limited.","Factory Fresh","","","New for 2026!","individual_vehicle_pages","https://www.hwcgarage.com/en/vehicle/custom-66-toronado-2026-rouge-jjh45; https://www.hwcgarage.com/en/casting/oldsmobile-toronado","Individual vehicle page with photo gallery and casting overview. User confirms that JJH45, JJL93 and JPD55 share an identical casting. JPD55 was not physically available for inspection; retain the user's group-level confirmation and keep its photo evidence limitation explicit."
+"mainline-2026-row-230","JJL93","114","Custom '66 Toronado (2nd Color)","Factory Fresh New for 2026!","4/5","","second_color_candidate","P2","user_confirmed_same_casting","3","","User confirms identical castings across all three Collector #114 versions; JPD55 photo evidence remains limited.","Factory Fresh","","","New for 2026!","individual_vehicle_pages","https://www.hwcgarage.com/en/vehicle/custom-66-toronado-2026-dore-jjl93; https://www.hwcgarage.com/en/casting/oldsmobile-toronado","Individual vehicle page with photo gallery and casting overview. User confirms that JJH45, JJL93 and JPD55 share an identical casting. JPD55 was not physically available for inspection; retain the user's group-level confirmation and keep its photo evidence limitation explicit."
+"mainline-2026-row-231","JPD55","114","Custom '66 Toronado (3rd Color)","Factory Fresh New for 2026! Dollar General Exclusive","4/5","","retailer_exclusive_candidate","P1","user_confirmed_same_casting","3","","User confirms identical castings across all three Collector #114 versions; JPD55 photo evidence remains limited.","Factory Fresh","","Dollar General Exclusive","New for 2026!","not_found","https://www.hwcgarage.com/en/casting/oldsmobile-toronado","No exact JPD55 blister photo found. The surfaced red blister image is the ordinary JJH45, not JPD55; exclude it. User confirms that JJH45, JJL93 and JPD55 share an identical casting. JPD55 was not physically available for inspection; retain the user's group-level confirmation and keep its photo evidence limitation explicit."
+"mainline-2026-row-232","JMB11","115","Custom 2020 Honda e","HW EV New for 2026!","9/10","","new_for_2026_candidate","P2","user_confirmed_same_casting","2","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","HW EV","","","New for 2026!","individual_vehicle_pages","https://www.hwcgarage.com/en/vehicle/custom-2020-honda-e-2026-jaune-jmb11; https://www.hwcgarage.com/en/vehicle/custom-2020-honda-e-2026-blanc-jjl64; https://www.hwcgarage.com/en/casting/e","Individual vehicle page with photo gallery and casting overview. User-confirmed identical castings; visual references for both variants retained."
+"mainline-2026-row-233","JJL64","115","Custom 2020 Honda e (2nd Color)","HW EV New for 2026!","9/10","","second_color_candidate","P2","user_confirmed_same_casting","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","HW EV","","","New for 2026!","individual_vehicle_pages","https://www.hwcgarage.com/en/vehicle/custom-2020-honda-e-2026-jaune-jmb11; https://www.hwcgarage.com/en/vehicle/custom-2020-honda-e-2026-blanc-jjl64; https://www.hwcgarage.com/en/casting/e","Individual vehicle page with photo gallery and casting overview. User-confirmed identical castings; visual references for both variants retained."
+"mainline-2026-row-234","JJJ74","116","'87 Ford Sierra Cosworth","HW Euro","5/10","","standard_release_candidate","P3","user_confirmed_same_casting","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Euro","","","","","","User visually confirmed that JJJ74 and JJM19 have identical castings; STH finish/wheels/deco remain separate variant attributes. Collector-number/source discrepancy for JJM19 is documented in the existing evidence note."
+"mainline-2026-row-235","JJM19","116","'87 Ford Sierra Cosworth","HW Euro Super Treasure Hunt","5/10","","super_treasure_hunt","P1","user_confirmed_same_casting","2","","Source labels this row Super Treasure Hunt. Inspect paint, wheels, tampo, card and package identifiers.","HW Euro","Super Treasure Hunt","","","full_blister_photo","https://www.ebay.com/itm/188370590307","User visually confirmed that JJJ74 and JJM19 have identical castings; STH finish/wheels/deco remain separate variant attributes. Collector-number/source discrepancy for JJM19 is documented in the existing evidence note."
+"mainline-2026-row-236","JJJ75","117","Erikenstein Rod","Rod Squad","1/10","","standard_release_candidate","P3","user_confirmed_same_casting","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Rod Squad","","","","","","User visually confirmed that JJJ75 and JJL10 have identical castings; color/deco differences remain separate variant attributes."
+"mainline-2026-row-237","JJL10","117","Erikenstein Rod (2nd Color)","Rod Squad","1/10","","second_color_candidate","P2","user_confirmed_same_casting","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Rod Squad","","","","","","User visually confirmed that JJJ75 and JJL10 have identical castings; color/deco differences remain separate variant attributes."
+"mainline-2026-row-238","JJJ77","118","Pedal Driver","Rod Squad","2/10","","standard_release_candidate","P3","user_confirmed_same_casting","2","","Standard product-table entry. Packaging and physical model identity remain unverified. User visually confirmed that this version and the other Collector #118 entry have identical castings; paint/deco differences remain variant attributes.","Rod Squad","","","","","",""
+"mainline-2026-row-239","JJL11","118","Pedal Driver (2nd Color)","Rod Squad","2/10","","second_color_candidate","P2","user_confirmed_same_casting","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry. User visually confirmed that this version and the other Collector #118 entry have identical castings; paint/deco differences remain variant attributes.","Rod Squad","","","","","",""
+"mainline-2026-row-240","JJJ76","119","'33 Ford Lo Boy","Rod Squad","3/10","","standard_release_candidate","P3","user_confirmed_same_casting","2","","Standard product-table entry. Packaging and physical model identity remain unverified. User visually confirmed identical castings for JJJ76 and JJL18 on 2026-11-11.","Rod Squad","","","","","",""
+"mainline-2026-row-241","JJL18","119","'33 Ford Lo Boy (2nd Color)","Rod Squad","3/10","","second_color_candidate","P2","user_confirmed_same_casting","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry. User visually confirmed identical castings for JJJ76 and JJL18 on 2026-11-11.","Rod Squad","","","","","",""
+"mainline-2026-row-242","JJJ78","120","Scuderia Ferrari HP","Formula 1","3/5","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","Formula 1","","","","","",""
+"mainline-2026-row-243","JJJ79","121","2023 Nissan Z","Then and Now","5/10","","standard_release_candidate","P3","user_confirmed_same_casting","2","","Standard product-table entry. Packaging and physical model identity remain unverified. User visually confirmed identical castings for JJJ79 and JJM34 on 2026-11-11.","Then and Now","","","","","",""
+"mainline-2026-row-244","JJM34","121","2023 Nissan Z (2nd Color - Zamac)","Then and Now Walmart Exclusive","5/10","","retailer_exclusive_candidate","P1","user_confirmed_same_casting","2","","Source labels a retailer/channel exclusive. Verify retailer, card variant, barcode and package identifiers. User visually confirmed identical castings for JJJ79 and JJM34 on 2026-11-11.","Then and Now","","Walmart Exclusive","","not_found","https://hotwheels.fandom.com/wiki/2023_Nissan_Z","Exact carded Zamac photo not located in this search. Catalog identity JJM34 is well corroborated; do not substitute the ordinary orange release photo."
+"mainline-2026-row-245","JJM04","122","Cone Shaker","HW Starting Grid Treasure Hunt","8/10","","treasure_hunt","P1","pending","1","","Source labels this row Treasure Hunt. Inspect hidden symbol/tampo, card markings and package identifiers.","HW Starting Grid","Treasure Hunt","","","full_blister_photo","https://hwpriceguide.com/dist/images/cars/2026-treasure-hunts-cone-shaker.jpg","Individual full blister photo; card shows 122/250 and HW Starting Grid 8/10."
+"mainline-2026-row-246","JJH44","123","Maserati Tipo 61","HW Starting Grid New for 2026!","9/10","","new_for_2026_candidate","P2","user_confirmed_same_casting","3","","Source marks the entry new for/in 2026. Verify debut year and physical package details. User visually confirmed JJM39 is the same casting as JJH44 and JJL41 on 2026-11-11.","HW Starting Grid","","","New for 2026!","individual_vehicle_pages","https://www.hwcgarage.com/en/vehicle/maserati-tipo-61-2026-blanc-jjh44; https://www.hwcgarage.com/en/vehicle/maserati-tipo-61-2026-noir-jjl41; https://www.hwcgarage.com/en/casting/tipo-61","Individual vehicle page with photo gallery and casting overview. User-confirmed identical castings; visual references for both variants retained."
+"mainline-2026-row-247","JJM39","123","Maserati Tipo 61 (2nd Color)","Red Edition Target Exclusive","7/12","","retailer_exclusive_candidate","P1","user_confirmed_same_casting","3","","Source labels a retailer/channel exclusive. Verify retailer, card variant, barcode and package identifiers. User visually confirmed JJM39 is the same casting as JJH44 and JJL41 on 2026-11-11.","Red Edition","","Target Exclusive","","individual_vehicle_pages","https://www.hwcgarage.com/en/vehicle/maserati-tipo-61-2026-blanc-jjh44; https://www.hwcgarage.com/en/vehicle/maserati-tipo-61-2026-noir-jjl41; https://www.hwcgarage.com/en/casting/tipo-61","Red Edition group 7/12–9/12. Sealed blister packs shown together; set-level image only, not an individual image relation. User-confirmed identical castings; visual references for both variants retained."
+"mainline-2026-row-248","JJL41","123","Maserati Tipo 61 (3rd Color)","HW Starting Grid New for 2026!","9/10","","third_color_candidate","P2","user_confirmed_same_casting","3","","Source explicitly labels a third color. Compare body, deco, wheels and card against earlier entries. User visually confirmed JJM39 is the same casting as JJH44 and JJL41 on 2026-11-11.","HW Starting Grid","","","New for 2026!","individual_vehicle_pages","https://www.hwcgarage.com/en/vehicle/maserati-tipo-61-2026-blanc-jjh44; https://www.hwcgarage.com/en/vehicle/maserati-tipo-61-2026-noir-jjl41; https://www.hwcgarage.com/en/casting/tipo-61","Individual vehicle page with photo gallery and casting overview. User-confirmed identical castings; visual references for both variants retained."
+"mainline-2026-row-249","JJM05","124","2016 Ford GT Race","Exoticars Treasure Hunt","8/10","","treasure_hunt","P1","user_visual_observation_received","1","User visual observation: black flame TH symbol on the vehicle. Physical blister sample available; remaining package/deco inspection pending. User confirms no Treasure Hunt logo is visible on the blister card; flame symbol is visible only on the vehicle.","Source labels this row Treasure Hunt. Inspect hidden symbol/tampo, card markings and package identifiers. User visual observation: black flame TH symbol on the vehicle. User visual observation: black flame TH symbol on the vehicle. User confirms no Treasure Hunt logo is visible on the blister card; flame symbol is visible only on the vehicle.","Exoticars","Treasure Hunt","","","","","Physical sample is available and has already been visually inspected by the user; internet-photo review is not used for this row."
+"mainline-2026-row-250","JJH55","125","2024 Aston Martin Vantage GT3","Exoticars New for 2026!","9/10","","new_for_2026_candidate","P2","user_confirmed_same_casting","2","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","Exoticars","","","New for 2026!","individual_vehicle_pages","https://www.hwcgarage.com/en/vehicle/2024-aston-martin-vantage-gt3-2026-bleu-jjh55; https://www.hwcgarage.com/en/vehicle/2024-aston-martin-vantage-gt3-2026-blanc-jjl24","Individual vehicle page with photo gallery. User-confirmed identical casting with JJL24. User-confirmed identical castings; visual references for both variants retained."
+"mainline-2026-row-251","JJL24","125","2024 Aston Martin Vantage GT3 (2nd Color)","Exoticars New for 2026!","9/10","","second_color_candidate","P2","user_confirmed_same_casting","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Exoticars","","","New for 2026!","individual_vehicle_pages","https://www.hwcgarage.com/en/vehicle/2024-aston-martin-vantage-gt3-2026-bleu-jjh55; https://www.hwcgarage.com/en/vehicle/2024-aston-martin-vantage-gt3-2026-blanc-jjl24","Individual vehicle page with photo gallery. User-confirmed identical casting with JJH55. User-confirmed identical castings; visual references for both variants retained."
+"mainline-2026-row-252","JJJ64","126","'64 Dodge 330","Drag Racers New in Mainline","6/10","","new_for_2026_candidate","P2","user_confirmed_same_casting","2","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","Drag Racers New in Mainline","","","","individual_vehicle_pages","https://www.hwcgarage.com/en/vehicle/64-dodge-330-2026-blanc-jjj64; https://www.hwcgarage.com/en/vehicle/64-dodge-330-2026-rouge-jjl56; https://www.hwcgarage.com/en/casting/330","Individual vehicle page with photo gallery and casting overview. User confirms casting identical to JJL56. User-confirmed identical castings; visual references for both variants retained."
+"mainline-2026-row-253","JJL56","126","'64 Dodge 330 (2nd Color)","Drag Racers New in Mainline","6/10","","second_color_candidate","P2","user_confirmed_same_casting","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Drag Racers New in Mainline","","","","individual_vehicle_pages","https://www.hwcgarage.com/en/vehicle/64-dodge-330-2026-blanc-jjj64; https://www.hwcgarage.com/en/vehicle/64-dodge-330-2026-rouge-jjl56; https://www.hwcgarage.com/en/casting/330","Individual vehicle page with photo gallery and casting overview. User confirms casting identical to JJJ64. User-confirmed identical castings; visual references for both variants retained."
+"mainline-2026-row-254","JJJ80","127","Custom '72 Chevy LUV","Drag Racers","7/10","","standard_release_candidate","P3","user_confirmed_same_casting","2","","Standard product-table entry. Packaging and physical model identity remain unverified. User visually confirmed identical castings for JJJ80 and JJL63 on 2026-11-11.","Drag Racers","","","","","",""
+"mainline-2026-row-255","JJL63","127","Custom '72 Chevy LUV (2nd Color)","Drag Racers","7/10","","second_color_candidate","P2","user_confirmed_same_casting","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry. User visually confirmed identical castings for JJJ80 and JJL63 on 2026-11-11.","Drag Racers","","","","","",""
+"mainline-2026-row-256","JPJ80","128","Datsun 620","Compact Kings","6/10","","standard_release_candidate","P3","user_confirmed_same_casting","2","","Standard product-table entry. Packaging and physical model identity remain unverified. User visually confirmed identical castings for JPJ80 and JJL26 on 2026-11-11.","Compact Kings","","","","","",""
+"mainline-2026-row-257","JJL26","128","Datsun 620 (2nd Color)","Compact Kings","6/10","","second_color_candidate","P2","user_confirmed_same_casting","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry. User visually confirmed identical castings for JPJ80 and JJL26 on 2026-11-11.","Compact Kings","","","","","",""
+"mainline-2026-row-258","JJJ83","129","Standard Kart","Screen Time","4/10","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","Screen Time","","","","","",""
+"mainline-2026-row-259","JJJ84","130","2019 Audi R8 Spyder","Drop Tops","4/5","","standard_release_candidate","P3","user_confirmed_same_casting","2","","Standard product-table entry. Packaging and physical model identity remain unverified. User visually confirmed identical castings for JJJ84 and JJL60 on 2026-11-11.","Drop Tops","","","","","",""
+"mainline-2026-row-260","JJL60","130","2019 Audi R8 Spyder (2nd Color)","Drop Tops","4/5","","second_color_candidate","P2","user_confirmed_same_casting","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry. User visually confirmed identical castings for JJJ84 and JJL60 on 2026-11-11.","Drop Tops","","","","","",""
+"mainline-2026-row-261","JJH48","131","Fiat Beast of Turin","Drop Tops New for 2026!","5/5","","new_for_2026_candidate","P2","user_confirmed_same_casting","3","","Source marks the entry new for/in 2026. Verify debut year and physical package details. User visually confirmed identical castings for JJH48, JJM66 and JJL61 on 2026-11-11.","Drop Tops","","","New for 2026!","individual_vehicle_pages","https://www.hwcgarage.com/pl/pojazd/fiat-beast-of-turin-2026-rouge-jjh48; https://catalog.hwcollectorsnews.com/SeriesDefinitions/Details/2171","HWC Garage individual page and Hot Wheels Collectors Newsletter series listing; both show JJH48 as 2026 Fiat Beast of Turin. Photo page available; no direct image asset URL stored."
+"mainline-2026-row-262","JJM66","131","Fiat Beast of Turin (2nd Color - Zamac)","Drop Tops New for 2026! Walmart Exclusive","5/5","","retailer_exclusive_candidate","P1","user_confirmed_same_casting","3","","Source labels a retailer/channel exclusive. Verify retailer, card variant, barcode and package identifiers. User visually confirmed identical castings for JJH48, JJM66 and JJL61 on 2026-11-11.","Drop Tops","","Walmart Exclusive","New for 2026!","group_blister_photo","https://hwheadline.com/2026-hot-wheels-zamac-edition-5-6/; https://www.hwcgarage.com/nl/voertuig/fiat-beast-of-turin-2026-non-peint-zamac-jjm66; https://catalog.hwcollectorsnews.com/SeriesDefinitions/Details/2171","Previously recorded group blister photo plus HWC Garage individual page and Newsletter listing. Walmart Zamac variant; same Collector #131."
+"mainline-2026-row-263","JJL61","131","Fiat Beast of Turin (3rd Color)","Drop Tops New for 2026!","5/5","","third_color_candidate","P2","user_confirmed_same_casting","3","","Source explicitly labels a third color. Compare body, deco, wheels and card against earlier entries. User visually confirmed identical castings for JJH48, JJM66 and JJL61 on 2026-11-11.","Drop Tops","","","New for 2026!","individual_vehicle_pages","https://www.hwcgarage.com/en/vehicle/fiat-beast-of-turin-2026-rouge-jjl61; https://catalog.hwcollectorsnews.com/SeriesDefinitions/Details/2171","HWC Garage individual page with photo gallery and Newsletter listing; JJH48/JJL61/JJM66 are all listed in Drop Tops 5/5."
+"mainline-2026-row-264","JJJ85","132","Bullet Proof","X-Raycers","5/5","","standard_release_candidate","P3","user_confirmed_same_casting","2","","Standard product-table entry. Packaging and physical model identity remain unverified. User visually confirmed identical castings for JJJ85 and JJL30 on 2026-11-11.","X-Raycers","","","","","",""
+"mainline-2026-row-265","JJL30","132","Bullet Proof (2nd Color)","X-Raycers","5/5","","second_color_candidate","P2","user_confirmed_same_casting","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry. User visually confirmed identical castings for JJJ85 and JJL30 on 2026-11-11.","X-Raycers","","","","","",""
+"mainline-2026-row-266","JJJ86","133","8 Crate","Wagons","5/10","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","Wagons","","","","","",""
+"mainline-2026-row-267","JJJ87","134","'20 Dodge Charger Hellcat","Nightspeed","10/10","","standard_release_candidate","P3","user_confirmed_same_casting","2","","Standard product-table entry. Packaging and physical model identity remain unverified. User visually confirmed identical castings for JJJ87 and JJL71 on 2026-11-11.","Nightspeed","","","","","",""
+"mainline-2026-row-268","JJL71","134","'20 Dodge Charger Hellcat (2nd Color)","Nightspeed","10/10","","second_color_candidate","P2","user_confirmed_same_casting","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry. User visually confirmed identical castings for JJJ87 and JJL71 on 2026-11-11.","Nightspeed","","","","","",""
+"mainline-2026-row-269","JJJ88","135","Flippin Fast","HW All Drivers Welcome World Autism Awareness Day","2/5","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW All Drivers Welcome World Autism Awareness Day","","","","","",""
+"mainline-2026-row-270","JJJ89","136","'98 Honda Prelude","Factory Fresh","5/5","","standard_release_candidate","P3","user_confirmed_same_casting","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Factory Fresh","","","","","","User physical visual comparison: identical castings confirmed for JJJ89 and JJL15. Color/deco differences remain variant attributes."
+"mainline-2026-row-271","JJL15","136","'98 Honda Prelude (2nd Color)","Factory Fresh","5/5","","second_color_candidate","P2","user_confirmed_same_casting","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Factory Fresh","","","","","","User physical visual comparison: identical castings confirmed for JJJ89 and JJL15. Color/deco differences remain variant attributes."
+"mainline-2026-row-272","JJJ90","137","La Troca","Layin' Low","5/5","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","Layin' Low","","","","","",""
+"mainline-2026-row-273","JJJ91","138","Morgan Super 3","HW Euro","6/10","","standard_release_candidate","P3","user_confirmed_same_casting","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Euro","","","","","","User physical visual comparison: identical castings confirmed for JJJ91 and JJL42. Color/deco differences remain variant attributes."
+"mainline-2026-row-274","JJL42","138","Morgan Super 3 (2nd Color)","HW Euro","6/10","","second_color_candidate","P2","user_confirmed_same_casting","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","HW Euro","","","","","","User physical visual comparison: identical castings confirmed for JJJ91 and JJL42. Color/deco differences remain variant attributes."
+"mainline-2026-row-275","JJJ92","139","Bone Shaker","HW Fan Driven","5/5","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Fan Driven","","","","","",""
+"mainline-2026-row-276","JJL38","139","Bone Shaker (2nd Color)","HW Fan Driven","5/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","HW Fan Driven","","","","","",""
+"mainline-2026-row-277","JJJ93","140","Mid Mill","Rod Squad","4/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Rod Squad","","","","","",""
+"mainline-2026-row-278","JJL76","140","Mid Mill (2nd Color)","Rod Squad","4/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Rod Squad","","","","","",""
+"mainline-2026-row-279","JJJ94","141","Screamliner","Rod Squad","5/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Rod Squad","","","","","",""
+"mainline-2026-row-280","JJL19","141","Screamliner (2nd Color)","Rod Squad","5/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Rod Squad","","","","","",""
+"mainline-2026-row-281","JJJ95","142","Mazda RX-3","Tooned","1/5","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","Tooned","","","","","",""
+"mainline-2026-row-282","JJH50","143","Deora Too'nd","Tooned New for 2026!","2/5","","new_for_2026_candidate","P2","pending","2","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","Tooned","","","New for 2026!","","",""
+"mainline-2026-row-283","JJL21","143","Deora Too'nd (2nd Color)","Tooned New for 2026!","2/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Tooned","","","New for 2026!","","",""
+"mainline-2026-row-284","JJJ96","144","Classic TV Series Batmobile","Batman","4/5","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","Batman","","","","","",""
+"mainline-2026-row-285","JJJ97","145","El Segundo Rallye","HW Dirt","1/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Dirt","","","","","",""
+"mainline-2026-row-286","JJL29","145","El Segundo Rallye (2nd Color)","HW Dirt","1/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","HW Dirt","","","","","",""
+"mainline-2026-row-287","JJJ98","146","Mazda Autozam","HW Dirt","2/10","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Dirt","","","","","",""
+"mainline-2026-row-288","JJM06","147","2 Jet Z","HW Dream Garage Treasure Hunt","4/5","","treasure_hunt","P1","pending","1","","Source labels this row Treasure Hunt. Inspect hidden symbol/tampo, card markings and package identifiers.","HW Dream Garage","Treasure Hunt","","","full_blister_photo","https://www.ebay.com/itm/287280257359","Individual full blister photo; card shows 147/250 and HW Dream Garage 4/5."
+"mainline-2026-row-289","JJH54","148","Tooned Purple Passion","HW Dream Garage New for 2026!","5/5","","new_for_2026_candidate","P2","pending","2","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","HW Dream Garage","","","New for 2026!","","",""
+"mainline-2026-row-290","JJL48","148","Tooned Purple Passion (2nd Color)","HW Dream Garage New for 2026!","5/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","HW Dream Garage","","","New for 2026!","","",""
+"mainline-2026-row-291","JJJ99","149","Honda Odyssey","HW J-Imports","6/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW J-Imports","","","","","",""
+"mainline-2026-row-292","JJM63","149","Honda Odyssey (2nd Color)","Red Edition Target Exclusive","9/12","","retailer_exclusive_candidate","P1","pending","2","","Source labels a retailer/channel exclusive. Verify retailer, card variant, barcode and package identifiers.","Red Edition","","Target Exclusive","","group_blister_photo","https://hwheadline.com/2026-hot-wheels-red-edition-7-8-9/","Red Edition group 7/12–9/12. Sealed blister packs shown together; set-level image only, not an individual image relation."
+"mainline-2026-row-293","JJH56","150","Dino 206 GT","Ferrari New for 2026!","5/5","","new_for_2026_candidate","P2","pending","2","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","Ferrari","","","New for 2026!","","",""
+"mainline-2026-row-294","JJL74","150","Dino 206 GT (2nd Color)","Ferrari New for 2026!","5/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Ferrari","","","New for 2026!","","",""
+"mainline-2026-row-295","JJH52","151","Ford F-150 Lightning SuperTruck","Truckin' Along New for 2026!","5/5","","new_for_2026_candidate","P2","pending","2","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","Truckin' Along","","","New for 2026!","","",""
+"mainline-2026-row-296","JJL92","151","Ford F-150 Lightning SuperTruck (2nd Color)","Truckin' Along New for 2026!","5/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Truckin' Along","","","New for 2026!","","",""
+"mainline-2026-row-297","JJK00","152","BMW 635 CSi","HW Euro","7/10","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Euro","","","","","",""
+"mainline-2026-row-298","JJK01","153","'41 Willys","Rod Squad","6/10","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","Rod Squad","","","","","",""
+"mainline-2026-row-299","JJK02","154","Kick Sauber F1 Team","Formula 1","4/5","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","Formula 1","","","","","",""
+"mainline-2026-row-300","JJH53","155","Vairstrike","HW Mods New for 2026!","3/5","","new_for_2026_candidate","P2","pending","3","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","HW Mods","","","New for 2026!","","",""
+"mainline-2026-row-301","JJM36","155","Vairstrike (2nd Color - Zamac)","HW Mods New for 2026! Walmart Exclusive","3/5","","retailer_exclusive_candidate","P1","pending","3","","Source labels a retailer/channel exclusive. Verify retailer, card variant, barcode and package identifiers.","HW Mods","","Walmart Exclusive","New for 2026!","full_blister_photo","https://www.ebay.com/itm/336814784457","Individual sealed blister photo. Card shows 155/250 and HW Mods 3/5."
+"mainline-2026-row-302","JJL78","155","Vairstrike (3rd Color)","HW Mods New for 2026!","3/5","","third_color_candidate","P2","pending","3","","Source explicitly labels a third color. Compare body, deco, wheels and card against earlier entries.","HW Mods","","","New for 2026!","","",""
+"mainline-2026-row-303","JJK03","156","Custom Otto","Mattel","5/5","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Mattel","","","","","",""
+"mainline-2026-row-304","JJM21","156","Custom Otto","Mattel Super Treasure Hunt","5/5","","super_treasure_hunt","P1","pending","2","","Source labels this row Super Treasure Hunt. Inspect paint, wheels, tampo, card and package identifiers.","Mattel","Super Treasure Hunt","","","partial_card_front_only","https://www.ebay.com/itm/336791605662","Card front and only upper part of blister visible; car is cut off in captured image."
+"mainline-2026-row-305","JJK04","157","'20 Toyota GR Supra","Then and Now","6/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Then and Now","","","","","",""
+"mainline-2026-row-306","JJM68","157","'20 Toyota GR Supra (2nd Color)","Red Edition Target Exclusive","10/12","","retailer_exclusive_candidate","P1","pending","2","","Source labels a retailer/channel exclusive. Verify retailer, card variant, barcode and package identifiers.","Red Edition","","Target Exclusive","","group_blister_photo","https://www.ebay.com/itm/800687443675","Red Edition group 10/12–12/12. Three sealed blister packs shown together; set-level image only, not an individual image relation."
+"mainline-2026-row-307","JJK05","158","Mach Speeder","Exoticars","10/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Exoticars","","","","","",""
+"mainline-2026-row-308","JJL55","158","Mach Speeder (2nd Color)","Exoticars","10/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Exoticars","","","","","",""
+"mainline-2026-row-309","JJJ81","159","Honda Civic Custom","Drag Racers","8/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Drag Racers","","","","","",""
+"mainline-2026-row-310","JJM20","159","Honda Civic Custom","Drag Racers Super Treasure Hunt","8/10","","super_treasure_hunt","P1","pending","2","","Source labels this row Super Treasure Hunt. Inspect paint, wheels, tampo, card and package identifiers.","Drag Racers","Super Treasure Hunt","","","full_blister_photo","https://www.ebay.com/itm/389842451103","Individual sealed blister photo; card clearly shows 159/250 and Drag Racers 8/10. Some lists incorrectly give #151."
+"mainline-2026-row-311","JJK07","160","Lotus Sport Elise","Compact Kings","7/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Compact Kings","","","","","",""
+"mainline-2026-row-312","JJM22","160","Lotus Sport Elise","Compact Kings Super Treasure Hunt","7/10","","super_treasure_hunt","P1","pending","2","","Source labels this row Super Treasure Hunt. Inspect paint, wheels, tampo, card and package identifiers.","Compact Kings","Super Treasure Hunt","","","partial_card_front_only","https://www.itsfun.in/products/blister-crack-super-treasure-hunt-hot-wheels-lotus-sport-elise-7c-copy","Card front and partial blister visible; full car not captured. Catalog conflict: HWtreasure page appears to swap JJM22/JJM23; specialist catalog and case sequence support JJM22 for Lotus."
+"mainline-2026-row-313","JJK08","161","'70 Ford Escort RS1600","HW Dirt","3/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Dirt","","","","","",""
+"mainline-2026-row-314","JJL58","161","'70 Ford Escort RS1600 (2nd Color)","HW Dirt","3/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","HW Dirt","","","","","",""
+"mainline-2026-row-315","JJM07","162","Total Disposal","HW Heavyweights Treasure Hunt","5/5","","treasure_hunt","P1","pending","1","","Source labels this row Treasure Hunt. Inspect hidden symbol/tampo, card markings and package identifiers.","HW Heavyweights","Treasure Hunt","","","full_blister_photo","https://zoomsters.in/products/hot-wheels-mainline-h-case-2026-total-disposal-treasure-hunt","Individual full blister photo; card shows Total Disposal 162/250 and HW Heavyweights 5/5."
+"mainline-2026-row-316","JJH49","163","Cadillac Celestiq","HW EV New for 2026!","10/10","","new_for_2026_candidate","P2","pending","2","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","HW EV","","","New for 2026!","","",""
+"mainline-2026-row-317","JJL84","163","Cadillac Celestiq (2nd Color)","HW EV New for 2026!","10/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","HW EV","","","New for 2026!","","",""
+"mainline-2026-row-318","JJK10","164","Classic '55 Nomad","Wagons","6/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Wagons","","","","","",""
+"mainline-2026-row-319","JJM55","164","Classic '55 Nomad (2nd Color)","Wagons Kroger Exclusive","6/10","","retailer_exclusive_candidate","P1","pending","2","","Source labels a retailer/channel exclusive. Verify retailer, card variant, barcode and package identifiers.","Wagons","","Kroger Exclusive","","partial_card_front_only","https://www.ebay.com/itm/147606209658","Only upper card-front crop is visible; blister and actual car are not shown in the captured image."
+"mainline-2026-row-320","JJK09","165","Gone Mad","Wagons","7/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Wagons","","","","","",""
+"mainline-2026-row-321","JJL67","165","Gone Mad (2nd Color)","Wagons","7/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Wagons","","","","","",""
+"mainline-2026-row-322","JJH64","166","Twin Tags","Experimotors New for 2026!","5/5","","new_for_2026_candidate","P2","pending","2","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","Experimotors","","","New for 2026!","","",""
+"mainline-2026-row-323","JJL73","166","Twin Tags (2nd Color)","Experimotors New for 2026!","5/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Experimotors","","","New for 2026!","","",""
+"mainline-2026-row-324","JJK11","167","Head Gasket","HW All Drivers Welcome International Day of Play","3/5","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW All Drivers Welcome International Day of Play","","","","","",""
+"mainline-2026-row-325","JJK12","168","Mailed It!","Team Wheels","1/5","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Team Wheels","","","","","",""
+"mainline-2026-row-326","JJL75","168","Mailed It! (2nd Color)","Team Wheels","1/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Team Wheels","","","","","",""
+"mainline-2026-row-327","JJK13","169","Super Twin Mill","Hot Wheels Let's Race","1/5","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","Hot Wheels Let's Race","","","","","",""
+"mainline-2026-row-328","JJK14","170","'64 Lincoln Continental","Cool Classics","1/10","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","Cool Classics","","","","","",""
+"mainline-2026-row-329","JJK15","171","1983 Porsche 928S","HW Euro","8/10","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Euro","","","","","",""
+"mainline-2026-row-330","JJK16","172","Tooned Volkswagen Golf Mk1","Tooned","3/5","","standard_release_candidate","P3","pending","3","","Standard product-table entry. Packaging and physical model identity remain unverified.","Tooned","","","","","",""
+"mainline-2026-row-331","JJM56","172","Tooned Volkswagen Golf Mk1 (2nd Color)","Tooned Kroger Exclusive","3/5","","retailer_exclusive_candidate","P1","pending","3","","Source labels a retailer/channel exclusive. Verify retailer, card variant, barcode and package identifiers.","Tooned","","Kroger Exclusive","","loose_car_photo_only","https://www.hwcgarage.com/en/vehicle/tooned-volkswagen-golf-mk1-2026-violet-jjm56","Exact purple JJM56 car images found, but no verified blister/card photo in this search."
+"mainline-2026-row-332","JJL52","172","Tooned Volkswagen Golf Mk1 (3rd Color)","Tooned","3/5","","third_color_candidate","P2","pending","3","","Source explicitly labels a third color. Compare body, deco, wheels and card against earlier entries.","Tooned","","","","","",""
+"mainline-2026-row-333","JJH51","173","Ferrari F2004","HW Starting Grid New for 2026!","10/10","","new_for_2026_candidate","P2","pending","1","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","HW Starting Grid","","","New for 2026!","","",""
+"mainline-2026-row-334","JJK17","174","Duck N' Roll","HW Dirt","4/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Dirt","","","","","",""
+"mainline-2026-row-335","JJL59","174","Duck N' Roll (2nd Color)","HW Dirt","4/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","HW Dirt","","","","","",""
+"mainline-2026-row-336","JJK18","175","'94 Audi Avant RS2","Wagons","8/10","","standard_release_candidate","P3","pending","3","","Standard product-table entry. Packaging and physical model identity remain unverified.","Wagons","","","","","",""
+"mainline-2026-row-337","JJL85","175","'94 Audi Avant RS2 (2nd Color)","Wagons","8/10","","second_color_candidate","P2","pending","3","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Wagons","","","","","",""
+"mainline-2026-row-338","JPD54","175","'94 Audi Avant RS2 (3rd Color)","Wagons Dollar General Exclusive","8/10","","retailer_exclusive_candidate","P1","pending","3","","Source labels a retailer/channel exclusive. Verify retailer, card variant, barcode and package identifiers.","Wagons","","Dollar General Exclusive","","not_found","https://164custom.com/hotwheels/94-audi-avant-rs2/JPD54/black.html","No exact JPD54 blister photo found. Catalog page confirms 2026 Dollar General recolor released with 2027 Case B."
+"mainline-2026-row-339","JJK19","176","Subaru Impreza WRX","HW J-Imports","7/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW J-Imports","","","","","",""
+"mainline-2026-row-340","JJM23","176","Subaru Impreza WRX","HW J-Imports Super Treasure Hunt","7/10","","super_treasure_hunt","P1","pending","2","","Source labels this row Super Treasure Hunt. Inspect paint, wheels, tampo, card and package identifiers.","HW J-Imports","Super Treasure Hunt","","","full_blister_photo","https://www.ebay.ca/itm/257745182245","Individual sealed blister photo; card shows Subaru Impreza WRX in HW J-Imports 7/10. Catalog conflict with a source that swaps JJM22/JJM23; keep JJM23 for Subaru."
+"mainline-2026-row-341","JJH58","177","'88 Mitsubishi Starion","HW J-Imports New for 2026!","8/10","","new_for_2026_candidate","P2","pending","3","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","HW J-Imports","","","New for 2026!","","",""
+"mainline-2026-row-342","JJM54","177","'88 Mitsubishi Starion (2nd Color)","HW J-Imports New for 2026! Kroger Exclusive","8/10","","retailer_exclusive_candidate","P1","pending","3","","Source labels a retailer/channel exclusive. Verify retailer, card variant, barcode and package identifiers.","HW J-Imports","","Kroger Exclusive","New for 2026!","full_blister_photo","https://www.ebay.ca/itm/820203988169","Search-result photo shows red Starion in sealed blister; card displays 177/250 and 8/10."
+"mainline-2026-row-343","JJL70","177","'88 Mitsubishi Starion (3rd Color)","HW J-Imports New for 2026!","8/10","","third_color_candidate","P2","pending","3","","Source explicitly labels a third color. Compare body, deco, wheels and card against earlier entries.","HW J-Imports","","","New for 2026!","","",""
+"mainline-2026-row-344","JJH61","178","Click Shift","HW All Drivers Welcome New for 2026! Easterseals","4/5","","new_for_2026_candidate","P2","pending","2","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","HW All Drivers Welcome Easterseals","","","New for 2026!","","",""
+"mainline-2026-row-345","JJL90","178","Click Shift (2nd Color)","HW All Drivers Welcome New for 2026! Easterseals","4/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","HW All Drivers Welcome Easterseals","","","New for 2026!","","",""
+"mainline-2026-row-346","JJK20","179","Mountain Mauler","Hot Wheels Let's Race","2/5","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","Hot Wheels Let's Race","","","","","",""
+"mainline-2026-row-347","JJK21","180","'55 Chevy","Cool Classics","2/10","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","Cool Classics","","","","","",""
+"mainline-2026-row-348","JJH63","181","Mercedes-Benz CLA HW","HW Euro New for 2026!","9/10","","new_for_2026_candidate","P2","pending","2","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","HW Euro","","","New for 2026!","","",""
+"mainline-2026-row-349","JJL97","181","Mercedes-Benz CLA HW (2nd Color)","HW Euro New for 2026!","9/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","HW Euro","","","New for 2026!","","",""
+"mainline-2026-row-350","JJH60","182","Chop 'n Bloc","Rod Squad New for 2026!","7/10","","new_for_2026_candidate","P2","pending","2","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","Rod Squad","","","New for 2026!","","",""
+"mainline-2026-row-351","JJL77","182","Chop 'n Bloc (2nd Color)","Rod Squad New for 2026!","7/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Rod Squad","","","New for 2026!","","",""
+"mainline-2026-row-352","JJK23","183","'70 Buick GSX","HW Torque","1/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Torque","","","","","",""
+"mainline-2026-row-353","JJM37","183","'70 Buick GSX (2nd Color - Zamac)","HW Torque Walmart Exclusive","1/10","","retailer_exclusive_candidate","P1","pending","2","","Source labels a retailer/channel exclusive. Verify retailer, card variant, barcode and package identifiers.","HW Torque","","Walmart Exclusive","","full_blister_photo","https://hwpriceguide.com/item/2026-zamac-70-buick-gsx/","Individual sealed blister photo. Card shows 183/250 and HW Torque 1/10."
+"mainline-2026-row-354","JJK24","184","'68 Shelby GT500","HW Torque","2/10","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Torque","","","","","",""
+"mainline-2026-row-355","JJK25","185","Aston Martin Aramco Formula One Team","Formula 1","5/5","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","Formula 1","","","","","",""
+"mainline-2026-row-356","JJM08","186","Amaru GTC","HW Mods Treasure Hunt","4/5","","treasure_hunt","P1","pending","1","","Source labels this row Treasure Hunt. Inspect hidden symbol/tampo, card markings and package identifiers.","HW Mods","Treasure Hunt","","","full_blister_photo","https://jrcollectibles.eu/products/hot-wheels-amaru-gtc-regular-treasure-hunt","Individual full blister photo; card shows 186/250 and HW Mods 4/5."
+"mainline-2026-row-357","JJH59","187","PT Fast","HW Mods New for 2026!","5/5","","new_for_2026_candidate","P2","pending","1","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","HW Mods","","","New for 2026!","","",""
+"mainline-2026-row-358","JJK26","188","'70 Dodge Charger","Tooned","4/5","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","Tooned","","","","","",""
+"mainline-2026-row-359","JJK27","189","'11 Corvette Grand Sport","Then and Now","7/10","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","Then and Now","","","","","",""
+"mainline-2026-row-360","JJK28","190","'82 Toyota Supra","Then and Now","8/10","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","Then and Now","","","","","",""
+"mainline-2026-row-361","JJK06","191","'65 Mercury Comet Cyclone","Drag Racers","9/10","","standard_release_candidate","P3","pending","3","","Standard product-table entry. Packaging and physical model identity remain unverified.","Drag Racers","","","","","",""
+"mainline-2026-row-362","JJM53","191","'65 Mercury Comet Cyclone (2nd Color)","Drag Racers Kroger Exclusive","9/10","","retailer_exclusive_candidate","P1","pending","3","","Source labels a retailer/channel exclusive. Verify retailer, card variant, barcode and package identifiers.","Drag Racers","","Kroger Exclusive","","full_blister_photo","https://www.ebay.com/itm/327368464104","Search-result photo shows yellow Comet Cyclone in a Hot Wheels blister; JJM53 association corroborated by catalog references."
+"mainline-2026-row-363","JJL46","191","'65 Mercury Comet Cyclone (3rd Color)","Drag Racers","9/10","","third_color_candidate","P2","pending","3","","Source explicitly labels a third color. Compare body, deco, wheels and card against earlier entries.","Drag Racers","","","","","",""
+"mainline-2026-row-364","JJK29","192","Fiat 500C","Drag Racers","10/10","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","Drag Racers","","","","","",""
+"mainline-2026-row-365","JJK31","193","'63 Chevy II","Compact Kings","8/10","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","Compact Kings","","","","","",""
+"mainline-2026-row-366","JJK32","194","Lil' Roar","HW Dirt","5/10","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Dirt","","","","","",""
+"mainline-2026-row-367","JJK33","195","Spider-Mobile","Screen Time","5/10","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","Screen Time","","","","","",""
+"mainline-2026-row-368","JJM09","196","Sweet Driver","Sweet Rides Treasure Hunt","4/5","","treasure_hunt","P1","pending","1","","Source labels this row Treasure Hunt. Inspect hidden symbol/tampo, card markings and package identifiers.","Sweet Rides","Treasure Hunt","","","full_blister_photo","https://www.ebay.com/itm/137757429596","Individual sealed blister photo; card visibly shows 196/250 and Sweet Rides 4/5."
+"mainline-2026-row-369","JJH57","197","Mad Drip","Sweet Rides New for 2026!","5/5","","new_for_2026_candidate","P2","pending","2","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","Sweet Rides","","","New for 2026!","","",""
+"mainline-2026-row-370","JJL83","197","Mad Drip (2nd Color)","Sweet Rides New for 2026!","5/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Sweet Rides","","","New for 2026!","","",""
+"mainline-2026-row-371","JJK34","198","Toyota AE86 Sprinter Trueno","HW J-Imports","9/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW J-Imports","","","","","",""
+"mainline-2026-row-372","JJL87","198","Toyota AE86 Sprinter Trueno (2nd Color)","HW J-Imports","9/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","HW J-Imports","","","","","",""
+"mainline-2026-row-373","JJK35","199","Nissan Skyline GT-R (BNR34)","HW J-Imports","10/10","","standard_release_candidate","P3","pending","3","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW J-Imports","","","","","",""
+"mainline-2026-row-374","JJL88","199","Nissan Skyline GT-R (BNR34) (2nd Color)","HW J-Imports","10/10","","second_color_candidate","P2","pending","3","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","HW J-Imports","","","","","",""
+"mainline-2026-row-375","JPD52","199","Nissan Skyline GT-R (BNR34) (3rd Color)","HW J-Imports Dollar General Exclusive","10/10","","retailer_exclusive_candidate","P1","pending","3","","Source labels a retailer/channel exclusive. Verify retailer, card variant, barcode and package identifiers.","HW J-Imports","","Dollar General Exclusive","","not_found","https://www.hwcgarage.com/en/vehicle/nissan-skyline-gt-r-bnr34-2026-jaune-jpd52","No exact JPD52 blister photo found. Model page confirms SKU/year, but does not provide verified package evidence."
+"mainline-2026-row-376","JJK36","200","Punk Rod","Team Wheels","2/5","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Team Wheels","","","","","",""
+"mainline-2026-row-377","JJL91","200","Punk Rod (2nd Color)","Team Wheels","2/5","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Team Wheels","","","","","",""
+"mainline-2026-row-378","JJK37","201","1970 Pontiac Firebird","Team Wheels","3/5","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Team Wheels","","","","","",""
+"mainline-2026-row-379","JJM65","201","1970 Pontiac Firebird (2nd Color)","Red Edition Target Exclusive","12/12","","retailer_exclusive_candidate","P1","pending","2","","Source labels a retailer/channel exclusive. Verify retailer, card variant, barcode and package identifiers.","Red Edition","","Target Exclusive","","group_blister_photo","https://www.ebay.com/itm/800687443675","Red Edition group 10/12–12/12. Three sealed blister packs shown together; set-level image only, not an individual image relation."
+"mainline-2026-row-380","JJK38","202","Street Shaker","Trophy Case","1/5","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","Trophy Case","","","","","",""
+"mainline-2026-row-381","JJK39","203","Street Shrieker","Hot Wheels Let's Race","3/5","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","Hot Wheels Let's Race","","","","","",""
+"mainline-2026-row-382","JJK40","204","Mod Mill","Cool Classics","3/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Cool Classics","","","","","",""
+"mainline-2026-row-383","JJL94","204","Mod Mill (2nd Color)","Cool Classics","3/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Cool Classics","","","","","",""
+"mainline-2026-row-384","JJK22","205","Jaguar XJC V12 Coupe","HW Euro","10/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Euro","","","","","",""
+"mainline-2026-row-385","JJL96","205","Jaguar XJC V12 Coupe (2nd Color)","HW Euro","10/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","HW Euro","","","","","",""
+"mainline-2026-row-386","JJK41","206","Bully Goat","HW Torque","3/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Torque","","","","","",""
+"mainline-2026-row-387","JJL98","206","Bully Goat (2nd Color)","HW Torque","3/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","HW Torque","","","","","",""
+"mainline-2026-row-388","JJK42","207","'18 Camaro SS","HW Torque","4/10","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Torque","","","","","",""
+"mainline-2026-row-389","JJK43","208","Porsche 911 Carrera RS 2.7","Then and Now","9/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Then and Now","","","","","",""
+"mainline-2026-row-390","JJM24","208","Porsche 911 Carrera RS 2.7","Then and Now Super Treasure Hunt","9/10","","super_treasure_hunt","P1","pending","2","","Source labels this row Super Treasure Hunt. Inspect paint, wheels, tampo, card and package identifiers.","Then and Now","Super Treasure Hunt","","","full_blister_photo","https://www.ebay.de/itm/366508201032","Individual sealed blister photo; card shows Porsche 911 Carrera RS 2.7, 208/250 and Then and Now 9/10."
+"mainline-2026-row-391","JJH62","209","Mini JCW Electric","Then and Now New for 2026!","10/10","","new_for_2026_candidate","P2","pending","2","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","Then and Now","","","New for 2026!","","",""
+"mainline-2026-row-392","JJL99","209","Mini JCW Electric (2nd Color)","Then and Now New for 2026!","10/10","","second_color_candidate","P2","pending","2","","Source explicitly labels a second color. Compare body, deco, wheels and card against the primary entry.","Then and Now","","","New for 2026!","","",""
+"mainline-2026-row-393","JJK44","210","'19 Mercedes-Benz A-Class","Compact Kings","9/10","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","Compact Kings","","","","","",""
+"mainline-2026-row-394","JJH66","211","1972 Datsun Sunny Coupe","Compact Kings New for 2026!","10/10","","new_for_2026_candidate","P2","pending","2","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","Compact Kings","","","New for 2026!","","",""
+"mainline-2026-row-395","JJM41","211","1972 Datsun Sunny Coupe (2nd Color - Zamac)","Compact Kings New for 2026! Walmart Exclusive","10/10","","retailer_exclusive_candidate","P1","pending","2","","Source labels a retailer/channel exclusive. Verify retailer, card variant, barcode and package identifiers.","Compact Kings","","Walmart Exclusive","New for 2026!","full_blister_photo","https://www.ebay.com/itm/227531438289","Individual sealed blister photo. Card visibly shows 211/250 and Compact Kings 10/10. This supports collector #211 over the conflicting #213 catalog entry."
+"mainline-2026-row-396","JJK45","212","Hyper Rocker","HW Dirt","6/10","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Dirt","","","","","",""
+"mainline-2026-row-397","JJK46","213","'21 Ford Bronco","HW Dirt","7/10","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Dirt","","","","","",""
+"mainline-2026-row-398","JJK47","214","'68 Corvette - Gas Monkey Garage","Screen Time","6/10","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","Screen Time","","","","","",""
+"mainline-2026-row-399","JJH65","215","Lil' Mad","Wagons New for 2026!","9/10","","new_for_2026_candidate","P2","pending","1","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","Wagons","","","New for 2026!","","",""
+"mainline-2026-row-400","JJH68","216","HW Test Ride","Trophy Case New for 2026!","2/5","","new_for_2026_candidate","P2","pending","1","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","Trophy Case","","","New for 2026!","","",""
+"mainline-2026-row-401","JJM10","217","Mad Manga","Hot Wheels Let's Race Treasure Hunt","4/5","","treasure_hunt","P1","pending","1","","Source labels this row Treasure Hunt. Inspect hidden symbol/tampo, card markings and package identifiers.","Hot Wheels Let's Race","Treasure Hunt","","","partial_card_front_only","https://www.ebay.com/itm/800675089961","Card-front photo found; captured image shows the card art and only the upper blister edge."
+"mainline-2026-row-402","JJK48","218","Alfa Romeo Giulia TI Super","Cool Classics","4/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Cool Classics","","","","","",""
+"mainline-2026-row-403","JJM30","218","Alfa Romeo Giulia TI Super (2nd Color - Zamac)","Cool Classics Walmart Exclusive","4/10","","retailer_exclusive_candidate","P1","pending","2","","Source labels a retailer/channel exclusive. Verify retailer, card variant, barcode and package identifiers.","Cool Classics","","Walmart Exclusive","","not_found","https://www.hwcgarage.com/en/vehicle/alfa-romeo-giulia-ti-super-2026-non-peint-zamac-jjm30","Exact carded Zamac photo not located in this search; catalog identity is corroborated, but this page is not a blister photo."
+"mainline-2026-row-404","JJH67","219","Project Twin Mill","Cool Classics New for 2026!","5/10","","new_for_2026_candidate","P2","pending","1","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","Cool Classics","","","New for 2026!","","",""
+"mainline-2026-row-405","JJK49","220","Custom '62 Chevy Pickup","Rod Squad","8/10","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","Rod Squad","","","","","",""
+"mainline-2026-row-406","JJK50","221","'96 Dodge Viper GTS","HW Torque","5/10","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Torque","","","","","",""
+"mainline-2026-row-407","JJK51","222","'94 Toyota Supra","Tooned","5/5","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Tooned","","","","","",""
+"mainline-2026-row-408","JJM25","222","'94 Toyota Supra","Tooned Super Treasure Hunt","5/5","","super_treasure_hunt","P1","pending","2","","Source labels this row Super Treasure Hunt. Inspect paint, wheels, tampo, card and package identifiers.","Tooned","Super Treasure Hunt","","","full_blister_photo","https://www.itsfun.in/products/super-treasure-hunt-hot-wheels-94-toyota-supra-with-protector","Individual sealed blister photo; card shows 222/250 and Tooned 5/5."
+"mainline-2026-row-409","JJH69","223","2019 Audi TT Safari","HW Dirt New for 2026!","8/10","","new_for_2026_candidate","P2","pending","1","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","HW Dirt","","","New for 2026!","","",""
+"mainline-2026-row-410","JJK52","224","1970 Custom Plymouth Roadrunner","Screen Time New in Mainline","7/10","","new_for_2026_candidate","P2","pending","1","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","Screen Time New in Mainline","","","","","",""
+"mainline-2026-row-411","JJK53","225","Nissan Maxima Drift Car","Wagons","10/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Wagons","","","","","",""
+"mainline-2026-row-412","JJM26","225","Nissan Maxima Drift Car","Wagons Super Treasure Hunt","10/10","","super_treasure_hunt","P1","pending","2","","Source labels this row Super Treasure Hunt. Inspect paint, wheels, tampo, card and package identifiers.","Wagons","Super Treasure Hunt","","","full_blister_photo","https://www.ebay.com/itm/307150360212","Individual sealed blister photo; card shows 225/250 and Wagons 10/10."
+"mainline-2026-row-413","JJH71","226","Salt Streaker","Team Wheels New for 2026!","4/5","","new_for_2026_candidate","P2","pending","1","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","Team Wheels","","","New for 2026!","","",""
+"mainline-2026-row-414","JJK54","227","'71 Lamborghini Miura SV","Cool Classics","6/10","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","Cool Classics","","","","","",""
+"mainline-2026-row-415","JJK55","228","'66 Buick Riviera","Cool Classics","7/10","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","Cool Classics","","","","","",""
+"mainline-2026-row-416","JJM11","229","Ford Model A Custom '31","Rod Squad Treasure Hunt","9/10","","treasure_hunt","P1","pending","1","","Source labels this row Treasure Hunt. Inspect hidden symbol/tampo, card markings and package identifiers.","Rod Squad","Treasure Hunt","","","full_blister_photo","https://www.ebay.com/itm/287591088805","Individual full blister photo; card shows 229/250 and Rod Squad 9/10."
+"mainline-2026-row-417","JJH70","230","Uncertain-T","Rod Squad New for 2026!","10/10","","new_for_2026_candidate","P2","pending","1","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","Rod Squad","","","New for 2026!","","",""
+"mainline-2026-row-418","JJK56","231","'68 Mercury Cougar","HW Torque","6/10","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Torque","","","","","",""
+"mainline-2026-row-419","JJK57","232","Slide-Burn","HW Torque","7/10","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Torque","","","","","",""
+"mainline-2026-row-420","JJH72","233","Armored Batmobile","Batman New for 2026!","5/5","","new_for_2026_candidate","P2","pending","1","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","Batman","","","New for 2026!","","",""
+"mainline-2026-row-421","JJK58","234","'23 Ram 1500","HW Dirt","9/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Dirt","","","","","",""
+"mainline-2026-row-422","JJM27","234","'23 Ram 1500","HW Dirt Super Treasure Hunt","9/10","","super_treasure_hunt","P1","pending","2","","Source labels this row Super Treasure Hunt. Inspect paint, wheels, tampo, card and package identifiers.","HW Dirt","Super Treasure Hunt","","","full_blister_photo","https://www.ebay.com/itm/178429807933","Individual sealed blister photo; card shows 234/250 and HW Dirt 9/10."
+"mainline-2026-row-423","JJK59","235","Party Wagon","Screen Time","8/10","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","Screen Time","","","","","",""
+"mainline-2026-row-424","JJH74","236","Mickey Mouse Car","Screen Time New for 2026!","9/10","","new_for_2026_candidate","P2","pending","1","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","Screen Time","","","New for 2026!","","",""
+"mainline-2026-row-425","JJK60","237","Circle Tracker","HW All Drivers Welcome World Mental Health Day","5/5","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW All Drivers Welcome World Mental Health Day","","","","","",""
+"mainline-2026-row-426","JJM12","238","Fast Fish","Team Wheels Treasure Hunt","5/5","","treasure_hunt","P1","pending","1","","Source labels this row Treasure Hunt. Inspect hidden symbol/tampo, card markings and package identifiers.","Team Wheels","Treasure Hunt","","","full_blister_photo","https://www.ebay.com/itm/307187893726","Individual sealed blister photo; card visibly shows 238/250 and Team Wheels 5/5."
+"mainline-2026-row-427","JJH75","239","Go-Realla-Fast","Trophy Case New for 2026!","3/5","","new_for_2026_candidate","P2","pending","1","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","Trophy Case","","","New for 2026!","","",""
+"mainline-2026-row-428","JJK61","240","Surf 'N Turf","Hot Wheels Let's Race","5/5","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","Hot Wheels Let's Race","","","","","",""
+"mainline-2026-row-429","JJH73","241","1963 Ford Galaxie","Cool Classics New for 2026!","8/10","","new_for_2026_candidate","P2","pending","1","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","Cool Classics","","","New for 2026!","","",""
+"mainline-2026-row-430","JJK62","242","'96 Chevrolet Impala SS","HW Torque","8/10","","standard_release_candidate","P3","pending","1","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Torque","","","","","",""
+"mainline-2026-row-431","JJH76","243","Aston Martin DB5 Safari Edition","HW Dirt New for 2026!","10/10","","new_for_2026_candidate","P2","pending","1","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","HW Dirt","","","New for 2026!","","",""
+"mainline-2026-row-432","JJM13","244","Nissan Skyline HT 2000GT-X","Screen Time Treasure Hunt","10/10","","treasure_hunt","P1","pending","1","","Source labels this row Treasure Hunt. Inspect hidden symbol/tampo, card markings and package identifiers.","Screen Time","Treasure Hunt","","","full_blister_photo","https://www.ebay.com/itm/267804277026","Individual sealed blister photo; card visibly shows 244/250, Nissan Skyline HT 2000GT-X and Screen Time 10/10. Separate card TH emblem not confirmed from this image."
+"mainline-2026-row-433","JJK63","245","'70 Plymouth AAR Cuda","HW Torque","9/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","HW Torque","","","","","",""
+"mainline-2026-row-434","JJM28","245","'70 Plymouth AAR Cuda","HW Torque Super Treasure Hunt","9/10","","super_treasure_hunt","P1","pending","2","","Source labels this row Super Treasure Hunt. Inspect paint, wheels, tampo, card and package identifiers.","HW Torque","Super Treasure Hunt","","","full_blister_photo","https://www.ebay.com/itm/820016810012","Individual sealed blister photo; card shows 245/250 and HW Torque 9/10."
+"mainline-2026-row-435","JJH77","246","Ridge Crest GT","HW Torque New for 2026!","10/10","","new_for_2026_candidate","P2","pending","1","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","HW Torque","","","New for 2026!","","",""
+"mainline-2026-row-436","JJM14","247","Gazella GT","Trophy Case Treasure Hunt","4/5","","treasure_hunt","P1","pending","1","","Source labels this row Treasure Hunt. Inspect hidden symbol/tampo, card markings and package identifiers.","Trophy Case","Treasure Hunt","","","full_blister_photo","https://www.ebay.nl/itm/960044979566","Individual sealed blister photo and two lower-angle views; card shows 247/250 and Trophy Case 4/5. The lower-angle views clearly show the silver circular flame emblem on the blister/card behind the car, corroborating the regular TH packaging mark."
+"mainline-2026-row-437","JJH79","248","Custom Vanster","Trophy Case New for 2026!","5/5","","new_for_2026_candidate","P2","pending","1","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","Trophy Case","","","New for 2026!","","",""
+"mainline-2026-row-438","JJK64","249","'67 Pontiac Firebird 400","Cool Classics","9/10","","standard_release_candidate","P3","pending","2","","Standard product-table entry. Packaging and physical model identity remain unverified.","Cool Classics","","","","","",""
+"mainline-2026-row-439","JJM29","249","'67 Pontiac Firebird 400","Cool Classics Super Treasure Hunt","9/10","","super_treasure_hunt","P1","pending","2","","Source labels this row Super Treasure Hunt. Inspect paint, wheels, tampo, card and package identifiers.","Cool Classics","Super Treasure Hunt","","","partial_blister_photo","https://www.ebay.com/itm/398342774848","Close crop shows the Spectraflame Firebird inside part of the blister, but most of the card and collector-number area are outside the frame."
+"mainline-2026-row-440","JJH78","250","Porsche 908-3","Cool Classics New for 2026!","10/10","","new_for_2026_candidate","P2","pending","1","","Source marks the entry new for/in 2026. Verify debut year and physical package details.","Cool Classics","","","New for 2026!","","",""
+
+
+## Collector #139 — Bone Shaker
 
 | Toy # | Variant | Series |
 |---|---|---|
-| JJJ69 | First listed version | Wagons 2/10 |
-| JJL65 | Second color | Wagons 2/10 |
-
-**Casting finding:** The user has visually compared both versions and confirmed that the castings are identical. Preserve paint/deco differences as separate variant attributes.
-
-**Visual references:**
-- [JJJ69](https://www.hwcgarage.com/en/vehicle/time-shifter-2026-jjj69)
-- [JJL65](https://www.hwcgarage.com/en/vehicle/time-shifter-2026-jjl65)
-
-**Current conclusion:** User-confirmed identical castings.
-
-## Collector #111 — Long Bloc
-
-| Toy # | Variant | Series |
-|---|---|---|
-| JJJ71 | First listed version | Wagons 4/10 |
-| JJL66 | Second color | Wagons 4/10 |
-
-**Casting finding:** The user has visually compared both versions and confirmed that the castings are identical. Preserve paint/deco differences as separate variant attributes.
-
-**Visual references:**
-- [JJJ71 — yellow](https://www.hwcgarage.com/en/vehicle/long-bloc-2026-jaune-jjj71)
-- [JJL66 — turquoise](https://www.hwcgarage.com/en/vehicle/long-bloc-2026-bleu-jjl66)
-
-**Current conclusion:** User-confirmed identical castings.
-
-## Collector #112 — '89 Mazda Savanna RX-7 FC3S
-
-- **JJJ72** — orange, HW J-Imports 5/10.
-- **JJL69** — green, HW J-Imports 5/10, listed as 2nd Color.
-- HWC Garage catalog reference: both entries use casting number **GHB56**.
-- **User physical visual confirmation:** identical castings; wheel designs differ. Record the wheel difference as a separate component/variant attribute, not as a casting difference.
-- Vehicle pages: [JJJ72](https://www.hwcgarage.com/en/vehicle/89-mazda-savanna-rx-7-fc3s-2026-orange-jjj72) · [JJL69](https://www.hwcgarage.com/en/vehicle/89-mazda-savanna-rx-7-fc3s-2026-vert-jjl69)
-- Review status: `user_confirmed_same_casting`.
-
-## Collector #113 — Corvette C7 Z06
-
-| Toy # | Variant | Distribution |
-|---|---|---|
-| JJJ73 | First listed version, pink | Mainline |
-| JJL89 | Second color, white | Mainline |
-| JPD53 | Third color, green | Dollar General Exclusive |
-
-- HWC Garage catalog reference previously identified for the casting: **DTW79**.
-- **User visual confirmation:** all three versions have identical castings. Keep paint/deco and any wheel differences as separate variant attributes.
-- JPD53 catalog reference: [Corvette C7 Z06 casting page](https://www.hwcgarage.com/en/casting/corvette-c7-z06). An individual carded photo for JPD53 was not located in the prior review.
-- Review status for all three entries: `user_confirmed_same_casting`.
-
-
-## Collector #116 — '87 Ford Sierra Cosworth
-
-| Toy # | Variant | Release |
-|---|---|---|
-| JJJ74 | Standard release | HW Euro 5/10 |
-| JJM19 | Super Treasure Hunt | HW Euro 5/10 |
-
-**Casting finding:** The user has visually confirmed that JJJ74 and JJM19 have identical castings. Keep the STH paint, wheels and decoration as separate variant attributes, not as casting differences.
-
-**Source discrepancy:** The existing photo-evidence note for JJM19 flags a collector-number conflict: the marketplace image appears to show 118/250, while the archive, Fandom and several specialist catalogs use #116; HWtreasure/Collects.in list #119. This discrepancy does not change the user's visual casting confirmation, but the collector-number attribution remains provisional.
-
-**Current conclusion:** User-confirmed identical castings; standard and Super Treasure Hunt versions remain distinct releases.
-
-
-## Collector #117 — Erikenstein Rod
-
-| Toy # | Variant | Series |
-|---|---|---|
-| JJJ75 | First listed version | Rod Squad 1/10 |
-| JJL10 | Second color | Rod Squad 1/10 |
-
-**Casting finding:** The user has visually confirmed that JJJ75 and JJL10 have identical castings. Preserve paint, color and decoration differences as separate variant attributes.
-
-**Current conclusion:** User-confirmed identical castings.
-
-## Collector #118 — Pedal Driver
-
-| Toy # | Variant | Series |
-|---|---|---|
-| JJJ77 | Standard release | Rod Squad 2/10 |
-| JJL11 | Second color | Rod Squad 2/10 |
-
-**Casting finding:** The user has visually confirmed that JJJ77 and JJL11 have identical castings. Preserve paint, color and decoration differences as separate variant attributes.
-
-**Current conclusion:** User-confirmed identical castings.
-
-
-## Collector #119 — '33 Ford Lo Boy
-
-| Toy # | Variant | Series |
-|---|---|---|
-| JJJ76 | First listed version | Rod Squad 3/10 |
-| JJL18 | Second color | Rod Squad 3/10 |
+| JJJ92 | First listed version | HW Fan Driven 5/5 |
+| JJL38 | Second color | HW Fan Driven 5/5 |
 
 **Casting finding:** The user has visually compared both versions and confirmed that the castings are identical. Preserve paint, color and decoration differences as separate variant attributes.
-
-**Current conclusion:** User-confirmed identical castings.
-
-
-## Collector #121 — 2023 Nissan Z
-
-| Toy # | Variant | Series / distribution |
-|---|---|---|
-| JJJ79 | First listed version | Then and Now 5/10 |
-| JJM34 | Second color — Zamac | Then and Now 5/10; Walmart Exclusive |
-
-**Casting finding:** The user has visually compared both versions and confirmed that the castings are identical. Preserve the Zamac finish, paint/deco and distribution distinction as separate variant/release attributes.
-
-**Current conclusion:** User-confirmed identical castings.
-
-
-## Collector #127 — Custom '72 Chevy LUV
-
-| Toy # | Variant | Series |
-|---|---|---|
-| JJJ80 | First listed version | Drag Racers 7/10 |
-| JJL63 | Second color | Drag Racers 7/10 |
-
-**Casting finding:** The user has visually confirmed that both versions have identical castings. Color and decoration differences remain variant attributes.
-
-**Current conclusion:** User-confirmed identical castings.
-
-
-## Collector #128 — Datsun 620
-
-| Toy # | Variant | Series |
-|---|---|---|
-| JPJ80 | First listed version | Compact Kings 6/10 |
-| JJL26 | Second color | Compact Kings 6/10 |
-
-**Casting finding:** The user has visually confirmed that both versions have identical castings. Color and decoration differences remain variant attributes.
-
-**Current conclusion:** User-confirmed identical castings.
-
-
-
-## Collector #130 — 2019 Audi R8 Spyder
-
-| Toy # | Variant | Series |
-|---|---|---|
-| JJJ84 | First listed version | Drop Tops 4/5 |
-| JJL60 | Second color | Drop Tops 4/5 |
-
-**Casting finding:** The user has visually confirmed that both versions have identical castings. Color and decoration differences remain variant attributes.
-
-**Current conclusion:** User-confirmed identical castings.
-
-
-
-## Collector #131 — Fiat Beast of Turin
-
-| Toy # | Variant | Series / distribution |
-|---|---|---|
-| JJH48 | First listed version | Drop Tops 5/5 |
-| JJM66 | Second color — Zamac | Drop Tops 5/5; Walmart Exclusive |
-| JJL61 | Third color | Drop Tops 5/5 |
-
-**Casting finding:** The user has visually confirmed that all three versions have identical castings. Zamac finish, color and decoration remain variant attributes.
-
-**Current conclusion:** User-confirmed identical castings across all three versions.
-
-
-
-## Collector #132 — Bullet Proof
-
-| Toy # | Variant | Series |
-|---|---|---|
-| JJJ85 | First listed version | X-Raycers 5/5 |
-| JJL30 | Second color | X-Raycers 5/5 |
-
-**Casting finding:** The user has visually confirmed that both versions have identical castings. Color and decoration differences remain variant attributes.
-
-**Current conclusion:** User-confirmed identical castings.
-
-
-
-## Collector #134 — '20 Dodge Charger Hellcat
-
-| Toy # | Variant | Series |
-|---|---|---|
-| JJJ87 | First listed version | Nightspeed 10/10 |
-| JJL71 | Second color | Nightspeed 10/10 |
-
-**Casting finding:** The user has visually confirmed that both versions have identical castings. Color and decoration differences remain variant attributes.
-
-**Current conclusion:** User-confirmed identical castings.
-
-
-
-## Collector #136 — '98 Honda Prelude
-
-| Toy # | Variant | Series |
-|---|---|---|
-| JJJ89 | First listed version | Factory Fresh 5/5 |
-| JJL15 | Second color | Factory Fresh 5/5 |
-
-**Casting finding:** The user has visually confirmed that both versions have identical castings. Color and decoration differences remain variant attributes.
-
-**Current conclusion:** User-confirmed identical castings.
-
-
-## Collector #138 — Morgan Super 3
-
-| Toy # | Variant | Series |
-|---|---|---|
-| JJJ91 | First listed version | HW Euro 6/10 |
-| JJL42 | Second color | HW Euro 6/10 |
-
-**Casting finding:** The user has visually confirmed that both versions have identical castings. Color and decoration differences remain variant attributes.
 
 **Current conclusion:** User-confirmed identical castings.
