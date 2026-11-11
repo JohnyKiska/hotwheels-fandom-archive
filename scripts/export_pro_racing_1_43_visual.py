@@ -108,7 +108,7 @@ def main() -> int:
                 "toyNumber": cells.get("Toy #", ""),
                 "country": cells.get("Country", ""),
                 "sourceNotes": cells.get("Notes", ""),
-                "sourcePhoto": cells.get("Photo", ""),
+                "sourcePhoto": (cells.get("Photo", "") or ", ".join(raw_cells[10].get("images", []))) if len(raw_cells) > 10 and isinstance(raw_cells[10], dict) else cells.get("Photo", ""),
                 "variantCandidateId": variant.get("variant_candidate_id", ""),
                 "variantDisposition": variant.get("review_disposition", "hold"),
                 "variantReviewRationale": variant.get("review_rationale", ""),
