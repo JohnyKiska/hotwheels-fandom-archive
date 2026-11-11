@@ -12,7 +12,7 @@ Status: staged source interpretation only. No canonical Release or Assortment en
 ## Results
 
 - 41 source release candidates.
-- 11 rows assigned to four provisional assortment groups (2-pack, 4-pack, unspecified 3-pack, and F2004 2-pack); two have sufficiently explicit named groupings to remain candidate assortments; two remain unresolved grouping candidates.
+- 11 rows assigned to four provisional assortment groups: 6 rows in two named candidate assortments (World Champions 2-Pack and Constructors Champions 4 Pack), plus 5 rows in two unresolved pack groups (unspecified 3-Pack and F2004 2-Pack).
 - 22 rows held because release/packaging details are absent.
 - 3 rows held because the named context or package identity needs resolution.
 - No canonical Release or Assortment rows created.
