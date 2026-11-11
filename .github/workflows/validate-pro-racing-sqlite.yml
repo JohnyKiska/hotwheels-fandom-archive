@@ -1,6 +1,21 @@
 name: Validate Pro Racing 1:43 SQLite pilot
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/validate-pro-racing-sqlite.yml'
+      - 'scripts/export_pro_racing_1_43_visual.py'
+      - 'database/schema.sql'
+      - 'database/pilot/pro-racing-1-43-seed.sql'
+      - 'database/pilot/pro-racing-1-43-reconciliation-seed.sql'
+      - 'database/pilot/pro-racing-1-43-casting-candidates.sql'
+      - 'database/pilot/PRO-RACING-1-43-VARIANT-CANDIDATES.csv'
+      - 'database/pilot/PRO-RACING-1-43-RELEASE-ASSORTMENT-CANDIDATES.csv'
+      - 'database/pilot/pro-racing-1-43-image-review.csv'
+      - 'database/pilot/PRO-RACING-1-43-MATCH-RECONCILIATION.csv'
+      - 'database/pilot/assets/pro-racing-1-43/**'
 permissions:
   contents: write
 jobs:
