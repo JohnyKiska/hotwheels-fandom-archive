@@ -2,8 +2,8 @@ source_row_number,source_row_id,source_casting_label,source_year,source_color,so
 1,pr143-product-row-001,Williams FW21,1999,Red/ White,,pr143-vc-williams-fw21-1999-red-white,candidate_variant,Color is explicitly recorded; distinct from row 2 color label.,no
 2,pr143-product-row-002,Williams FW21,1999,Red,,pr143-vc-williams-fw21-1999-red,candidate_variant,Color is explicitly recorded; distinct from row 1 color label.,no
 3,pr143-product-row-003,Jordan 199,1999,,,pr143-vc-jordan-199-unresolved,hold,Only one 1:43 retail Jordan 199 located: 22811 Damon Hill; other listed Jordan 199 SKUs are 1:18. Source row has no driver/number/photo, so candidate not assigned; second 1:43 version unsupported.,no
-4,pr143-product-row-004,Stewart SF3,1999,,#17,pr143-vc-stewart-sf3-17,candidate_variant,Distinct source tampo/race number.,no
-5,pr143-product-row-005,Stewart SF3,1999,,#18,pr143-vc-stewart-sf3-18,candidate_variant,Distinct source tampo/race number.,no
+4,pr143-product-row-004,Stewart SF3,1999,,#17,pr143-vc-stewart-sf3-17,candidate_variant,Source number #17 matches the documented 1999 Stewart SF3 driver Johnny Herbert; Hot Wheels 1:43 catalog number 24624 is independently listed for this car. Exact Terry Choy source-sample identity remains unproven.,no
+5,pr143-product-row-005,Stewart SF3,1999,,#18,pr143-vc-stewart-sf3-18,hold,The recorded #18 conflicts with the 1999 Stewart SF3 race numbers (#16 and #17); #18 belonged to Olivier Panis's Prost AP02. No matching Hot Wheels 1:43 Stewart SF3 #18 release was found.,no
 6,pr143-product-row-006,Ferrari F399,1999,,,pr143-vc-ferrari-f399-unspecified,hold,Two 1:43 F399 retail releases found: 24525 Schumacher #3 and 24526 Irvine. Source row has no driver/number/photo; note may refer to this pair, but exact assignment unresolved.,no
 7,pr143-product-row-007,McLaren MP4/15,2000,,David,pr143-vc-mclaren-mp4-15-david,candidate_variant,Driver name recorded in tampo field.,no
 8,pr143-product-row-008,McLaren MP4/15,2000,,Mika,pr143-vc-mclaren-mp4-15-mika,candidate_variant,Driver name recorded in tampo field.,no
