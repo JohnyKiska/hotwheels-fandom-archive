@@ -169,3 +169,10 @@ The source rows' David/Mika driver fields align with these two distinct retail v
 
 - **Row 13, Jaguar R2:** source refers to a signed 2000 Final Engineering Pilot. The two cataloged Hot Wheels 1:43 retail R2s are 2001 items 50205 (Eddie Irvine #18) and 50206 (Pedro de la Rosa). An FEP is a pre-production engineering/graphics sample; it must not be treated as a retail Release without evidence. Hold prototype-to-retail relationship.
 - **Row 14, Ferrari F2001:** toy number **55573**, #1, “Single Pack”. Independent House of Modelcars and Armand Modelcars records agree on Hot Wheels 1:43, Michael Schumacher #1, 2001, EAN 074299555732. Strongly matched to source row and retained as staged Release candidate. Not canonicalized.
+
+
+## Rows 15–16: Ferrari F2001 special-context samples
+
+- **Row 15, World Champion Single Pack:** no toy number, barcode or inspected package evidence ties the sample to a specific retail SKU. 55573 (Schumacher #1), 50213/50214 (separate 2001 1:43 releases) and 55602 (2002 Constructors Champions 2-pack) are comparators only. Do not assign one by title similarity.
+- **Row 16, World Champion Christmas 2001:** no corroborated Hot Wheels 1:43 SKU found under this exact label. Similar Christmas 2001 F2001 listings are 1:18 and are not transferable evidence.
+- Both rows remain staged candidates with release identity and Variant held pending visual/source evidence. No canonical entities created.
