@@ -41,10 +41,12 @@ def main() -> int:
         conn.executescript(SCHEMA.read_text(encoding="utf-8"))
         conn.executescript(SEED.read_text(encoding="utf-8"))
         conn.executescript(RECONCILIATION_SEED.read_text(encoding="utf-8"))
+        conn.executescript(CASTING_CANDIDATE_SEED.read_text(encoding="utf-8"))
 
-        # Reapply both seeds to verify idempotency.
+        # Reapply all seeds to verify idempotency.
         conn.executescript(SEED.read_text(encoding="utf-8"))
         conn.executescript(RECONCILIATION_SEED.read_text(encoding="utf-8"))
+        conn.executescript(CASTING_CANDIDATE_SEED.read_text(encoding="utf-8"))
 
         report["counts"] = {
             "import_batch": scalar(conn, "SELECT COUNT(*) FROM import_batch"),
