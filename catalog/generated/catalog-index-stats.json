@@ -75,5 +75,24 @@
     "Entertainment": 239,
     "Fast & Furious Premium": 175,
     "Pop Culture": 433
-  }
+  },
+  "mainline_release_tags": {
+    "New for 2013": 94,
+    "New for 2015": 85,
+    "New for 2016": 8,
+    "New for 2017": 86,
+    "New for 2018": 90,
+    "New for 2019": 93,
+    "New for 2020": 87,
+    "New for 2021": 89,
+    "New for 2022": 79,
+    "New for 2023": 86,
+    "New for 2024": 76,
+    "New for 2026": 88,
+    "New in Mainline": 316,
+    "Super Treasure Hunt": 178,
+    "Treasure Hunt": 175
+  },
+  "treasure_hunt_records": 175,
+  "super_treasure_hunt_records": 178
 }
