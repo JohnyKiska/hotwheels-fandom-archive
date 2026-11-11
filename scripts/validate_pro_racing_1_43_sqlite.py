@@ -9,6 +9,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 SCHEMA = ROOT / "database" / "schema.sql"
 SEED = ROOT / "database" / "pilot" / "pro-racing-1-43-seed.sql"
+RECONCILIATION_SEED = ROOT / "database" / "pilot" / "pro-racing-1-43-reconciliation-seed.sql"
 DB = ROOT / "pro-racing-1-43-validation.sqlite"
 
 EXPECTED = {
@@ -17,13 +18,17 @@ EXPECTED = {
     "product_source_rows": 41,
     "gallery_source_rows": 55,
     "gallery_image_assets": 55,
+    "reconciliation_evidence_claims": 55,
+    "reconciliation_review_groups": 18,
+    "cross_checked_claims": 43,
+    "hypothesis_claims": 12,
 }
 
 def scalar(conn: sqlite3.Connection, sql: str) -> int:
     return int(conn.execute(sql).fetchone()[0])
 
 def main() -> int:
-    for path in (SCHEMA, SEED):
+    for path in (SCHEMA, SEED, RECONCILIATION_SEED):
         if not path.is_file():
             raise SystemExit(f"Required input missing: {path.relative_to(ROOT)}")
 
@@ -34,9 +39,11 @@ def main() -> int:
         conn.execute("PRAGMA foreign_keys = ON")
         conn.executescript(SCHEMA.read_text(encoding="utf-8"))
         conn.executescript(SEED.read_text(encoding="utf-8"))
+        conn.executescript(RECONCILIATION_SEED.read_text(encoding="utf-8"))
 
-        # A second execution verifies the seed's intended idempotency.
+        # Reapply both seeds to verify idempotency.
         conn.executescript(SEED.read_text(encoding="utf-8"))
+        conn.executescript(RECONCILIATION_SEED.read_text(encoding="utf-8"))
 
         report["counts"] = {
             "import_batch": scalar(conn, "SELECT COUNT(*) FROM import_batch"),
@@ -44,6 +51,10 @@ def main() -> int:
             "product_source_rows": scalar(conn, "SELECT COUNT(*) FROM source_row WHERE source_document_id='doc-pr143-products'"),
             "gallery_source_rows": scalar(conn, "SELECT COUNT(*) FROM source_row WHERE source_document_id='doc-pr143-gallery'"),
             "gallery_image_assets": scalar(conn, "SELECT COUNT(*) FROM image_asset WHERE source_document_id='doc-pr143-gallery'"),
+            "reconciliation_evidence_claims": scalar(conn, "SELECT COUNT(*) FROM evidence_claim WHERE predicate='catalog_reconciliation_disposition'"),
+            "reconciliation_review_groups": scalar(conn, "SELECT COUNT(DISTINCT subject_id) FROM evidence_claim WHERE predicate='catalog_reconciliation_disposition'"),
+            "cross_checked_claims": scalar(conn, "SELECT COUNT(*) FROM evidence_claim WHERE predicate='catalog_reconciliation_disposition' AND claim_status='cross_checked'"),
+            "hypothesis_claims": scalar(conn, "SELECT COUNT(*) FROM evidence_claim WHERE predicate='catalog_reconciliation_disposition' AND claim_status='hypothesis'"),
             "canonical_castings": scalar(conn, "SELECT COUNT(*) FROM casting"),
             "canonical_variants": scalar(conn, "SELECT COUNT(*) FROM variant"),
             "canonical_releases": scalar(conn, "SELECT COUNT(*) FROM release"),
@@ -59,6 +70,9 @@ def main() -> int:
         report["checks"]["integrity_check"] = {"result": integrity, "passed": integrity == "ok"}
         report["checks"]["idempotent_seed"] = {
             "passed": all(report["counts"][k] == v for k, v in EXPECTED.items())
+        }
+        report["checks"]["all_reconciliation_claims_are_group_level"] = {
+            "passed": scalar(conn, "SELECT COUNT(*) FROM evidence_claim WHERE predicate='catalog_reconciliation_disposition' AND subject_type<>'review_group'") == 0
         }
         report["checks"]["no_canonical_entities_or_links"] = {
             "passed": all(report["counts"][k] == 0 for k in ("canonical_castings", "canonical_variants", "canonical_releases", "image_relations"))
