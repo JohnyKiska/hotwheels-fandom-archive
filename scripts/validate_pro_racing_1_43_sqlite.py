@@ -11,6 +11,7 @@ SCHEMA = ROOT / "database" / "schema.sql"
 SEED = ROOT / "database" / "pilot" / "pro-racing-1-43-seed.sql"
 RECONCILIATION_SEED = ROOT / "database" / "pilot" / "pro-racing-1-43-reconciliation-seed.sql"
 CASTING_CANDIDATE_SEED = ROOT / "database" / "pilot" / "pro-racing-1-43-casting-candidates.sql"
+PREVIEW_LINK_SEED = ROOT / "database" / "pilot" / "pro-racing-1-43-preview-links.sql"
 DB = ROOT / "pro-racing-1-43-validation.sqlite"
 
 EXPECTED = {
@@ -25,13 +26,15 @@ EXPECTED = {
     "hypothesis_claims": 12,
     "casting_candidate_claims": 41,
     "casting_candidate_groups": 18,
+    "image_preview_links": 26,
+    "source_rows_with_previews": 22,
 }
 
 def scalar(conn: sqlite3.Connection, sql: str) -> int:
     return int(conn.execute(sql).fetchone()[0])
 
 def main() -> int:
-    for path in (SCHEMA, SEED, RECONCILIATION_SEED, CASTING_CANDIDATE_SEED):
+    for path in (SCHEMA, SEED, RECONCILIATION_SEED, CASTING_CANDIDATE_SEED, PREVIEW_LINK_SEED):
         if not path.is_file():
             raise SystemExit(f"Required input missing: {path.relative_to(ROOT)}")
 
@@ -44,11 +47,13 @@ def main() -> int:
         conn.executescript(SEED.read_text(encoding="utf-8"))
         conn.executescript(RECONCILIATION_SEED.read_text(encoding="utf-8"))
         conn.executescript(CASTING_CANDIDATE_SEED.read_text(encoding="utf-8"))
+        conn.executescript(PREVIEW_LINK_SEED.read_text(encoding="utf-8"))
 
         # Reapply all seeds to verify idempotency.
         conn.executescript(SEED.read_text(encoding="utf-8"))
         conn.executescript(RECONCILIATION_SEED.read_text(encoding="utf-8"))
         conn.executescript(CASTING_CANDIDATE_SEED.read_text(encoding="utf-8"))
+        conn.executescript(PREVIEW_LINK_SEED.read_text(encoding="utf-8"))
 
         report["counts"] = {
             "import_batch": scalar(conn, "SELECT COUNT(*) FROM import_batch"),
@@ -62,6 +67,8 @@ def main() -> int:
             "hypothesis_claims": scalar(conn, "SELECT COUNT(*) FROM evidence_claim WHERE predicate='catalog_reconciliation_disposition' AND claim_status='hypothesis'"),
             "casting_candidate_claims": scalar(conn, "SELECT COUNT(*) FROM evidence_claim WHERE predicate='source_casting_label' AND subject_type='casting_candidate'"),
             "casting_candidate_groups": scalar(conn, "SELECT COUNT(DISTINCT subject_id) FROM evidence_claim WHERE predicate='source_casting_label' AND subject_type='casting_candidate'"),
+            "image_preview_links": scalar(conn, "SELECT COUNT(*) FROM image_preview_link"),
+            "source_rows_with_previews": scalar(conn, "SELECT COUNT(DISTINCT source_row_id) FROM image_preview_link"),
             "canonical_castings": scalar(conn, "SELECT COUNT(*) FROM casting"),
             "canonical_variants": scalar(conn, "SELECT COUNT(*) FROM variant"),
             "canonical_releases": scalar(conn, "SELECT COUNT(*) FROM release"),
@@ -86,6 +93,10 @@ def main() -> int:
         }
         report["checks"]["no_canonical_entities_or_links"] = {
             "passed": all(report["counts"][k] == 0 for k in ("canonical_castings", "canonical_variants", "canonical_releases", "image_relations"))
+        }
+        report["checks"]["preview_links_are_not_canonical_relations"] = {
+            "passed": scalar(conn, "SELECT COUNT(*) FROM image_preview_link p LEFT JOIN image_asset a ON a.image_id=p.image_id LEFT JOIN source_row s ON s.source_row_id=p.source_row_id WHERE a.image_id IS NULL OR s.source_row_id IS NULL") == 0
+            and report["counts"]["image_relations"] == 0
         }
         report["checks"]["batches_remain_staged"] = {
             "passed": scalar(conn, "SELECT COUNT(*) FROM import_batch WHERE status='staged'") == 2
