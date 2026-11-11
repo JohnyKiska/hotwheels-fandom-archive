@@ -419,3 +419,15 @@ User-confirmed casting matches are recorded in the visual-review queue. The queu
 **Casting finding:** The user has visually confirmed that both versions have identical castings. Color and decoration differences remain variant attributes.
 
 **Current conclusion:** User-confirmed identical castings.
+
+
+## Collector #138 — Morgan Super 3
+
+| Toy # | Variant | Series |
+|---|---|---|
+| JJJ91 | First listed version | HW Euro 6/10 |
+| JJL42 | Second color | HW Euro 6/10 |
+
+**Casting finding:** The user has visually confirmed that both versions have identical castings. Color and decoration differences remain variant attributes.
+
+**Current conclusion:** User-confirmed identical castings.
