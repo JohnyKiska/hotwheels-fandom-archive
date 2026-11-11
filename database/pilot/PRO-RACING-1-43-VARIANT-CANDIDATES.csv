@@ -13,8 +13,8 @@ source_row_number,source_row_id,source_casting_label,source_year,source_color,so
 12,pr143-product-row-012,Jaguar R1,2000,,,pr143-vc-jaguar-r1-unspecified,hold,Two driver-specific 1:43 releases documented: 26752 Irvine #7 and 26753 Herbert #8; source website asset is not visually identified.,no
 13,pr143-product-row-013,Jaguar R2,2000,,,pr143-vc-jaguar-r2-unspecified,hold,"Only casting label and year; FEP evidence concerns sample provenance, not variant specification.",no
 14,pr143-product-row-014,Ferrari F2001,2001,,#1,pr143-vc-f2001-number-1,candidate_variant,"Race number #1 recorded; likely same variant candidate as row 17, release context differs.",no
-15,pr143-product-row-015,Ferrari F2001,2001,,,pr143-vc-f2001-world-champion-single,candidate_variant,World Champion Single Pack is a release/packaging clue; variant distinction is provisional pending deco comparison.,no
-16,pr143-product-row-016,Ferrari F2001,2001,,,pr143-vc-f2001-christmas-2001,candidate_variant,Christmas 2001 named context may indicate distinct deco; verify against model markings.,no
+15,pr143-product-row-015,Ferrari F2001,2001,,,pr143-vc-f2001-world-champion-single,hold,World Champion Single Pack is only a source release-context label; no inspected car markings establish a distinct Variant.,no
+16,pr143-product-row-016,Ferrari F2001,2001,,,pr143-vc-f2001-christmas-2001,hold,Christmas 2001 is a source context label; no confirmed 1:43 car/deco evidence establishes a separate Variant.,no
 17,pr143-product-row-017,Ferrari F2001,2001,,#1,pr143-vc-f2001-number-1,same_variant_candidate,"Same #1 tampo candidate as row 14; 2-Pack is release/assortment context, not automatically a new variant.",no
 18,pr143-product-row-018,Ferrari F2001,2001,,#2,pr143-vc-f2001-number-2,candidate_variant,Distinct race number #2; keep separate from #1 candidate.,no
 19,pr143-product-row-019,Ferrari 126C2,2001,,,pr143-vc-ferrari-126c2-unspecified,hold,Candidate period release HW50218 La Storia; conflicting sources attribute Arnoux vs Pironi #28. Source row lacks driver/number/photo; exact Variant unresolved.,no
