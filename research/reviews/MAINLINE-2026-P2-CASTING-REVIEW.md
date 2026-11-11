@@ -304,3 +304,15 @@ User-confirmed casting matches are recorded in the visual-review queue. The queu
 **Casting finding:** The user has visually confirmed that JJJ77 and JJL11 have identical castings. Preserve paint, color and decoration differences as separate variant attributes.
 
 **Current conclusion:** User-confirmed identical castings.
+
+
+## Collector #119 — '33 Ford Lo Boy
+
+| Toy # | Variant | Series |
+|---|---|---|
+| JJJ76 | First listed version | Rod Squad 3/10 |
+| JJL18 | Second color | Rod Squad 3/10 |
+
+**Casting finding:** The user has visually compared both versions and confirmed that the castings are identical. Preserve paint, color and decoration differences as separate variant attributes.
+
+**Current conclusion:** User-confirmed identical castings.
