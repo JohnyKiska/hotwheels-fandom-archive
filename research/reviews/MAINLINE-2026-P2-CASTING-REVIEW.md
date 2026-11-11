@@ -228,3 +228,18 @@ User-confirmed casting matches are recorded in the visual-review queue. The queu
 
 **Current conclusion:** User-confirmed identical castings.
 
+## Collector #111 — Long Bloc
+
+| Toy # | Variant | Series |
+|---|---|---|
+| JJJ71 | First listed version | Wagons 4/10 |
+| JJL66 | Second color | Wagons 4/10 |
+
+**Casting finding:** The user has visually compared both versions and confirmed that the castings are identical. Preserve paint/deco differences as separate variant attributes.
+
+**Visual references:**
+- [JJJ71 — yellow](https://www.hwcgarage.com/en/vehicle/long-bloc-2026-jaune-jjj71)
+- [JJL66 — turquoise](https://www.hwcgarage.com/en/vehicle/long-bloc-2026-bleu-jjl66)
+
+**Current conclusion:** User-confirmed identical castings.
+
