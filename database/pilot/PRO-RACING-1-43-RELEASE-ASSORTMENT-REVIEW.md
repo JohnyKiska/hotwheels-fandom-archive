@@ -35,6 +35,13 @@ Status: staged source interpretation only. No canonical Release or Assortment en
 - Row 36's 2004 source-page placement conflicts with “Represents 1994” in a book package. Preserve both source statements and investigate.
 - Row 40's King of the Desert is a named treatment/context, not evidence of a multi-car assortment.
 
+## External evidence for B6223
+
+- [Hobby Search: Ferrari F-1 2004 Constructors Champion Set](https://www.1999.co.jp/10045346) — Mattel, Hot Wheels, 1:43, two cars, release listed as mid-September 2005, code MT6223B; package described as an opening case shaped like the Ferrari shield.
+- [Schumacher Fanclub: B6223 Ferrari F1 2004 Constructors Championship](https://www.schumacher-fanclub.com/hot-wheels-diecast-model-cars/michael-schumacher/b6223-ferrari-f1-2004-constructors-championship.php) — B6223, both Schumacher and Barrichello models, with separate package and car photographs.
+- [Yuui's F1 Scale Models: B6223](https://www.yuui.nl/en/products/2004-ferrari-f2004-michael-schumacher-rubens-barrichello-gp-hungaroring-hungary-15-08-2004) — B6223, EAN 0027084044867, 1:43, drivers and numbers 1 & 2.
+- [Wheel Wonderland: B6207](https://www.wheelwonderland.com/fr/specials/f2004-b6207/) and [House of Modelcars: B6206](https://www.houseofmodelcars.com/eng/product/ferrari-f1/11465) — separate 1:43 retail records for Barrichello #2 and Schumacher #1.
+
 ## Next steps
 
 1. Validate the named release contexts against packaging/catalog evidence.
