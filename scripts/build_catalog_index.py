@@ -31,6 +31,46 @@ def clean(value: object) -> str:
     text = re.sub(r"<[^>]+>", " ", text)
     return re.sub(r"\s+", " ", text).strip()
 
+def split_mainline_series(value: str) -> dict:
+    """Separate the actual Mainline series from trailing release labels."""
+    series = clean(value)
+    tags = []
+    release_type = ""
+    exclusives = []
+    patterns = [
+        (re.compile(r"\\s+(Super Treasure Hunt|STH)\\s*$", re.I), "Super Treasure Hunt"),
+        (re.compile(r"\\s+(Treasure Hunt|TH)\\s*$", re.I), "Treasure Hunt"),
+        (re.compile(r"\\s+New for ((?:19|20)\\d{2})!?\\s*$", re.I), None),
+        (re.compile(r"\\s+New in Mainline\\s*$", re.I), "New in Mainline"),
+        (re.compile(r"\\s+(Walmart|Target|Kroger|Dollar General|Family Dollar|GameStop|Amazon|Meijer|Walgreens|CVS|H-E-B|Aldi|Tesco|Carrefour) Exclusive\\s*$", re.I), "exclusive"),
+        (re.compile(r"\\s+Red Edition\\s*$", re.I), "Red Edition"),
+    ]
+    changed = True
+    while changed:
+        changed = False
+        for pattern, label in patterns:
+            match = pattern.search(series)
+            if not match:
+                continue
+            if label == "exclusive":
+                exclusives.append(match.group(1) + " Exclusive")
+            elif label is None:
+                tags.append("New for " + match.group(1))
+            else:
+                tags.append(label)
+                if label in ("Treasure Hunt", "Super Treasure Hunt"):
+                    release_type = label
+            series = series[:match.start()].strip()
+            changed = True
+            break
+    return {
+        "series": series,
+        "series_raw": clean(value),
+        "release_tags": list(dict.fromkeys(reversed(tags))),
+        "release_type": release_type,
+        "exclusive": list(dict.fromkeys(reversed(exclusives))),
+    }
+
 def norm(value: str) -> str:
     value = clean(value).casefold()
     value = re.sub(r"\s*\((?:\d+(?:st|nd|rd|th)\s+color|super treasure hunt|treasure hunt)[^)]*\)\s*$", "", value, flags=re.I)
@@ -90,6 +130,10 @@ def extract_premium(path: Path, rows: list[dict]) -> list[dict]:
             "collector_number": get("Col #", "Collector #"),
             "model_name": model,
             "series": clean(row.get("source_section")),
+            "series_raw": clean(row.get("source_section")),
+            "release_tags": [],
+            "release_type": "",
+            "exclusive": [],
             "series_number": get("Series #", "Col #"),
             "color": get("Body Color", "Color"),
             "tampo": get("Tampos", "Tampo", "Decoration"),
@@ -110,6 +154,7 @@ def extract_mainline(path: Path, rows: list[dict]) -> list[dict]:
         toy = clean(row.get("Toy #") or row.get("Toy Number"))
         if not model and not toy:
             continue
+        series_data = split_mainline_series(row.get("Series"))
         result.append({
             "catalog": "Mainline",
             "year": year,
@@ -120,7 +165,11 @@ def extract_mainline(path: Path, rows: list[dict]) -> list[dict]:
             "toy_number": toy,
             "collector_number": clean(row.get("Collector #") or row.get("Col. #") or row.get("Col #")),
             "model_name": model,
-            "series": clean(row.get("Series")),
+            "series": series_data["series"],
+            "series_raw": series_data["series_raw"],
+            "release_tags": series_data["release_tags"],
+            "release_type": series_data["release_type"],
+            "exclusive": series_data["exclusive"],
             "series_number": clean(row.get("Series #")),
             "color": clean(row.get("Color") or row.get("Body Color")),
             "tampo": clean(row.get("Tampo") or row.get("Tampos")),
