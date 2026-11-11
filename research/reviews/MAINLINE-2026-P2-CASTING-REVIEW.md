@@ -243,3 +243,11 @@ User-confirmed casting matches are recorded in the visual-review queue. The queu
 
 **Current conclusion:** User-confirmed identical castings.
 
+## Collector #112 — '89 Mazda Savanna RX-7 FC3S
+
+- **JJJ72** — orange, HW J-Imports 5/10.
+- **JJL69** — green, HW J-Imports 5/10, listed as 2nd Color.
+- HWC Garage catalog reference: both entries use casting number **GHB56**.
+- **User physical visual confirmation:** identical castings; wheel designs differ. Record the wheel difference as a separate component/variant attribute, not as a casting difference.
+- Vehicle pages: [JJJ72](https://www.hwcgarage.com/en/vehicle/89-mazda-savanna-rx-7-fc3s-2026-orange-jjj72) · [JJL69](https://www.hwcgarage.com/en/vehicle/89-mazda-savanna-rx-7-fc3s-2026-vert-jjl69)
+- Review status: `user_confirmed_same_casting`.
