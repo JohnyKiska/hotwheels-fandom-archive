@@ -56,3 +56,14 @@ A new catalog cross-check materially changes how the body marks should be treate
 This establishes that deliberate factory weathering is part of Hot Wheels’ documented Bahrain F2004 treatment at 1:18. It makes intentional weathering a credible hypothesis for the dirt marks reported on the two 1:43 Fandom sample photos. However, B6222 is a different scale and cannot be assigned to either 1:43 row. No 1:43 Bahrain/Sakhir SKU has been corroborated. The actual 1:43 source-table photos still need direct inspection; the weathering pattern must be compared for placement, density, and repeatability before treating it as a variant identifier.
 
 **Updated interpretation:** keep packaging differences as direct evidence of distinct sample presentations. Treat the dirt pattern as a potentially intentional design fingerprint, not merely incidental dirt, but keep its status unverified at 1:43. If the same pattern recurs on another independently photographed sample or is explicitly tied to a 1:43 item code, it may help identify a distinct release/deco. Do not create a canonical Variant, Release, or image link yet.
+
+
+## Independent 1:43 Bahrain F2004 weathering comparator (BBR)
+
+A second, independent-scale clue has been found: BBR Models catalogues a Ferrari F2004 Bahrain GP 2004 #1 Michael Schumacher “Dirty Version” in 1:43 resin, limited to 300 pieces and described as an end-of-race dirty finish. This is not a Hot Wheels product and must not be confused with either Pro Racing source row. It is nevertheless useful evidence that the Bahrain F2004 was deliberately represented with race grime in the 1:43 collector-model market.
+
+Sources:
+- [Motorsport Maranello Store, BBR 1:43 Ferrari F2004 Bahrain Dirty Version](https://store.motorsportmaranello.com/shop/f1-bbr-models-1-43-ferrari-f2004-gp-bahrain-2004-1-m-schumacher-dirty-version/)
+- [Motorsport Italia, same BBR listing](https://store.motorsportitalia.it/prodotto/modellino-f1-bbr-models-1-43-ferrari-f2004-gp-bahrain-2004-1-m-schumacher-dirty-version/)
+
+Combined with Hot Wheels B6222 (1:18, factory weathering explicitly stated), this makes intentional weathering on the 1:43 Hot Wheels sample more plausible. It remains unconfirmed until the actual Hot Wheels sample photos can be inspected closely and compared for weathering placement/pattern, base markings, and packaging. Do not transfer the BBR SKU or any B6222 identity to rows 35/41.
