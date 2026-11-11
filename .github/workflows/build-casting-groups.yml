@@ -1,0 +1,38 @@
+name: Build provisional casting groups
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "research/reviews/MAINLINE-2026-VISUAL-REVIEW-QUEUE.csv"
+      - "scripts/build_casting_review_groups.py"
+      - ".github/workflows/build-casting-groups.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Generate provisional casting groups
+        run: |
+          python3 scripts/build_casting_review_groups.py \
+            --input research/reviews/MAINLINE-2026-VISUAL-REVIEW-QUEUE.csv \
+            --output research/reviews/MAINLINE-2026-PROVISIONAL-CASTING-GROUPS.csv
+      - name: Commit generated group register
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add research/reviews/MAINLINE-2026-PROVISIONAL-CASTING-GROUPS.csv
+          if git diff --cached --quiet; then
+            echo "Casting group register is already up to date."
+          else
+            git commit -m "Build provisional Mainline 2026 casting groups"
+            git push
+          fi
