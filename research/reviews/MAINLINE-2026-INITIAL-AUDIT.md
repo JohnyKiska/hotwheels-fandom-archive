@@ -80,3 +80,13 @@ The user additionally confirms that the physical castings are identical within b
 - **Collector #093:** JJJ55 Coupé Clip and JJL05 El Segundo Coupé Clip (2nd Color) share the same casting.
 
 **Assessment:** Casting identity is user-confirmed for both pairs. Keep the two color/deco variants separate under their original blister names. This does not establish whether packaging/release details differ beyond the observed blister labels, nor does it authorize merging the two variants into one record.
+
+
+## User-confirmed casting comparisons
+
+The user visually inspected the physical samples and confirmed identical castings within both collector-number pairs:
+
+- **Collector #084:** `Polestar TRX` (JJJ47) and `Polestar (2nd Color)` (JJL49). Preserve the original blister names. Observed variants: yellow body / black graphics / black glazing versus white body / black graphics / yellow glazing.
+- **Collector #093:** `Coupé Clip` (JJJ55) and `El Segundo Coupé Clip (2nd Color)` (JJL05). Preserve the original blister names. Observed variants: purple body / white Hot Wheels logo versus blue body / red Hot Wheels logo.
+
+For each pair, record one shared Casting and two distinct Variant candidates. This confirmation establishes casting identity only; it does not establish identical release, assortment, or packaging identity. Queue status for all four source rows: `user_confirmed_same_casting`.
