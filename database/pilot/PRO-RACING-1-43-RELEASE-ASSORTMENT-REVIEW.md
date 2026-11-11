@@ -106,3 +106,13 @@ The user supplied the two original Fandom product-table image URLs and explicitl
 This resolves the **source-photo-to-source-row mapping** that was previously open. Treat these as two distinct source sample records and retain their separate source notes/package contexts. It does not yet establish whether their physical models have different Variant identities, nor does it establish a Mattel SKU or canonical Release. The user's earlier observation of different packaging and body weathering remains a visual comparison report; the exact dirt pattern's intentional/factory status is still unverified.
 
 Important distinction: Gallery group **PR143-G12 (items 26–28)** remains a family-level evidence group. The two user-identified product-table photos are not Gallery items 26–28, so this new row-level mapping does not authorize splitting those three Gallery images between rows 35 and 41. No canonical Variant, Release, or image relation is created.
+
+
+## Source-photo mapping confirmation: Bahrain / Sakhir rows 35 and 41
+
+The two product-table photographs are archived separately in `database/pilot/assets/pro-racing-1-43/`, and the user explicitly confirmed their row mapping:
+
+- Row 35, “Bahrain 2004 package”: `Ferrari_Bahrain_2004_Terry_Sample_29.jpg` (asset blob `aca93daf4c93405abfff459b5e42d3fb9c3616be`).
+- Row 41, “Sakhir / Bahrain”: `2004_Ferrari_Terry_Sample_29.jpg` (asset blob `c5cefb5db5e9a5ac99ad4c060caf1fb477317ce6`).
+
+This closes the product-table source-photo-to-row mapping only. Retain two distinct staged Release candidates. Exact SKU, canonical Release identity, and whether the apparent weathering is a factory-applied treatment remain open. This does not split Gallery group PR143-G12 items 26–28, which remain family-level evidence.
