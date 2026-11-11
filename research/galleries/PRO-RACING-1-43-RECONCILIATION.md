@@ -177,3 +177,13 @@ Sources:
 - https://www.ebay.com/itm/135673843026
 - https://www.toywonders.com/ProductCart/pc/Mattel-Hot-Wheels-Racing-Ferrari-Micheal-Shumacher-Championship-Collection-1-43-Assoted-L6237-p7050.htm
 - https://www.tacot.com/listings/ferrari-f1-set-campione-del-mondo-2000-2001-2002-2003-2004-hot-wheels-52884-0
+
+
+## Follow-up: direct source-photo mapping for Bahrain / Sakhir rows 35 and 41
+
+The user supplied the original product-table image URLs and explicitly identified their row mapping:
+
+- Product-table row **35**, note **“Bahrain 2004 package”**: https://static.wikia.nocookie.net/hotwheels/images/e/e6/Ferrari_Bahrain_2004_Terry_Sample_%282%29.png
+- Product-table row **41**, note **“Sakhir / Bahrain”**: https://static.wikia.nocookie.net/hotwheels/images/c/c7/2004_Ferrari_Terry_Sample_%281%29.jpg
+
+This resolves the source-photo-to-row assignment for the two product-table records. Keep the rows separate in the staged source/release candidates. This does **not** split Gallery group PR143-G12: its items 26–28 remain family-level evidence because they are separate Gallery assets and have not been individually assigned to row 35 or 41. Nor does the source-photo mapping alone prove distinct canonical Variants, exact retail SKUs, or factory-applied weathering. Preserve the previously reported packaging/body-mark differences as observations pending direct repeatability/base/deco verification. No canonical entity or image relation is created.
