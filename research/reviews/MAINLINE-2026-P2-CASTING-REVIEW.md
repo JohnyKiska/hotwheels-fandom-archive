@@ -25,6 +25,9 @@
 
 **Current conclusion:** Treat JJH45 and JJL93 as catalog-supported variants of the same Oldsmobile Toronado casting. Keep exact paint naming as source-specific metadata. Do not create a user-confirmed casting match unless the user physically compares the models.
 
+
+**User confirmation:** all three versions (JJH45, JJL93 and JPD55) have identical castings. JPD55 was not physically available to the user; this is recorded as the user's group-level confirmation, while its individual photo evidence remains unverified.
+
 ## Collector #103 — Eggshelleracer (cross-check candidate)
 
 | Toy # | Source-reported variant |
