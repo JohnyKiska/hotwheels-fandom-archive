@@ -15,7 +15,7 @@ source_row_number,source_row_id,source_casting_label,source_year,source_color,so
 14,pr143-product-row-014,Ferrari F2001,2001,,#1,pr143-vc-f2001-number-1,candidate_variant,"Race number #1 recorded; likely same variant candidate as row 17, release context differs.",no
 15,pr143-product-row-015,Ferrari F2001,2001,,,pr143-vc-f2001-world-champion-single,hold,World Champion Single Pack is only a source release-context label; no inspected car markings establish a distinct Variant.,no
 16,pr143-product-row-016,Ferrari F2001,2001,,,pr143-vc-f2001-christmas-2001,hold,Christmas 2001 is a source context label; no confirmed 1:43 car/deco evidence establishes a separate Variant.,no
-17,pr143-product-row-017,Ferrari F2001,2001,,#1,pr143-vc-f2001-number-1,same_variant_candidate,"Same #1 tampo candidate as row 14; 2-Pack is release/assortment context, not automatically a new variant.",no
+17,pr143-product-row-017,Ferrari F2001,2001,,#1,pr143-vc-f2001-number-1,hold,Same race number as row14 does not prove same Variant: 55602/50213 model is separately described with Schumacher victory-pose driver figure; compare source model markings before merging.,no
 18,pr143-product-row-018,Ferrari F2001,2001,,#2,pr143-vc-f2001-number-2,candidate_variant,Distinct race number #2; keep separate from #1 candidate.,no
 19,pr143-product-row-019,Ferrari 126C2,2001,,,pr143-vc-ferrari-126c2-unspecified,hold,Candidate period release HW50218 La Storia; conflicting sources attribute Arnoux vs Pironi #28. Source row lacks driver/number/photo; exact Variant unresolved.,no
 20,pr143-product-row-020,Williams FW21,2001,"""Compaq"" & racing decals",#5,pr143-vc-fw21-compaq-5,candidate_variant,Compaq livery and #5 tampo; year/model discrepancy versus 1999 rows needs source review.,no
