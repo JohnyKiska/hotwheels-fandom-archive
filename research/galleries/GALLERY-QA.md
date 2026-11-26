@@ -1382,3 +1382,39 @@ Chrome Constructors Champions 4-pack follow-up: Gallery item 22 (`Ferrari F1 Chr
 ### Pro Racing 1:43 reconciliation correction: Gallery items 23–25
 
 A focused table-row check separates Gallery item 23 from the Compaq images. Item 23 (`2001 World Champion Sample Terry (2).jpg`) belongs with the Ferrari F2001 World Champion Single Pack row, whose table thumbnail uses the same filename stem with suffix (1). Items 24–25 (`2001 Compaq Terry Sample (2).jpg` and (3).jpg) form the Williams FW21 Compaq sample group; the table thumbnail (1) is in the #5 row, while a separate #6 row also exists. The individual Gallery-to-#5/#6 assignment remains unresolved. This is a text/filename reconciliation only; image binaries were not visually inspected and no master data was changed.
+
+
+## Gallery status reconciliation and image-resolution limitation, 2026-11-26
+
+The archived HTML for all five scan/progress conflicts and all six scan-level suspected pages was reviewed. No additional Gallery item rows were found.
+
+### Register reconciliation
+
+- The five pages previously marked `GALLERY_SUSPECTED` in `GALLERY-PROGRESS.csv` but `NO_GALLERY` in `GALLERY-SCAN.csv` have no dedicated Gallery section/items in the archived HTML. The progress register is corrected to `NO_GALLERY`.
+- Six scan-level suspected pages were reviewed:
+  - Live Wire (Sizzlers): no article Gallery section; the generic `gallery` strings occur in page scripts/ad configuration, not article media.
+  - Moon Ghost: an empty Gallery heading, with no Gallery items.
+  - Nightspeed Mini Collection (2026): no dedicated Gallery section/items.
+  - 2013 Pop Culture: no dedicated Gallery section/items.
+  - Spring Series (2025): an empty Gallery heading, with no Gallery items.
+  - 2008 Monster Jam Series: the Gallery section contains only a series-navigation table, with no Gallery items.
+- All six scan statuses are corrected to `NO_GALLERY`; the observed heading/marker/img counts and source hashes are preserved.
+- Reconciled totals: 530 pages; 242 `GALLERY_FOUND`; 288 `NO_GALLERY`; 0 `GALLERY_SUSPECTED`. The five progress/scan conflicts are resolved.
+
+### Image resolution and Cloudflare limitation
+
+The Gallery extraction primarily preserves reduced-size preview URLs rather than full-resolution binaries. The archive operator reports that Fandom's Cloudflare protection prevented automated downloading of full-resolution images during collection. This is a retrieval limitation, not a failure to extract the Gallery metadata rows.
+
+Keep these states separate:
+1. Gallery item metadata captured;
+2. preview/thumbnail URL captured and accessible;
+3. original-resolution URL identified;
+4. original binary successfully retrieved and integrity-checked;
+5. image visually reviewed;
+6. rights/reuse status assessed.
+
+The completed 3,350-row metadata extraction does not imply completion of states 3–6. Do not retry bulk full-resolution downloads by bypassing Cloudflare, do not replace preview URLs with guessed originals, and do not mark binaries as downloaded unless a file and integrity result exist. Original-resolution acquisition remains a separate, permission-compliant/manual or otherwise authorized workstream.
+
+### Result
+
+Dedicated Gallery metadata extraction remains complete at 3,350/3,350 rows. All scan/progress status ambiguities are now resolved. The outstanding media work is limited to targeted original-resolution retrieval where legitimately available, binary/visual QA, rights assessment, reused file-page classification and the separately scoped inline-image workstream.
